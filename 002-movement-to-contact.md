@@ -82,7 +82,10 @@ e. (CUI) Coordinating Instructions:
 
 1. (CUI) ROE: Engage only confirmed enemy combatants posing a threat; use graduated response; avoid civilian engagement; report civilian casualties immediately.
 2. (CUI) PIR: Confirm enemy personnel and weapons; identify fortifications; monitor patrols; assess civilian presence.
-3. (CUI) CCIR: Immediate reporting of enemy contact or changes in posture; status of civilian interactions; status of friendly forces.
+3. (CUI) CCIR: 
+   1. Immediate reporting of any enemy contact or significant changes in enemy posture.
+   2. Status of civilian interactions or casualties in the area.
+   3. Status of friendly forces, including any casualties and equipment failures.
 4. (CUI) Reporting:
    - **SP Report:** Upon movement from ORP.
    - **LACE Report:** At end of each movement phase.

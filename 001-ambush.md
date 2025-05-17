@@ -82,7 +82,10 @@ e. (CUI) Coordinating Instructions:
 
 1. (CUI) ROE: Engage only valid military targets; use minimum force; avoid civilian casualties; positively identify targets before firing.
 2. (CUI) PIR: Confirm number/types of vehicles in convoy; monitor for changes in enemy route or reinforcements; assess civilian presence before execution.
-3. (CUI) CCIR: Immediate report of enemy sightings prior to ambush; report reinforcement movements or changes in convoy routing.
+3. (CUI) CCIR: 
+   1. Immediate reporting of any enemy contact or significant changes in enemy posture.
+   2. Status of civilian interactions or casualties in the area.
+   3. Status of friendly forces, including any casualties and equipment failures.
 4. (CUI) Reporting:
    - **SALUTE Report:** Upon enemy visual confirmation.
    - **TIC Report:** If contact is made.
