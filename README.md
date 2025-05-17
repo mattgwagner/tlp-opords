@@ -1,5 +1,11 @@
 # OCS Operations Orders
 
+## Available Orders
+
+- [Ambush at Crossroads](001-ambush.md)
+- [Movement to Contact](002-movement-to-contact.md)
+- [Raid on Bunker](003-raid-a-bunker.md)
+
 This is a repository of simple, platoon level operations orders for use at OCS for STX evaluation lanes.
 
 # Context
