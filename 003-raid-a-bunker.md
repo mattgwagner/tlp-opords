@@ -21,7 +21,7 @@ b. Area of Operations.
 
 1. Terrain. Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-2. Weather. Overcast, visibility 800 meters, light rain expected.
+2. Weather. Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
 c. Enemy Forces. The enemy is a determined irregular force, likely associated with a regional militia or paramilitary group. They are equipped with small arms, heavy weapons, and may employ defensive positions and improvised explosive devices. They are experienced in defending fixed positions and may attempt to reinforce or counterattack if threatened.
 
@@ -51,7 +51,7 @@ f. Attachments and Detachments. None.
 
 **3. EXECUTION.**
 
-a. Concept of Operations. 1st Squad assaults the bunker; 2nd Squad provides suppressive fire; 3rd Squad secures the perimeter to prevent enemy reinforcement and ambush.
+a. Concept of Operations. 1st Platoon conducts a raid by establishing an ORP, moving to the objective, and isolating the enemy position. 1st Squad serves as the assault element, breaching and clearing the bunker. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective area. 3rd Squad serves as the security element, securing the flanks and rear, and interdicting enemy reinforcements or escape. Upon completion of the raid, the platoon withdraws in an organized manner to the ORP.
 
 b. Scheme of Movement and Maneuver.
 

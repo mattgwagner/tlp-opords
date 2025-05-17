@@ -21,7 +21,7 @@ b. Area of Operations.
 
 1. Terrain. Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-2. Weather. Overcast, moderate visibility, light rain, muddy ground.
+2. Weather. Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
 c. Enemy Forces. The enemy is a small, organized group of irregular fighters, likely part of a local militia or insurgent cell. They are familiar with the terrain, use small arms and support weapons, and employ ambush and hit-and-run tactics. They are capable of blending into the local populace and adapting quickly to changing situations.
 
@@ -51,7 +51,7 @@ f. Attachments and Detachments. None.
 
 **3. EXECUTION.**
 
-a. Concept of Operations. 1st and 2nd Squads maneuver toward enemy's last known location, gathering intelligence. 3rd Squad provides security and reacts to contact.
+a. Concept of Operations. 1st Platoon conducts a movement to contact using bounding overwatch to locate, engage, and develop the situation with enemy forces. 1st and 2nd Squads advance as the main effort, alternating bounds to maintain security and flexibility. 3rd Squad serves as the platoon reserve, prepared to reinforce, exploit success, or respond to enemy counterattack as needed. The platoon maintains contact with higher headquarters and adjusts its maneuver based on enemy contact or intelligence.
 
 b. Scheme of Movement and Maneuver.
 

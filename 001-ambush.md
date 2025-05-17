@@ -21,7 +21,7 @@ b. Area of Operations.
 
 1. Terrain. Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-2. Weather. Clear skies, visibility 1000 meters; temperature 70°F.
+2. Weather. Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
 c. Enemy Forces. The enemy consists of a lightly armed irregular force, likely affiliated with a regional militia group. They are equipped with small arms, possible support weapons, and have experience operating in rural environments. They are capable of basic convoy operations and may attempt to reinforce or withdraw if engaged.
 
@@ -51,7 +51,7 @@ f. Attachments and Detachments. None.
 
 **3. EXECUTION.**
 
-a. Concept of Operations. 1st Platoon establishes an ambush at the crossroads to destroy the enemy convoy. 1st Squad executes the ambush from concealment; 2nd Squad provides support; 3rd Squad secures the perimeter to prevent enemy reinforcement.
+a. Concept of Operations. 1st Platoon establishes an objective rally point (ORP), moves to the ambush site, and sets up a linear ambush along the enemy's expected route of movement. 1st Squad serves as the assault element, initiating the ambush and destroying the enemy. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective. 3rd Squad serves as the security element, securing the flanks and rear, and preventing enemy reinforcement or escape. Upon completion, the platoon withdraws in an organized manner to the ORP.
 
 b. Scheme of Movement and Maneuver.
 
