@@ -72,7 +72,7 @@ b. Scheme of Movement and Maneuver.
 - Reconnaissance elements are used to identify enemy positions and develop the situation before committing the main body.
 - Upon establishing contact, the platoon maneuvers to fix and engage the enemy, with the reserve squad prepared to reinforce or exploit success as needed.
 
-c. Scheme of Fires. Mortar support requested as needed upon enemy contact.
+c. Scheme of Fires. First Squad has priority of fires for the organic mortars. Additional mortar support may be requested as needed upon enemy contact.
 
 d. Tasks to Subordinate Units:
 

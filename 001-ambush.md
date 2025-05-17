@@ -70,7 +70,7 @@ b. Scheme of Movement and Maneuver.
 - Squads move rapidly to set up the ambush position before enemy arrival.
 - Ambush executed in V-formation: 1st Squad leads, 2nd Squad provides flanking support, 3rd Squad maintains observation and security against reinforcements.
 
-c. Scheme of Fires. 1st Squad has priority for 60mm mortars; 2nd Squad for 81mm HE mortars on order.
+c. Scheme of Fires. 1st Squad, as the decisive effort, has been allocated two mortar targets for planning: AB001 and AB002. 2nd Squad has priority for 81mm HE mortars on order.
 
 d. Tasks to Subordinate Units:
 

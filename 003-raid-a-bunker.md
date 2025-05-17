@@ -70,7 +70,7 @@ b. Scheme of Movement and Maneuver.
 - Squads SP from platoon ORP in squad column.
 - 1st Squad breaches bunker; 2nd Squad provides covering fire from elevation; 3rd Squad remains mobile to react to enemy movements.
 
-c. Scheme of Fires. 1st Squad has priority for 60mm mortars; 2nd Squad for 81mm HE mortars in support.
+c. Scheme of Fires. 1st Squad, as the decisive effort, has been allocated two mortar targets for planning: AB001 and AB002. 2nd Squad has priority for 81mm HE mortars on order.
 
 d. Tasks to Subordinate Units:
 
