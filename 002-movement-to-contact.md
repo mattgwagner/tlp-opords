@@ -2,6 +2,16 @@
 
 **OPERATIONAL PLAN / ORDER #002 / CODE NAME: "MOVEMENT TO CONTACT"**
 
+> **CADRE / OPFOR NOTES**
+>
+> Mission Summary: 1st Platoon is tasked to conduct a movement to contact in AO Starke to locate, engage, and assess enemy forces.
+>
+> Destination: AO Blanding, with movement focused toward enemy's last known location near MP 0610 1545.
+>
+> Actions on Objective: Platoon will use bounding overwatch to advance, maintain security, and develop the situation upon enemy contact. 3rd Squad serves as reserve, ready to reinforce or exploit success.
+>
+> OPFOR/Training Wrinkles: OPFOR should use concealment and hit-and-run tactics, blending into the environment. Consider introducing a civilian presence or non-combatant scenario to test ROE. OPFOR may break contact and attempt to regroup, or set up a hasty ambush. Cadre can inject intelligence updates, unexpected obstacles, or simulate equipment malfunctions to challenge the platoon's adaptability and decision-making.
+
 Time Zone Used Throughout the Plan/Order: EASTERN STANDARD TIME
 
 Task Organization:
@@ -140,5 +150,3 @@ c. Signal:
    - Password: Fly
    - Running Password: Secure
    - Combination: 4
-
----

@@ -2,6 +2,16 @@
 
 **OPERATIONAL PLAN / ORDER #003 / CODE NAME: "RAID ON BUNKER"**
 
+> **CADRE / OPFOR NOTES**
+>
+> Mission Summary: 1st Platoon is tasked to conduct a raid to eliminate enemy forces and secure a fortified position in AO Starke.
+>
+> Destination: Enemy bunker near MP 0600 1540, AO Starke.
+>
+> Actions on Objective: Platoon will establish an ORP, move to the objective, isolate the enemy position, breach and clear the bunker, and withdraw in an organized manner. Assault, support, and security elements will be employed per doctrine.
+>
+> OPFOR/Training Wrinkles: OPFOR should simulate a determined defense, using prepared positions and possible IEDs. Consider introducing a counterattack or reinforcement attempt during or after the assault. Civilian presence or non-combatant role-players can be used to test ROE and decision-making. Cadre may inject unexpected obstacles, simulate booby traps, or introduce time-sensitive intelligence to challenge the platoon's planning and execution.
+
 Time Zone Used Throughout the Plan/Order: EASTERN STANDARD TIME
 
 Task Organization:

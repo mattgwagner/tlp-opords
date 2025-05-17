@@ -1,6 +1,16 @@
 **THIS IS A TRAINING OPERATION ORDER. FOR INSTRUCTIONAL PURPOSES ONLY.**
 
-**OPERATIONAL PLAN / ORDER #001 / CODE NAME: "AMBUSH AT CROSSROADS"
+**OPERATIONAL PLAN / ORDER #001 / CODE NAME: "AMBUSH AT CROSSROADS"**
+
+> **CADRE / OPFOR NOTES**
+>
+> Mission Summary: 1st Platoon is tasked to conduct a linear ambush along a key supply route to destroy enemy forces and disrupt enemy logistics.
+>
+> Destination: Crossroads at MP 0615 1550, AO Starke.
+>
+> Actions on Objective: Platoon will establish an ORP, move to the ambush site, set up assault, support, and security elements, initiate the ambush on the enemy convoy, and withdraw in an organized manner.
+>
+> OPFOR/Training Wrinkles: OPFOR should simulate a lightly armed convoy with the ability to reinforce or withdraw. Consider introducing a civilian vehicle or non-combatant presence to test ROE and decision-making. OPFOR may attempt to flank or counterattack if the ambush is detected early. Cadre can inject communication or equipment failures, or unexpected changes in convoy timing to challenge the platoon's flexibility and adaptability.
 
 Time Zone Used Throughout the Plan/Order: EASTERN STANDARD TIME
 
@@ -139,5 +149,3 @@ c. Signal:
    - Password: Falcon
    - Running Password: Secure
    - Combination: 8
-
----
