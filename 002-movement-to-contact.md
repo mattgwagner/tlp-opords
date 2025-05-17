@@ -27,11 +27,11 @@ c. Enemy Forces. The enemy is a small, organized group of irregular fighters, li
 
 1. Composition. 6-8 combatants, small arms, possible HMG (Heavy Machine Gun)/RPG, in concealment.
 
-2. Disposition. Enemy squad near MP 0610 1545.
+2. Disposition. Enemy forces are generally dispersed in concealed positions throughout the area, using terrain and vegetation for cover. They maintain flexibility to regroup or withdraw and are likely to observe friendly movements from hidden vantage points.
 
-3. MPCOA. Enemy will break contact and blend into local populace if overwhelmed.
+3. Most Probable Course of Action (MPCOA). Enemy will break contact and blend into local populace if overwhelmed.
 
-4. MDCOA. Enemy may prepare ambushes against friendly forces.
+4. Most Dangerous Course of Action (MDCOA). Enemy may prepare ambushes against friendly forces.
 
 d. Friendly Forces.
 

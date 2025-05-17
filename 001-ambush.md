@@ -27,11 +27,11 @@ c. Enemy Forces. The enemy consists of a lightly armed irregular force, likely a
 
 1. Composition. 2 vehicles, 6-8 personnel, AK-47s, possible support weapons (e.g., HMG - Heavy Machine Gun).
 
-2. Disposition. Convoy expected at crossroads MP 0615 1550.
+2. Disposition. Enemy forces are typically dispersed in small groups along key supply routes and maintain a low profile to avoid detection. They are prepared to consolidate quickly at critical points if threatened and may use scouts or lookouts to monitor friendly movement.
 
-3. MPCOA. If engaged, enemy will maneuver south and retreat.
+3. Most Probable Course of Action (MPCOA). If engaged, enemy will maneuver south and retreat.
 
-4. MDCOA. Reinforcements may be alerted from the north.
+4. Most Dangerous Course of Action (MDCOA). Reinforcements may be alerted from the north.
 
 d. Friendly Forces.
 

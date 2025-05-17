@@ -27,11 +27,11 @@ c. Enemy Forces. The enemy is a determined irregular force, likely associated wi
 
 1. Composition. 4-5 combatants, AK-47s, 1 HMG (Heavy Machine Gun), possible IEDs.
 
-2. Disposition. Bunker near MP 0600 1540.
+2. Disposition. Enemy forces are positioned in and around fortified defensive locations, utilizing prepared fighting positions and natural cover. They maintain vigilance for approaching threats and are capable of reinforcing their positions or launching counterattacks as needed.
 
-3. MPCOA. Enemy will reinforce bunker if attacked.
+3. Most Probable Course of Action (MPCOA). Enemy will reinforce bunker if attacked.
 
-4. MDCOA. Enemy will counter-attack toward friendly ORP after engagement.
+4. Most Dangerous Course of Action (MDCOA). Enemy will counter-attack toward friendly ORP after engagement.
 
 d. Friendly Forces.
 
