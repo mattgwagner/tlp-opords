@@ -67,8 +67,10 @@ a. Concept of Operations. 1st Platoon conducts a movement to contact using bound
 
 b. Scheme of Movement and Maneuver.
 
-- Squads move from ORP to designated waypoints, maintaining contact with higher command.
-- Use bounding overwatch for coverage and rapid engagement.
+- Squads move from the assembly area toward the last known or suspected enemy location, utilizing covered and concealed routes to maximize security and surprise.
+- The platoon employs bounding overwatch, with one squad moving while the other provides overwatch, to maintain security and flexibility.
+- Reconnaissance elements are used to identify enemy positions and develop the situation before committing the main body.
+- Upon establishing contact, the platoon maneuvers to fix and engage the enemy, with the reserve squad prepared to reinforce or exploit success as needed.
 
 c. Scheme of Fires. Mortar support requested as needed upon enemy contact.
 
