@@ -140,13 +140,19 @@ b. Control:
 
 c. Signal:
 
-1. Call Signs:
+1. PACE Plan:
+   - Primary: Radio FH NET ID 601
+   - Alternate: FH NET ID 600
+   - Contingency: Frequency 47000 single channel plain text
+   - Emergency: Runner
+
+2. Call Signs:
    - PL – Thunder 1-6
    - PSG – Thunder 1-7
    - 1st Squad Leader – Thunder 1-1
    - 2nd Squad Leader – Thunder 1-2
    - 3rd Squad Leader – Thunder 1-3
-2. Challenge, Password, Running Password, Combination:
+3. Challenge, Password, Running Password, Combination:
    - Challenge: Bridge
    - Password: Falcon
    - Running Password: Secure
