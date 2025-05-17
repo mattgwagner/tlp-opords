@@ -125,7 +125,7 @@ a. Logistics:
 b. Health System Support:
 
 1. PLT CCP at PLT Assembly Area.
-2. MEDEVAC available upon request at AXP 1.
+2. MEDEVAC available via Nine Line request at AXP 1.
 
 **5. COMMAND AND SIGNAL.**
 
