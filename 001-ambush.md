@@ -45,7 +45,7 @@ f. (CUI) Attachments and Detachments. None.
 
 **2. (CUI) MISSION.**
 
-1st Platoon will ambush the enemy convoy at the crossroads (MP 0615 1550) NLT _______ to disrupt enemy supply lines.
+1st Platoon will ambush the enemy convoy at the crossroads (MP 0615 1550) NLT ____ to disrupt enemy supply lines.
 
 **3. (CUI) EXECUTION.**
 

@@ -45,7 +45,7 @@ f. (CUI) Attachments and Detachments. None.
 
 **2. (CUI) MISSION.**
 
-1st Platoon will raid the enemy bunker in AO Starke NLT _______ to eliminate enemy forces and secure the area of operations.
+1st Platoon will raid the enemy bunker in AO Starke NLT ____ to eliminate enemy forces and secure the area of operations.
 
 **3. (CUI) EXECUTION.**
 
@@ -130,5 +130,3 @@ c. (CUI) Signal:
    - Password: Apache
    - Running Password: Secure
    - Combination: 9
-
----

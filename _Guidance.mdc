@@ -105,3 +105,8 @@ c. (CUI) Signal. [Call signs, passwords]
   - Use numbered or bulleted lists for subpoints and indented content.
   - Use blockquotes (`>`) for optional visual indentation.
   - Preview your Markdown on GitHub to ensure clarity and correct rendering.
+
+---
+
+## Time Hacks Guidance
+- All time hacks (e.g., NLT, SP, H-hour) in OPORDs should be written as blanks (____) so they can be filled in when briefing or issuing the order.

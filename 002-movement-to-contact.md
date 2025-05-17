@@ -45,7 +45,7 @@ f. (CUI) Attachments and Detachments. None.
 
 **2. (CUI) MISSION.**
 
-1st Platoon will conduct a movement to contact in AO Blanding on _______ at _______ to locate and engage enemy forces and assess their strength and disposition.
+1st Platoon will conduct a movement to contact in AO Blanding on ____ at ____ to locate and engage enemy forces and assess their strength and disposition.
 
 **3. (CUI) EXECUTION.**
 
