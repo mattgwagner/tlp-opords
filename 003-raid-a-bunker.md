@@ -23,7 +23,7 @@ b. Area of Operations.
 
 2. Weather. Overcast, visibility 800 meters, light rain expected.
 
-c. Enemy Forces. Enemy bunker located in AO Starke.
+c. Enemy Forces. The enemy is a determined irregular force, likely associated with a regional militia or paramilitary group. They are equipped with small arms, heavy weapons, and may employ defensive positions and improvised explosive devices. They are experienced in defending fixed positions and may attempt to reinforce or counterattack if threatened.
 
 1. Composition. 4-5 combatants, AK-47s, 1 HMG (Heavy Machine Gun), possible IEDs.
 

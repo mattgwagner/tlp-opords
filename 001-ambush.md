@@ -23,7 +23,7 @@ b. Area of Operations.
 
 2. Weather. Clear skies, visibility 1000 meters; temperature 70°F.
 
-c. Enemy Forces. Enemy supply convoy operating within AO Blanding.
+c. Enemy Forces. The enemy consists of a lightly armed irregular force, likely affiliated with a regional militia group. They are equipped with small arms, possible support weapons, and have experience operating in rural environments. They are capable of basic convoy operations and may attempt to reinforce or withdraw if engaged.
 
 1. Composition. 2 vehicles, 6-8 personnel, AK-47s, possible support weapons (e.g., HMG - Heavy Machine Gun).
 

@@ -23,7 +23,7 @@ b. Area of Operations.
 
 2. Weather. Overcast, moderate visibility, light rain, muddy ground.
 
-c. Enemy Forces. Enemy elements likely operating in AO Blanding.
+c. Enemy Forces. The enemy is a small, organized group of irregular fighters, likely part of a local militia or insurgent cell. They are familiar with the terrain, use small arms and support weapons, and employ ambush and hit-and-run tactics. They are capable of blending into the local populace and adapting quickly to changing situations.
 
 1. Composition. 6-8 combatants, small arms, possible HMG (Heavy Machine Gun)/RPG, in concealment.
 
