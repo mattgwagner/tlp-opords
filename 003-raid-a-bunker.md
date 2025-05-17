@@ -1,4 +1,4 @@
-**(CUI)** OPERATIONAL PLAN / ORDER #002 / CODE NAME: “RAID ON BUNKER”
+**(CUI)** OPERATIONAL PLAN / ORDER #002 / CODE NAME: "RAID ON BUNKER"
 
 (CUI) Time Zone Used Throughout the Plan/Order: EASTERN STANDARD TIME
 
@@ -51,9 +51,15 @@ c. (CUI) Scheme of Fires. 1st Squad has priority for 60mm mortars; 2nd Squad has
 
 d. (CUI) Task to Subordinate Units:
 
-   (1) (CUI) 1st Squad: **TASK:** Conduct a raid on the enemy bunker at MP 0600 1540. **PURPOSE:** To destroy enemy combatants and capture supplies.  
-   (2) (CUI) 2nd Squad: **TASK:** Provide suppressive fire during the 1st Squad's assault on the bunker. **PURPOSE:** To assist in clearing operations after the initial breach.  
-   (3) (CUI) 3rd Squad: **TASK:** Establish security in the area around the bunker. **PURPOSE:** To engage any enemy reinforcements or flanking units.
+   (1) (CUI) 1st Squad:
+       **TASK:** Conduct a raid on the enemy bunker at MP 0600 1540.
+       **PURPOSE:** To destroy enemy combatants and capture supplies.
+   (2) (CUI) 2nd Squad:
+       **TASK:** Provide suppressive fire during the 1st Squad's assault on the bunker.
+       **PURPOSE:** To assist in clearing operations after the initial breach.
+   (3) (CUI) 3rd Squad:
+       **TASK:** Establish security in the area around the bunker.
+       **PURPOSE:** To engage any enemy reinforcements or flanking units.
 
 e. (CUI) Priority Intelligence Requirements (PIR):
 
@@ -62,7 +68,7 @@ e. (CUI) Priority Intelligence Requirements (PIR):
    3. Assessment of civilian presence and potential impact on operations.
    4. Enemy communication patterns before and during the assault.
 
-f. (CUI) Commander’s Critical Information Requirements (CCIR):
+f. (CUI) Commander's Critical Information Requirements (CCIR):
 
    1. Immediate reporting of any enemy contact or significant changes in enemy posture.
    2. Status of civilian interactions or casualties in the area.

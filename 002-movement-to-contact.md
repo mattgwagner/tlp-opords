@@ -1,4 +1,4 @@
-**(CUI)** OPERATIONAL PLAN / ORDER #004 / CODE NAME: “MOVEMENT TO CONTACT”
+**(CUI)** OPERATIONAL PLAN / ORDER #004 / CODE NAME: "MOVEMENT TO CONTACT"
 
 (CUI) Time Zone Used Throughout the Plan/Order: EASTERN STANDARD TIME
 
@@ -51,9 +51,15 @@ c. (CUI) Scheme of Fires. Mortar support will be requested as needed upon contac
 
 d. (CUI) Tasks to Subordinate Units:
 
-   (1) (CUI) 1st Squad: **TASK:** Conduct movement to contact toward the enemy position. **PURPOSE:** To locate and engage enemy forces while gathering intelligence on their disposition.  
-   (2) (CUI) 2nd Squad: **TASK:** Conduct a reconnaissance sweep of the designated area. **PURPOSE:** To identify enemy positions and confirm their presence prior to the main engagement.  
-   (3) (CUI) 3rd Squad: **TASK:** Act as the platoon reserve and quick reaction force located at the platoon assembly area. **PURPOSE:** To provide immediate support to the platoon in case of contact and to ensure rapid response to any developing situation.
+   (1) (CUI) 1st Squad:
+       **TASK:** Conduct movement to contact toward the enemy position.
+       **PURPOSE:** To locate and engage enemy forces while gathering intelligence on their disposition.
+   (2) (CUI) 2nd Squad:
+       **TASK:** Conduct a reconnaissance sweep of the designated area.
+       **PURPOSE:** To identify enemy positions and confirm their presence prior to the main engagement.
+   (3) (CUI) 3rd Squad:
+       **TASK:** Act as the platoon reserve and quick reaction force located at the platoon assembly area.
+       **PURPOSE:** To provide immediate support to the platoon in case of contact and to ensure rapid response to any developing situation.
 
 e. (CUI) Priority Intelligence Requirements (PIR):
 
@@ -62,7 +68,7 @@ e. (CUI) Priority Intelligence Requirements (PIR):
    3. Monitor any patrols or movements in the vicinity.  
    4. Assess civilian presence and potential impact.
 
-f. (CUI) Commander’s Critical Information Requirements (CCIR):
+f. (CUI) Commander's Critical Information Requirements (CCIR):
    
    1. Immediate reporting of any enemy contact or significant changes in enemy posture.
    2. Status of civilian interactions or casualties in the area.

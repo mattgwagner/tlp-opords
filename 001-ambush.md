@@ -1,4 +1,4 @@
-**(CUI)** OPERATIONAL PLAN / ORDER #003 / CODE NAME: “AMBUSH AT CROSSROADS”
+**(CUI)** OPERATIONAL PLAN / ORDER #003 / CODE NAME: "AMBUSH AT CROSSROADS"
 
 (CUI) Time Zone Used Throughout the Plan/Order: EASTERN STANDARD TIME
 
@@ -32,7 +32,7 @@ d. (CUI) Friendly Forces.
    (a) (CUI) Higher Headquarters Mission and Intent.  
        (1) (CUI) Higher Headquarters One Level Up. A Co. 4th BN – 211th INF  
        (2) (CUI) Mission. A Company will conduct ambush operations to disable the enemy supply route in AO Blanding for ongoing operations.  
-       (3) (CUI) Commander’s Intent. To destroy the enemy convoy and seize supplies, ensuring safe passage for our forces.  
+       (3) (CUI) Commander's Intent. To destroy the enemy convoy and seize supplies, ensuring safe passage for our forces.  
 
 e. (CUI) Civil Considerations. Local civilians frequent the area; the ambush must minimize risk to non-combatants and avoid civilian casualties to maintain good relations with the local populace.
 
@@ -56,9 +56,15 @@ c. (CUI) Scheme of Fires. 1st Squad has priority for 60mm mortars; 2nd Squad has
 
 d. (CUI) Task to Subordinate Units:
 
-   (1) (CUI) 1st Squad: **TASK:** Conduct ambush on enemy convoy at MP 0615 1550. **PURPOSE:** To destroy enemy personnel and disrupt supply lines.  
-   (2) (CUI) 2nd Squad: **TASK:** Provide suppressive fire during the ambush. **PURPOSE:** To support 1st Squad’s ambush and protect against enemy reinforcements.  
-   (3) (CUI) 3rd Squad: **TASK:** Establish security perimeter at MP 0618 1552. **PURPOSE:** To intercept any enemy reinforcements and secure the ambush site.
+   (1) (CUI) 1st Squad:
+       **TASK:** Conduct ambush on enemy convoy at MP 0615 1550.
+       **PURPOSE:** To destroy enemy personnel and disrupt supply lines.
+   (2) (CUI) 2nd Squad:
+       **TASK:** Provide suppressive fire during the ambush.
+       **PURPOSE:** To support 1st Squad's ambush and protect against enemy reinforcements.
+   (3) (CUI) 3rd Squad:
+       **TASK:** Establish security perimeter at MP 0618 1552.
+       **PURPOSE:** To intercept any enemy reinforcements and secure the ambush site.
 
 e. (CUI) Coordinating Instructions:
 
@@ -70,7 +76,7 @@ e. (CUI) Coordinating Instructions:
 
    (b) (CUI) Priority Intelligence Requirements (PIR):  
        - Confirm the number and types of vehicles in the enemy convoy.  
-       - Monitor for any communication indicating changes in the enemy’s route or reinforcements.  
+       - Monitor for any communication indicating changes in the enemy's route or reinforcements.  
        - Assess civilian presence in the potential engagement area prior to ambush execution.  
 
    (c) (CUI) Commander's Critical Information Requirements (CCIR):  
