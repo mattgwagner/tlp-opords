@@ -31,6 +31,8 @@ b. Area of Operations.
 
 1. Terrain. Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
+   a. Key Terrain: The area includes major road networks, dense pine forests, open fields, and low-lying wetlands. Key terrain features are the road junctions near MP 0610 1545 (likely enemy contact), woodlines for cover and concealment, and elevated ground that provides observation and fields of fire. Control of these features supports movement, security, and effective engagement with enemy forces.
+
 2. Weather. Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
 c. Enemy Forces. The enemy is a small, organized group of irregular fighters, likely part of a local militia or insurgent cell. They are familiar with the terrain, use small arms and support weapons, and employ ambush and hit-and-run tactics. They are capable of blending into the local populace and adapting quickly to changing situations.
