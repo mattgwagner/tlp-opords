@@ -3,30 +3,88 @@ description:
 globs: 
 alwaysApply: true
 ---
-You are a US Army Officer teaching at the Officer Candidate School.
+# US Army OPORD & Army Writing Style Guide
 
-We are preparing Operations Orders for our candidates to conduct Squad Training Exercises in the field to exercise the Troop Leading Procedures (TLPs).
+## Doctrinal References
+- **ATP 5-0.1**: Army Design Methodology
+- **FM 6-0**: Commander and Staff Organization and Operations
+- **AR 25-50**: Preparing and Managing Correspondence (Army Writing Style)
 
-Use US Army doctrine whenever possible as a reference for the format.
+## Standard OPORD Structure (5 Paragraphs)
+1. **Situation**
+2. **Mission**
+3. **Execution**
+4. **Sustainment**
+5. **Command and Signal**
 
-We should write in the US Army standard and follow the five paragraph operations order format.
+---
 
+## Army Writing Style Rules
+- **BLUF (Bottom Line Up Front):** State the most important information first.
+- **Active Voice:** Use direct, clear sentences ("The platoon attacks" not "The attack will be conducted by the platoon").
+- **Clarity:** Avoid ambiguity; use precise, doctrinal terms.
+- **Brevity:** Be concise; eliminate unnecessary words.
+- **Accuracy:** Ensure all information is correct and up-to-date.
+- **Standard Terminology:** Use doctrinal language from FM 6-0 and ATP 5-0.1.
 
-# Call Signs
+---
 
-(1) (CUI) Call Signs.
-(a) (CUI) PL – Thunder 1-6
-(b) (CUI) PSG – Thunder 1-7
-(c) (CUI) 1st Squad Leader – Thunder 1-1
-(d) (CUI) 2nd Squad Leader – Thunder 1-2
-(e) (CUI) 3rd Squad Leader – Thunder 1-3
+## OPORD Template (Markdown)
 
-# Task and Purpose for Subordinate Units
+```
+**(CUI)** OPERATIONAL PLAN / ORDER #XXX / CODE NAME: "[Operation Name]"
 
-- When assigning tasks to subordinate units in operations orders, always use doctrinal tactical terms.
-- Each task should be written in the following format:
-  - **TASK:** [One line, using doctrinal tactical language]
-  - **PURPOSE:** [Next line, clearly stating the purpose of the task]
-- Example:
-  - **TASK:** Conduct a raid on the enemy bunker at MP 0600 1540.
-  - **PURPOSE:** To destroy enemy combatants and capture supplies.
+(CUI) Time Zone Used Throughout the Plan/Order: [Time Zone]
+
+(CUI) Task Organization:
+
+[Unit Structure]
+
+**1. (CUI) SITUATION.**
+
+a. (CUI) Area of Interest. [Describe AO, terrain, weather, etc.]
+b. (CUI) Area of Operations. [Details]
+c. (CUI) Enemy Forces. [Composition, disposition, COAs]
+d. (CUI) Friendly Forces. [Higher HQ, adjacent units, intent]
+e. (CUI) Civil Considerations. [Civilians, infrastructure]
+f. (CUI) Attachments and Detachments. [If any]
+
+**2. (CUI) MISSION.**
+
+[BLUF: Who, What, When, Where, Why]
+
+**3. (CUI) EXECUTION.**
+
+a. (CUI) Concept of Operations. [Overall plan]
+b. (CUI) Scheme of Movement and Maneuver. [How units move]
+c. (CUI) Scheme of Fires. [Fire support]
+d. (CUI) Tasks to Subordinate Units. [Specific tasks]
+e. (CUI) Coordinating Instructions. [ROE, PIR, CCIR, reporting]
+
+**4. (CUI) SUSTAINMENT.**
+
+a. (CUI) Logistics. [Resupply, meals, water]
+b. (CUI) Health System Support. [Medical, MEDEVAC]
+
+**5. (CUI) COMMAND AND SIGNAL.**
+
+a. (CUI) Command. [Location, succession]
+b. (CUI) Control. [CPs, assembly areas]
+c. (CUI) Signal. [Call signs, passwords]
+
+---
+```
+
+---
+
+## Example Language
+- **BLUF Example:** "1st Platoon will ambush the enemy convoy at MP 0615 1550 NLT 0600 to disrupt enemy supply lines."
+- **Active Voice Example:** "The squad secures the objective."
+- **Doctrinal Terms:** Use terms like AO (Area of Operations), PIR (Priority Intelligence Requirements), CCIR (Commander's Critical Information Requirements), ORP (Objective Rally Point), etc.
+
+---
+
+## Usage in This Project
+- All OPORDs must follow the 5-paragraph format above.
+- Use Army writing style in all sections.
+- Reference this guide when creating or editing OPORDs.
