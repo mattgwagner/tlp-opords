@@ -103,7 +103,7 @@ a. (CUI) Logistics:
 
 b. (CUI) Health System Support:
 
-1. PLT CCP at ambush site for immediate medical needs.
+1. PLT CCP at PLT Assembly Area.
 2. MEDEVAC available upon request at AXP 1.
 
 **5. (CUI) COMMAND AND SIGNAL.**
