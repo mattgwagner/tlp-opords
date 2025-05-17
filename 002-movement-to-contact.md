@@ -137,7 +137,7 @@ a. Command:
 
 b. Control:
 
-1. Command Posts: Assembly Area IVO _______.
+1. Command Posts: Platoon Assembly Area IVO _______.
 
 c. Signal:
 

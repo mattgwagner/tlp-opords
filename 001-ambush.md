@@ -131,12 +131,12 @@ b. Health System Support:
 
 a. Command:
 
-1. Platoon Leader at PLT CP in Assembly Area IVO _______.
+1. Platoon Leader at PLT CP.
 2. Succession of Command: PL, PSG, 1st SL, 2nd SL, 3rd SL.
 
 b. Control:
 
-1. Command Posts: ORP at MP 0600 1510 prior to ambush.
+1. Command Posts: Platoon Assembly Area IVO _______.
 
 c. Signal:
 
