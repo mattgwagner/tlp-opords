@@ -39,7 +39,7 @@ c. Enemy Forces. The enemy consists of a lightly armed irregular force, likely a
 
 2. Disposition. Enemy forces are typically dispersed in small groups along key supply routes and maintain a low profile to avoid detection. They are prepared to consolidate quickly at critical points if threatened and may use scouts or lookouts to monitor friendly movement.
 
-3. Most Probable Course of Action (MPCOA). Upon initiation of the ambush, the enemy convoy will attempt to break contact by returning suppressive fire and rapidly withdrawing along a secondary route. They may abandon disabled vehicles or wounded personnel and attempt to regroup at a rally point. If able, they will call for reinforcements from nearby elements.
+3. Most Probable Course of Action (MPCOA). Upon initiation of the ambush, the enemy returns limited, inaccurate fire, then rapidly withdraws along a secondary route to avoid further engagement. They may abandon vehicles or wounded, and attempt to regroup at a safe distance. Reinforcements are unlikely to arrive in time to decisively affect the engagement.
 
 4. Most Dangerous Course of Action (MDCOA). A nearby enemy quick reaction force rapidly reinforces the ambushed convoy, coordinating a counterattack with flanking or encirclement maneuvers against the platoon. The enemy may employ indirect fire or IEDs to disrupt friendly withdrawal and attempt to inflict maximum casualties before friendly forces can break contact.
 

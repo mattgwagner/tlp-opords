@@ -39,7 +39,7 @@ c. Enemy Forces. The enemy is a small, organized group of irregular fighters, li
 
 2. Disposition. Enemy forces are generally dispersed in concealed positions throughout the area, using terrain and vegetation for cover. They maintain flexibility to regroup or withdraw and are likely to observe friendly movements from hidden vantage points.
 
-3. Most Probable Course of Action (MPCOA). Upon contact, the enemy will conduct a brief delaying action, using terrain for cover and concealment, then break contact and withdraw to avoid decisive engagement. They may leave behind obstacles or improvised explosive devices (IEDs) to slow pursuit and will attempt to regroup at a pre-designated location.
+3. Most Probable Course of Action (MPCOA). Upon contact, the enemy initiates harassing fire from covered positions, then quickly breaks contact to avoid being fixed or destroyed. They may leave behind simple obstacles or IEDs to slow pursuit, but do not attempt to decisively engage or encircle the platoon.
 
 4. Most Dangerous Course of Action (MDCOA). The enemy initiates a complex ambush using multiple firing positions and IEDs, attempting to fix the platoon in a kill zone. They coordinate with additional elements to reinforce the engagement, seeking to encircle and destroy the platoon or inflict heavy casualties before friendly forces can maneuver out of the ambush.
 
