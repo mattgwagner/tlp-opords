@@ -80,9 +80,16 @@ d. (CUI) Tasks to Subordinate Units:
 
 e. (CUI) Coordinating Instructions:
 
-1. (CUI) ROE: Engage only valid military targets; use minimum force; avoid civilian casualties; positively identify targets before firing.
-2. (CUI) PIR: Confirm number/types of vehicles in convoy; monitor for changes in enemy route or reinforcements; assess civilian presence before execution.
-3. (CUI) CCIR: 
+1. (CUI) Rules of Engagement (ROE):
+   1. Engage only valid military targets.
+   2. Use minimum force necessary to accomplish the mission.
+   3. Avoid civilian casualties and collateral damage.
+   4. Positively identify targets before firing.
+2. (CUI) Priority Intelligence Requirements (PIR):
+   1. Confirm number and types of vehicles in the enemy convoy.
+   2. Monitor for changes in enemy route or reinforcements.
+   3. Assess civilian presence before execution.
+3. (CUI) Commander's Critical Information Requirements (CCIR):
    1. Immediate reporting of any enemy contact or significant changes in enemy posture.
    2. Status of civilian interactions or casualties in the area.
    3. Status of friendly forces, including any casualties and equipment failures.

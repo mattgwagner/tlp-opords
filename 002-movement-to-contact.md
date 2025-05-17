@@ -80,9 +80,17 @@ d. (CUI) Tasks to Subordinate Units:
 
 e. (CUI) Coordinating Instructions:
 
-1. (CUI) ROE: Engage only confirmed enemy combatants posing a threat; use graduated response; avoid civilian engagement; report civilian casualties immediately.
-2. (CUI) PIR: Confirm enemy personnel and weapons; identify fortifications; monitor patrols; assess civilian presence.
-3. (CUI) CCIR: 
+1. (CUI) Rules of Engagement (ROE):
+   1. Engage only confirmed enemy combatants posing a threat.
+   2. Use graduated response appropriate to the threat.
+   3. Avoid civilian engagement and minimize collateral damage.
+   4. Report civilian casualties immediately.
+2. (CUI) Priority Intelligence Requirements (PIR):
+   1. Confirm enemy personnel and weapons.
+   2. Identify fortifications and defensive positions.
+   3. Monitor enemy patrols and movement.
+   4. Assess civilian presence in the area of operations.
+3. (CUI) Commander's Critical Information Requirements (CCIR):
    1. Immediate reporting of any enemy contact or significant changes in enemy posture.
    2. Status of civilian interactions or casualties in the area.
    3. Status of friendly forces, including any casualties and equipment failures.
