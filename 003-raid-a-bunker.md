@@ -17,7 +17,7 @@ a. (CUI) Area of Interest. The area of interest is northeast Florida, specifical
 
 b. (CUI) Area of Operations.
 
-1. (CUI) Terrain. Camp Blanding: flat to gently rolling, dense pine/hardwood forests, marshy areas, wetlands, limited visibility, sandy soil.
+1. (CUI) Terrain. Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
 2. (CUI) Weather. Overcast, visibility 800 meters, light rain expected.
 
@@ -62,21 +62,21 @@ d. (CUI) Tasks to Subordinate Units:
 
 1. (CUI) 1st Squad:
 
-   **TASK:** Conduct raid on enemy bunker at MP 0600 1540.
+   **TASK:** Assault and breach the enemy bunker at MP 0600 1540, neutralize enemy combatants, and secure the objective.
 
-   **PURPOSE:** Destroy enemy combatants and capture supplies.
+   **PURPOSE:** Destroy enemy defensive positions and eliminate threats to enable freedom of movement for friendly forces.
 
 2. (CUI) 2nd Squad:
 
-   **TASK:** Provide suppressive fire during 1st Squad's assault.
+   **TASK:** Provide suppressive fire and support 1st Squad's assault, then assist in clearing and securing the bunker and surrounding area.
 
-   **PURPOSE:** Assist in clearing operations after breach.
+   **PURPOSE:** Enable the assault element to breach and clear the objective with minimal casualties.
 
 3. (CUI) 3rd Squad:
 
-   **TASK:** Establish security in area around bunker.
+   **TASK:** Establish security around the bunker, observe for and engage enemy reinforcements or flanking elements, and secure the area.
 
-   **PURPOSE:** Engage enemy reinforcements or flanking units.
+   **PURPOSE:** Prevent enemy interference with the raid and ensure the platoon can consolidate and reorganize after the assault.
 
 e. (CUI) Coordinating Instructions:
 

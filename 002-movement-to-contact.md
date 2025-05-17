@@ -17,7 +17,7 @@ a. (CUI) Area of Interest. The area of interest is northeast Florida, specifical
 
 b. (CUI) Area of Operations.
 
-1. (CUI) Terrain. Camp Blanding: flatlands, sandy soil, dense underbrush, pine trees, ponds, wetlands. Terrain is mostly flat, affecting visibility and maneuverability.
+1. (CUI) Terrain. Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
 2. (CUI) Weather. Overcast, moderate visibility, light rain, muddy ground.
 
@@ -62,21 +62,21 @@ d. (CUI) Tasks to Subordinate Units:
 
 1. (CUI) 1st Squad:
 
-   **TASK:** Conduct movement to contact toward enemy position.
+   **TASK:** Conduct movement to contact to last known enemy position IVO MP 0610 1545, establish contact, and fix or destroy enemy forces encountered.
 
-   **PURPOSE:** Locate and engage enemy forces; gather intelligence.
+   **PURPOSE:** Locate, engage, and assess the strength and disposition of enemy forces to set conditions for follow-on operations.
 
 2. (CUI) 2nd Squad:
 
-   **TASK:** Conduct reconnaissance sweep of designated area.
+   **TASK:** Conduct a reconnaissance sweep of the designated area, identify enemy positions, and report enemy activity prior to main engagement.
 
-   **PURPOSE:** Identify enemy positions and confirm presence before main engagement.
+   **PURPOSE:** Provide early warning, confirm enemy presence, and enable the platoon to maneuver effectively against enemy forces.
 
 3. (CUI) 3rd Squad:
 
-   **TASK:** Act as platoon reserve and quick reaction force at assembly area.
+   **TASK:** Serve as platoon reserve and quick reaction force at the assembly area, prepared to reinforce engaged squads or respond to enemy counterattack.
 
-   **PURPOSE:** Provide immediate support and rapid response to developing situations.
+   **PURPOSE:** Provide immediate support, exploit success, or contain enemy breakthroughs as the tactical situation develops.
 
 e. (CUI) Coordinating Instructions:
 

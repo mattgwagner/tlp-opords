@@ -17,7 +17,7 @@ a. (CUI) Area of Interest. The area of interest is northeast Florida, specifical
 
 b. (CUI) Area of Operations.
 
-1. (CUI) Terrain. Camp Blanding consists of pine forests, open fields, and wetlands. Terrain is flat with some low-lying areas and sandy soils that can limit movement. Vegetation provides concealment; roads and trails are likely avenues of approach for enemy vehicles.
+1. (CUI) Terrain. Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
 2. (CUI) Weather. Clear skies, visibility 1000 meters; temperature 70°F.
 
@@ -62,21 +62,21 @@ d. (CUI) Tasks to Subordinate Units:
 
 1. (CUI) 1st Squad:
 
-   **TASK:** Conduct ambush on enemy convoy at MP 0615 1550.
+   **TASK:** Establish and execute a deliberate ambush on the enemy convoy at MP 0615 1550 from a concealed position, initiate fires, and destroy enemy vehicles and personnel.
 
-   **PURPOSE:** Destroy enemy personnel and disrupt supply lines.
+   **PURPOSE:** Disrupt enemy supply lines, seize enemy materiel, and prevent enemy resupply in AO Starke.
 
 2. (CUI) 2nd Squad:
 
-   **TASK:** Provide suppressive fire during the ambush.
+   **TASK:** Provide flanking and suppressive fire during the ambush, and be prepared to maneuver to block or destroy enemy reinforcements.
 
-   **PURPOSE:** Support 1st Squad and protect against enemy reinforcements.
+   **PURPOSE:** Enable 1st Squad to destroy the convoy and prevent enemy escape or reinforcement.
 
 3. (CUI) 3rd Squad:
 
-   **TASK:** Establish security perimeter at MP 0618 1552.
+   **TASK:** Establish a security perimeter at MP 0618 1552, observe for enemy reinforcements, and interdict any enemy attempting to reinforce or withdraw.
 
-   **PURPOSE:** Intercept enemy reinforcements and secure the ambush site.
+   **PURPOSE:** Secure the ambush site, prevent enemy counterattack, and ensure safe withdrawal of friendly forces.
 
 e. (CUI) Coordinating Instructions:
 
