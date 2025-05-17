@@ -43,11 +43,18 @@ alwaysApply: true
 **1. (CUI) SITUATION.**
 
 a. (CUI) Area of Interest. [Describe AO, terrain, weather, etc.]
-b. (CUI) Area of Operations. [Details]
-c. (CUI) Enemy Forces. [Composition, disposition, COAs]
-d. (CUI) Friendly Forces. [Higher HQ, adjacent units, intent]
-e. (CUI) Civil Considerations. [Civilians, infrastructure]
-f. (CUI) Attachments and Detachments. [If any]
+
+b. (CUI) Area of Operations.
+
+1. (CUI) Terrain. ...
+
+2. (CUI) Weather. ...
+
+c. (CUI) Enemy Forces. ...
+
+1. (CUI) Composition. ...
+
+2. (CUI) Disposition. ...
 
 **2. (CUI) MISSION.**
 
@@ -88,3 +95,13 @@ c. (CUI) Signal. [Call signs, passwords]
 - All OPORDs must follow the 5-paragraph format above.
 - Use Army writing style in all sections.
 - Reference this guide when creating or editing OPORDs.
+
+---
+
+## GitHub Flavored Markdown (GFM) Formatting Note
+- For best results with GitHub Flavored Markdown (GFM):
+  - Use blank lines between paragraphs, lists, and bolded lines.
+  - Avoid relying on spaces for indentation (GFM collapses spaces).
+  - Use numbered or bulleted lists for subpoints and indented content.
+  - Use blockquotes (`>`) for optional visual indentation.
+  - Preview your Markdown on GitHub to ensure clarity and correct rendering.
