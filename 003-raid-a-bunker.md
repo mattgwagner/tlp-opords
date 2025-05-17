@@ -13,7 +13,7 @@ Platoon Sergeant
 
 **1. (CUI) SITUATION.**
 
-a. (CUI) Area of Interest. Northeast Florida, Clay County IVO Starke, AO Starke.
+a. (CUI) Area of Interest. The area of interest is northeast Florida, specifically Clay County in the vicinity of Starke (IVO Starke), designated as AO Starke. This area includes key routes, terrain, and features that may impact friendly and enemy movement, including likely avenues of approach, potential ambush or engagement sites, and civilian activity. All operations must consider the impact of terrain, weather, and the presence of non-combatants.
 
 b. (CUI) Area of Operations.
 
