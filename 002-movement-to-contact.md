@@ -47,7 +47,7 @@ f. Attachments and Detachments. None.
 
 **2. MISSION.**
 
-1st Platoon will conduct a movement to contact in AO Blanding on ____ at ____ to locate and engage enemy forces and assess their strength and disposition.
+1st Platoon conducts a movement to contact in AO Blanding NLT ____ to locate and engage enemy forces and assess their strength and disposition.
 
 **3. EXECUTION.**
 

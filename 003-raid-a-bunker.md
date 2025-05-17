@@ -47,7 +47,7 @@ f. Attachments and Detachments. None.
 
 **2. MISSION.**
 
-1st Platoon will raid the enemy bunker in AO Starke NLT ____ to eliminate enemy forces and secure the area of operations.
+1st Platoon conducts a raid of the enemy bunker in AO Starke NLT ____ to eliminate enemy forces and secure the area of operations.
 
 **3. EXECUTION.**
 

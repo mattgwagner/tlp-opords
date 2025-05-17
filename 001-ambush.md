@@ -47,7 +47,7 @@ f. Attachments and Detachments. None.
 
 **2. MISSION.**
 
-1st Platoon will ambush the enemy convoy at the crossroads (MP 0615 1550) NLT ____ to disrupt enemy supply lines.
+1st Platoon conducts an ambush at the crossroads (MP 0615 1550) NLT ____ in order to destroy enemy forces and disrupt enemy supply lines.
 
 **3. EXECUTION.**
 
