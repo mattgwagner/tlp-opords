@@ -88,9 +88,9 @@ e. (CUI) Coordinating Instructions:
    3. Status of friendly forces, including any casualties and equipment failures.
 4. (CUI) Reporting:
    - **SALUTE Report:** Upon enemy visual confirmation.
-   - **TIC Report:** If contact is made.
+   - **Report to higher when SP'ing or crossing the line of departure.**
+   - **In Position Report:** Upon occupying the ambush site or ORP.
    - **LACE Report:** After ambush, within ______ minutes.
-   - **AAR Report:** Immediately after operation.
 5. (CUI) This OPORD is effective immediately upon distribution.
 
 **4. (CUI) SUSTAINMENT.**

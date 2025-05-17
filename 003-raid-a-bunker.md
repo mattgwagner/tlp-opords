@@ -87,10 +87,10 @@ e. (CUI) Coordinating Instructions:
    2. Status of civilian interactions or casualties in the area.
    3. Status of friendly forces, including any casualties and equipment failures.
 4. (CUI) Reporting:
-   - **SP Report:** Upon squad movement from ORP.
+   - **Report to higher when SP'ing or crossing the line of departure.**
+   - **In Position Report:** Upon occupying the ORP or objective.
    - **LACE Report:** At least once during operation and upon re-establishment of ORP.
    - **SALUTE Report:** Upon sighting enemy forces or indicators.
-   - **TIC Report:** Immediately upon contact with enemy forces.
 5. (CUI) This OPORD is effective immediately upon distribution.
 
 **4. (CUI) SUSTAINMENT.**
