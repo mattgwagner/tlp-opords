@@ -23,7 +23,7 @@ b. (CUI) Area of Operations.
 
 c. (CUI) Enemy Forces. Enemy supply convoy operating within AO Blanding.
 
-1. (CUI) Composition. 2 vehicles, 6-8 personnel, AK-47s, possible support weapons.
+1. (CUI) Composition. 2 vehicles, 6-8 personnel, AK-47s, possible support weapons (e.g., HMG - Heavy Machine Gun).
 
 2. (CUI) Disposition. Convoy expected at crossroads MP 0615 1550.
 

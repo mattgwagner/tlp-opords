@@ -23,7 +23,7 @@ b. (CUI) Area of Operations.
 
 c. (CUI) Enemy Forces. Enemy elements likely operating in AO Blanding.
 
-1. (CUI) Composition. 6-8 combatants, small arms, possible HMG/RPG, in concealment.
+1. (CUI) Composition. 6-8 combatants, small arms, possible HMG (Heavy Machine Gun)/RPG, in concealment.
 
 2. (CUI) Disposition. Enemy squad near MP 0610 1545.
 

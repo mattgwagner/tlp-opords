@@ -23,7 +23,7 @@ b. (CUI) Area of Operations.
 
 c. (CUI) Enemy Forces. Enemy bunker located in AO Starke.
 
-1. (CUI) Composition. 4-5 combatants, AK-47s, 1 HMG, possible IEDs.
+1. (CUI) Composition. 4-5 combatants, AK-47s, 1 HMG (Heavy Machine Gun), possible IEDs.
 
 2. (CUI) Disposition. Bunker near MP 0600 1540.
 
