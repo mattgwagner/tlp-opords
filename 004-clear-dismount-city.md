@@ -4,9 +4,9 @@
 
 > **CADRE / OPFOR NOTES**
 >
-> Mission Summary: 1st Platoon is tasked to clear, seize, and secure the urban terrain known as DISMOUNT CITY. The enemy is using this area as a base for operations. The platoon must occupy the city and prevent the enemy from regaining control or using it for future operations.
+> Mission Summary: 1st Platoon is tasked to clear, seize, and secure the urban terrain known as OBJ FLUNKER. The enemy is using this area as a base for operations. The platoon must occupy the city and prevent the enemy from regaining control or using it for future operations.
 >
-> Destination: DISMOUNT CITY, AO Starke (urban terrain, grid MP 0620 1560).
+> Destination: OBJ FLUNKER, AO HERRERA (urban terrain, grid MP 0620 1560).
 >
 > Actions on Objective: Platoon will establish an ORP, move to the city, isolate the objective, clear buildings and key terrain, secure the area, and establish defensive positions to prevent enemy re-infiltration. Assault, support, and security elements will be employed per doctrine.
 >
@@ -27,17 +27,17 @@ Platoon Sergeant
 
 **1. SITUATION.**
 
-a. Area of Interest. Northeast Florida, Clay County in the vicinity of Starke (IVO Starke), designated as AO Starke. Focus is on the urban terrain known as DISMOUNT CITY.
+a. Area of Interest. Northeast Florida, Clay County in the vicinity of AO HERRERA. Focus is on the urban terrain known as OBJ FLUNKER.
 
 b. Area of Operations.
 
-1. Terrain. DISMOUNT CITY is a small urban area with multiple multi-story buildings, narrow streets, alleys, and limited open spaces. The city is surrounded by wooded areas and open fields. Urban terrain provides numerous positions for defense, ambush, and concealment. Buildings offer cover and observation points, while underground routes (sewers, basements) may be used for movement or escape. Limited vehicle access due to debris and barricades.
+1. Terrain. OBJ FLUNKER is a small urban area with multiple multi-story buildings, narrow streets, alleys, and limited open spaces. The city is surrounded by wooded areas and open fields. Urban terrain provides numerous positions for defense, ambush, and concealment. Buildings offer cover and observation points, while underground routes (sewers, basements) may be used for movement or escape. Limited vehicle access due to debris and barricades.
 
-   a. Key Terrain: Central plaza (MP 0620 1560), police station, and high-rise building dominate the area and are critical for control. Rooftops and intersections provide observation and fields of fire. Main roads and alleyways are likely avenues of approach and withdrawal.
+   a. Key Terrain: Central plaza (MP 0620 1560), police station, and high-rise building dominate OBJ FLUNKER and are critical for control. Rooftops and intersections provide observation and fields of fire. Main roads and alleyways are likely avenues of approach and withdrawal.
 
 2. Weather. Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
-c. Enemy Forces. The enemy is a well-armed irregular force, using DISMOUNT CITY as a base for operations. They are experienced in urban combat, employ barricades, IEDs, and may use civilians as shields. Capable of rapid movement through buildings and underground routes. Recent conflicts have demonstrated the widespread use of UAS (drones) for reconnaissance and attack. Enemy and irregular forces may employ commercial or military drones for surveillance, target acquisition, or direct attack. Platoon leaders and squads must account for potential UAS threats during planning, movement, and actions on the objective. Maintain vigilance for aerial threats, use available cover and concealment, and report any UAS sightings immediately.
+c. Enemy Forces. The enemy is a well-armed irregular force, using OBJ FLUNKER as a base for operations. They are experienced in urban combat, employ barricades, IEDs, and may use civilians as shields. Capable of rapid movement through buildings and underground routes. Recent conflicts have demonstrated the widespread use of UAS (drones) for reconnaissance and attack. Enemy and irregular forces may employ commercial or military drones for surveillance, target acquisition, or direct attack. Platoon leaders and squads must account for potential UAS threats during planning, movement, and actions on the objective. Maintain vigilance for aerial threats, use available cover and concealment, and report any UAS sightings immediately.
 
 1. Composition. 8-10 combatants, small arms, possible HMG/RPG, IEDs, barricades, and communications equipment.
 
@@ -51,9 +51,9 @@ d. Friendly Forces.
 
 1. Higher Headquarters: A Co. 4th BN – 211th INF.
 
-2. Mission. A Company clears and secures DISMOUNT CITY to deny the enemy a base of operations and enable follow-on operations in AO Starke.
+2. Mission. A Company clears and secures OBJ FLUNKER to deny the enemy a base of operations and enable follow-on operations in AO Starke.
 
-3. Commander's Intent. Seize and secure DISMOUNT CITY, eliminate enemy presence, and establish a defensive posture to prevent enemy re-infiltration.
+3. Commander's Intent. Seize and secure OBJ FLUNKER, eliminate enemy presence, and establish a defensive posture to prevent enemy re-infiltration.
 
 e. Civil Considerations. Civilians are present in the city. Minimize risk to non-combatants, avoid collateral damage, and maintain positive relations with local populace.
 
@@ -61,11 +61,11 @@ f. Attachments and Detachments. None.
 
 **2. MISSION.**
 
-1st Platoon clears, seizes, and secures DISMOUNT CITY (MP 0620 1560) NLT ____ to eliminate enemy forces, deny the enemy a base of operations, and enable occupation by friendly forces.
+1st Platoon clears, seizes, and secures OBJ FLUNKER (MP 0620 1560) NLT ____ to eliminate enemy forces, deny the enemy a base of operations, and enable occupation by friendly forces.
 
 **3. EXECUTION.**
 
-a. Concept of Operations. 1st Platoon establishes an ORP, moves to DISMOUNT CITY, and isolates the objective. 1st Squad serves as the assault element, clearing buildings and key terrain. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective area. 3rd Squad serves as the security element, securing flanks, rear, and preventing enemy reinforcement or escape. Upon completion, the platoon consolidates and establishes defensive positions to hold the city.
+a. Concept of Operations. 1st Platoon establishes an ORP, moves to OBJ FLUNKER, and isolates the objective. 1st Squad serves as the assault element, clearing buildings and key terrain. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective area. 3rd Squad serves as the security element, securing flanks, rear, and preventing enemy reinforcement or escape. Upon completion, the platoon consolidates and establishes defensive positions to hold the city.
 
 b. Scheme of Movement and Maneuver.
 
@@ -79,7 +79,7 @@ d. Tasks to Subordinate Units:
 
 1. 1st Squad:
 
-   **TASK:** Clear and secure assigned buildings and key terrain in DISMOUNT CITY, neutralize enemy combatants, and report cleared sectors.
+   **TASK:** Clear and secure assigned buildings and key terrain in OBJ FLUNKER, neutralize enemy combatants, and report cleared sectors.
 
    **PURPOSE:** Eliminate enemy presence and enable occupation by friendly forces.
 

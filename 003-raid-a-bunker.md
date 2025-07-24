@@ -4,9 +4,9 @@
 
 > **CADRE / OPFOR NOTES**
 >
-> Mission Summary: 1st Platoon is tasked to conduct a raid to eliminate enemy forces and secure a fortified position in AO Starke.
+> Mission Summary: 1st Platoon is tasked to conduct a raid to eliminate enemy forces and secure a fortified position in AO HERRERA.
 >
-> Destination: Enemy bunker near MP 0600 1540, AO Starke.
+> Destination: Enemy bunker (OBJ COTTO) near MP 0600 1540, AO HERRERA.
 >
 > Actions on Objective: Platoon will establish an ORP, move to the objective, isolate the enemy position, breach and clear the bunker, and withdraw in an organized manner. Assault, support, and security elements will be employed per doctrine.
 >
@@ -27,13 +27,13 @@ Platoon Sergeant
 
 **1. SITUATION.**
 
-a. Area of Interest. Northeast Florida, Clay County in the vicinity of Starke (IVO Starke), designated as AO Starke.
+a. Area of Interest. Northeast Florida, Clay County in the vicinity of AO HERRERA.
 
 b. Area of Operations.
 
 1. Terrain. Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-   a. Key Terrain: The bunker near MP 0600 1540 is the decisive objective and dominates the surrounding area. Woodlines to the west and south provide covered approaches for the assault and support elements. A small knoll north of the bunker offers observation and a support-by-fire position. A concealed trail to the southwest enables a secure withdrawal after the raid.
+   a. Key Terrain: OBJ COTTO (bunker) near MP 0600 1540 is the decisive objective and dominates the surrounding area. Woodlines to the west and south provide covered approaches for the assault and support elements. A small knoll north of the bunker offers observation and a support-by-fire position. A concealed trail to the southwest enables a secure withdrawal after the raid.
 
 2. Weather. Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
@@ -61,7 +61,7 @@ f. Attachments and Detachments. None.
 
 **2. MISSION.**
 
-1st Platoon conducts a raid of the enemy bunker in AO Starke NLT ____ to eliminate enemy forces and secure the area of operations.
+1st Platoon conducts a raid of OBJ COTTO in AO HERRERA NLT ____ to eliminate enemy forces and secure the area of operations.
 
 **3. EXECUTION.**
 
@@ -78,7 +78,7 @@ d. Tasks to Subordinate Units:
 
 1. 1st Squad:
 
-   **TASK:** Assault and breach the enemy bunker at MP 0600 1540, neutralize enemy combatants, and secure the objective.
+   **TASK:** Assault and breach OBJ COTTO at MP 0600 1540, neutralize enemy combatants, and secure the objective.
 
    **PURPOSE:** Destroy enemy defensive positions and eliminate threats to enable freedom of movement for friendly forces.
 

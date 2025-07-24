@@ -4,9 +4,9 @@
 
 > **CADRE / OPFOR NOTES**
 >
-> Mission Summary: 1st Platoon is tasked to conduct a movement to contact in AO Starke to locate, engage, and assess enemy forces.
+> Mission Summary: 1st Platoon is tasked to conduct a movement to contact in AO FLUNKER to locate, engage, and assess enemy forces.
 >
-> Destination: AO Blanding, with movement focused toward enemy's last known location near MP 0610 1545.
+> Destination: AO FLUNKER, with movement focused toward enemy's last known location near OBJ HERRERA (MP 0610 1545).
 >
 > Actions on Objective: Platoon will use bounding overwatch to advance, maintain security, and develop the situation upon enemy contact. 3rd Squad serves as reserve, ready to reinforce or exploit success.
 >
@@ -27,13 +27,13 @@ Platoon Sergeant
 
 **1. SITUATION.**
 
-a. Area of Interest. Northeast Florida, Clay County in the vicinity of Starke (IVO Starke), designated as AO Starke.
+a. Area of Interest. Northeast Florida, Clay County in the vicinity of AO FLUNKER.
 
 b. Area of Operations.
 
 1. Terrain. Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-   a. Key Terrain: The road junction near MP 0610 1545 is critical for controlling access to the area and is a likely point of enemy contact. Woodlines along the approach routes provide covered and concealed movement for the platoon. A small rise east of the objective offers observation and a potential support-by-fire position. A concealed route to the south enables maneuver or withdrawal if needed.
+   a. Key Terrain: The road junction near OBJ HERRERA (MP 0610 1545) is critical for controlling access to the area and is a likely point of enemy contact. Woodlines along the approach routes provide covered and concealed movement for the platoon. A small rise east of the objective offers observation and a potential support-by-fire position. A concealed route to the south enables maneuver or withdrawal if needed.
 
 2. Weather. Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
@@ -61,7 +61,7 @@ f. Attachments and Detachments. None.
 
 **2. MISSION.**
 
-1st Platoon conducts a movement to contact in AO Blanding NLT ____ to locate and engage enemy forces and assess their strength and disposition.
+1st Platoon conducts a movement to contact in AO FLUNKER NLT ____ to locate and engage enemy forces and assess their strength and disposition.
 
 **3. EXECUTION.**
 
@@ -80,7 +80,7 @@ d. Tasks to Subordinate Units:
 
 1. 1st Squad:
 
-   **TASK:** Conduct movement to contact to last known enemy position IVO MP 0610 1545, establish contact, and fix or destroy enemy forces encountered.
+   **TASK:** Conduct movement to contact to last known enemy position IVO OBJ HERRERA (MP 0610 1545), establish contact, and fix or destroy enemy forces encountered.
 
    **PURPOSE:** Locate, engage, and assess the strength and disposition of enemy forces to set conditions for follow-on operations.
 

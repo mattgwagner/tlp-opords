@@ -6,7 +6,7 @@
 >
 > Mission Summary: 1st Platoon is tasked to conduct a linear ambush along a key supply route to destroy enemy forces and disrupt enemy logistics.
 >
-> Destination: Crossroads at MP 0615 1550, AO Starke.
+> Destination: OBJ FLUNKER at MP 0615 1550, AO COTTO.
 >
 > Actions on Objective: Platoon will establish an ORP, move to the ambush site, set up assault, support, and security elements, initiate the ambush on the enemy convoy, and withdraw in an organized manner.
 >
@@ -27,13 +27,13 @@ Platoon Sergeant
 
 **1. SITUATION.**
 
-a. Area of Interest. Northeast Florida, Clay County in the vicinity of Starke (IVO Starke), designated as AO Starke.
+a. Area of Interest. Northeast Florida, Clay County in the vicinity of AO COTTO.
 
 b. Area of Operations.
 
 1. Terrain. Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-   a. Key Terrain: The crossroads at MP 0615 1550 is decisive for controlling movement through the area and is the planned ambush site. The adjacent woodlines provide concealment for the assault and support elements. Elevated ground to the north and south offers observation and fields of fire, while a concealed withdrawal route to the west enables a safe exit after the ambush.
+   a. Key Terrain: OBJ FLUNKER at MP 0615 1550 is decisive for controlling movement through the area and is the planned ambush site. The adjacent woodlines provide concealment for the assault and support elements. Elevated ground to the north and south offers observation and fields of fire, while a concealed withdrawal route to the west enables a safe exit after the ambush.
 
 2. Weather. Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
@@ -61,7 +61,7 @@ f. Attachments and Detachments. None.
 
 **2. MISSION.**
 
-1st Platoon conducts an ambush at the crossroads (MP 0615 1550) NLT ____ in order to destroy enemy forces and disrupt enemy supply lines.
+1st Platoon conducts an ambush at OBJ FLUNKER (MP 0615 1550) NLT ____ in order to destroy enemy forces and disrupt enemy supply lines.
 
 **3. EXECUTION.**
 
