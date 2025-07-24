@@ -27,7 +27,7 @@ Platoon Sergeant
 
 **1. SITUATION.**
 
-a. Area of Interest. Clay County, Florida, in the vicinity of Starke and Highway 16, AO FLUNKER. AO FLUNKER includes the road junction at OBJ HERRERA (MP 0610 1545), bounded to the north by the old logging road, to the east by the Starke city limits, to the south by the creek line, and to the west by the pine forest edge.
+a. Area of Interest. Clay County, Florida, in the vicinity of Starke and Highway 16. AO FLUNKER includes the road junction at OBJ HERRERA (MP 0610 1545), bounded to the north by the old logging road, to the east by the Starke city limits, to the south by the creek line, and to the west by the pine forest edge.
 
 b. Area of Operations.
 

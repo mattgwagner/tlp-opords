@@ -27,7 +27,7 @@ Platoon Sergeant
 
 **1. SITUATION.**
 
-a. Area of Interest. Clay County, Florida, in the vicinity of Starke and Highway 16, AO HERRERA. AO HERRERA includes OBJ COTTO (bunker) near MP 0600 1540, bounded to the north by the old quarry, to the east by the Starke city limits, to the south by the creek line, and to the west by the pine forest edge.
+a. Area of Interest. Clay County, Florida, in the vicinity of Starke and Highway 16.
 
 b. Area of Operations.
 
