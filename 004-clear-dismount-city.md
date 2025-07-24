@@ -125,7 +125,8 @@ a. Logistics:
 
 1. Resupply not available for 36 hours.
 2. Meal Cycle: M-M-M.
-3. Ensure water and ammunition are topped off prior to SP.
+3. Water resupply is available at the PLT CP.
+4. Ensure water and ammunition are topped off prior to SP.
 
 b. Health System Support:
 

@@ -131,7 +131,8 @@ a. Logistics:
 
 1. Resupply not available for 24 hours.
 2. Meal Cycle: M-M-M.
-3. Ensure adequate hydration prior to SP.
+3. Water resupply is available at the PLT CP.
+4. Ensure adequate hydration prior to SP.
 
 b. Health System Support:
 
