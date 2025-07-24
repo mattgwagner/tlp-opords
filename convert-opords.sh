@@ -17,6 +17,10 @@ TEMPLATE="$(dirname "$0")/opord-template.html"
 # Process all .md files in the current directory (where the script is located)
 for md in "$(dirname "$0")"/*.md; do
   [ -f "$md" ] || continue
+  # Skip README.md
+  if [[ "$(basename "$md")" == "README.md" ]]; then
+    continue
+  fi
   # Generate output path with .html extension
   output="${md%.md}.html"
   echo "Converting: $md -> $output"
