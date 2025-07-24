@@ -27,7 +27,7 @@ Platoon Sergeant
 
 **1. SITUATION.**
 
-a. Area of Interest. Northeast Florida, Clay County in the vicinity of AO HERRERA. Focus is on the urban terrain known as OBJ FLUNKER.
+a. Area of Interest. Northeast Florida, Clay County in the vicinity of AO HERRERA. 
 
 b. Area of Operations.
 
