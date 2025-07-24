@@ -27,7 +27,7 @@ Platoon Sergeant
 
 **1. SITUATION.**
 
-a. Area of Interest. Northeast Florida, Clay County in the vicinity of AO HERRERA. 
+a. Area of Interest. Clay County, Florida, in the vicinity of Starke and Highway 16, AO HERRERA. AO HERRERA includes OBJ FLUNKER (urban area) at grid MP 0620 1560, bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the railroad tracks, and to the west by the pine forest edge.
 
 b. Area of Operations.
 
