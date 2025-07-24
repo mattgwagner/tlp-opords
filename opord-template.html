@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Military Operation Order Document">
+    <title>$title$</title>
+    <style>
+        /* Global Styles */
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.5;
+            margin: 2rem auto;
+            max-width: 1100px;
+            padding: 0 2rem;
+            color: #000;
+            background-color: #fff;
+        }
+        
+        /* Header Section */
+        .document-header {
+            text-align: center;
+            border-bottom: 2px solid #000;
+            margin-bottom: 1.5rem;
+            padding-bottom: 1rem;
+        }
+        
+        .document-header p {
+            margin: 0.25rem 0;
+            font-size: 1rem;
+        }
+        
+        /* Main Content */
+        main {
+            margin-bottom: 1.5rem;
+        }
+        
+        h1, h2, h3 {
+            font-weight: bold;
+        }
+        
+        h1 {
+            font-size: 1.5rem;
+            text-align: center;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        h2 {
+            font-size: 1.3rem;
+            margin-top: 1.5rem;
+            margin-bottom: 0.5rem;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 0.3rem;
+            text-transform: uppercase;
+        }
+        
+        h3 {
+            font-size: 1.1rem;
+            margin-top: 1rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        /* Lists */
+        ul, ol {
+            padding-left: 1.5rem;
+        }
+        
+        li {
+            margin-bottom: 0.5rem;
+        }
+        
+        /* Military Document Styling */
+        .opord-header {
+            text-align: center;
+            font-weight: bold;
+            margin-bottom: 2rem;
+            text-transform: uppercase;
+        }
+        
+        /* References and Task Organizations */
+        .references, .task-organization {
+            background-color: #f9f9f9;
+            padding: 1rem;
+            border-left: 3px solid #333;
+            margin-bottom: 1.5rem;
+        }
+        
+        /* Classification Markings */
+        .classification {
+            font-weight: bold;
+            color: #444;
+            margin: 0.5rem 0;
+        }
+        
+        /* Military paragraph numbering */
+        .military-paragraph {
+            margin-left: 1.5rem;
+            text-indent: -1.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        /* Footer */
+        footer {
+            margin-top: 3rem;
+            border-top: 2px solid #000;
+            padding-top: 1rem;
+        }
+        
+        /* Acknowledge Section */
+        .acknowledge {
+            margin-top: 2rem;
+            padding-top: 1rem;
+            border-top: 1px solid #ccc;
+            text-align: center;
+        }
+        
+        /* Official Section */
+        .official {
+            margin-top: 2rem;
+            padding-top: 1rem;
+            text-align: left;
+        }
+        
+        /* Commander signature block */
+        .signature-block {
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            margin-left: 60%;
+            text-align: left;
+        }
+        
+        /* Official block */
+        .official-block {
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            text-align: left;
+        }
+        
+        .signature-block p, .official-block p {
+            margin: 0.2rem 0;
+        }
+        
+        /* Distribution Section */
+        .distribution {
+            margin-top: 3rem;
+            border-top: 1px solid #ccc;
+            padding-top: 1rem;
+        }
+        
+        .distribution ul {
+            list-style-type: none;
+            padding-left: 1rem;
+        }
+        
+        /* Responsive adjustments */
+        @media print {
+            body {
+                background-color: white;
+                padding: 0.5in;
+                margin: 0;
+                max-width: none;
+                font-size: 12pt;
+            }
+            
+            a {
+                text-decoration: none;
+                color: #000;
+            }
+            
+            h2 {
+                page-break-after: avoid;
+            }
+            
+            h3 {
+                page-break-after: avoid;
+            }
+            
+            .classification {
+                color: #000;
+            }
+        }
+        
+        @media screen and (max-width: 768px) {
+            body {
+                padding: 0 1rem;
+                margin: 1rem;
+            }
+        }
+
+        /* Table styles */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        
+        table, th, td {
+            border: 1px solid #ccc;
+        }
+        
+        th, td {
+            padding: 0.7rem;
+            text-align: left;
+            vertical-align: top;
+        }
+        
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        /* Special sections */
+        .ccir, .reporting, .risk-reduction {
+            background-color: #f8f8f8;
+            border: 1px solid #ddd;
+            padding: 0.5rem 1rem;
+            margin: 1rem 0;
+        }
+
+        .risk-reduction ul {
+            padding-left: 1.2rem;
+        }
+
+        .risk-reduction ul ul {
+            padding-left: 1.5rem;
+        }
+
+        .risk-reduction ol {
+            padding-left: 1.5rem;
+        }
+
+        /* Code blocks and pre */
+        pre, code {
+            background-color: #f5f5f5;
+            border: 1px solid #ddd;
+            border-radius: 0;
+            padding: 0.2rem 0.4rem;
+            font-family: 'Courier New', monospace;
+            white-space: pre-wrap;
+        }
+        
+        /* OPORD-specific structuring */
+        .time-zone {
+            text-align: center;
+            font-style: italic;
+            margin: 1rem 0;
+        }
+        
+        .section-title {
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        
+        .warno-title {
+            text-align: center;
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin: 1.5rem 0;
+        }
+        
+        /* WARNO Header Styling */
+        .copy-line {
+            text-align: center;
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .headquarters-line {
+            text-align: center;
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .date-time-group {
+            text-align: center;
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+        
+        /* Specific section styling */
+        .situation, .mission, .execution, .sustainment, .command-signal {
+            margin-top: 1.5rem;
+        }
+        
+        /* For better printing */
+        @page {
+            margin: 1.5cm;
+            size: letter;
+        }
+        
+        @media print {
+            body {
+                font-size: 11pt;
+            }
+            
+            h1 {
+                font-size: 14pt;
+            }
+            
+            h2 {
+                font-size: 12pt;
+            }
+            
+            h3 {
+                font-size: 11pt;
+            }
+            
+            .page-break {
+                page-break-before: always;
+            }
+        }
+        
+        strong {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <!-- Document Header -->
+    <div class="document-header">
+        <p class="classification">(UNCLASSIFIED)</p>
+        $header-includes$
+    </div>
+
+    <main>
+        $body$
+    </main>
+
+    <footer>
+        <div class="acknowledge">
+            <strong>ACKNOWLEDGE:</strong>
+        </div>
+        
+        <div class="signature-block">
+            <p class="commander-name">MATTHEW WAGNER</p>
+            <p class="commander-rank">CPT, FA</p>
+            <p class="commander-title">FLORIDA ARMY NATIONAL GUARD</p>
+        </div>
+
+        <div class="official">
+            <strong>OFFICIAL:</strong>
+        </div>
+
+        <div class="official-block">
+            <p class="commander-name">CPT COTTO</p>
+            <p class="commander-rank">SENIOR TAC</p>
+        </div>
+        
+        <div class="distribution">
+            <strong>DISTRIBUTION:</strong>
+            <ul>
+                <li>CDR, 211 RTI</li>
+                <li>S3, 211 RTI</li>
+                <li>CDR, 4-211 RTI</li>
+                <li>Full-Time Staff, 211 RTI</li>
+                <li>HQ PLT, OCS DET, 211 RTI</li>
+                <li>1st PLT PL, OCS DET, 211 RTI</li>
+            </ul>
+        </div>
+    </footer>
+</body>
+</html>

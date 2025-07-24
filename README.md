@@ -1,5 +1,7 @@
 # OCS Operations Orders
 
+All Operations Orders should be written in GitHub Flavored Markdown (GFM) format.
+
 ## Available Orders
 
 - [Ambush at Crossroads](001-ambush.md)
