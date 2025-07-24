@@ -45,7 +45,7 @@ c. Enemy Forces. The enemy is a determined irregular force, likely associated wi
 
 3. Most Probable Course of Action (MPCOA). The enemy defends their position with small arms and prepared obstacles, but if the assault is effective, they withdraw through a pre-planned escape route, prioritizing survival over holding the objective. They may attempt to delay the platoon's advance but do not counterattack in strength.
 
-4. Most Dangerous Course of Action (MDCOA). The enemy launches a coordinated counterattack with reinforcements during or immediately after the raid, using pre-placed IEDs or booby traps to disrupt friendly movement. They attempt to encircle or cut off the assaulting platoon, inflicting maximum casualties and preventing withdrawal.
+4. Most Dangerous Course of Action (MDCOA). The enemy launches a coordinated counterattack with reinforcements during or immediately after the raid, using pre-placed IEDs or booby traps to disrupt friendly movement. They attempt to encircle or cut off the assaulting platoon, inflicting maximum casualties and preventing withdrawal. The enemy uses a UAS to identify friendly positions, adjust indirect fire, or direct the counterattack.
 
 d. Friendly Forces.
 

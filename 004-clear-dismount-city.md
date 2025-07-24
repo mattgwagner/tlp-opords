@@ -45,7 +45,7 @@ c. Enemy Forces. The enemy is a well-armed irregular force, using DISMOUNT CITY 
 
 3. Most Probable Course of Action (MPCOA). Enemy defends key buildings and intersections, using small arms and IEDs to delay friendly advance. If overwhelmed, they withdraw through underground routes or blend with civilians, attempting to regroup outside the city.
 
-4. Most Dangerous Course of Action (MDCOA). Enemy launches a coordinated counterattack with reinforcements, using pre-placed IEDs, barricades, and snipers to inflict maximum casualties. They may attempt to encircle friendly forces or use hostages to delay operations.
+4. Most Dangerous Course of Action (MDCOA). Enemy launches a coordinated counterattack with reinforcements, using pre-placed IEDs, barricades, and snipers to inflict maximum casualties. They attempt to encircle friendly forces or use hostages to delay operations. The enemy uses a UAS to identify friendly positions, adjust indirect fire, or direct the counterattack.
 
 d. Friendly Forces.
 
