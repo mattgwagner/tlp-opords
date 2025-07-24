@@ -11,6 +11,8 @@
 > Actions on Objective: Platoon will establish an ORP, move to the objective, isolate the enemy position, breach and clear the bunker, and withdraw in an organized manner. Assault, support, and security elements will be employed per doctrine.
 >
 > OPFOR/Training Wrinkles: OPFOR should simulate a determined defense, using prepared positions and possible IEDs. Consider introducing a counterattack or reinforcement attempt during or after the assault. Civilian presence or non-combatant role-players can be used to test ROE and decision-making. Cadre may inject unexpected obstacles, simulate booby traps, or introduce time-sensitive intelligence to challenge the platoon's planning and execution.
+>
+> UAS/Counter-UAS Injects: Simulate enemy use of a small UAS (drone) for reconnaissance prior to or during the operation. Use a drone or cadre observer to replicate aerial surveillance and force candidates to react to detection. Introduce a scenario where the enemy uses a drone to spot and adjust indirect fire or coordinate a counterattack. Have OPFOR use a drone to identify friendly positions, forcing candidates to use camouflage, concealment, and movement discipline. Simulate electronic warfare or jamming as a result of enemy UAS activity, impacting friendly communications or GPS. Allow candidates to detect and report a UAS, rewarding units that take effective countermeasures (e.g., moving under cover, halting movement, or changing routes). Use a drone to simulate dropping a small munition or marking a target for indirect fire, testing the unit’s response to aerial threats.
 
 Time Zone Used Throughout the Plan/Order: EASTERN STANDARD TIME
 
@@ -35,7 +37,7 @@ b. Area of Operations.
 
 2. Weather. Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
-c. Enemy Forces. The enemy is a determined irregular force, likely associated with a regional militia or paramilitary group. They are equipped with small arms, heavy weapons, and may employ defensive positions and improvised explosive devices. They are experienced in defending fixed positions and may attempt to reinforce or counterattack if threatened.
+c. Enemy Forces. The enemy is a determined irregular force, likely associated with a regional militia or paramilitary group. They are equipped with small arms, heavy weapons, and may employ defensive positions and improvised explosive devices. They are experienced in defending fixed positions and may attempt to reinforce or counterattack if threatened. Recent conflicts have demonstrated the widespread use of UAS (drones) for reconnaissance and attack. Enemy and irregular forces may employ commercial or military drones for surveillance, target acquisition, or direct attack. Platoon leaders and squads must account for potential UAS threats during planning, movement, and actions on the objective. Maintain vigilance for aerial threats, use available cover and concealment, and report any UAS sightings immediately.
 
 1. Composition. 4-5 combatants, AK-47s, 1 HMG (Heavy Machine Gun), possible IEDs.
 
@@ -114,6 +116,12 @@ e. Coordinating Instructions:
    - **LACE Report:** At least once during operation and upon re-establishment of ORP.
    - **SALUTE Report:** Upon sighting enemy forces or indicators.
 5. This OPORD is effective immediately upon distribution.
+
+6. Counter-UAS (C-UAS) Measures:
+- All units must account for the possibility of enemy UAS employment during all phases of the operation.
+- Assign observation and reporting responsibilities for UAS threats within each squad.
+- Use terrain, camouflage, and movement discipline to reduce detection by enemy drones.
+- Remain aware of the evolving capabilities of enemy and irregular forces, including electronic warfare and commercial drone use.
 
 **4. SUSTAINMENT.**
 

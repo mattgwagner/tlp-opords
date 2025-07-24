@@ -11,6 +11,8 @@
 > Actions on Objective: Platoon will establish an ORP, move to the ambush site, set up assault, support, and security elements, initiate the ambush on the enemy convoy, and withdraw in an organized manner.
 >
 > OPFOR/Training Wrinkles: OPFOR should simulate a lightly armed convoy with the ability to reinforce or withdraw. Consider introducing a civilian vehicle or non-combatant presence to test ROE and decision-making. OPFOR may attempt to flank or counterattack if the ambush is detected early. Cadre can inject communication or equipment failures, or unexpected changes in convoy timing to challenge the platoon's flexibility and adaptability.
+>
+> UAS/Counter-UAS Injects: Simulate enemy use of a small UAS (drone) for reconnaissance prior to or during the operation. Use a drone or cadre observer to replicate aerial surveillance and force candidates to react to detection. Introduce a scenario where the enemy uses a drone to spot and adjust indirect fire or coordinate a counterattack. Have OPFOR use a drone to identify friendly positions, forcing candidates to use camouflage, concealment, and movement discipline. Simulate electronic warfare or jamming as a result of enemy UAS activity, impacting friendly communications or GPS. Allow candidates to detect and report a UAS, rewarding units that take effective countermeasures (e.g., moving under cover, halting movement, or changing routes). Use a drone to simulate dropping a small munition or marking a target for indirect fire, testing the unit’s response to aerial threats.
 
 Time Zone Used Throughout the Plan/Order: EASTERN STANDARD TIME
 
@@ -35,7 +37,7 @@ b. Area of Operations.
 
 2. Weather. Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
-c. Enemy Forces. The enemy consists of a lightly armed irregular force, likely affiliated with a regional militia group. They are equipped with small arms, possible support weapons, and have experience operating in rural environments. They are capable of basic convoy operations and may attempt to reinforce or withdraw if engaged.
+c. Enemy Forces. The enemy consists of a lightly armed irregular force, likely affiliated with a regional militia group. They are equipped with small arms, possible support weapons, and have experience operating in rural environments. They are capable of basic convoy operations and may attempt to reinforce or withdraw if engaged. Recent conflicts have demonstrated the widespread use of UAS (drones) for reconnaissance and attack. Enemy and irregular forces may employ commercial or military drones for surveillance, target acquisition, or direct attack. Platoon leaders and squads must account for potential UAS threats during planning, movement, and actions on the objective. Maintain vigilance for aerial threats, use available cover and concealment, and report any UAS sightings immediately.
 
 1. Composition. 2 vehicles, 6-8 personnel, AK-47s, possible support weapons (e.g., HMG - Heavy Machine Gun).
 
@@ -113,6 +115,12 @@ e. Coordinating Instructions:
    - **In Position Report:** Upon occupying the ambush site or ORP.
    - **LACE Report:** After ambush, within ______ minutes.
 5. This OPORD is effective immediately upon distribution.
+
+6. Counter-UAS (C-UAS) Measures:
+- All units must account for the possibility of enemy UAS employment during all phases of the operation.
+- Assign observation and reporting responsibilities for UAS threats within each squad.
+- Use terrain, camouflage, and movement discipline to reduce detection by enemy drones.
+- Remain aware of the evolving capabilities of enemy and irregular forces, including electronic warfare and commercial drone use.
 
 **4. SUSTAINMENT.**
 

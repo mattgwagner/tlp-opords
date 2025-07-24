@@ -11,6 +11,8 @@
 > Actions on Objective: Platoon will establish an ORP, move to the city, isolate the objective, clear buildings and key terrain, secure the area, and establish defensive positions to prevent enemy re-infiltration. Assault, support, and security elements will be employed per doctrine.
 >
 > OPFOR/Training Wrinkles: OPFOR should simulate a determined defense using urban tactics, barricades, and possible IEDs. Consider introducing non-combatant role-players, civilian presence, or hostages to test ROE and decision-making. OPFOR may attempt to counterattack, infiltrate, or use underground routes. Cadre can inject time-sensitive intelligence, simulate booby traps, or introduce unexpected obstacles to challenge the platoon's planning and execution.
+>
+> UAS/Counter-UAS Injects: Simulate enemy use of a small UAS (drone) for reconnaissance prior to or during the operation. Use a drone or cadre observer to replicate aerial surveillance and force candidates to react to detection. Introduce a scenario where the enemy uses a drone to spot and adjust indirect fire or coordinate a counterattack. Have OPFOR use a drone to identify friendly positions, forcing candidates to use camouflage, concealment, and movement discipline. Simulate electronic warfare or jamming as a result of enemy UAS activity, impacting friendly communications or GPS. Allow candidates to detect and report a UAS, rewarding units that take effective countermeasures (e.g., moving under cover, halting movement, or changing routes). Use a drone to simulate dropping a small munition or marking a target for indirect fire, testing the unit’s response to aerial threats.
 
 Time Zone Used Throughout the Plan/Order: EASTERN STANDARD TIME
 
@@ -35,7 +37,7 @@ b. Area of Operations.
 
 2. Weather. Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
-c. Enemy Forces. The enemy is a well-armed irregular force, using DISMOUNT CITY as a base for operations. They are experienced in urban combat, employ barricades, IEDs, and may use civilians as shields. Capable of rapid movement through buildings and underground routes.
+c. Enemy Forces. The enemy is a well-armed irregular force, using DISMOUNT CITY as a base for operations. They are experienced in urban combat, employ barricades, IEDs, and may use civilians as shields. Capable of rapid movement through buildings and underground routes. Recent conflicts have demonstrated the widespread use of UAS (drones) for reconnaissance and attack. Enemy and irregular forces may employ commercial or military drones for surveillance, target acquisition, or direct attack. Platoon leaders and squads must account for potential UAS threats during planning, movement, and actions on the objective. Maintain vigilance for aerial threats, use available cover and concealment, and report any UAS sightings immediately.
 
 1. Composition. 8-10 combatants, small arms, possible HMG/RPG, IEDs, barricades, and communications equipment.
 

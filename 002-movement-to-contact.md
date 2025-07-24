@@ -11,6 +11,8 @@
 > Actions on Objective: Platoon will use bounding overwatch to advance, maintain security, and develop the situation upon enemy contact. 3rd Squad serves as reserve, ready to reinforce or exploit success.
 >
 > OPFOR/Training Wrinkles: OPFOR should use concealment and hit-and-run tactics, blending into the environment. Consider introducing a civilian presence or non-combatant scenario to test ROE. OPFOR may break contact and attempt to regroup, or set up a hasty ambush. Cadre can inject intelligence updates, unexpected obstacles, or simulate equipment malfunctions to challenge the platoon's adaptability and decision-making.
+>
+> UAS/Counter-UAS Injects: Simulate enemy use of a small UAS (drone) for reconnaissance prior to or during the operation. Use a drone or cadre observer to replicate aerial surveillance and force candidates to react to detection. Introduce a scenario where the enemy uses a drone to spot and adjust indirect fire or coordinate a counterattack. Have OPFOR use a drone to identify friendly positions, forcing candidates to use camouflage, concealment, and movement discipline. Simulate electronic warfare or jamming as a result of enemy UAS activity, impacting friendly communications or GPS. Allow candidates to detect and report a UAS, rewarding units that take effective countermeasures (e.g., moving under cover, halting movement, or changing routes). Use a drone to simulate dropping a small munition or marking a target for indirect fire, testing the unit’s response to aerial threats.
 
 Time Zone Used Throughout the Plan/Order: EASTERN STANDARD TIME
 
@@ -35,7 +37,7 @@ b. Area of Operations.
 
 2. Weather. Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
-c. Enemy Forces. The enemy is a small, organized group of irregular fighters, likely part of a local militia or insurgent cell. They are familiar with the terrain, use small arms and support weapons, and employ ambush and hit-and-run tactics. They are capable of blending into the local populace and adapting quickly to changing situations.
+c. Enemy Forces. The enemy is a small, organized group of irregular fighters, likely part of a local militia or insurgent cell. They are familiar with the terrain, use small arms and support weapons, and employ ambush and hit-and-run tactics. They are capable of blending into the local populace and adapting quickly to changing situations. Recent conflicts have demonstrated the widespread use of UAS (drones) for reconnaissance and attack. Enemy and irregular forces may employ commercial or military drones for surveillance, target acquisition, or direct attack. Platoon leaders and squads must account for potential UAS threats during planning, movement, and actions on the objective. Maintain vigilance for aerial threats, use available cover and concealment, and report any UAS sightings immediately.
 
 1. Composition. 6-8 combatants, small arms, possible HMG (Heavy Machine Gun)/RPG, in concealment.
 
@@ -116,6 +118,12 @@ e. Coordinating Instructions:
    - **LACE Report:** At end of each movement phase.
    - **SALUTE Report:** Upon contact with enemy or relevant activity.
 5. This OPORD is effective immediately upon distribution.
+
+6. Counter-UAS (C-UAS) Measures:
+- All units must account for the possibility of enemy UAS employment during all phases of the operation.
+- Assign observation and reporting responsibilities for UAS threats within each squad.
+- Use terrain, camouflage, and movement discipline to reduce detection by enemy drones.
+- Remain aware of the evolving capabilities of enemy and irregular forces, including electronic warfare and commercial drone use.
 
 **4. SUSTAINMENT.**
 
