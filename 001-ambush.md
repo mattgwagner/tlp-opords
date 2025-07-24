@@ -51,7 +51,7 @@ d. Friendly Forces.
 
 1. Higher Headquarters: A Co. 4th BN – 211th INF.
 
-2. Mission. A Company conducts ambush operations to disable enemy supply route in AO Blanding.
+2. Mission. A Company conducts ambush operations to disable enemy supply route in AO COTTO.
 
 3. Commander's Intent. Destroy enemy convoy and seize supplies to ensure safe passage for friendly forces.
 
