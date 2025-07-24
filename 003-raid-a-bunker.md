@@ -10,9 +10,19 @@
 >
 > Actions on Objective: Platoon will establish an ORP, move to the objective, isolate the enemy position, breach and clear the bunker, and withdraw in an organized manner. Assault, support, and security elements will be employed per doctrine.
 >
-> OPFOR/Training Wrinkles: OPFOR should simulate a determined defense, using prepared positions and possible IEDs. Consider introducing a counterattack or reinforcement attempt during or after the assault. Civilian presence or non-combatant role-players can be used to test ROE and decision-making. Cadre may inject unexpected obstacles, simulate booby traps, or introduce time-sensitive intelligence to challenge the platoon's planning and execution.
+> **OPFOR/Training Wrinkles:**
+> - Simulate a determined defense with prepared positions and possible IEDs.
+> - Introduce a counterattack or reinforcement attempt during/after the assault.
+> - Use civilian role-players to test ROE.
+> - Inject unexpected obstacles, booby traps, or time-sensitive intelligence.
 >
-> UAS/Counter-UAS Injects: Simulate enemy use of a small UAS (drone) for reconnaissance prior to or during the operation. Use a drone or cadre observer to replicate aerial surveillance and force candidates to react to detection. Introduce a scenario where the enemy uses a drone to spot and adjust indirect fire or coordinate a counterattack. Have OPFOR use a drone to identify friendly positions, forcing candidates to use camouflage, concealment, and movement discipline. Simulate electronic warfare or jamming as a result of enemy UAS activity, impacting friendly communications or GPS. Allow candidates to detect and report a UAS, rewarding units that take effective countermeasures (e.g., moving under cover, halting movement, or changing routes). Use a drone to simulate dropping a small munition or marking a target for indirect fire, testing the unit’s response to aerial threats.
+> **UAS/Counter-UAS Injects (optional):**
+> - Simulate enemy drone reconnaissance.
+> - Use a drone/cadre observer for aerial surveillance.
+> - Use a drone to spot/adjust indirect fire or coordinate a counterattack.
+> - Simulate electronic warfare/jamming.
+> - Reward effective UAS detection and countermeasures.
+> - Simulate a drone dropping a munition or marking a target.
 
 Time Zone Used Throughout the Plan/Order: EASTERN STANDARD TIME
 
