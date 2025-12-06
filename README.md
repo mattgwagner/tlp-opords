@@ -9,14 +9,14 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 ## Available Orders
 
 ### Evaluated Missions (Wooded Terrain)
-- [Ambush at Crossroads](001-ambush.md)
-- [Movement to Contact](002-movement-to-contact.md)
-- [Raid on Bunker](003-raid-a-bunker.md)
-- [Area/Zone Reconnaissance](005-area-zone-reconnaissance.md)
+- [Ambush at Crossroads](001-ambush.md) - [PDF](001-ambush.pdf)
+- [Movement to Contact](002-movement-to-contact.md) - [PDF](002-movement-to-contact.pdf)
+- [Raid on Bunker](003-raid-a-bunker.md) - [PDF](003-raid-a-bunker.pdf)
+- [Area/Zone Reconnaissance](005-area-zone-reconnaissance.md) - [PDF](005-area-zone-reconnaissance.pdf)
 
 ### MOUT Training Scenarios
-- [Clear Dismount City](004-clear-dismount-city.md)
-- [Base Defense](006-base-defense.md)
-- [Forward Passage of Lines](007-forward-passage-of-lines.md)
+- [Clear Dismount City](004-clear-dismount-city.md) - [PDF](004-clear-dismount-city.pdf)
+- [Base Defense](006-base-defense.md) - [PDF](006-base-defense.pdf)
+- [Forward Passage of Lines](007-forward-passage-of-lines.md) - [PDF](007-forward-passage-of-lines.pdf)
 
 This is a repository of simple, platoon level operations orders for use at OCS for STX evaluation lanes and TLP training exercises.
