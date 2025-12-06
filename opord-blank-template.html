@@ -24,12 +24,42 @@
             background: #fff;
         }
 
+        /* Color Coding System - Grey Shades for B&W Printing */
+        .field-time {
+            background-color: #e8e8e8;
+            border-bottom-color: #666;
+        }
+
+        .field-location {
+            background-color: #d0d0d0;
+            border-bottom-color: #666;
+        }
+
+        .field-text {
+            background-color: #f5f5f5;
+            border-color: #666;
+        }
+
+        .field-acronym {
+            background-color: #e0e0e0;
+            border-left-color: #666;
+        }
+
+        .section-acronym {
+            background-color: #e8e8e8;
+            padding: 8px;
+            margin: 8px 0;
+            border-left: 4px solid #666;
+            border-radius: 3px;
+        }
+
         /* Cover Page */
         .cover {
             text-align: center;
             margin-bottom: 20px;
-            padding: 15px 0;
+            padding: 20px 15px;
             border-bottom: 3px solid #000;
+            background: linear-gradient(to bottom, #f5f5f5 0%, #fff 100%);
             page-break-after: avoid;
         }
 
@@ -38,6 +68,7 @@
             font-weight: bold;
             margin-bottom: 8px;
             letter-spacing: 2px;
+            color: #000;
         }
 
         .cover h2 {
@@ -64,9 +95,12 @@
         h1 {
             font-size: 16pt;
             font-weight: bold;
-            margin: 16px 0 8px 0;
-            padding-bottom: 3px;
+            margin: 18px 0 10px 0;
+            padding: 8px 12px;
+            padding-bottom: 5px;
             border-bottom: 2px solid #000;
+            border-left: 5px solid #333;
+            background-color: #f5f5f5;
             text-transform: uppercase;
             page-break-after: avoid;
         }
@@ -74,17 +108,22 @@
         h2 {
             font-size: 13pt;
             font-weight: bold;
-            margin: 12px 0 6px 0;
-            padding-left: 8px;
-            border-left: 3px solid #333;
+            margin: 14px 0 7px 0;
+            padding: 6px 10px;
+            padding-left: 12px;
+            border-left: 4px solid #333;
+            background-color: #fafafa;
             page-break-after: avoid;
         }
 
         h3 {
             font-size: 11pt;
             font-weight: bold;
-            margin: 10px 0 5px 0;
+            margin: 12px 0 6px 0;
+            padding: 4px 8px;
             text-decoration: underline;
+            background-color: #fafafa;
+            border-left: 3px solid #666;
             page-break-after: avoid;
         }
 
@@ -96,74 +135,84 @@
         .label {
             font-weight: bold;
             display: inline;
+            color: #222;
         }
 
         .fill-line {
-            border-bottom: 1px solid #333;
+            border-bottom: 2px solid #333;
             display: inline-block;
             width: 350px;
-            min-height: 14px;
+            min-height: 16px;
+            padding: 2px 4px;
+            background-color: #fff9c4;
+            border-radius: 2px;
         }
 
         .fill-line-short {
-            border-bottom: 1px solid #333;
+            border-bottom: 2px solid #333;
             display: inline-block;
             width: 200px;
-            min-height: 14px;
+            min-height: 16px;
+            padding: 2px 4px;
+            background-color: #fff9c4;
+            border-radius: 2px;
         }
 
         .fill-block {
-            border: 1px solid #333;
+            border: 2px solid #333;
             min-height: 35px;
-            padding: 5px;
-            margin: 5px 0;
-            background: #fafafa;
+            padding: 8px;
+            margin: 6px 0;
+            background: #fff9c4;
+            border-radius: 3px;
             page-break-inside: avoid;
         }
 
         .fill-block-large {
-            border: 1px solid #333;
+            border: 2px solid #333;
             min-height: 50px;
-            padding: 6px;
-            margin: 6px 0;
-            background: #fafafa;
+            padding: 10px;
+            margin: 8px 0;
+            background: #fff9c4;
+            border-radius: 3px;
             page-break-inside: avoid;
         }
 
         /* Lists */
         ol {
             margin-left: 25px;
-            margin-top: 6px;
-            margin-bottom: 8px;
+            margin-top: 8px;
+            margin-bottom: 10px;
         }
 
         ol li {
-            margin: 3px 0;
+            margin: 4px 0;
             padding-left: 4px;
         }
 
         ul {
             list-style-type: disc;
             margin-left: 25px;
-            margin-top: 6px;
-            margin-bottom: 8px;
+            margin-top: 8px;
+            margin-bottom: 10px;
         }
 
         ul li {
-            margin: 3px 0;
+            margin: 4px 0;
         }
 
         /* Tables */
         table {
             width: 100%;
             border-collapse: collapse;
-            margin: 10px 0;
+            margin: 12px 0;
             page-break-inside: avoid;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
         }
 
         table th, table td {
             border: 1px solid #333;
-            padding: 6px 8px;
+            padding: 8px 10px;
             text-align: left;
         }
 
@@ -171,30 +220,47 @@
             background: #e8e8e8;
             font-weight: bold;
             text-align: center;
+            color: #000;
+        }
+
+        table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        table tr:nth-child(odd) {
+            background-color: #fff;
         }
 
         .report-table td {
             text-align: center;
             vertical-align: top;
+            font-size: 14pt;
         }
 
         /* Special Sections */
         .note-box {
-            border: 1px solid #666;
-            padding: 6px;
-            margin: 6px 0;
-            background: #f5f5f5;
+            border: 2px solid #d32f2f;
+            padding: 10px;
+            margin: 10px 0;
+            background: #fce4ec;
             font-style: italic;
+            border-radius: 4px;
             page-break-inside: avoid;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .note-box strong {
+            color: #c2185b;
         }
 
         .emphasis {
             font-weight: bold;
             text-decoration: underline;
+            color: #000;
         }
 
         .form-row {
-            margin: 6px 0;
+            margin: 8px 0;
         }
 
         .indent {
@@ -203,6 +269,78 @@
 
         .sub-indent {
             margin-left: 40px;
+        }
+
+        /* Acronym styling */
+        .acronym {
+            font-weight: bold;
+            color: #e65100;
+            background-color: #fff3e0;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+
+        .section {
+            page-break-inside: avoid;
+            margin-bottom: 15px;
+        }
+
+        /* Special section backgrounds */
+        .section-situation {
+            background-color: #f5f5f5;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+
+        .section-mission {
+            background-color: #e8f5e9;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+            border-left: 5px solid #388e3c;
+        }
+
+        .section-execution {
+            background-color: #e3f2fd;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+            border-left: 5px solid #1976d2;
+        }
+
+        .section-sustainment {
+            background-color: #fff3e0;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+            border-left: 5px solid #f57c00;
+        }
+
+        .section-command {
+            background-color: #f3e5f5;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+            border-left: 5px solid #7b1fa2;
+        }
+
+        /* GOTWA section */
+        .gotwa-section {
+            background-color: #fff3e0;
+            padding: 12px;
+            border: 2px solid #f57c00;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+
+        /* Sand Table section */
+        .sand-table-section {
+            background-color: #e8f5e9;
+            padding: 12px;
+            border: 2px solid #388e3c;
+            border-radius: 4px;
+            margin: 10px 0;
         }
 
         /* Print specific */
@@ -214,15 +352,52 @@
             .no-print {
                 display: none;
             }
-        }
 
-        .acronym {
-            font-weight: bold;
-            color: #222;
-        }
+            /* Ensure colors print well */
+            .field-time {
+                background-color: #e3f2fd !important;
+            }
 
-        .section {
-            page-break-inside: avoid;
+            .field-location {
+                background-color: #e8f5e9 !important;
+            }
+
+            .field-text {
+                background-color: #fff9c4 !important;
+            }
+
+            .field-acronym {
+                background-color: #fff3e0 !important;
+            }
+
+            .note-box {
+                background-color: #fce4ec !important;
+            }
+
+            /* Maintain section backgrounds for print */
+            .section-situation,
+            .section-mission,
+            .section-execution,
+            .section-sustainment,
+            .section-command {
+                background-color: #f5f5f5 !important;
+                border-left: 3px solid #333 !important;
+            }
+
+            .gotwa-section,
+            .sand-table-section {
+                background-color: #f5f5f5 !important;
+                border: 1px solid #333 !important;
+            }
+
+            /* Remove shadows for print */
+            table {
+                box-shadow: none;
+            }
+
+            .note-box {
+                box-shadow: none;
+            }
         }
     </style>
 </head>
@@ -259,32 +434,32 @@
     
     <div class="form-row">
         <span class="label">Situation:</span><br>
-        <div class="fill-block"></div>
+        <div class="fill-block field-text"></div>
     </div>
 
     <div class="form-row">
         <span class="label">Mission:</span><br>
-        <span class="indent">_________ (unit) is to conduct <span class="fill-line-short"></span></span><br>
-        <span class="indent">IVO <span class="fill-line-short"></span></span><br>
-        <span class="indent">NLT <span class="fill-line-short"></span></span><br>
-        <span class="indent">IOT <span class="fill-line-short"></span></span>
+        <span class="indent">_________ (unit) is to conduct <span class="fill-line-short field-text"></span></span><br>
+        <span class="indent">IVO <span class="fill-line-short field-location"></span></span><br>
+        <span class="indent">NLT <span class="fill-line-short field-time"></span></span><br>
+        <span class="indent">IOT <span class="fill-line-short field-text"></span></span>
     </div>
 
     <h3>Tentative Schedule:</h3>
     <div class="form-row indent">
-        OPORD: <span class="fill-line-short"></span><br>
-        Rehearsals: <span class="fill-line-short"></span><br>
-        PCI's: <span class="fill-line-short"></span><br>
-        LOD: <span class="fill-line-short"></span><br>
-        ORP: <span class="fill-line-short"></span><br>
-        Mission: <span class="fill-line-short"></span>
+        OPORD: <span class="fill-line-short field-time"></span><br>
+        Rehearsals: <span class="fill-line-short field-time"></span><br>
+        PCI's: <span class="fill-line-short field-time"></span><br>
+        LOD: <span class="fill-line-short field-time"></span><br>
+        ORP: <span class="fill-line-short field-time"></span><br>
+        Mission: <span class="fill-line-short field-time"></span>
     </div>
 
     <h3>Squad / Team Leader Preparations:</h3>
-    <div class="fill-block"></div>
+    <div class="fill-block field-text"></div>
 
     <h3>Special Instructions:</h3>
-    <div class="fill-block"></div>
+    <div class="fill-block field-text"></div>
 
     <div class="note-box">
         <strong>** Conduct PCI's and Top Off Water</strong>
@@ -295,25 +470,28 @@
 <section class="section">
     <h1>Leader's Reconnaissance</h1>
     
-    <h2>GOTWA</h2>
-    
-    <div class="form-row">
-        Where am I <span class="acronym">(G)</span>oing: <span class="fill-line-short"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(O)</span>thers Going: <span class="fill-line-short"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(T)</span>ime I'll Return: <span class="fill-line-short"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(W)</span>hat if I don't return: <span class="fill-line-short"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(A)</span>ctions on Contact: <span class="fill-line-short"></span>
+    <div class="gotwa-section">
+        <h2>GOTWA</h2>
+        
+        <div class="form-row">
+            Where am I <span class="acronym">(G)</span>oing: <span class="fill-line-short field-location"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(O)</span>thers Going: <span class="fill-line-short field-text"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(T)</span>ime I'll Return: <span class="fill-line-short field-time"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(W)</span>hat if I don't return: <span class="fill-line-short field-text"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(A)</span>ctions on Contact: <span class="fill-line-short field-text"></span>
+        </div>
     </div>
 
-    <h2>Sand Table Checklist</h2>
+    <div class="sand-table-section">
+        <h2>Sand Table Checklist</h2>
     <ul>
         <li>North Seeking Arrow</li>
         <li>Current Location</li>
@@ -326,115 +504,121 @@
         <li>Direction of Advance / Attack</li>
         <li>Cache / Resupply</li>
     </ul>
+    </div>
 
     <h1>Operations Order</h1>
     
     <div class="form-row">
-        <span class="label">References:</span> <span class="fill-line"></span>
+        <span class="label">References:</span> <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        <span class="label">Time Zone:</span> <span class="fill-line-short"></span>
+        <span class="label">Time Zone:</span> <span class="fill-line-short field-time"></span>
     </div>
 
     <h3>Task Organization:</h3>
-    <div class="fill-block"></div>
+    <div class="fill-block field-text"></div>
     
+    <section class="section section-situation">
     <h2>1. SITUATION</h2>
     
-    <h3>a. Area of Operations (OAKOC)</h3>
-    
-    <div class="form-row">
-        <span class="acronym">(O)</span>bservation and Fields of Fire: <span class="fill-line-short"></span>
+    <div class="section-acronym">
+        <h3>a. Area of Operations (OAKOC)</h3>
+        
+        <div class="form-row">
+            <span class="acronym">(O)</span>bservation and Fields of Fire: <span class="fill-line-short field-location"></span>
+        </div>
+
+        <div class="form-row">
+            <span class="acronym">(A)</span>venues of Approach: <span class="fill-line-short field-location"></span>
+        </div>
+
+        <div class="form-row">
+            <span class="acronym">(K)</span>ey Terrain: <span class="fill-line-short field-location"></span>
+        </div>
+
+        <div class="form-row">
+            <span class="acronym">(O)</span>bstacles: <span class="fill-line-short field-location"></span>
+        </div>
+
+        <div class="form-row">
+            <span class="acronym">(C)</span>over and Concealment: <span class="fill-line-short field-location"></span>
+        </div>
+
+        <div class="form-row">
+            Weather: <span class="fill-line-short field-text"></span>
+        </div>
+
+        <div class="form-row">
+            Civil Considerations: <span class="fill-line-short field-text"></span>
+        </div>
     </div>
 
-    <div class="form-row">
-        <span class="acronym">(A)</span>venues of Approach: <span class="fill-line-short"></span>
-    </div>
-
-    <div class="form-row">
-        <span class="acronym">(K)</span>ey Terrain: <span class="fill-line-short"></span>
-    </div>
-
-    <div class="form-row">
-        <span class="acronym">(O)</span>bstacles: <span class="fill-line-short"></span>
-    </div>
-
-    <div class="form-row">
-        <span class="acronym">(C)</span>over and Concealment: <span class="fill-line-short"></span>
-    </div>
-
-    <div class="form-row">
-        Weather: <span class="fill-line-short"></span>
-    </div>
-
-    <div class="form-row">
-        Civil Considerations: <span class="fill-line-short"></span>
-    </div>
-
-    <h3>b. Enemy Forces (SALUTE)</h3>
-    
-    <div class="form-row">
-        <span class="acronym">(S)</span>ize of Force: <span class="fill-line-short"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(A)</span>ctivities: <span class="fill-line-short"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(L)</span>ocation: <span class="fill-line-short"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(U)</span>nit / Uniform: <span class="fill-line-short"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(T)</span>ime and Date: <span class="fill-line-short"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(E)</span>quipment & Weapons: <span class="fill-line-short"></span>
+    <div class="section-acronym">
+        <h3>b. Enemy Forces (SALUTE)</h3>
+        
+        <div class="form-row">
+            <span class="acronym">(S)</span>ize of Force: <span class="fill-line-short field-text"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(A)</span>ctivities: <span class="fill-line-short field-text"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(L)</span>ocation: <span class="fill-line-short field-location"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(U)</span>nit / Uniform: <span class="fill-line-short field-text"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(T)</span>ime and Date: <span class="fill-line-short field-time"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(E)</span>quipment & Weapons: <span class="fill-line-short field-text"></span>
+        </div>
     </div>
 
     <div class="form-row">
         <span class="label">Most Probable Course of Action:</span><br>
-        <div class="fill-block"></div>
+        <div class="fill-block field-text"></div>
     </div>
 
     <div class="form-row">
         <span class="label">Most Dangerous Course of Action:</span><br>
-        <div class="fill-block"></div>
+        <div class="fill-block field-text"></div>
     </div>
 
     <h3>c. Friendly Forces</h3>
     
     <div class="form-row">
         <span class="label">Higher Unit (Mission & Intent):</span><br>
-        <div class="fill-block-large"></div>
+        <div class="fill-block-large field-text"></div>
     </div>
 
     <div class="form-row">
         <span class="label">Adjacent Units:</span><br>
-        <div class="fill-block"></div>
+        <div class="fill-block field-text"></div>
     </div>
 
     <div class="form-row">
         <span class="label">Supporting Units:</span><br>
-        <div class="fill-block"></div>
+        <div class="fill-block field-text"></div>
     </div>
 
     <div class="form-row">
-        Attachments / Detachments: <span class="fill-line-short"></span>
+        Attachments / Detachments: <span class="fill-line-short field-text"></span>
     </div>
-</section>
+    </section>
 
 <!-- MISSION -->
-<section class="section">
+<section class="section section-mission">
     <h2>2. MISSION</h2>
     
     <p class="emphasis">TACTICAL TASK AND PURPOSE</p>
     
     <div class="form-row">
-        _________ (unit) conducts <span class="fill-line-short"></span><br>
-        IVO <span class="fill-line"></span><br>
-        NLT <span class="fill-line"></span><br>
-        IOT <span class="fill-line"></span>
+        _________ (unit) conducts <span class="fill-line-short field-text"></span><br>
+        IVO <span class="fill-line field-location"></span><br>
+        NLT <span class="fill-line field-time"></span><br>
+        IOT <span class="fill-line field-text"></span>
     </div>
 
     <div class="note-box" style="margin-top: 10px;">
@@ -443,49 +627,49 @@
 </section>
 
 <!-- EXECUTION -->
-<section class="section">
+<section class="section section-execution">
     <h2>3. EXECUTION</h2>
     
     <h3>a. Commander's Intent</h3>
-    <div class="fill-block-large"></div>
+    <div class="fill-block-large field-text"></div>
 
     <h3>b. Concept of Operations</h3>
     
     <div class="form-row">
         <span class="label">Purpose:</span><br>
-        <div class="fill-block"></div>
+        <div class="fill-block field-text"></div>
     </div>
     
     <div class="form-row">
         <span class="label">High Level Overview:</span><br>
-        <div class="fill-block-large"></div>
+        <div class="fill-block-large field-text"></div>
     </div>
     
     <div class="form-row">
         <span class="label">End State:</span><br>
-        <div class="fill-block"></div>
+        <div class="fill-block field-text"></div>
     </div>
 
     <h3>c. Scheme of Maneuver</h3>
     
     <div class="form-row">
         <span class="label">Decisive Operation:</span><br>
-        <div class="fill-block-large"></div>
+        <div class="fill-block-large field-text"></div>
     </div>
 
     <div class="form-row">
         <span class="label">Shaping Operation:</span><br>
-        <div class="fill-block-large"></div>
+        <div class="fill-block-large field-text"></div>
     </div>
 
     <div class="form-row">
         <span class="label">Route to Objective:</span><br>
-        <div class="fill-block-large"></div>
+        <div class="fill-block-large field-location"></div>
     </div>
 
     <div class="form-row">
         <span class="label">Fires (task/purpose/effect):</span><br>
-        <div class="fill-block"></div>
+        <div class="fill-block field-text"></div>
     </div>
 
     <h3>Tasks to Subordinate Units:</h3>
@@ -495,72 +679,72 @@
     
     <div class="form-row">
         <span class="label">1st Squad:</span>
-        <div class="fill-block"></div>
+        <div class="fill-block field-text"></div>
     </div>
 
     <div class="form-row">
         <span class="label">2nd Squad:</span>
-        <div class="fill-block"></div>
+        <div class="fill-block field-text"></div>
     </div>
 
     <div class="form-row">
         <span class="label">3rd Squad:</span>
-        <div class="fill-block"></div>
+        <div class="fill-block field-text"></div>
     </div>
 
     <div class="form-row">
         <span class="label">Weapons Squad:</span>
-        <div class="fill-block"></div>
+        <div class="fill-block field-text"></div>
     </div>
 
     <h3>d. Coordinating Instructions</h3>
     
     <div class="form-row">
         <span class="label">Timeline:</span><br>
-        SP: <span class="fill-line"></span>
+        SP: <span class="fill-line field-time"></span>
     </div>
     <div class="form-row">
-        LOD: <span class="fill-line"></span>
+        LOD: <span class="fill-line field-time"></span>
     </div>
     <div class="form-row">
-        ORP: <span class="fill-line"></span>
+        ORP: <span class="fill-line field-time"></span>
     </div>
     <div class="form-row">
-        OBJ: <span class="fill-line"></span>
+        OBJ: <span class="fill-line field-time"></span>
     </div>
     <div class="form-row">
-        Consolidation: <span class="fill-line"></span>
+        Consolidation: <span class="fill-line field-time"></span>
     </div>
     <div class="form-row">
-        Exfil: <span class="fill-line"></span>
+        Exfil: <span class="fill-line field-time"></span>
     </div>
 
     <div class="form-row">
         <span class="label">Priority Intelligence Requirements (PIR):</span><br>
-        <div class="fill-block"></div>
+        <div class="fill-block field-text"></div>
     </div>
 
     <div class="form-row">
-        Rules of Engagement: <span class="fill-line"></span>
+        Rules of Engagement: <span class="fill-line field-text"></span>
     </div>
 
     <div class="form-row">
-        EPW: <span class="fill-line"></span>
+        EPW: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        Aid & Litter: <span class="fill-line"></span>
+        Aid & Litter: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        Compass: <span class="fill-line"></span>
+        Compass: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        Pace: <span class="fill-line"></span>
+        Pace: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        Demo: <span class="fill-line"></span>
+        Demo: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        Timekeeper/RTO: <span class="fill-line"></span>
+        Timekeeper/RTO: <span class="fill-line field-text"></span>
     </div>
 
     <h3>Reports:</h3>
@@ -593,47 +777,47 @@
     <h3>Tactical Control Measures:</h3>
     
     <div class="form-row">
-        AA (Grid): <span class="fill-line"></span>
+        AA (Grid): <span class="fill-line field-location"></span>
     </div>
     <div class="form-row">
-        LOD: <span class="fill-line"></span>
+        LOD: <span class="fill-line field-location"></span>
     </div>
     <div class="form-row">
-        ORP: <span class="fill-line"></span>
+        ORP: <span class="fill-line field-location"></span>
     </div>
     <div class="form-row">
-        OBJ (Grid): <span class="fill-line"></span>
+        OBJ (Grid): <span class="fill-line field-location"></span>
     </div>
     <div class="form-row">
-        Short Halt: <span class="fill-line"></span>
+        Short Halt: <span class="fill-line field-location"></span>
     </div>
     <div class="form-row">
-        Long Halt: <span class="fill-line"></span>
+        Long Halt: <span class="fill-line field-location"></span>
     </div>
     <div class="form-row">
-        Indirect Fire: <span class="fill-line"></span>
+        Indirect Fire: <span class="fill-line field-location"></span>
     </div>
     <div class="form-row">
-        Danger Areas: <span class="fill-line"></span>
+        Danger Areas: <span class="fill-line field-location"></span>
     </div>
 </section>
 
 <!-- SUSTAINMENT -->
-<section class="section">
+<section class="section section-sustainment">
     <h2>4. SUSTAINMENT</h2>
     
     <h3>Logistics:</h3>
     <div class="form-row">
-        Class 1 (food): <span class="fill-line"></span>
+        Class 1 (food): <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        Class 3 (fuel): <span class="fill-line"></span>
+        Class 3 (fuel): <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        Class 5 (ammo): <span class="fill-line"></span>
+        Class 5 (ammo): <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        Class 8 (medical): <span class="fill-line"></span>
+        Class 8 (medical): <span class="fill-line field-text"></span>
     </div>
     
     <div class="note-box">
@@ -641,81 +825,81 @@
     </div>
 
     <div class="form-row">
-        CCP: <span class="fill-line"></span>
+        CCP: <span class="fill-line field-location"></span>
     </div>
     <div class="form-row">
-        Re-Supply: <span class="fill-line"></span>
+        Re-Supply: <span class="fill-line field-location"></span>
     </div>
     <div class="form-row">
-        Medevac: <span class="fill-line"></span>
+        Medevac: <span class="fill-line field-location"></span>
     </div>
 
     <h3>Personnel Services Support:</h3>
     <div class="form-row">
-        EPW Handling: <span class="fill-line"></span>
+        EPW Handling: <span class="fill-line field-text"></span>
     </div>
 
     <h3>Health System Support:</h3>
     <div class="form-row">
-        Aid & Litter: <span class="fill-line"></span>
+        Aid & Litter: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        CCP Location: <span class="fill-line"></span>
+        CCP Location: <span class="fill-line field-location"></span>
     </div>
 </section>
 
 <!-- COMMAND & SIGNAL -->
-<section class="section">
+<section class="section section-command">
     <h2>5. COMMAND & SIGNAL</h2>
     
     <h3>Command:</h3>
     <div class="form-row">
-        CDR Location: <span class="fill-line"></span>
+        CDR Location: <span class="fill-line field-location"></span>
     </div>
     <div class="form-row">
-        Higher Unit Location: <span class="fill-line"></span>
+        Higher Unit Location: <span class="fill-line field-location"></span>
     </div>
     <div class="form-row">
-        Succession of Command: <span class="fill-line"></span>
+        Succession of Command: <span class="fill-line field-text"></span>
     </div>
 
     <h3>Control:</h3>
     <div class="form-row">
-        CO/PL: <span class="fill-line"></span>
+        CO/PL: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        PSG: <span class="fill-line"></span>
+        PSG: <span class="fill-line field-text"></span>
     </div>
 
     <h3>Signal:</h3>
     <div class="form-row">
-        Call Signs & Frequencies: <span class="fill-line"></span>
+        Call Signs & Frequencies: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        Challenge/Password: <span class="fill-line"></span>
+        Challenge/Password: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        Number Combo: <span class="fill-line"></span>
+        Number Combo: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        Running Password: <span class="fill-line"></span>
+        Running Password: <span class="fill-line field-text"></span>
     </div>
 
     <h2>OPORD Wrap-Up</h2>
     
     <div class="form-row">
-        Rehearsals at: <span class="fill-line"></span>
+        Rehearsals at: <span class="fill-line field-time"></span>
     </div>
     <div class="form-row">
-        SP: <span class="fill-line"></span>
+        SP: <span class="fill-line field-time"></span>
     </div>
     <div class="form-row">
-        Time: <span class="fill-line"></span>
+        Time: <span class="fill-line field-time"></span>
     </div>
 
     <div style="margin-top: 10px;">
         <p class="label">What are your questions?</p>
-        <div class="fill-block"></div>
+        <div class="fill-block field-text"></div>
     </div>
 
     <div style="margin-top: 10px; text-align: center; font-style: italic; font-weight: bold;">
@@ -772,80 +956,84 @@
     <h1>SPOT / SITREP Report</h1>
     
     <div class="form-row">
-        1. Date / Time: <span class="fill-line"></span>
+        1. Date / Time: <span class="fill-line field-time"></span>
     </div>
     <div class="form-row">
-        2. Unit: <span class="fill-line"></span>
+        2. Unit: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        3. Size: <span class="fill-line"></span>
+        3. Size: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        4. Activity: <span class="fill-line"></span>
+        4. Activity: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        5. Location Grid: <span class="fill-line"></span>
+        5. Location Grid: <span class="fill-line field-location"></span>
     </div>
     <div class="form-row">
-        6. Enemy Unit: <span class="fill-line"></span>
+        6. Enemy Unit: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        7. Time of Observation: <span class="fill-line"></span>
+        7. Time of Observation: <span class="fill-line field-time"></span>
     </div>
     <div class="form-row">
-        8. Equipment: <span class="fill-line"></span>
+        8. Equipment: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        9. Assessment: <span class="fill-line"></span>
+        9. Assessment: <span class="fill-line field-text"></span>
     </div>
     <div class="form-row">
-        10. Narrative: <span class="fill-line"></span>
+        10. Narrative: <span class="fill-line field-text"></span>
     </div>
 </section>
 
 <!-- LACE REPORT -->
 <section class="section">
-    <h1>LACE Report</h1>
-    
-    <div class="form-row">
-        <span class="acronym">(L)</span>iquid: <span class="fill-line"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(A)</span>mmo: <span class="fill-line"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(C)</span>asualties: <span class="fill-line"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(E)</span>quipment: <span class="fill-line"></span>
-    </div>
+    <div class="section-acronym">
+        <h1>LACE Report</h1>
+        
+        <div class="form-row">
+            <span class="acronym">(L)</span>iquid: <span class="fill-line field-text"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(A)</span>mmo: <span class="fill-line field-text"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(C)</span>asualties: <span class="fill-line field-text"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(E)</span>quipment: <span class="fill-line field-text"></span>
+        </div>
 
-    <div class="note-box">
-        <strong>Color Code:</strong> Green: 100% | Yellow: &gt; 50% | Red: &lt; 50%
+        <div class="note-box">
+            <strong>Color Code:</strong> Green: 100% | Yellow: &gt; 50% | Red: &lt; 50%
+        </div>
     </div>
 </section>
 
 <!-- SALUTE REPORT -->
 <section class="section">
-    <h1>SALUTE Report</h1>
-    
-    <div class="form-row">
-        <span class="acronym">(S)</span>ize: <span class="fill-line"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(A)</span>ctivity: <span class="fill-line"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(L)</span>ocation: <span class="fill-line"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(U)</span>nit/Uniform: <span class="fill-line"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(T)</span>ime: <span class="fill-line"></span>
-    </div>
-    <div class="form-row">
-        <span class="acronym">(E)</span>quipment: <span class="fill-line"></span>
+    <div class="section-acronym">
+        <h1>SALUTE Report</h1>
+        
+        <div class="form-row">
+            <span class="acronym">(S)</span>ize: <span class="fill-line field-text"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(A)</span>ctivity: <span class="fill-line field-text"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(L)</span>ocation: <span class="fill-line field-location"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(U)</span>nit/Uniform: <span class="fill-line field-text"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(T)</span>ime: <span class="fill-line field-time"></span>
+        </div>
+        <div class="form-row">
+            <span class="acronym">(E)</span>quipment: <span class="fill-line field-text"></span>
+        </div>
     </div>
 </section>
 
@@ -854,38 +1042,38 @@
     <h1>9-Line MEDEVAC</h1>
     
     <div class="form-row">
-        <strong>LINE 1:</strong> Location (6-digit grid): <span class="fill-line-short"></span>
+        <strong>LINE 1:</strong> Location (6-digit grid): <span class="fill-line-short field-location"></span>
     </div>
     <div class="form-row">
-        <strong>LINE 2:</strong> Radio freq, call sign: <span class="fill-line-short"></span>
+        <strong>LINE 2:</strong> Radio freq, call sign: <span class="fill-line-short field-text"></span>
     </div>
     <div class="form-row">
-        <strong>LINE 3:</strong> # Patients by precedence <span style="font-style: italic;">(A–Urgent, B–Priority, C–Routine, D–Convenience)</span>: <span class="fill-line-short"></span>
+        <strong>LINE 3:</strong> # Patients by precedence <span style="font-style: italic;">(A–Urgent, B–Priority, C–Routine, D–Convenience)</span>: <span class="fill-line-short field-text"></span>
     </div>
     <div class="form-row">
-        <strong>LINE 4:</strong> Special equipment <span style="font-style: italic;">(A–None, B–Hoist, C–Extract, D–Ventilator)</span>: <span class="fill-line-short"></span>
+        <strong>LINE 4:</strong> Special equipment <span style="font-style: italic;">(A–None, B–Hoist, C–Extract, D–Ventilator)</span>: <span class="fill-line-short field-text"></span>
     </div>
     <div class="form-row">
-        <strong>LINE 5:</strong> # Patients <span style="font-style: italic;">(L–Litter, A–Ambulatory)</span>: <span class="fill-line-short"></span>
+        <strong>LINE 5:</strong> # Patients <span style="font-style: italic;">(L–Litter, A–Ambulatory)</span>: <span class="fill-line-short field-text"></span>
     </div>
     <div class="form-row">
-        <strong>LINE 6:</strong> Security <span style="font-style: italic;">(N–No enemy, P–Possible, E–Caution, X–Escort req'd)</span>: <span class="fill-line-short"></span>
+        <strong>LINE 6:</strong> Security <span style="font-style: italic;">(N–No enemy, P–Possible, E–Caution, X–Escort req'd)</span>: <span class="fill-line-short field-text"></span>
     </div>
     <div class="form-row">
-        <strong>LINE 7:</strong> Marking method <span style="font-style: italic;">(A–Panels, B–Pyro, C–Smoke, D–None, E–Other)</span>: <span class="fill-line-short"></span>
+        <strong>LINE 7:</strong> Marking method <span style="font-style: italic;">(A–Panels, B–Pyro, C–Smoke, D–None, E–Other)</span>: <span class="fill-line-short field-text"></span>
     </div>
     <div class="form-row">
-        <strong>LINE 8:</strong> Patient status <span style="font-style: italic;">(A–US Mil, B–US Civ, C–Non-US Mil, D–Non-US Civ, E–EPW)</span>: <span class="fill-line-short"></span>
+        <strong>LINE 8:</strong> Patient status <span style="font-style: italic;">(A–US Mil, B–US Civ, C–Non-US Mil, D–Non-US Civ, E–EPW)</span>: <span class="fill-line-short field-text"></span>
     </div>
     <div class="form-row">
-        <strong>LINE 9:</strong> CBRN Contamination <span style="font-style: italic;">(N–Nuclear, B–Biological, C–Chemical)</span>: <span class="fill-line-short"></span>
+        <strong>LINE 9:</strong> CBRN Contamination <span style="font-style: italic;">(N–Nuclear, B–Biological, C–Chemical)</span>: <span class="fill-line-short field-text"></span>
     </div>
 </section>
 
 <!-- NOTES SECTION -->
 <section class="section">
     <h1>Notes</h1>
-    <div class="fill-block-large" style="height: 300px;"></div>
+    <div class="fill-block-large field-text" style="height: 300px;"></div>
 </section>
 
 </body>
