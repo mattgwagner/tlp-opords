@@ -336,10 +336,10 @@
             margin-bottom: 15px;
         }
 
-        /* Three-column layout for top section */
+        /* Two-column layout for top section */
         .top-section-container {
             display: flex;
-            gap: 15px;
+            gap: 20px;
             margin: 15px 0;
             page-break-inside: avoid;
         }
@@ -366,6 +366,22 @@
             .top-section-container {
                 display: flex;
             }
+        }
+
+        /* Two-column layout for References section */
+        .references-container {
+            display: flex;
+            gap: 15px;
+            margin: 8px 0;
+        }
+
+        .references-column {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .references-column .form-row {
+            margin: 4px 0;
         }
 
         /* Special section backgrounds - Grey shades */
@@ -495,9 +511,9 @@
     <p class="school">Officer Candidate School</p>
 </div>
 
-<!-- TOP SECTION: Three Columns -->
+<!-- TOP SECTION: Two Columns -->
 <div class="top-section-container">
-    <!-- LEFT COLUMN: TLPs -->
+    <!-- LEFT COLUMN: TLPs and Notes -->
     <div class="top-column">
         <section class="section">
             <h1>Troop Leading Procedures</h1>
@@ -512,9 +528,14 @@
                 <li>Supervise and Refine</li>
             </ol>
         </section>
+        
+        <section class="section">
+            <h1>Notes</h1>
+            <div class="fill-block-large field-text" style="height: 300px;"></div>
+        </section>
     </div>
 
-    <!-- MIDDLE COLUMN: WARNO -->
+    <!-- RIGHT COLUMN: WARNO -->
     <div class="top-column">
         <section class="section">
             <h1>Warning Order</h1>
@@ -554,14 +575,6 @@
             <div class="note-box">
                 <strong>** Conduct PCI's and Top Off Water</strong>
             </div>
-        </section>
-    </div>
-
-    <!-- RIGHT COLUMN: Notes -->
-    <div class="top-column">
-        <section class="section">
-            <h1>Notes</h1>
-            <div class="fill-block-large field-text" style="height: 300px;"></div>
         </section>
     </div>
 </div>
@@ -608,15 +621,17 @@
 
     <h1>Operations Order</h1>
     
-    <div style="text-align: center; margin: 15px 0; padding: 10px 0; border-top: 2px solid #333; border-bottom: 2px solid #333;">
-        <strong style="font-size: 12pt;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</strong>
-    </div>
-    
-    <div class="form-row">
-        <span class="label">References:</span> <span class="fill-line field-text"></span>
-    </div>
-    <div class="form-row">
-        <span class="label">Time Zone:</span> <span class="fill-line-short field-time"></span>
+    <div class="references-container">
+        <div class="references-column">
+            <div class="form-row">
+                <span class="label">References:</span> <span class="fill-line field-text"></span>
+            </div>
+        </div>
+        <div class="references-column">
+            <div class="form-row">
+                <span class="label">Time Zone:</span> <span class="fill-line-short field-time"></span>
+            </div>
+        </div>
     </div>
 
     <h3>Task Organization:</h3>
