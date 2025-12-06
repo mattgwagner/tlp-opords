@@ -384,6 +384,32 @@
             margin: 4px 0;
         }
 
+        /* Two-column layout for report references */
+        .reports-container {
+            display: flex;
+            gap: 15px;
+            margin: 15px 0;
+            page-break-inside: avoid;
+        }
+
+        .reports-column {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .reports-column .section {
+            margin-bottom: 10px;
+        }
+
+        .reports-column h1 {
+            font-size: 13pt;
+            margin-top: 10px;
+        }
+
+        .reports-column .form-row {
+            margin: 4px 0;
+        }
+
         /* Special section backgrounds - Grey shades */
         .section-situation {
             background-color: #f0f0f0;
@@ -1070,124 +1096,133 @@
     </ol>
 </section>
 
-<!-- SPOT/SITREP REPORT -->
-<section class="section">
-    <h1>SPOT / SITREP Report</h1>
-    
-    <div class="form-row">
-        1. Date / Time: <span class="fill-line field-time"></span>
-    </div>
-    <div class="form-row">
-        2. Unit: <span class="fill-line field-text"></span>
-    </div>
-    <div class="form-row">
-        3. Size: <span class="fill-line field-text"></span>
-    </div>
-    <div class="form-row">
-        4. Activity: <span class="fill-line field-text"></span>
-    </div>
-    <div class="form-row">
-        5. Location Grid: <span class="fill-line field-location"></span>
-    </div>
-    <div class="form-row">
-        6. Enemy Unit: <span class="fill-line field-text"></span>
-    </div>
-    <div class="form-row">
-        7. Time of Observation: <span class="fill-line field-time"></span>
-    </div>
-    <div class="form-row">
-        8. Equipment: <span class="fill-line field-text"></span>
-    </div>
-    <div class="form-row">
-        9. Assessment: <span class="fill-line field-text"></span>
-    </div>
-    <div class="form-row">
-        10. Narrative: <span class="fill-line field-text"></span>
-    </div>
-</section>
+<!-- REPORT REFERENCES - Two Columns -->
+<div class="reports-container">
+    <!-- LEFT COLUMN: SPOT/SITREP and LACE -->
+    <div class="reports-column">
+        <!-- SPOT/SITREP REPORT -->
+        <section class="section">
+            <h1>SPOT / SITREP Report</h1>
+            
+            <div class="form-row">
+                1. Date / Time: <span class="fill-line field-time"></span>
+            </div>
+            <div class="form-row">
+                2. Unit: <span class="fill-line field-text"></span>
+            </div>
+            <div class="form-row">
+                3. Size: <span class="fill-line field-text"></span>
+            </div>
+            <div class="form-row">
+                4. Activity: <span class="fill-line field-text"></span>
+            </div>
+            <div class="form-row">
+                5. Location Grid: <span class="fill-line field-location"></span>
+            </div>
+            <div class="form-row">
+                6. Enemy Unit: <span class="fill-line field-text"></span>
+            </div>
+            <div class="form-row">
+                7. Time of Observation: <span class="fill-line field-time"></span>
+            </div>
+            <div class="form-row">
+                8. Equipment: <span class="fill-line field-text"></span>
+            </div>
+            <div class="form-row">
+                9. Assessment: <span class="fill-line field-text"></span>
+            </div>
+            <div class="form-row">
+                10. Narrative: <span class="fill-line field-text"></span>
+            </div>
+        </section>
 
-<!-- LACE REPORT -->
-<section class="section">
-    <div class="section-acronym">
-        <h1>LACE Report</h1>
-        
-        <div class="form-row">
-            <span class="acronym">(L)</span>iquid: <span class="fill-line field-text"></span>
-        </div>
-        <div class="form-row">
-            <span class="acronym">(A)</span>mmo: <span class="fill-line field-text"></span>
-        </div>
-        <div class="form-row">
-            <span class="acronym">(C)</span>asualties: <span class="fill-line field-text"></span>
-        </div>
-        <div class="form-row">
-            <span class="acronym">(E)</span>quipment: <span class="fill-line field-text"></span>
-        </div>
+        <!-- LACE REPORT -->
+        <section class="section">
+            <div class="section-acronym">
+                <h1>LACE Report</h1>
+                
+                <div class="form-row">
+                    <span class="acronym">(L)</span>iquid: <span class="fill-line field-text"></span>
+                </div>
+                <div class="form-row">
+                    <span class="acronym">(A)</span>mmo: <span class="fill-line field-text"></span>
+                </div>
+                <div class="form-row">
+                    <span class="acronym">(C)</span>asualties: <span class="fill-line field-text"></span>
+                </div>
+                <div class="form-row">
+                    <span class="acronym">(E)</span>quipment: <span class="fill-line field-text"></span>
+                </div>
 
-        <div class="note-box">
-            <strong>Color Code:</strong> Green: 100% | Yellow: &gt; 50% | Red: &lt; 50%
-        </div>
+                <div class="note-box">
+                    <strong>Color Code:</strong> Green: 100% | Yellow: &gt; 50% | Red: &lt; 50%
+                </div>
+            </div>
+        </section>
     </div>
-</section>
 
-<!-- SALUTE REPORT -->
-<section class="section">
-    <div class="section-acronym">
-        <h1>SALUTE Report</h1>
-        
-        <div class="form-row">
-            <span class="acronym">(S)</span>ize: <span class="fill-line field-text"></span>
-        </div>
-        <div class="form-row">
-            <span class="acronym">(A)</span>ctivity: <span class="fill-line field-text"></span>
-        </div>
-        <div class="form-row">
-            <span class="acronym">(L)</span>ocation: <span class="fill-line field-location"></span>
-        </div>
-        <div class="form-row">
-            <span class="acronym">(U)</span>nit/Uniform: <span class="fill-line field-text"></span>
-        </div>
-        <div class="form-row">
-            <span class="acronym">(T)</span>ime: <span class="fill-line field-time"></span>
-        </div>
-        <div class="form-row">
-            <span class="acronym">(E)</span>quipment: <span class="fill-line field-text"></span>
-        </div>
-    </div>
-</section>
+    <!-- RIGHT COLUMN: SALUTE and 9-Line MEDEVAC -->
+    <div class="reports-column">
+        <!-- SALUTE REPORT -->
+        <section class="section">
+            <div class="section-acronym">
+                <h1>SALUTE Report</h1>
+                
+                <div class="form-row">
+                    <span class="acronym">(S)</span>ize: <span class="fill-line field-text"></span>
+                </div>
+                <div class="form-row">
+                    <span class="acronym">(A)</span>ctivity: <span class="fill-line field-text"></span>
+                </div>
+                <div class="form-row">
+                    <span class="acronym">(L)</span>ocation: <span class="fill-line field-location"></span>
+                </div>
+                <div class="form-row">
+                    <span class="acronym">(U)</span>nit/Uniform: <span class="fill-line field-text"></span>
+                </div>
+                <div class="form-row">
+                    <span class="acronym">(T)</span>ime: <span class="fill-line field-time"></span>
+                </div>
+                <div class="form-row">
+                    <span class="acronym">(E)</span>quipment: <span class="fill-line field-text"></span>
+                </div>
+            </div>
+        </section>
 
-<!-- 9-LINE MEDEVAC -->
-<section class="section">
-    <h1>9-Line MEDEVAC</h1>
-    
-    <div class="form-row">
-        <strong>LINE 1:</strong> Location (6-digit grid): <span class="fill-line-short field-location"></span>
+        <!-- 9-LINE MEDEVAC -->
+        <section class="section">
+            <h1>9-Line MEDEVAC</h1>
+            
+            <div class="form-row">
+                <strong>LINE 1:</strong> Location (6-digit grid): <span class="fill-line-short field-location"></span>
+            </div>
+            <div class="form-row">
+                <strong>LINE 2:</strong> Radio freq, call sign: <span class="fill-line-short field-text"></span>
+            </div>
+            <div class="form-row">
+                <strong>LINE 3:</strong> # Patients by precedence <span style="font-style: italic;">(A–Urgent, B–Priority, C–Routine, D–Convenience)</span>: <span class="fill-line-short field-text"></span>
+            </div>
+            <div class="form-row">
+                <strong>LINE 4:</strong> Special equipment <span style="font-style: italic;">(A–None, B–Hoist, C–Extract, D–Ventilator)</span>: <span class="fill-line-short field-text"></span>
+            </div>
+            <div class="form-row">
+                <strong>LINE 5:</strong> # Patients <span style="font-style: italic;">(L–Litter, A–Ambulatory)</span>: <span class="fill-line-short field-text"></span>
+            </div>
+            <div class="form-row">
+                <strong>LINE 6:</strong> Security <span style="font-style: italic;">(N–No enemy, P–Possible, E–Caution, X–Escort req'd)</span>: <span class="fill-line-short field-text"></span>
+            </div>
+            <div class="form-row">
+                <strong>LINE 7:</strong> Marking method <span style="font-style: italic;">(A–Panels, B–Pyro, C–Smoke, D–None, E–Other)</span>: <span class="fill-line-short field-text"></span>
+            </div>
+            <div class="form-row">
+                <strong>LINE 8:</strong> Patient status <span style="font-style: italic;">(A–US Mil, B–US Civ, C–Non-US Mil, D–Non-US Civ, E–EPW)</span>: <span class="fill-line-short field-text"></span>
+            </div>
+            <div class="form-row">
+                <strong>LINE 9:</strong> CBRN Contamination <span style="font-style: italic;">(N–Nuclear, B–Biological, C–Chemical)</span>: <span class="fill-line-short field-text"></span>
+            </div>
+        </section>
     </div>
-    <div class="form-row">
-        <strong>LINE 2:</strong> Radio freq, call sign: <span class="fill-line-short field-text"></span>
-    </div>
-    <div class="form-row">
-        <strong>LINE 3:</strong> # Patients by precedence <span style="font-style: italic;">(A–Urgent, B–Priority, C–Routine, D–Convenience)</span>: <span class="fill-line-short field-text"></span>
-    </div>
-    <div class="form-row">
-        <strong>LINE 4:</strong> Special equipment <span style="font-style: italic;">(A–None, B–Hoist, C–Extract, D–Ventilator)</span>: <span class="fill-line-short field-text"></span>
-    </div>
-    <div class="form-row">
-        <strong>LINE 5:</strong> # Patients <span style="font-style: italic;">(L–Litter, A–Ambulatory)</span>: <span class="fill-line-short field-text"></span>
-    </div>
-    <div class="form-row">
-        <strong>LINE 6:</strong> Security <span style="font-style: italic;">(N–No enemy, P–Possible, E–Caution, X–Escort req'd)</span>: <span class="fill-line-short field-text"></span>
-    </div>
-    <div class="form-row">
-        <strong>LINE 7:</strong> Marking method <span style="font-style: italic;">(A–Panels, B–Pyro, C–Smoke, D–None, E–Other)</span>: <span class="fill-line-short field-text"></span>
-    </div>
-    <div class="form-row">
-        <strong>LINE 8:</strong> Patient status <span style="font-style: italic;">(A–US Mil, B–US Civ, C–Non-US Mil, D–Non-US Civ, E–EPW)</span>: <span class="fill-line-short field-text"></span>
-    </div>
-    <div class="form-row">
-        <strong>LINE 9:</strong> CBRN Contamination <span style="font-style: italic;">(N–Nuclear, B–Biological, C–Chemical)</span>: <span class="fill-line-short field-text"></span>
-    </div>
-</section>
+</div>
 
 </body>
 </html>
