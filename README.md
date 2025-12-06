@@ -4,7 +4,7 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 
 ## Templates
 
-- [OPORD Blank Template](opord-blank-template.html)
+- [OPORD Blank Template](opord-blank-template.html) - A fill-in-the-blank template with quick references designed to help build operations orders in an expedited manner.
 
 ## Available Orders
 
