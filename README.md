@@ -2,6 +2,10 @@
 
 All Operations Orders should be written in GitHub Flavored Markdown (GFM) format.
 
+## Templates
+
+- [OPORD Blank Template](opord-blank-template.html)
+
 ## Available Orders
 
 ### Evaluated Missions (Wooded Terrain)
