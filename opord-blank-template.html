@@ -537,6 +537,181 @@
                 box-shadow: none;
             }
         }
+
+        /* Mobile Responsive Styles */
+        @media screen and (max-width: 768px) {
+            body {
+                font-size: 11pt;
+                padding: 10px;
+            }
+
+            /* Cover page adjustments */
+            .cover h1 {
+                font-size: 24pt;
+            }
+
+            .cover h2 {
+                font-size: 16pt;
+            }
+
+            /* Headers */
+            h1 {
+                font-size: 14pt;
+                padding: 6px 8px;
+                margin: 12px 0 8px 0;
+            }
+
+            h2 {
+                font-size: 12pt;
+                padding: 5px 8px;
+                margin: 10px 0 6px 0;
+            }
+
+            h3 {
+                font-size: 10pt;
+                padding: 3px 6px;
+                margin: 8px 0 5px 0;
+            }
+
+            /* Stack columns vertically on mobile */
+            .top-section-container {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            .references-container {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            .reports-container {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            /* Make fillable fields full width on mobile */
+            .fill-line {
+                width: 100%;
+                max-width: 100%;
+                min-width: 0;
+            }
+
+            .fill-line-short {
+                width: 100%;
+                max-width: 100%;
+                min-width: 0;
+            }
+
+            /* Adjust form rows for mobile */
+            .form-row {
+                margin: 6px 0;
+            }
+
+            /* Section adjustments */
+            .section-situation,
+            .section-mission,
+            .section-execution,
+            .section-sustainment,
+            .section-command {
+                padding: 10px;
+                margin: 10px 0;
+            }
+
+            /* Table adjustments - make scrollable */
+            table {
+                display: block;
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+                width: 100%;
+            }
+
+            table th,
+            table td {
+                padding: 6px 8px;
+                font-size: 9pt;
+            }
+
+            /* Checklist adjustments */
+            .checklist li {
+                padding-left: 35px;
+            }
+
+            .checklist input[type="checkbox"] {
+                width: 20px;
+                height: 20px;
+            }
+
+            /* Note boxes */
+            .note-box {
+                padding: 8px;
+                margin: 8px 0;
+            }
+
+            /* Fill blocks */
+            .fill-block,
+            .fill-block-large {
+                padding: 8px;
+                min-height: 40px;
+            }
+
+            /* Acronym sections */
+            .section-acronym {
+                padding: 6px;
+            }
+
+            /* GOTWA and Sand Table sections */
+            .gotwa-section,
+            .sand-table-section {
+                padding: 10px;
+            }
+
+            /* Reduce margins in lists */
+            ol, ul {
+                margin-left: 20px;
+            }
+        }
+
+        /* Extra small devices (phones in portrait) */
+        @media screen and (max-width: 480px) {
+            body {
+                font-size: 10pt;
+                padding: 5px;
+            }
+
+            .cover h1 {
+                font-size: 20pt;
+            }
+
+            .cover h2 {
+                font-size: 14pt;
+            }
+
+            h1 {
+                font-size: 12pt;
+            }
+
+            h2 {
+                font-size: 11pt;
+            }
+
+            h3 {
+                font-size: 9pt;
+            }
+
+            .section-situation,
+            .section-mission,
+            .section-execution,
+            .section-sustainment,
+            .section-command {
+                padding: 8px;
+            }
+
+            table th,
+            table td {
+                padding: 4px 6px;
+                font-size: 8pt;
+            }
+        }
     </style>
 </head>
 <body>
