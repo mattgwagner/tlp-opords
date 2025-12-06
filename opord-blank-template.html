@@ -144,7 +144,7 @@
             width: 350px;
             min-height: 16px;
             padding: 2px 4px;
-            background-color: #fff9c4;
+            background-color: #f5f5f5;
             border-radius: 2px;
         }
 
@@ -154,7 +154,7 @@
             width: 200px;
             min-height: 16px;
             padding: 2px 4px;
-            background-color: #fff9c4;
+            background-color: #f5f5f5;
             border-radius: 2px;
         }
 
@@ -163,7 +163,7 @@
             min-height: 35px;
             padding: 8px;
             margin: 6px 0;
-            background: #fff9c4;
+            background: #f5f5f5;
             border-radius: 3px;
             page-break-inside: avoid;
         }
@@ -173,9 +173,25 @@
             min-height: 50px;
             padding: 10px;
             margin: 8px 0;
-            background: #fff9c4;
+            background: #f5f5f5;
             border-radius: 3px;
             page-break-inside: avoid;
+        }
+
+        /* Larger fields for Situation section */
+        .situation-field {
+            min-height: 20px !important;
+            padding: 4px 6px !important;
+        }
+
+        .situation-block {
+            min-height: 50px !important;
+            padding: 12px !important;
+        }
+
+        .situation-block-large {
+            min-height: 70px !important;
+            padding: 14px !important;
         }
 
         /* Lists */
@@ -239,10 +255,10 @@
 
         /* Special Sections */
         .note-box {
-            border: 2px solid #d32f2f;
+            border: 2px solid #666;
             padding: 10px;
             margin: 10px 0;
-            background: #fce4ec;
+            background: #e0e0e0;
             font-style: italic;
             border-radius: 4px;
             page-break-inside: avoid;
@@ -250,7 +266,7 @@
         }
 
         .note-box strong {
-            color: #c2185b;
+            color: #000;
         }
 
         .emphasis {
@@ -274,8 +290,8 @@
         /* Acronym styling */
         .acronym {
             font-weight: bold;
-            color: #e65100;
-            background-color: #fff3e0;
+            color: #333;
+            background-color: #d0d0d0;
             padding: 2px 4px;
             border-radius: 3px;
         }
@@ -285,60 +301,61 @@
             margin-bottom: 15px;
         }
 
-        /* Special section backgrounds */
+        /* Special section backgrounds - Grey shades */
         .section-situation {
+            background-color: #f0f0f0;
+            padding: 12px;
+            border-radius: 4px;
+            margin: 10px 0;
+            border-left: 5px solid #666;
+        }
+
+        .section-mission {
             background-color: #f5f5f5;
             padding: 10px;
             border-radius: 4px;
             margin: 10px 0;
-        }
-
-        .section-mission {
-            background-color: #e8f5e9;
-            padding: 10px;
-            border-radius: 4px;
-            margin: 10px 0;
-            border-left: 5px solid #388e3c;
+            border-left: 5px solid #666;
         }
 
         .section-execution {
-            background-color: #e3f2fd;
+            background-color: #f5f5f5;
             padding: 10px;
             border-radius: 4px;
             margin: 10px 0;
-            border-left: 5px solid #1976d2;
+            border-left: 5px solid #666;
         }
 
         .section-sustainment {
-            background-color: #fff3e0;
+            background-color: #f5f5f5;
             padding: 10px;
             border-radius: 4px;
             margin: 10px 0;
-            border-left: 5px solid #f57c00;
+            border-left: 5px solid #666;
         }
 
         .section-command {
-            background-color: #f3e5f5;
+            background-color: #f5f5f5;
             padding: 10px;
             border-radius: 4px;
             margin: 10px 0;
-            border-left: 5px solid #7b1fa2;
+            border-left: 5px solid #666;
         }
 
         /* GOTWA section */
         .gotwa-section {
-            background-color: #fff3e0;
+            background-color: #e8e8e8;
             padding: 12px;
-            border: 2px solid #f57c00;
+            border: 2px solid #666;
             border-radius: 4px;
             margin: 10px 0;
         }
 
         /* Sand Table section */
         .sand-table-section {
-            background-color: #e8f5e9;
+            background-color: #e8e8e8;
             padding: 12px;
-            border: 2px solid #388e3c;
+            border: 2px solid #666;
             border-radius: 4px;
             margin: 10px 0;
         }
