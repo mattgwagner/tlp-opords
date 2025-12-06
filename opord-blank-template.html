@@ -336,6 +336,38 @@
             margin-bottom: 15px;
         }
 
+        /* Three-column layout for top section */
+        .top-section-container {
+            display: flex;
+            gap: 15px;
+            margin: 15px 0;
+            page-break-inside: avoid;
+        }
+
+        .top-column {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .top-column h1 {
+            font-size: 14pt;
+            margin-top: 0;
+        }
+
+        .top-column h2 {
+            font-size: 12pt;
+        }
+
+        .top-column h3 {
+            font-size: 10pt;
+        }
+
+        @media print {
+            .top-section-container {
+                display: flex;
+            }
+        }
+
         /* Special section backgrounds - Grey shades */
         .section-situation {
             background-color: #f0f0f0;
@@ -463,67 +495,76 @@
     <p class="school">Officer Candidate School</p>
 </div>
 
-<!-- NOTES SECTION -->
-<section class="section">
-    <h1>Notes</h1>
-    <div class="fill-block-large field-text" style="height: 300px;"></div>
-</section>
-
-<!-- TROOP LEADING PROCEDURES -->
-<section class="section">
-    <h1>Troop Leading Procedures</h1>
-    <ol>
-        <li>Receive the Mission</li>
-        <li>Issue the Warning Order</li>
-        <li>Create a Tentative Plan</li>
-        <li>Initiate Necessary Movement</li>
-        <li>Conduct Reconnaissance</li>
-        <li>Complete the Plan</li>
-        <li>Issue Orders</li>
-        <li>Supervise and Refine</li>
-    </ol>
-</section>
-
-<!-- WARNING ORDER -->
-<section class="section">
-    <h1>Warning Order</h1>
-    
-    <div class="form-row">
-        <span class="label">Situation:</span><br>
-        <div class="fill-block field-text"></div>
+<!-- TOP SECTION: Three Columns -->
+<div class="top-section-container">
+    <!-- LEFT COLUMN: TLPs -->
+    <div class="top-column">
+        <section class="section">
+            <h1>Troop Leading Procedures</h1>
+            <ol>
+                <li>Receive the Mission</li>
+                <li>Issue the Warning Order</li>
+                <li>Create a Tentative Plan</li>
+                <li>Initiate Necessary Movement</li>
+                <li>Conduct Reconnaissance</li>
+                <li>Complete the Plan</li>
+                <li>Issue Orders</li>
+                <li>Supervise and Refine</li>
+            </ol>
+        </section>
     </div>
 
-    <div class="form-row">
-        <span class="label">Mission:</span><br>
-        <span class="indent">_________ (unit) is to conduct <span class="fill-line-short field-text"></span></span><br>
-        <span class="indent">IVO <span class="fill-line-short field-location"></span></span><br>
-        <span class="indent">NLT <span class="fill-line-short field-time"></span></span><br>
-        <span class="indent">IOT <span class="fill-line-short field-text"></span></span>
+    <!-- MIDDLE COLUMN: WARNO -->
+    <div class="top-column">
+        <section class="section">
+            <h1>Warning Order</h1>
+            
+            <div class="form-row">
+                <span class="label">Situation:</span><br>
+                <div class="fill-block field-text"></div>
+            </div>
+
+            <div class="form-row">
+                <span class="label">Mission:</span><br>
+                <span class="indent">_________ (unit) is to conduct <span class="fill-line-short field-text"></span></span><br>
+                <span class="indent">IVO <span class="fill-line-short field-location"></span></span><br>
+                <span class="indent">NLT <span class="fill-line-short field-time"></span></span><br>
+                <span class="indent">IOT <span class="fill-line-short field-text"></span></span>
+            </div>
+
+            <h3>Tentative Schedule:</h3>
+            <div class="form-row indent">
+                OPORD: <span class="fill-line-short field-time"></span><br>
+                Rehearsals: <span class="fill-line-short field-time"></span><br>
+                PCI's: <span class="fill-line-short field-time"></span><br>
+                LOD: <span class="fill-line-short field-time"></span><br>
+                ORP: <span class="fill-line-short field-time"></span><br>
+                Mission: <span class="fill-line-short field-time"></span>
+            </div>
+            <div class="note-box" style="margin-top: 8px;">
+                <strong>Note:</strong> Backwards plan from the time given (actions on objective or crossing LD) in the higher headquarters OPORD.
+            </div>
+
+            <h3>Squad / Team Leader Preparations:</h3>
+            <div class="fill-block field-text"></div>
+
+            <h3>Special Instructions:</h3>
+            <div class="fill-block field-text"></div>
+
+            <div class="note-box">
+                <strong>** Conduct PCI's and Top Off Water</strong>
+            </div>
+        </section>
     </div>
 
-    <h3>Tentative Schedule:</h3>
-    <div class="form-row indent">
-        OPORD: <span class="fill-line-short field-time"></span><br>
-        Rehearsals: <span class="fill-line-short field-time"></span><br>
-        PCI's: <span class="fill-line-short field-time"></span><br>
-        LOD: <span class="fill-line-short field-time"></span><br>
-        ORP: <span class="fill-line-short field-time"></span><br>
-        Mission: <span class="fill-line-short field-time"></span>
+    <!-- RIGHT COLUMN: Notes -->
+    <div class="top-column">
+        <section class="section">
+            <h1>Notes</h1>
+            <div class="fill-block-large field-text" style="height: 300px;"></div>
+        </section>
     </div>
-    <div class="note-box" style="margin-top: 8px;">
-        <strong>Note:</strong> Backwards plan from the time given (actions on objective or crossing LD) in the higher headquarters OPORD.
-    </div>
-
-    <h3>Squad / Team Leader Preparations:</h3>
-    <div class="fill-block field-text"></div>
-
-    <h3>Special Instructions:</h3>
-    <div class="fill-block field-text"></div>
-
-    <div class="note-box">
-        <strong>** Conduct PCI's and Top Off Water</strong>
-    </div>
-</section>
+</div>
 
 <!-- LEADER'S RECONNAISSANCE -->
 <section class="section">
