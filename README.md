@@ -1,8 +1,8 @@
 # OCS Operations Orders
 
-All Operations Orders should be written in GitHub Flavored Markdown (GFM) format.
+All Operations Orders should be written in GitHub Flavored Markdown (GFM) format. Changes to the Markdown (.md) files will generate new PDFs during the next deployment.
 
-## Templates
+## Templates and References
 
 - [OPORD Blank Template](opord-blank-template.html) - A fill-in-the-blank template with quick references designed to help build operations orders in an expedited manner.
 - [TAC's Tactical Quick Reference](tac-quick-reference.html) - A comprehensive reference guide for movement formations, movement techniques, danger area crossings, battle drills, and actions on the objective. Designed to help TACs evaluate OCS candidates during field training exercises.
