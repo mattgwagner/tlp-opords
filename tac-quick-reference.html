@@ -1,0 +1,1077 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TAC's Tactical Quick Reference</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      font-family: Arial, sans-serif;
+      font-size: 11pt;
+      line-height: 1.4;
+      max-width: 8.5in;
+      margin: 0 auto;
+      padding: 0.5in;
+      color: #1a1a1a;
+    }
+    h1 {
+      color: #2B5797;
+      font-size: 24pt;
+      text-align: center;
+      margin-bottom: 0.1in;
+      border-bottom: none;
+    }
+    .subtitle {
+      text-align: center;
+      color: #404040;
+      font-size: 14pt;
+      margin-bottom: 0.05in;
+    }
+    .reference {
+      text-align: center;
+      font-style: italic;
+      font-size: 10pt;
+      margin-bottom: 0.2in;
+    }
+    h2 {
+      color: #2B5797;
+      font-size: 16pt;
+      margin-top: 0.3in;
+      margin-bottom: 0.1in;
+      border-bottom: 2px solid #2B5797;
+      padding-bottom: 0.05in;
+    }
+    h3 {
+      color: #2B5797;
+      font-size: 13pt;
+      margin-top: 0.2in;
+      margin-bottom: 0.08in;
+    }
+    h4 {
+      color: #000;
+      font-size: 12pt;
+      margin-top: 0.15in;
+      margin-bottom: 0.05in;
+    }
+    p { margin: 0.08in 0; }
+    
+    .purpose-box {
+      background-color: #FFF2CC;
+      border: 1px solid #999;
+      padding: 0.15in;
+      margin-bottom: 0.2in;
+    }
+    .purpose-box strong { font-size: 12pt; }
+    
+    .tac-note {
+      background-color: #E2EFDA;
+      border: 1px solid #999;
+      padding: 0.15in;
+      margin: 0.15in 0;
+    }
+    .tac-note-title {
+      color: #375623;
+      font-weight: bold;
+      font-size: 12pt;
+      margin-bottom: 0.05in;
+    }
+    
+    .bottom-line {
+      background-color: #FCE4D6;
+      border: 1px solid #999;
+      padding: 0.15in;
+      margin: 0.2in 0;
+      text-align: center;
+    }
+    .bottom-line-title {
+      color: #C00000;
+      font-weight: bold;
+      font-size: 14pt;
+      margin-bottom: 0.08in;
+    }
+    
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 0.1in 0;
+      font-size: 10pt;
+    }
+    th {
+      background-color: #2B5797;
+      color: white;
+      font-weight: bold;
+      padding: 0.08in;
+      border: 1px solid #999;
+      text-align: center;
+    }
+    td {
+      padding: 0.08in;
+      border: 1px solid #999;
+      vertical-align: top;
+    }
+    .row-header {
+      background-color: #D6DCE5;
+      font-weight: bold;
+    }
+    
+    ul, ol { margin: 0.05in 0 0.05in 0.25in; padding-left: 0.2in; }
+    li { margin: 0.03in 0; }
+    
+    .key-concept { color: #C00000; font-weight: bold; }
+    .emphasis { font-weight: bold; }
+    
+    .page-break { page-break-before: always; }
+    
+    /* Diagram Styles */
+    .diagram-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      gap: 0.15in;
+      margin: 0.15in 0;
+    }
+    .diagram-box {
+      text-align: center;
+      padding: 0.1in;
+      border: 1px solid #ccc;
+      background: #f9f9f9;
+      border-radius: 4px;
+    }
+    .diagram-box svg {
+      display: block;
+      margin: 0 auto;
+    }
+    .diagram-label {
+      font-weight: bold;
+      font-size: 10pt;
+      margin-top: 0.05in;
+      color: #2B5797;
+    }
+    .diagram-note {
+      font-size: 8pt;
+      color: #666;
+      margin-top: 0.02in;
+    }
+    
+    .signal-label {
+      font-size: 7pt;
+      fill: #333;
+      font-weight: bold;
+    }
+    
+    .formation-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 0.15in;
+      margin: 0.15in 0;
+    }
+    
+    .movement-diagram-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      gap: 0.15in;
+      margin: 0.15in 0;
+    }
+    
+    @media print {
+      body { padding: 0.25in; font-size: 10pt; }
+      .page-break { page-break-before: always; }
+      h2 { page-break-after: avoid; }
+      table { page-break-inside: avoid; }
+      .tac-note, .purpose-box, .bottom-line { page-break-inside: avoid; }
+      .diagram-container { page-break-inside: avoid; }
+    }
+    
+    @media screen and (max-width: 600px) {
+      body { padding: 0.2in; font-size: 10pt; }
+      h1 { font-size: 18pt; }
+      h2 { font-size: 14pt; }
+      table { font-size: 9pt; }
+      .diagram-container { flex-direction: column; align-items: center; }
+      .formation-grid { grid-template-columns: 1fr 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<h1>TAC's Tactical Quick Reference</h1>
+<div class="subtitle">Movement, Battle Drills, and Danger Areas</div>
+<div class="reference">Reference: ATP 3-21.8, Infantry Platoon and Squad</div>
+
+<div class="purpose-box">
+  <strong>PURPOSE</strong><br>
+  This reference provides the tactical foundation needed to evaluate OCS candidates during field training. 
+  <strong>Remember: OCS evaluates LEADERSHIP, not tactical proficiency.</strong> 
+  Use this to understand what right looks like so you can assess whether candidates can plan, communicate, and lead their element through tactical situations.
+</div>
+
+<!-- SECTION 1 -->
+<h2>Section 1: Movement Formations</h2>
+<p>Formations provide the framework for controlling the squad/platoon during movement. The SL/PL selects formations based on METT-TC, balancing control, flexibility, security, and speed.</p>
+
+<h3>Squad Formations (ATP 3-21.8)</h3>
+<p style="font-size:9pt; color:#666; margin-bottom:0.1in;">Source: <a href="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/" target="_blank">ATP 3-21.8 Doctrine Supplement</a>, Infantry Platoon and Squad</p>
+
+<h4>Fire Team Formations</h4>
+<div style="display:flex; flex-wrap:wrap; justify-content:space-around; gap:0.15in; margin:0.15in 0;">
+  <div style="text-align:center;">
+    <a href="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/chapter_04/section_08/page_0030/Figure%202-7.%20Fire%20team%20wedge.jpg" target="_blank">
+      <img src="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/chapter_04/section_08/page_0030/Figure%202-7.%20Fire%20team%20wedge.jpg" alt="Fire Team Wedge" style="max-width:280px; border:1px solid #ccc;">
+    </a>
+    <div style="font-weight:bold; font-size:9pt; color:#2B5797;">Figure 2-7: Fire Team Wedge</div>
+  </div>
+  <div style="text-align:center;">
+    <a href="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/chapter_04/section_08/page_0030/Figure%202-8.%20Fire%20team%20file.jpg" target="_blank">
+      <img src="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/chapter_04/section_08/page_0030/Figure%202-8.%20Fire%20team%20file.jpg" alt="Fire Team File" style="max-width:280px; border:1px solid #ccc;">
+    </a>
+    <div style="font-weight:bold; font-size:9pt; color:#2B5797;">Figure 2-8: Fire Team File</div>
+  </div>
+</div>
+
+<h4>Squad Formations</h4>
+<div style="display:flex; flex-wrap:wrap; justify-content:space-around; gap:0.15in; margin:0.15in 0;">
+  <div style="text-align:center;">
+    <a href="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/chapter_04/section_08/page_0040/Figure%202-9.%20Squad%20column,%20fire%20teams%20in%20wedge.jpg" target="_blank">
+      <img src="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/chapter_04/section_08/page_0040/Figure%202-9.%20Squad%20column,%20fire%20teams%20in%20wedge.jpg" alt="Squad Column" style="max-width:280px; border:1px solid #ccc;">
+    </a>
+    <div style="font-weight:bold; font-size:9pt; color:#2B5797;">Figure 2-9: Squad Column (FTs in Wedge)</div>
+  </div>
+  <div style="text-align:center;">
+    <a href="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/chapter_04/section_08/page_0040/Figure%202-10.%20Squad%20line.jpg" target="_blank">
+      <img src="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/chapter_04/section_08/page_0040/Figure%202-10.%20Squad%20line.jpg" alt="Squad Line" style="max-width:280px; border:1px solid #ccc;">
+    </a>
+    <div style="font-weight:bold; font-size:9pt; color:#2B5797;">Figure 2-10: Squad Line</div>
+  </div>
+  <div style="text-align:center;">
+    <a href="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/chapter_04/section_08/page_0040/Figure%202-11.%20Squad%20file.jpg" target="_blank">
+      <img src="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/chapter_04/section_08/page_0040/Figure%202-11.%20Squad%20file.jpg" alt="Squad File" style="max-width:280px; border:1px solid #ccc;">
+    </a>
+    <div style="font-weight:bold; font-size:9pt; color:#2B5797;">Figure 2-11: Squad File</div>
+  </div>
+</div>
+
+<table>
+  <tr>
+    <th>Formation</th>
+    <th>When to Use</th>
+    <th>Advantages</th>
+    <th>Disadvantages</th>
+  </tr>
+  <tr>
+    <td class="row-header">WEDGE</td>
+    <td>Primary formation when enemy contact is possible but not expected</td>
+    <td>Good all-around security; Flexible; Easy to control</td>
+    <td>Requires open terrain for proper dispersion</td>
+  </tr>
+  <tr>
+    <td class="row-header">FILE</td>
+    <td>Restrictive terrain (dense vegetation, urban, trails); Night movement</td>
+    <td>Easy to control; Good for restricted terrain; Reduces silhouette</td>
+    <td>Vulnerable to frontal fire; Slow to deploy; Limited firepower forward</td>
+  </tr>
+  <tr>
+    <td class="row-header">LINE</td>
+    <td>Assaulting an objective; Crossing danger areas; Maximum firepower needed</td>
+    <td>Maximum firepower to the front; All weapons can engage</td>
+    <td>Difficult to control; Vulnerable to flanks; Limited flexibility</td>
+  </tr>
+</table>
+
+<h3>Platoon Formations with Hand and Arm Signals (ATP 3-21.8)</h3>
+<p>Platoon formations are built from squad formations. The PL positions squads relative to each other based on threat and terrain. Hand and arm signals enable silent communication.</p>
+
+<div class="formation-grid">
+  <!-- LINE FORMATION -->
+  <div class="diagram-box">
+    <svg width="170" height="160" viewBox="0 0 170 160">
+      <!-- Hand signal figure -->
+      <g transform="translate(85,35)">
+        <!-- Body -->
+        <circle cx="0" cy="0" r="8" fill="#5D5D5D"/>
+        <line x1="0" y1="8" x2="0" y2="35" stroke="#5D5D5D" stroke-width="4"/>
+        <!-- Arms extended horizontally -->
+        <line x1="-35" y1="15" x2="35" y2="15" stroke="#5D5D5D" stroke-width="3"/>
+        <!-- Legs -->
+        <line x1="0" y1="35" x2="-10" y2="55" stroke="#5D5D5D" stroke-width="3"/>
+        <line x1="0" y1="35" x2="10" y2="55" stroke="#5D5D5D" stroke-width="3"/>
+      </g>
+      <text x="85" y="100" text-anchor="middle" font-size="7" fill="#333">Arms extended</text>
+      <text x="85" y="108" text-anchor="middle" font-size="7" fill="#333">horizontally</text>
+      
+      <!-- Formation diagram -->
+      <rect x="15" y="120" width="20" height="12" rx="2" fill="#2B5797"/>
+      <rect x="45" y="120" width="20" height="12" rx="2" fill="#4472C4"/>
+      <rect x="75" y="120" width="20" height="12" rx="2" fill="#4472C4"/>
+      <rect x="105" y="120" width="20" height="12" rx="2" fill="#4472C4"/>
+      <rect x="135" y="120" width="20" height="12" rx="2" fill="#C00000"/>
+      <circle cx="85" cy="145" r="5" fill="#FFD700" stroke="#000"/>
+      <text x="85" y="148" text-anchor="middle" font-size="5" fill="#000">PL</text>
+    </svg>
+    <div class="diagram-label">LINE</div>
+    <div class="diagram-note">Max firepower forward</div>
+  </div>
+
+  <!-- COLUMN/FILE FORMATION -->
+  <div class="diagram-box">
+    <svg width="170" height="160" viewBox="0 0 170 160">
+      <!-- Hand signal figure -->
+      <g transform="translate(85,35)">
+        <!-- Body -->
+        <circle cx="0" cy="0" r="8" fill="#5D5D5D"/>
+        <line x1="0" y1="8" x2="0" y2="35" stroke="#5D5D5D" stroke-width="4"/>
+        <!-- Arm raised vertically -->
+        <line x1="0" y1="15" x2="0" y2="-25" stroke="#5D5D5D" stroke-width="3"/>
+        <!-- Other arm down -->
+        <line x1="0" y1="15" x2="15" y2="30" stroke="#5D5D5D" stroke-width="3"/>
+        <!-- Legs -->
+        <line x1="0" y1="35" x2="-10" y2="55" stroke="#5D5D5D" stroke-width="3"/>
+        <line x1="0" y1="35" x2="10" y2="55" stroke="#5D5D5D" stroke-width="3"/>
+      </g>
+      <text x="85" y="100" text-anchor="middle" font-size="7" fill="#333">Arm raised</text>
+      <text x="85" y="108" text-anchor="middle" font-size="7" fill="#333">vertically</text>
+      
+      <!-- Formation diagram -->
+      <rect x="75" y="115" width="20" height="10" rx="2" fill="#2B5797"/>
+      <rect x="75" y="127" width="20" height="10" rx="2" fill="#4472C4"/>
+      <rect x="75" y="139" width="20" height="10" rx="2" fill="#C00000"/>
+      <circle cx="60" cy="132" r="5" fill="#FFD700" stroke="#000"/>
+      <text x="60" y="135" text-anchor="middle" font-size="5" fill="#000">PL</text>
+    </svg>
+    <div class="diagram-label">COLUMN/FILE</div>
+    <div class="diagram-note">Easiest to control</div>
+  </div>
+
+  <!-- VEE FORMATION -->
+  <div class="diagram-box">
+    <svg width="170" height="160" viewBox="0 0 170 160">
+      <!-- Hand signal figure -->
+      <g transform="translate(85,35)">
+        <!-- Body -->
+        <circle cx="0" cy="0" r="8" fill="#5D5D5D"/>
+        <line x1="0" y1="8" x2="0" y2="35" stroke="#5D5D5D" stroke-width="4"/>
+        <!-- Arms in V shape above head -->
+        <line x1="0" y1="10" x2="-25" y2="-20" stroke="#5D5D5D" stroke-width="3"/>
+        <line x1="0" y1="10" x2="25" y2="-20" stroke="#5D5D5D" stroke-width="3"/>
+        <!-- Legs -->
+        <line x1="0" y1="35" x2="-10" y2="55" stroke="#5D5D5D" stroke-width="3"/>
+        <line x1="0" y1="35" x2="10" y2="55" stroke="#5D5D5D" stroke-width="3"/>
+      </g>
+      <text x="85" y="100" text-anchor="middle" font-size="7" fill="#333">Arms in V</text>
+      <text x="85" y="108" text-anchor="middle" font-size="7" fill="#333">above head</text>
+      
+      <!-- Formation diagram (reverse wedge) -->
+      <rect x="30" y="118" width="20" height="10" rx="2" fill="#2B5797"/>
+      <rect x="120" y="118" width="20" height="10" rx="2" fill="#4472C4"/>
+      <rect x="75" y="140" width="20" height="10" rx="2" fill="#C00000"/>
+      <circle cx="85" cy="130" r="5" fill="#FFD700" stroke="#000"/>
+      <text x="85" y="133" text-anchor="middle" font-size="5" fill="#000">PL</text>
+      <line x1="40" y1="128" x2="80" y2="138" stroke="#999" stroke-width="1" stroke-dasharray="2,2"/>
+      <line x1="130" y1="128" x2="90" y2="138" stroke="#999" stroke-width="1" stroke-dasharray="2,2"/>
+    </svg>
+    <div class="diagram-label">VEE</div>
+    <div class="diagram-note">Contact expected to front</div>
+  </div>
+
+  <!-- WEDGE FORMATION -->
+  <div class="diagram-box">
+    <svg width="170" height="160" viewBox="0 0 170 160">
+      <!-- Hand signal figure -->
+      <g transform="translate(85,35)">
+        <!-- Body -->
+        <circle cx="0" cy="0" r="8" fill="#5D5D5D"/>
+        <line x1="0" y1="8" x2="0" y2="35" stroke="#5D5D5D" stroke-width="4"/>
+        <!-- Arms angled down forming inverted V -->
+        <line x1="0" y1="12" x2="-30" y2="35" stroke="#5D5D5D" stroke-width="3"/>
+        <line x1="0" y1="12" x2="30" y2="35" stroke="#5D5D5D" stroke-width="3"/>
+        <!-- Legs -->
+        <line x1="0" y1="35" x2="-10" y2="55" stroke="#5D5D5D" stroke-width="3"/>
+        <line x1="0" y1="35" x2="10" y2="55" stroke="#5D5D5D" stroke-width="3"/>
+      </g>
+      <text x="85" y="100" text-anchor="middle" font-size="7" fill="#333">Arms angled</text>
+      <text x="85" y="108" text-anchor="middle" font-size="7" fill="#333">downward</text>
+      
+      <!-- Formation diagram -->
+      <rect x="75" y="115" width="20" height="10" rx="2" fill="#2B5797"/>
+      <rect x="40" y="138" width="20" height="10" rx="2" fill="#4472C4"/>
+      <rect x="110" y="138" width="20" height="10" rx="2" fill="#C00000"/>
+      <circle cx="85" cy="132" r="5" fill="#FFD700" stroke="#000"/>
+      <text x="85" y="135" text-anchor="middle" font-size="5" fill="#000">PL</text>
+      <line x1="85" y1="125" x2="50" y2="136" stroke="#999" stroke-width="1" stroke-dasharray="2,2"/>
+      <line x1="85" y1="125" x2="120" y2="136" stroke="#999" stroke-width="1" stroke-dasharray="2,2"/>
+    </svg>
+    <div class="diagram-label">WEDGE</div>
+    <div class="diagram-note">Primary / Situation uncertain</div>
+  </div>
+
+  <!-- ECHELON LEFT -->
+  <div class="diagram-box">
+    <svg width="170" height="160" viewBox="0 0 170 160">
+      <!-- Hand signal figure -->
+      <g transform="translate(85,35)">
+        <!-- Body -->
+        <circle cx="0" cy="0" r="8" fill="#5D5D5D"/>
+        <line x1="0" y1="8" x2="0" y2="35" stroke="#5D5D5D" stroke-width="4"/>
+        <!-- Arm extended diagonally up-left -->
+        <line x1="0" y1="12" x2="-30" y2="-10" stroke="#5D5D5D" stroke-width="3"/>
+        <!-- Other arm down -->
+        <line x1="0" y1="15" x2="15" y2="30" stroke="#5D5D5D" stroke-width="3"/>
+        <!-- Legs -->
+        <line x1="0" y1="35" x2="-10" y2="55" stroke="#5D5D5D" stroke-width="3"/>
+        <line x1="0" y1="35" x2="10" y2="55" stroke="#5D5D5D" stroke-width="3"/>
+      </g>
+      <text x="85" y="100" text-anchor="middle" font-size="7" fill="#333">Arm diagonal</text>
+      <text x="85" y="108" text-anchor="middle" font-size="7" fill="#333">(direction of echelon)</text>
+      
+      <!-- Formation diagram -->
+      <rect x="120" y="115" width="20" height="10" rx="2" fill="#2B5797"/>
+      <rect x="90" y="128" width="20" height="10" rx="2" fill="#4472C4"/>
+      <rect x="60" y="141" width="20" height="10" rx="2" fill="#C00000"/>
+      <circle cx="130" cy="138" r="5" fill="#FFD700" stroke="#000"/>
+      <text x="130" y="141" text-anchor="middle" font-size="5" fill="#000">PL</text>
+    </svg>
+    <div class="diagram-label">ECHELON (L/R)</div>
+    <div class="diagram-note">Fire to front and flank</div>
+  </div>
+
+  <!-- BOX/DIAMOND -->
+  <div class="diagram-box">
+    <svg width="170" height="160" viewBox="0 0 170 160">
+      <!-- No standard hand signal - show tactical symbol -->
+      <rect x="60" y="15" width="50" height="50" fill="none" stroke="#5D5D5D" stroke-width="2"/>
+      <rect x="68" y="23" width="10" height="10" fill="#5D5D5D"/>
+      <rect x="92" y="23" width="10" height="10" fill="#5D5D5D"/>
+      <rect x="68" y="47" width="10" height="10" fill="#5D5D5D"/>
+      <rect x="92" y="47" width="10" height="10" fill="#5D5D5D"/>
+      <text x="85" y="82" text-anchor="middle" font-size="7" fill="#333">Tactical symbol</text>
+      <text x="85" y="90" text-anchor="middle" font-size="7" fill="#333">(no hand signal)</text>
+      
+      <!-- Formation diagram -->
+      <rect x="55" y="115" width="20" height="10" rx="2" fill="#2B5797"/>
+      <rect x="95" y="115" width="20" height="10" rx="2" fill="#4472C4"/>
+      <rect x="55" y="140" width="20" height="10" rx="2" fill="#4472C4"/>
+      <rect x="95" y="140" width="20" height="10" rx="2" fill="#C00000"/>
+      <circle cx="85" cy="132" r="5" fill="#FFD700" stroke="#000"/>
+      <text x="85" y="135" text-anchor="middle" font-size="5" fill="#000">PL</text>
+    </svg>
+    <div class="diagram-label">BOX</div>
+    <div class="diagram-note">All-around security</div>
+  </div>
+</div>
+
+<!-- Platoon Formation Table -->
+<table>
+  <tr>
+    <th style="width:15%">Formation</th>
+    <th style="width:30%">Characteristics</th>
+    <th style="width:28%">Advantages</th>
+    <th style="width:27%">Disadvantages</th>
+  </tr>
+  <tr>
+    <td class="row-header">LINE</td>
+    <td>All elements in a row; Fires oriented forward; One subordinate designated as base</td>
+    <td>Generate fire superiority to front; Clear large area; Transition to bounding overwatch or assault</td>
+    <td>Control difficulty in limited visibility; Vulnerable flanks; Slow; Large signature</td>
+  </tr>
+  <tr>
+    <td class="row-header">COLUMN/FILE</td>
+    <td>One lead element; Fires oriented to flanks; Minimal to front; One route</td>
+    <td>Easiest to control; Leader can communicate with lead element; Generate maneuver element; Speed</td>
+    <td>Reduced fire to front; Transitions poorly to assault; Vulnerable to enfilade fire</td>
+  </tr>
+  <tr>
+    <td class="row-header">VEE</td>
+    <td>Two lead elements; Trail moves between leads; "Reverse wedge"; Two routes forward</td>
+    <td>Fire superiority to front; Generate maneuver element; Secure flanks; Transition to bounding/assault</td>
+    <td>Control difficulty in limited visibility or restrictive terrain; Potentially slow</td>
+  </tr>
+  <tr>
+    <td class="row-header">WEDGE</td>
+    <td>One lead element; Trail elements paired abreast on flanks; Situation uncertain</td>
+    <td>Control even in limited visibility; Transition to base of fire or assault; Secure front and flanks</td>
+    <td>Trail elements must clear own path; May need to transition to column in restrictive terrain</td>
+  </tr>
+  <tr>
+    <td class="row-header">ECHELON (L/R)</td>
+    <td>Elements deployed diagonally; Observation and fire to front and one flank</td>
+    <td>Assign sectors to front and flank</td>
+    <td>Difficult to maintain; Vulnerable to opposite flank</td>
+  </tr>
+  <tr>
+    <td class="row-header">BOX</td>
+    <td>Two lead elements; Trail elements follow leads; All-around security</td>
+    <td>Same as vee formation</td>
+    <td>Same as vee formation</td>
+  </tr>
+</table>
+
+<!-- SECTION 2 -->
+<div class="page-break"></div>
+<h2>Section 2: Movement Techniques</h2>
+<p>Movement techniques describe HOW elements move relative to each other. The leader selects based on likelihood of enemy contact, need for speed, and terrain.</p>
+
+<div class="movement-diagram-container">
+  <!-- TRAVELING -->
+  <div class="diagram-box">
+    <svg width="180" height="100" viewBox="0 0 180 100">
+      <defs>
+        <marker id="arrowhead8" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
+        </marker>
+      </defs>
+      <line x1="20" y1="50" x2="40" y2="50" stroke="#666" stroke-width="2" marker-end="url(#arrowhead8)"/>
+      <text x="30" y="45" text-anchor="middle" font-size="8" fill="#666">DIR</text>
+      
+      <rect x="60" y="35" width="35" height="30" rx="3" fill="#2B5797"/>
+      <text x="77" y="55" text-anchor="middle" font-size="8" fill="white" font-weight="bold">LEAD</text>
+      <path d="M 95 50 L 105 50 L 100 45 M 105 50 L 100 55" stroke="#2B5797" stroke-width="2" fill="none"/>
+      
+      <text x="115" y="55" text-anchor="middle" font-size="8" fill="#666">~20m</text>
+      
+      <rect x="125" y="35" width="35" height="30" rx="3" fill="#4472C4"/>
+      <text x="142" y="55" text-anchor="middle" font-size="8" fill="white" font-weight="bold">TRAIL</text>
+      <path d="M 160 50 L 170 50 L 165 45 M 170 50 L 165 55" stroke="#4472C4" stroke-width="2" fill="none"/>
+      
+      <text x="100" y="85" text-anchor="middle" font-size="9" fill="#333">Both elements move continuously</text>
+    </svg>
+    <div class="diagram-label">TRAVELING</div>
+    <div class="diagram-note">Contact NOT likely • FASTEST</div>
+  </div>
+
+  <!-- TRAVELING OVERWATCH -->
+  <div class="diagram-box">
+    <svg width="200" height="100" viewBox="0 0 200 100">
+      <defs>
+        <marker id="arrowhead9" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
+        </marker>
+      </defs>
+      <line x1="15" y1="50" x2="35" y2="50" stroke="#666" stroke-width="2" marker-end="url(#arrowhead9)"/>
+      <text x="25" y="45" text-anchor="middle" font-size="8" fill="#666">DIR</text>
+      
+      <rect x="50" y="35" width="35" height="30" rx="3" fill="#2B5797"/>
+      <text x="67" y="55" text-anchor="middle" font-size="8" fill="white" font-weight="bold">LEAD</text>
+      <path d="M 85 50 L 95 50 L 90 45 M 95 50 L 90 55" stroke="#2B5797" stroke-width="2" fill="none"/>
+      
+      <text x="117" y="45" text-anchor="middle" font-size="8" fill="#666">~50m</text>
+      <text x="117" y="58" text-anchor="middle" font-size="7" fill="#666">(support dist)</text>
+      
+      <rect x="140" y="35" width="45" height="30" rx="3" fill="#4472C4"/>
+      <text x="162" y="50" text-anchor="middle" font-size="7" fill="white" font-weight="bold">TRAIL</text>
+      <text x="162" y="60" text-anchor="middle" font-size="6" fill="white">(OVWCH)</text>
+      <path d="M 185 50 L 192 50 L 188 46 M 192 50 L 188 54" stroke="#4472C4" stroke-width="1.5" fill="none"/>
+      
+      <text x="110" y="85" text-anchor="middle" font-size="9" fill="#333">Both move; Trail can support Lead by fire</text>
+    </svg>
+    <div class="diagram-label">TRAVELING OVERWATCH</div>
+    <div class="diagram-note">Contact POSSIBLE • MODERATE</div>
+  </div>
+
+  <!-- BOUNDING OVERWATCH -->
+  <div class="diagram-box">
+    <svg width="200" height="120" viewBox="0 0 200 120">
+      <defs>
+        <marker id="arrowhead10" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0, 10 3.5, 0 7" fill="#666"/>
+        </marker>
+      </defs>
+      <line x1="15" y1="40" x2="35" y2="40" stroke="#666" stroke-width="2" marker-end="url(#arrowhead10)"/>
+      <text x="25" y="35" text-anchor="middle" font-size="8" fill="#666">DIR</text>
+      
+      <rect x="50" y="25" width="40" height="30" rx="3" fill="#2B5797"/>
+      <text x="70" y="38" text-anchor="middle" font-size="7" fill="white" font-weight="bold">BOUND</text>
+      <text x="70" y="48" text-anchor="middle" font-size="6" fill="white">(moving)</text>
+      <path d="M 90 40 L 105 40 L 100 35 M 105 40 L 100 45" stroke="#2B5797" stroke-width="2" fill="none"/>
+      
+      <rect x="130" y="25" width="45" height="30" rx="3" fill="#4472C4"/>
+      <text x="152" y="38" text-anchor="middle" font-size="7" fill="white" font-weight="bold">OVWCH</text>
+      <text x="152" y="48" text-anchor="middle" font-size="6" fill="white">(set)</text>
+      
+      <path d="M 130 40 L 100 25 M 130 40 L 100 55" stroke="#C00000" stroke-width="1.5" fill="none" stroke-dasharray="4,2"/>
+      <text x="112" y="65" text-anchor="middle" font-size="7" fill="#C00000">security</text>
+      
+      <text x="100" y="95" text-anchor="middle" font-size="9" fill="#333">Elements ALTERNATE: one moves, one overwatches</text>
+      <text x="100" y="108" text-anchor="middle" font-size="8" fill="#666">Successive bounds (abreast) or Alternate bounds (leapfrog)</text>
+    </svg>
+    <div class="diagram-label">BOUNDING OVERWATCH</div>
+    <div class="diagram-note">Contact EXPECTED • SLOWEST</div>
+  </div>
+</div>
+
+<table>
+  <tr>
+    <th>Technique</th>
+    <th>Contact?</th>
+    <th>Speed</th>
+    <th>How It Works</th>
+    <th>Dispersion</th>
+  </tr>
+  <tr>
+    <td class="row-header">TRAVELING</td>
+    <td style="text-align:center;">NOT likely</td>
+    <td style="text-align:center;"><strong>FASTEST</strong></td>
+    <td>All elements move continuously; ~20m between elements</td>
+    <td style="text-align:center;">Least</td>
+  </tr>
+  <tr>
+    <td class="row-header">TRAVELING OVERWATCH</td>
+    <td style="text-align:center;">POSSIBLE</td>
+    <td style="text-align:center;"><strong>MODERATE</strong></td>
+    <td>Lead moves; trail follows at distance that allows support by fire (~50m); Both move continuously</td>
+    <td style="text-align:center;">Moderate</td>
+  </tr>
+  <tr>
+    <td class="row-header">BOUNDING OVERWATCH</td>
+    <td style="text-align:center;"><strong>EXPECTED</strong></td>
+    <td style="text-align:center;"><strong>SLOWEST</strong></td>
+    <td>One element MOVES while one OVERWATCHES; Elements alternate; Overwatch provides security</td>
+    <td style="text-align:center;">Greatest</td>
+  </tr>
+</table>
+
+<h4>Bounding Overwatch Methods</h4>
+<ul>
+  <li><strong>Successive Bounds:</strong> Overwatch element moves to a position roughly abreast of the bounding element (more secure, slower)</li>
+  <li><strong>Alternate Bounds:</strong> Overwatch element bounds PAST the bounding element (faster, less secure)</li>
+</ul>
+
+<div class="tac-note">
+  <div class="tac-note-title">TAC EVALUATION NOTE</div>
+  When evaluating candidates: Look for the candidate's ability to <strong>JUSTIFY their choice</strong> of movement technique based on METT-TC, not whether they picked the "right" one. Ask: "Why traveling overwatch here?" A candidate who can articulate threat, terrain, and speed factors demonstrates leadership judgment.
+</div>
+
+<!-- SECTION 3 -->
+<h2>Section 3: Danger Area Crossings</h2>
+<p>A danger area is any place where the unit is vulnerable to enemy observation or fire. Crossing danger areas is a critical tactical task that requires planning, control, and security.</p>
+
+<h3>Types of Danger Areas</h3>
+<table>
+  <tr>
+    <th>Type</th>
+    <th>Examples</th>
+  </tr>
+  <tr>
+    <td class="row-header">LINEAR</td>
+    <td>Roads, trails, streams, railroads - anything narrow enough to cross quickly</td>
+  </tr>
+  <tr>
+    <td class="row-header">OPEN AREA</td>
+    <td>Fields, meadows, parking lots - large areas without cover; may require detour</td>
+  </tr>
+  <tr>
+    <td class="row-header">ENEMY AREAS</td>
+    <td>Known or suspected enemy positions, obstacles, minefields</td>
+  </tr>
+</table>
+
+<h3>Linear Danger Area Crossing Procedure</h3>
+
+<div class="diagram-container">
+  <div class="diagram-box" style="width: 100%; max-width: 500px;">
+    <svg width="480" height="200" viewBox="0 0 480 200">
+      <rect x="0" y="85" width="480" height="30" fill="#8B7355"/>
+      <text x="240" y="105" text-anchor="middle" font-size="10" fill="white" font-weight="bold">LINEAR DANGER AREA (Road/Trail)</text>
+      
+      <rect x="10" y="130" width="100" height="60" fill="#228B22" opacity="0.3" stroke="#228B22" stroke-width="2"/>
+      <text x="60" y="165" text-anchor="middle" font-size="9" fill="#006400" font-weight="bold">NEAR-SIDE</text>
+      <text x="60" y="178" text-anchor="middle" font-size="8" fill="#006400">Rally Point</text>
+      
+      <ellipse cx="60" cy="150" rx="25" ry="12" fill="#4472C4" opacity="0.7"/>
+      <text x="60" y="154" text-anchor="middle" font-size="7" fill="white">MAIN BODY</text>
+      
+      <circle cx="130" cy="120" r="8" fill="#C00000"/>
+      <text x="130" y="123" text-anchor="middle" font-size="6" fill="white">SEC</text>
+      
+      <defs>
+        <marker id="crossArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0, 10 3.5, 0 7" fill="#2B5797"/>
+        </marker>
+      </defs>
+      <path d="M 150 100 Q 200 60 250 100" stroke="#2B5797" stroke-width="2" fill="none" marker-end="url(#crossArrow)" stroke-dasharray="5,3"/>
+      <text x="200" y="55" text-anchor="middle" font-size="8" fill="#2B5797">Cross quickly</text>
+      
+      <circle cx="280" cy="75" r="8" fill="#C00000"/>
+      <text x="280" y="78" text-anchor="middle" font-size="6" fill="white">SEC</text>
+      <circle cx="310" cy="65" r="8" fill="#C00000"/>
+      <text x="310" y="68" text-anchor="middle" font-size="6" fill="white">SEC</text>
+      
+      <path d="M 280 75 L 320 40 M 280 75 L 340 75" stroke="#C00000" stroke-width="1" fill="none" stroke-dasharray="3,2"/>
+      
+      <rect x="370" y="10" width="100" height="60" fill="#228B22" opacity="0.3" stroke="#228B22" stroke-width="2"/>
+      <text x="420" y="40" text-anchor="middle" font-size="9" fill="#006400" font-weight="bold">FAR-SIDE</text>
+      <text x="420" y="53" text-anchor="middle" font-size="8" fill="#006400">Rally Point</text>
+      
+      <circle cx="60" cy="185" r="10" fill="#2B5797"/>
+      <text x="60" y="189" text-anchor="middle" font-size="9" fill="white" font-weight="bold">1</text>
+      
+      <circle cx="130" cy="145" r="10" fill="#2B5797"/>
+      <text x="130" y="149" text-anchor="middle" font-size="9" fill="white" font-weight="bold">2</text>
+      
+      <circle cx="295" cy="50" r="10" fill="#2B5797"/>
+      <text x="295" y="54" text-anchor="middle" font-size="9" fill="white" font-weight="bold">3</text>
+      
+      <circle cx="420" cy="65" r="10" fill="#2B5797"/>
+      <text x="420" y="69" text-anchor="middle" font-size="9" fill="white" font-weight="bold">4</text>
+    </svg>
+    <div class="diagram-note" style="text-align: left; padding: 0.1in;">
+      <strong>Sequence:</strong> (1) Halt at near-side RP, establish security → (2) Recon crossing site → (3) Post far-side security FIRST → (4) Main body crosses to far-side RP
+    </div>
+  </div>
+</div>
+
+<ol>
+  <li><strong>Designate near/far side rally points</strong> – Where element halts before crossing; where it assembles after</li>
+  <li><strong>Secure the near side</strong> – Element halts in covered/concealed position; establishes local security</li>
+  <li><strong>Reconnoiter the crossing site</strong> – Leader or recon team moves to edge; observes far side; confirms no enemy</li>
+  <li><strong>Post far-side security</strong> – Send security element across first; they establish overwatch positions</li>
+  <li><strong>Cross the danger area</strong> – Main body crosses quickly (usually buddy teams); maintain dispersion</li>
+  <li><strong>Secure the far side</strong> – Element consolidates at far-side rally point; accounts for personnel/equipment</li>
+  <li><strong>Continue movement</strong> – Once consolidated and secure, resume mission</li>
+</ol>
+
+<h4>Key Points for Evaluation</h4>
+<ul>
+  <li>Did the candidate designate rally points BEFORE crossing?</li>
+  <li>Was far-side security established BEFORE the main body crossed?</li>
+  <li>Did the candidate maintain control and accountability throughout?</li>
+  <li>Was the crossing executed with appropriate speed and dispersion?</li>
+</ul>
+
+<!-- SECTION 4 -->
+<div class="page-break"></div>
+<h2>Section 4: Battle Drills</h2>
+<p>Battle drills are standardized collective actions rapidly executed without a deliberate decision-making process. Soldiers execute drills instinctively based on training. Per CMP: "WTBDs were previously taught and tested in basic combat training. There is no requirement to reteach these tasks in OCS."</p>
+
+<h3>React to Contact (Battle Drill 2)</h3>
+<p><strong>Situation:</strong> Element receives fire from enemy</p>
+<p><strong>Actions:</strong></p>
+<ol>
+  <li>Soldiers immediately return fire and take cover</li>
+  <li>Team/Squad leaders locate and report enemy position (direction, distance, description)</li>
+  <li>Leaders assess situation and direct fires</li>
+  <li>SL reports contact to PL using SALUTE format</li>
+  <li>Element suppresses enemy; prepares for follow-on actions (assault, break contact, etc.)</li>
+</ol>
+
+<h3>Break Contact (Battle Drill 3)</h3>
+<p><strong>Situation:</strong> Element must disengage from enemy (outmatched, mission requires withdrawal)</p>
+<p><strong>Actions:</strong></p>
+<ol>
+  <li>Leader gives command to break contact and direction of movement</li>
+  <li>Covering element suppresses enemy with heavy volume of fire</li>
+  <li>Bounding element moves to covered position to rear (uses terrain, smoke)</li>
+  <li>Bounding element sets and provides suppressive fire</li>
+  <li>Elements alternate bounds until contact is broken</li>
+  <li>Consolidate at rally point; account for personnel/equipment</li>
+</ol>
+
+<h3>React to Ambush (Battle Drill 4)</h3>
+<p><strong>KEY CONCEPT:</strong> Response depends on whether ambush is NEAR or FAR</p>
+
+<div class="diagram-container">
+  <div class="diagram-box">
+    <svg width="200" height="140" viewBox="0 0 200 140">
+      <rect x="50" y="50" width="100" height="40" fill="#FFE0E0" stroke="#C00000" stroke-width="2" stroke-dasharray="5,3"/>
+      <text x="100" y="75" text-anchor="middle" font-size="9" fill="#C00000" font-weight="bold">KILL ZONE</text>
+      
+      <rect x="50" y="20" width="100" height="15" fill="#C00000"/>
+      <text x="100" y="31" text-anchor="middle" font-size="8" fill="white">ENEMY</text>
+      
+      <circle cx="75" cy="70" r="6" fill="#2B5797"/>
+      <circle cx="100" cy="70" r="6" fill="#2B5797"/>
+      <circle cx="125" cy="70" r="6" fill="#2B5797"/>
+      
+      <defs>
+        <marker id="assaultArrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0, 10 3.5, 0 7" fill="#2B5797"/>
+        </marker>
+      </defs>
+      <line x1="100" y1="65" x2="100" y2="40" stroke="#2B5797" stroke-width="3" marker-end="url(#assaultArrow)"/>
+      
+      <line x1="160" y1="35" x2="160" y2="70" stroke="#666" stroke-width="1"/>
+      <text x="175" y="55" text-anchor="middle" font-size="8" fill="#666">&lt;35m</text>
+      
+      <text x="100" y="110" text-anchor="middle" font-size="10" fill="#C00000" font-weight="bold">NEAR AMBUSH</text>
+      <text x="100" y="125" text-anchor="middle" font-size="8" fill="#333">ASSAULT THROUGH</text>
+      <text x="100" y="137" text-anchor="middle" font-size="7" fill="#666">(Immediate action - no orders)</text>
+    </svg>
+  </div>
+  
+  <div class="diagram-box">
+    <svg width="200" height="140" viewBox="0 0 200 140">
+      <rect x="50" y="70" width="100" height="40" fill="#FFE0E0" stroke="#C00000" stroke-width="2" stroke-dasharray="5,3"/>
+      <text x="100" y="95" text-anchor="middle" font-size="9" fill="#C00000" font-weight="bold">KILL ZONE</text>
+      
+      <rect x="50" y="15" width="100" height="15" fill="#C00000"/>
+      <text x="100" y="26" text-anchor="middle" font-size="8" fill="white">ENEMY</text>
+      
+      <circle cx="75" cy="90" r="6" fill="#2B5797"/>
+      <circle cx="100" cy="90" r="6" fill="#2B5797"/>
+      <circle cx="125" cy="90" r="6" fill="#2B5797"/>
+      
+      <line x1="75" y1="85" x2="75" y2="45" stroke="#2B5797" stroke-width="1" stroke-dasharray="3,2"/>
+      <line x1="100" y1="85" x2="100" y2="45" stroke="#2B5797" stroke-width="1" stroke-dasharray="3,2"/>
+      <line x1="125" y1="85" x2="125" y2="45" stroke="#2B5797" stroke-width="1" stroke-dasharray="3,2"/>
+      
+      <line x1="160" y1="30" x2="160" y2="90" stroke="#666" stroke-width="1"/>
+      <text x="175" y="60" text-anchor="middle" font-size="8" fill="#666">&gt;35m</text>
+      
+      <text x="100" y="118" text-anchor="middle" font-size="10" fill="#4472C4" font-weight="bold">FAR AMBUSH</text>
+      <text x="100" y="132" text-anchor="middle" font-size="8" fill="#333">SUPPRESS → Leader directs action</text>
+    </svg>
+  </div>
+</div>
+
+<p class="key-concept">NEAR AMBUSH (within hand grenade range, ~35m):</p>
+<ul>
+  <li>Soldiers IN the kill zone IMMEDIATELY assault through the ambush</li>
+  <li>No orders given - this is an immediate action</li>
+  <li>Soldiers OUTSIDE kill zone provide suppressive fire and support by fire</li>
+  <li>Violence of action is key - assault through and destroy enemy</li>
+</ul>
+
+<p class="key-concept">FAR AMBUSH (beyond hand grenade range):</p>
+<ul>
+  <li>Soldiers IN kill zone immediately return fire, take cover, and suppress</li>
+  <li>Soldiers OUTSIDE kill zone maneuver to support or flank</li>
+  <li>Leader assesses and directs assault or break contact</li>
+</ul>
+
+<h3>Knock Out a Bunker (Battle Drill 5)</h3>
+<p><strong>Situation:</strong> Element identifies enemy bunker during movement</p>
+<p><strong>Actions:</strong></p>
+<ol>
+  <li>Element reacts to contact; suppresses bunker</li>
+  <li>SL reports, evaluates situation, maneuvers team to flank</li>
+  <li>Support element maintains suppressive fire on bunker</li>
+  <li>Assault element approaches from blind side/flank</li>
+  <li>Assault element destroys bunker with grenades and fire</li>
+  <li>Element consolidates and reorganizes</li>
+</ol>
+
+<h3>Enter and Clear a Room (Battle Drill 6)</h3>
+<p><strong>Situation:</strong> Team must clear a room during urban operations</p>
+
+<div class="diagram-container">
+  <div class="diagram-box">
+    <svg width="200" height="160" viewBox="0 0 200 160">
+      <rect x="30" y="30" width="140" height="100" fill="none" stroke="#333" stroke-width="3"/>
+      
+      <rect x="95" y="127" width="30" height="6" fill="#8B4513"/>
+      <text x="110" y="150" text-anchor="middle" font-size="8" fill="#333">ENTRY</text>
+      
+      <text x="45" y="45" font-size="8" fill="#666">1</text>
+      <text x="155" y="45" font-size="8" fill="#666">2</text>
+      <text x="155" y="120" font-size="8" fill="#666">3</text>
+      <text x="45" y="120" font-size="8" fill="#666">4</text>
+      
+      <circle cx="110" cy="140" r="8" fill="#2B5797"/>
+      <text x="110" y="143" text-anchor="middle" font-size="7" fill="white" font-weight="bold">1</text>
+      <path d="M 110 132 L 110 100 L 50 60" stroke="#2B5797" stroke-width="2" fill="none" stroke-dasharray="4,2"/>
+      <circle cx="50" cy="60" r="6" fill="#2B5797" opacity="0.5"/>
+      
+      <circle cx="125" cy="145" r="8" fill="#C00000"/>
+      <text x="125" y="148" text-anchor="middle" font-size="7" fill="white" font-weight="bold">2</text>
+      <path d="M 125 137 L 125 100 L 155 60" stroke="#C00000" stroke-width="2" fill="none" stroke-dasharray="4,2"/>
+      <circle cx="155" cy="60" r="6" fill="#C00000" opacity="0.5"/>
+      
+      <path d="M 50 60 L 100 80 L 50 100" stroke="#2B5797" stroke-width="1" fill="#2B5797" fill-opacity="0.1"/>
+      <path d="M 155 60 L 105 80 L 155 100" stroke="#C00000" stroke-width="1" fill="#C00000" fill-opacity="0.1"/>
+      
+      <text x="100" y="25" text-anchor="middle" font-size="9" fill="#333" font-weight="bold">ROOM CLEARING</text>
+    </svg>
+    <div class="diagram-note">#1 buttonhooks left, #2 crosses right<br>Clear corners → center</div>
+  </div>
+</div>
+
+<p><strong>Actions:</strong></p>
+<ol>
+  <li>Team stacks on entry point</li>
+  <li>#1 soldier enters first, moves to first corner and clears to center</li>
+  <li>#2 soldier enters, moves opposite direction, clears to center</li>
+  <li>#3 and #4 enter and clear remaining corners</li>
+  <li>Team leader announces "CLEAR" when room is secure</li>
+</ol>
+
+<div class="tac-note">
+  <div class="tac-note-title">TAC EVALUATION NOTE</div>
+  For battle drills, evaluate the candidate's ability to: <strong>(1)</strong> Recognize the situation requiring the drill, <strong>(2)</strong> Issue clear, concise commands, <strong>(3)</strong> Maintain control throughout execution, and <strong>(4)</strong> Consolidate and account for personnel after the action. Perfect tactical execution is NOT the standard—leadership under pressure IS.
+</div>
+
+<!-- SECTION 5 -->
+<div class="page-break"></div>
+<h2>Section 5: Actions on the Objective</h2>
+<p>This section covers the basic framework for offensive operations that candidates will plan and execute during FLX. The candidate must demonstrate understanding of the purpose and organization of each element.</p>
+
+<h3>Basic Offensive Framework</h3>
+
+<div class="diagram-container">
+  <div class="diagram-box" style="width: 100%; max-width: 500px;">
+    <svg width="480" height="220" viewBox="0 0 480 220">
+      <ellipse cx="120" cy="60" rx="80" ry="40" fill="#FFE0E0" stroke="#C00000" stroke-width="2"/>
+      <text x="120" y="55" text-anchor="middle" font-size="11" fill="#C00000" font-weight="bold">OBJECTIVE</text>
+      <text x="120" y="70" text-anchor="middle" font-size="9" fill="#C00000">(Enemy Position)</text>
+      
+      <rect x="280" y="30" width="80" height="35" rx="3" fill="#70AD47"/>
+      <text x="320" y="45" text-anchor="middle" font-size="8" fill="white" font-weight="bold">SUPPORT</text>
+      <text x="320" y="57" text-anchor="middle" font-size="7" fill="white">BY FIRE</text>
+      
+      <defs>
+        <marker id="fireArrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+          <polygon points="0 0, 8 3, 0 6" fill="#70AD47"/>
+        </marker>
+      </defs>
+      <line x1="280" y1="47" x2="200" y2="55" stroke="#70AD47" stroke-width="2" marker-end="url(#fireArrow)"/>
+      <line x1="280" y1="52" x2="200" y2="65" stroke="#70AD47" stroke-width="2" marker-end="url(#fireArrow)"/>
+      
+      <rect x="280" y="120" width="60" height="35" rx="3" fill="#2B5797"/>
+      <text x="310" y="135" text-anchor="middle" font-size="8" fill="white" font-weight="bold">ASSAULT</text>
+      <text x="310" y="147" text-anchor="middle" font-size="7" fill="white">ELEMENT</text>
+      
+      <defs>
+        <marker id="assaultArrow2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0, 10 3.5, 0 7" fill="#2B5797"/>
+        </marker>
+      </defs>
+      <path d="M 280 137 Q 220 140 180 100" stroke="#2B5797" stroke-width="3" fill="none" marker-end="url(#assaultArrow2)"/>
+      <text x="220" y="155" text-anchor="middle" font-size="8" fill="#2B5797">Maneuver to assault</text>
+      
+      <ellipse cx="400" cy="140" rx="50" ry="30" fill="#E2EFDA" stroke="#70AD47" stroke-width="2"/>
+      <text x="400" y="135" text-anchor="middle" font-size="9" fill="#375623" font-weight="bold">ORP</text>
+      <text x="400" y="148" text-anchor="middle" font-size="7" fill="#375623">200-400m</text>
+      
+      <circle cx="420" cy="190" r="20" fill="#C00000" opacity="0.8"/>
+      <text x="420" y="188" text-anchor="middle" font-size="7" fill="white" font-weight="bold">SEC</text>
+      <text x="420" y="198" text-anchor="middle" font-size="6" fill="white">ELEM</text>
+      
+      <rect x="10" y="170" width="200" height="45" fill="#f5f5f5" stroke="#ccc"/>
+      <text x="20" y="185" font-size="8" fill="#333" font-weight="bold">LEGEND:</text>
+      <rect x="20" y="192" width="12" height="8" fill="#70AD47"/>
+      <text x="37" y="199" font-size="7" fill="#333">Support - Suppress/Fix</text>
+      <rect x="100" y="192" width="12" height="8" fill="#2B5797"/>
+      <text x="117" y="199" font-size="7" fill="#333">Assault - Destroy</text>
+      <circle cx="185" cy="196" r="5" fill="#C00000"/>
+      <text x="195" y="199" font-size="7" fill="#333">Security</text>
+    </svg>
+  </div>
+</div>
+
+<table>
+  <tr>
+    <th>Element</th>
+    <th>Purpose</th>
+    <th>Typical Tasks</th>
+  </tr>
+  <tr>
+    <td class="row-header">SUPPORT BY FIRE</td>
+    <td>Fix and suppress enemy; Prevent enemy from repositioning or reinforcing</td>
+    <td>Establish base of fire; Suppress enemy positions; Shift fires on signal</td>
+  </tr>
+  <tr>
+    <td class="row-header">ASSAULT</td>
+    <td>Close with and destroy the enemy; Seize the objective</td>
+    <td>Maneuver to assault position; Assault through objective; Clear enemy positions</td>
+  </tr>
+  <tr>
+    <td class="row-header">SECURITY</td>
+    <td>Protect the force; Provide early warning of enemy</td>
+    <td>Establish ORP security; Cover flanks/rear during assault; Screen withdrawal</td>
+  </tr>
+</table>
+
+<h3>Objective Rally Point (ORP) Procedures</h3>
+<p>The ORP is the last covered and concealed position before the objective where the patrol halts to finalize preparations.</p>
+<ol>
+  <li><strong>Occupation:</strong> Typically 200-400m from objective; Establish 360° security; Account for personnel</li>
+  <li><strong>Leader's Recon:</strong> PL takes key leaders forward to confirm objective location and finalize plan</li>
+  <li><strong>Final Preparations:</strong> Issue final guidance; Conduct rehearsals; PCC/PCI</li>
+  <li><strong>Departure:</strong> Elements depart on time; Move to assault/support positions</li>
+</ol>
+
+<h3>Consolidation and Reorganization</h3>
+<p>After seizing the objective, the element must secure the position and prepare for the next mission.</p>
+
+<p><strong>CONSOLIDATION (security):</strong></p>
+<ul>
+  <li>Establish hasty defensive positions facing likely enemy avenues of approach</li>
+  <li>Position crew-served weapons to cover key terrain</li>
+  <li>Establish observation posts and listening posts as needed</li>
+</ul>
+
+<p><strong>REORGANIZATION (sustainment):</strong></p>
+<ul>
+  <li>Account for all personnel and sensitive items</li>
+  <li>Treat and evacuate casualties</li>
+  <li>Redistribute ammunition and supplies</li>
+  <li>Process EPWs and captured equipment</li>
+  <li>Report to higher (SALUTE, ACE)</li>
+</ul>
+
+<!-- SECTION 6 -->
+<div class="page-break"></div>
+<h2>Section 6: Connecting Tactics to the FLER</h2>
+<p>The Field Leadership Evaluation Report (FLER) evaluates candidates on the 8 TLPs, not tactical execution. Understanding how tactical tasks connect to TLP evaluation helps focus your assessment.</p>
+
+<table>
+  <tr>
+    <th>TLP Step</th>
+    <th>What to Observe in Tactical Context</th>
+  </tr>
+  <tr>
+    <td class="row-header">1. Receive the Mission</td>
+    <td>Does candidate analyze enemy, mission, and time available? Do they conduct a proper back-brief?</td>
+  </tr>
+  <tr>
+    <td class="row-header">2. Issue Warning Order</td>
+    <td>Does candidate provide timely WARNO with mission, timeline, and specific guidance to subordinates?</td>
+  </tr>
+  <tr>
+    <td class="row-header">3. Make Tentative Plan</td>
+    <td>Does candidate develop a COA addressing scheme of maneuver, formations, movement techniques, and actions on objective?</td>
+  </tr>
+  <tr>
+    <td class="row-header">4. Initiate Movement</td>
+    <td>Does candidate conduct initial inspections? Begin movement to position the element? Execute contingency plans?</td>
+  </tr>
+  <tr>
+    <td class="row-header">5. Conduct Recon</td>
+    <td>Does candidate confirm/deny key assumptions about terrain, enemy, and objective? Update plan based on recon?</td>
+  </tr>
+  <tr>
+    <td class="row-header">6. Complete the Plan</td>
+    <td>Does candidate finalize scheme of maneuver, task organization, and control measures based on recon findings?</td>
+  </tr>
+  <tr>
+    <td class="row-header">7. Issue the Order</td>
+    <td>Does OPORD include clear situation, mission (stated twice), execution with scheme of maneuver, and command/signal? Uses terrain model?</td>
+  </tr>
+  <tr>
+    <td class="row-header">8. Supervise/Assess</td>
+    <td>Does candidate conduct rehearsals, PCC/PCI, and maintain control throughout execution? Adjusts plan as situation develops?</td>
+  </tr>
+</table>
+
+<div class="bottom-line">
+  <div class="bottom-line-title">BOTTOM LINE FOR TACS</div>
+  You don't need to be an infantry expert to evaluate OCS candidates. You need to understand enough about tactical operations to assess whether the candidate can 
+  <strong>PLAN</strong> (develop a coherent scheme of maneuver), 
+  <strong>COMMUNICATE</strong> (issue clear orders and guidance), and 
+  <strong>LEAD</strong> (maintain control and adapt during execution). 
+  The FLER evaluates TLPs—tactical tasks are simply the vehicle for demonstrating leadership.
+</div>
+
+<h3>References</h3>
+<ul>
+  <li>ATP 3-21.8, Infantry Platoon and Squad (April 2016)</li>
+  <li>ARNG OCS Course Management Plan (1 JAN 2024)</li>
+  <li>ARNG OCS Individual Student Assessment Plan (1 JAN 2024)</li>
+  <li>Platoon Trainer Guide (15 November 2024)</li>
+  <li>TC 3-21.76, Ranger Handbook (April 2017)</li>
+</ul>
+
+<hr style="margin-top: 0.3in; border: none; border-top: 1px solid #999;">
+<p style="text-align: center; font-size: 9pt; color: #666;">FOR TRAINING USE ONLY | TAC's Tactical Quick Reference – ATP 3-21.8</p>
+
+</body>
+</html>
