@@ -34,6 +34,30 @@
       font-size: 10pt;
       margin-bottom: 0.2in;
     }
+    
+    .doctrine-link-box {
+      background-color: #E7F3FF;
+      border: 2px solid #2B5797;
+      border-radius: 6px;
+      padding: 0.15in;
+      margin: 0.2in 0;
+      text-align: center;
+    }
+    .doctrine-link-box a {
+      color: #2B5797;
+      font-weight: bold;
+      font-size: 11pt;
+      text-decoration: none;
+    }
+    .doctrine-link-box a:hover {
+      text-decoration: underline;
+    }
+    .doctrine-link-label {
+      font-size: 9pt;
+      color: #404040;
+      margin-top: 0.05in;
+      font-style: italic;
+    }
     h2 {
       color: #2B5797;
       font-size: 16pt;
@@ -258,12 +282,21 @@
         grid-template-columns: 1fr; 
         gap: 0.12in;
       }
-      .purpose-box, .tac-note, .bottom-line {
+      .purpose-box, .tac-note, .bottom-line, .doctrine-link-box {
         padding: 0.1in;
         margin: 0.12in 0;
       }
+      .doctrine-link-box a {
+        font-size: 10pt;
+      }
+      .doctrine-link-label {
+        font-size: 8.5pt;
+      }
       .purpose-box strong, .tac-note-title {
         font-size: 11pt;
+      }
+      .doctrine-link-box {
+        border-width: 1.5px;
       }
       .bottom-line-title {
         font-size: 12pt;
@@ -316,7 +349,14 @@
 
 <h1>TAC's Tactical Quick Reference</h1>
 <div class="subtitle">Movement, Battle Drills, and Danger Areas</div>
-<div class="reference">Reference: <a href="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/" target="_blank">ATP 3-21.8, Infantry Platoon and Squad</a></div>
+
+<div class="doctrine-link-box">
+  <strong>📚 PRIMARY DOCTRINAL REFERENCE:</strong><br>
+  <a href="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/" target="_blank">ATP 3-21.8 Interactive Doctrine Supplement</a>
+  <div class="doctrine-link-label">Click here for comprehensive tactical doctrine, detailed procedures, and in-depth information beyond this quick reference</div>
+</div>
+
+<div class="reference">Reference: ATP 3-21.8, Infantry Platoon and Squad</div>
 
 <div class="purpose-box">
   <strong>PURPOSE</strong><br>
