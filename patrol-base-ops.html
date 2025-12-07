@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patrol Base Operations - Crawl Phase Training Package</title>
+    <style>
+        :root {
+            --primary-color: #1a3a1a;
+            --secondary-color: #2d5a2d;
+            --accent-color: #4a7c4a;
+            --background-color: #f5f5f0;
+            --text-color: #1a1a1a;
+            --border-color: #333;
+            --header-bg: #d4d4c4;
+            --warning-color: #8b0000;
+        }
+        
+        * {
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 11pt;
+            line-height: 1.5;
+            color: var(--text-color);
+            background-color: var(--background-color);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        h1 {
+            font-size: 18pt;
+            color: var(--primary-color);
+            border-bottom: 3px solid var(--primary-color);
+            padding-bottom: 8px;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+        
+        h2 {
+            font-size: 14pt;
+            color: var(--secondary-color);
+            border-bottom: 1px solid var(--secondary-color);
+            padding-bottom: 5px;
+            margin-top: 25px;
+            margin-bottom: 12px;
+        }
+        
+        h3 {
+            font-size: 12pt;
+            color: var(--accent-color);
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        
+        .title-block {
+            text-align: center;
+            padding: 40px 20px;
+            background-color: var(--primary-color);
+            color: white;
+            margin-bottom: 30px;
+        }
+        
+        .title-block h1 {
+            color: white;
+            border-bottom: none;
+            font-size: 24pt;
+            margin: 0 0 10px 0;
+        }
+        
+        .title-block .subtitle {
+            font-size: 14pt;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        
+        .title-block .unit {
+            font-size: 12pt;
+            margin-bottom: 5px;
+        }
+        
+        .title-block .reference {
+            font-style: italic;
+            font-size: 10pt;
+            margin-top: 20px;
+        }
+        
+        .title-block .classification {
+            font-size: 9pt;
+            margin-top: 10px;
+            letter-spacing: 1px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            font-size: 10pt;
+        }
+        
+        th, td {
+            border: 1px solid var(--border-color);
+            padding: 8px 10px;
+            text-align: left;
+            vertical-align: top;
+        }
+        
+        th {
+            background-color: var(--header-bg);
+            font-weight: bold;
+        }
+        
+        .go-nogo {
+            width: 100px;
+            text-align: center;
+        }
+        
+        .remarks {
+            width: 150px;
+        }
+        
+        ul, ol {
+            margin: 10px 0;
+            padding-left: 25px;
+        }
+        
+        li {
+            margin-bottom: 6px;
+        }
+        
+        .inject-box {
+            background-color: #fff;
+            border: 1px solid var(--border-color);
+            border-left: 4px solid var(--secondary-color);
+            padding: 15px;
+            margin: 15px 0;
+        }
+        
+        .inject-box h3 {
+            margin-top: 0;
+            color: var(--primary-color);
+        }
+        
+        .situation {
+            margin-bottom: 10px;
+        }
+        
+        .situation strong {
+            color: var(--primary-color);
+        }
+        
+        .teaching-point {
+            background-color: #e8f0e8;
+            padding: 10px;
+            margin-top: 10px;
+            border-radius: 4px;
+            font-style: italic;
+        }
+        
+        .teaching-point strong {
+            font-style: normal;
+        }
+        
+        .frago-header {
+            text-align: center;
+            background-color: var(--header-bg);
+            padding: 15px;
+            margin: 20px 0;
+            border: 2px solid var(--border-color);
+        }
+        
+        .frago-header h2 {
+            border: none;
+            margin: 0 0 5px 0;
+            padding: 0;
+        }
+        
+        .frago-section {
+            margin: 15px 0;
+        }
+        
+        .frago-section h3 {
+            background-color: var(--header-bg);
+            padding: 5px 10px;
+            margin-bottom: 10px;
+        }
+        
+        .indent {
+            margin-left: 25px;
+        }
+        
+        .critical-error {
+            color: var(--warning-color);
+            font-weight: bold;
+        }
+        
+        .key-term {
+            font-weight: bold;
+        }
+        
+        .nav-toc {
+            background-color: #fff;
+            border: 1px solid var(--border-color);
+            padding: 15px 20px;
+            margin: 20px 0;
+        }
+        
+        .nav-toc h2 {
+            margin-top: 0;
+            border-bottom: none;
+        }
+        
+        .nav-toc ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        
+        .nav-toc li {
+            margin-bottom: 8px;
+        }
+        
+        .nav-toc a {
+            color: var(--secondary-color);
+            text-decoration: none;
+        }
+        
+        .nav-toc a:hover {
+            text-decoration: underline;
+        }
+        
+        .print-break {
+            page-break-before: always;
+        }
+        
+        @media print {
+            body {
+                background-color: white;
+                max-width: none;
+                padding: 0;
+            }
+            
+            .title-block {
+                background-color: white;
+                color: black;
+                border: 2px solid black;
+            }
+            
+            .title-block h1 {
+                color: black;
+            }
+            
+            .nav-toc {
+                display: none;
+            }
+            
+            .inject-box {
+                break-inside: avoid;
+            }
+            
+            table {
+                break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="title-block">
+    <h1>PATROL BASE OPERATIONS</h1>
+    <div class="subtitle">CRAWL PHASE TRAINING PACKAGE</div>
+    <div class="unit">211th Regiment (RTI-FL)</div>
+    <div class="unit">Officer Candidate School</div>
+    <div class="reference">Reference: ATP 3-21.8, Infantry Rifle Platoon and Squad</div>
+    <div class="classification">UNCLASSIFIED // FOR OFFICIAL USE ONLY</div>
+</div>
+
+<nav class="nav-toc">
+    <h2>Contents</h2>
+    <ul>
+        <li><a href="#cadre-refresher">Cadre Refresher: Patrol Base Operations</a></li>
+        <li><a href="#section1">Section 1: Patrol Base Inspection Checklist</a></li>
+        <li><a href="#section2">Section 2: Scenario Injects</a></li>
+        <li><a href="#section3">Section 3: Fragmentary Order</a></li>
+        <li><a href="#section4">Section 4: Cadre Implementation Notes</a></li>
+    </ul>
+</nav>
+
+<!-- CADRE REFRESHER SECTION -->
+<section id="cadre-refresher">
+    <h1>CADRE REFRESHER: PATROL BASE OPERATIONS</h1>
+    <p><em>Reference: ATP 3-21.8, Infantry Rifle Platoon and Squad</em></p>
+    
+    <h2>Purpose of a Patrol Base</h2>
+    <p>A patrol base is a position set up when a squad or platoon conducting a patrol halts for an extended period. Units establish patrol bases to:</p>
+    <ul>
+        <li>Plan and issue orders</li>
+        <li>Reorganize after infiltrating an objective area</li>
+        <li>Rest and eat</li>
+        <li>Prepare for follow-on missions</li>
+        <li>Avoid detection by staying off the enemy's decision-making cycle</li>
+    </ul>
+    
+    <h2>Site Selection Criteria</h2>
+    <p>When selecting a patrol base site, the leader considers:</p>
+    
+    <p><span class="key-term">Off natural lines of drift.</span> The site should be away from trails, streams, ridgelines, and other routes that travelers would naturally follow. Enemy patrols and local nationals tend to move along these features.</p>
+    
+    <p><span class="key-term">Terrain masking.</span> The site must avoid being skylighted against ridgelines or the horizon. The terrain should mask the patrol from enemy observation, both from ground level and aerial platforms.</p>
+    
+    <p><span class="key-term">Cover and concealment.</span> Good cover protects from direct and indirect fire; concealment hides the patrol from observation. Vegetation, terrain folds, and structures can provide both.</p>
+    
+    <p><span class="key-term">Defensible for short duration.</span> While a patrol base is not intended for prolonged defense, the site should allow the patrol to defend itself long enough to break contact and withdraw if compromised.</p>
+    
+    <p><span class="key-term">Observation of avenues of approach.</span> Security elements must be able to observe likely enemy approaches into the patrol base to provide early warning.</p>
+    
+    <p><span class="key-term">Facilitates rapid withdrawal.</span> The site should have multiple covered and concealed routes for withdrawal if the patrol must displace quickly.</p>
+    
+    <p>For the crawl phase, have candidates verbally articulate why they selected (or rejected) a site using OAKOC analysis—specifically how the terrain supports observation/fields of fire, controls avenues of approach, provides cover and concealment, and accounts for obstacles and key terrain.</p>
+    
+    <h2>Occupation Sequence</h2>
+    <p>The occupation sequence is critical for maintaining security during the vulnerable transition from movement to a static posture. The doctrinal sequence is:</p>
+    <ol>
+        <li><span class="key-term">Halt short of the proposed site.</span> The patrol leader halts the patrol in a security halt, confirming the location using map reconnaissance. The patrol remains in a defensive posture.</li>
+        <li><span class="key-term">Conduct leader's reconnaissance.</span> The PL takes a small reconnaissance element forward to physically confirm the site while the patrol remains in security. The recon element checks for enemy presence, suitability of terrain, and confirms the site meets selection criteria.</li>
+        <li><span class="key-term">Signal or retrieve the patrol.</span> Once the site is confirmed, the PL signals the patrol forward or sends a runner to retrieve them.</li>
+        <li><span class="key-term">Occupy using the pre-briefed plan.</span> The patrol moves into the site using a pre-briefed occupation plan—often a cigar-shaped or triangle perimeter depending on unit size and terrain. Elements are positioned to provide 360-degree security with interlocking sectors of fire where possible.</li>
+    </ol>
+    
+    <p><span class="critical-error">Critical Error:</span> Walking the entire patrol directly into an unconfirmed site. This is a major tactical error that exposes the entire element to potential ambush. Candidates who do this should be stopped and coached immediately.</p>
+    
+    <h2>Priorities of Work</h2>
+    <p>Once occupation is complete, the platoon leader directs priorities of work. The standard sequence (adjustable based on METT-TC) is:</p>
+    <ol>
+        <li><span class="key-term">Security.</span> Always first. Sectors of fire assigned, security teams in place, 100% security initially.</li>
+        <li><span class="key-term">Communications.</span> Establish contact with higher headquarters. Confirm position and status.</li>
+        <li><span class="key-term">Weapons maintenance.</span> Clean and maintain weapons; conduct accountability of sensitive items.</li>
+        <li><span class="key-term">Field sanitation.</span> Establish latrine location away from the perimeter and water sources.</li>
+        <li><span class="key-term">Feeding plan.</span> Coordinate when and how Soldiers will eat while maintaining security.</li>
+        <li><span class="key-term">Rest plan.</span> Establish sleep plan and security rotation schedule.</li>
+        <li><span class="key-term">Contingency planning.</span> Confirm actions on contact, withdrawal routes, and rally points.</li>
+    </ol>
+    <p>Memory aid: Some units use "SOCWFL" (Security, Observation, Communications, Weapons, Field sanitation, Lighting/noise discipline) or similar acronyms. Candidates should be able to recite the priorities and explain why each exists in that order.</p>
+    
+    <h2>Actions in the Patrol Base</h2>
+    <p>Once established, the patrol base operates under strict discipline:</p>
+    
+    <p><span class="key-term">Security posture.</span> All personnel remain at 100% security during initial occupation, then transition to a security posture appropriate to the threat (typically 50% during stand-to periods, 33% or less during rest periods in lower-threat environments).</p>
+    
+    <p><span class="key-term">Noise discipline.</span> Conversations are conducted in whispers or low voices. Equipment is secured to prevent rattling. Hand and arm signals are used when possible.</p>
+    
+    <p><span class="key-term">Light discipline.</span> No white light. Red lens flashlights only when absolutely necessary, and then only under cover (poncho, shelter). No smoking.</p>
+    
+    <p><span class="key-term">Movement control.</span> Movement within the patrol base follows designated routes to avoid creating beaten paths visible from the air. Soldiers do not wander; they move only when necessary and with purpose.</p>
+    
+    <p><span class="key-term">Challenge and password.</span> All personnel entering or leaving the perimeter use the challenge and password. Running passwords are used for hasty re-entry during contact.</p>
+    
+    <h2>Withdrawal from the Patrol Base</h2>
+    <p><span class="key-term">Key principle:</span> A patrol base is never used twice—it is a one-time position. Once a patrol departs, they do not return to that site.</p>
+    
+    <p>Before withdrawal:</p>
+    <ul>
+        <li>Withdrawal plan is briefed before occupation (primary and alternate routes)</li>
+        <li>Rally points (ORP, alternate, subsequent) are designated and disseminated</li>
+        <li>Time and method for withdrawal are established</li>
+    </ul>
+    
+    <p>During withdrawal:</p>
+    <ul>
+        <li>Thorough police call to ensure nothing is left behind (OPSEC)</li>
+        <li>Last element out brushes out tracks if time and security permit</li>
+        <li>Security maintained throughout the departure</li>
+    </ul>
+    
+    <h2>Key Teaching Points for Crawl Phase</h2>
+    <p>For candidates at this level, emphasize the "why" behind each action:</p>
+    <ul>
+        <li><span class="key-term">Security is first</span> because a compromised patrol base can result in mission failure and casualties.</li>
+        <li><span class="key-term">The recon element goes forward before the main body</span> because you never commit the entire force to an unconfirmed position.</li>
+        <li><span class="key-term">Priorities of work follow a sequence</span> because some tasks (security, communications) must be complete before others can begin safely.</li>
+        <li><span class="key-term">The patrol base is one-time use</span> because returning to a known position allows the enemy to predict your location.</li>
+    </ul>
+    <p>During inspections, ask candidates to explain the tactical rationale, not just recite steps. An officer must understand <em>why</em> in order to adapt when conditions change.</p>
+</section>
+
+<!-- SECTION 1: INSPECTION CHECKLIST -->
+<section id="section1" class="print-break">
+    <h1>SECTION 1: PATROL BASE INSPECTION CHECKLIST</h1>
+    <p>Purpose: This checklist supports cadre inspection of candidate performance during patrol base establishment and operations. Evaluate each area as GO/NO-GO for the crawl phase; annotate specific deficiencies for AAR.</p>
+    
+    <h2>1.1 Site Selection</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Performance Measure</th>
+                <th class="go-nogo">GO/NO-GO</th>
+                <th class="remarks">Remarks</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Site is OFF natural lines of drift (trails, draws, ridgelines)</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Site provides COVER AND CONCEALMENT from observation</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Site is NOT skylighted against ridgeline/horizon</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Site allows OBSERVATION of avenues of approach</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Site is DEFENSIBLE for short duration if necessary</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>PL can articulate OAKOC analysis for site selection</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <h2>1.2 Occupation Sequence</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Performance Measure</th>
+                <th class="go-nogo">GO/NO-GO</th>
+                <th class="remarks">Remarks</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Patrol HALTS short of proposed site (security halt)</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>PL takes RECON ELEMENT forward to confirm site</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Main body remains in SECURITY POSTURE during recon</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Patrol moves IAW pre-briefed OCCUPATION PLAN</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Perimeter provides 360-DEGREE SECURITY</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>SECTORS OF FIRE assigned to each position</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>NO walk-in of entire patrol to unconfirmed site</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <h2>1.3 Priorities of Work</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Performance Measure</th>
+                <th class="go-nogo">GO/NO-GO</th>
+                <th class="remarks">Remarks</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>SECURITY established FIRST (100% initially)</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>COMMUNICATIONS established with higher HQ</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>WEAPONS maintenance and accountability conducted</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>FIELD SANITATION plan established (latrine location)</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>REST/SLEEP plan established and disseminated</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>PL can recite and explain priority sequence</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <h2>1.4 Patrol Base Activities and Discipline</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Performance Measure</th>
+                <th class="go-nogo">GO/NO-GO</th>
+                <th class="remarks">Remarks</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>NOISE DISCIPLINE enforced throughout</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>LIGHT DISCIPLINE enforced (red lens only if required)</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>CHALLENGE AND PASSWORD procedures briefed</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>ALERT/STAND-TO procedures briefed and understood</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Movement within PB follows designated routes</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <h2>1.5 Contingency Planning and Withdrawal</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Performance Measure</th>
+                <th class="go-nogo">GO/NO-GO</th>
+                <th class="remarks">Remarks</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>ACTIONS ON CONTACT briefed to all personnel</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>PRIMARY withdrawal route identified and briefed</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>ALTERNATE withdrawal route identified and briefed</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>RALLY POINTS (ORP, alternate, subsequent) designated</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>POLICE CALL conducted prior to departure</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>PL understands patrol base is ONE-TIME USE only</td>
+                <td class="go-nogo"></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</section>
+
+<!-- SECTION 2: SCENARIO INJECTS -->
+<section id="section2" class="print-break">
+    <h1>SECTION 2: SCENARIO INJECTS</h1>
+    <p>Purpose: These injects test candidate decision-making and adaptability during patrol base operations. Cadre should issue these at appropriate points during the practical exercise. Evaluate the candidate's response process, not just the outcome.</p>
+    
+    <div class="inject-box">
+        <h3>INJECT 1: Compromised Site</h3>
+        <p class="situation"><strong>Situation:</strong> As the patrol begins occupation of the selected site, the recon element discovers fresh boot prints and discarded food wrappers approximately 30 meters from the proposed perimeter.</p>
+        
+        <p><strong>Expected Actions:</strong></p>
+        <ul>
+            <li>PL halts occupation immediately</li>
+            <li>PL increases security posture</li>
+            <li>PL reports findings to higher (simulated)</li>
+            <li>PL makes decision: continue to alternate site or accept risk and occupy</li>
+            <li>PL can articulate rationale for decision using METT-TC</li>
+        </ul>
+        
+        <div class="teaching-point">
+            <strong>Teaching Point:</strong> Officers must rapidly assess new information and make decisions under uncertainty. There is no single correct answer—the key is sound tactical reasoning.
+        </div>
+    </div>
+    
+    <div class="inject-box">
+        <h3>INJECT 2: Simulated Casualty</h3>
+        <p class="situation"><strong>Situation:</strong> Thirty minutes after establishing the patrol base, one Soldier reports a squad member has rolled their ankle badly during movement within the perimeter. The Soldier cannot bear weight on the injured leg.</p>
+        
+        <p><strong>Expected Actions:</strong></p>
+        <ul>
+            <li>PL directs immediate first aid (TCCC principles)</li>
+            <li>PL maintains security posture—does not collapse perimeter</li>
+            <li>PL reports situation to higher and requests guidance</li>
+            <li>PL initiates 9-Line MEDEVAC request (if required by scenario)</li>
+            <li>PL adjusts task organization to account for reduced strength</li>
+        </ul>
+        
+        <div class="teaching-point">
+            <strong>Teaching Point:</strong> Security is maintained even during casualty events. The mission continues, and the leader must balance care for the Soldier with tactical requirements.
+        </div>
+    </div>
+    
+    <div class="inject-box">
+        <h3>INJECT 3: Lost Accountability</h3>
+        <p class="situation"><strong>Situation:</strong> During the first security rotation, the PSG reports that one Soldier cannot be located. The Soldier was last seen moving toward the designated latrine area approximately 15 minutes ago.</p>
+        
+        <p><strong>Expected Actions:</strong></p>
+        <ul>
+            <li>PL directs immediate headcount to confirm</li>
+            <li>PL increases alert status but does NOT abandon perimeter</li>
+            <li>PL sends buddy team to check latrine area</li>
+            <li>PL reports to higher if Soldier not found within 5 minutes</li>
+            <li>PL implements lost Soldier procedures (if trained)</li>
+        </ul>
+        
+        <div class="teaching-point">
+            <strong>Teaching Point:</strong> Accountability is continuous. Leaders must establish movement control procedures and enforce them. Never leave a Soldier behind.
+        </div>
+    </div>
+    
+    <div class="inject-box">
+        <h3>INJECT 4: Change of Mission</h3>
+        <p class="situation"><strong>Situation:</strong> Higher headquarters transmits the following message: "Blackjack 6, this is Warhorse 3. FRAGO follows. Be prepared to move to alternate location, grid [provide grid], NLT [provide time]. Enemy activity reported vicinity your current AO. Acknowledge. Over."</p>
+        
+        <p><strong>Expected Actions:</strong></p>
+        <ul>
+            <li>PL acknowledges transmission correctly</li>
+            <li>PL begins abbreviated TLP (time permitting)</li>
+            <li>PL issues WARNO to subordinates</li>
+            <li>PL plans route to new grid using map/terrain analysis</li>
+            <li>PL directs police call and prepares for movement</li>
+        </ul>
+        
+        <div class="teaching-point">
+            <strong>Teaching Point:</strong> Plans change. Officers must be prepared to receive and execute FRAGOs rapidly while maintaining tactical discipline.
+        </div>
+    </div>
+    
+    <div class="inject-box">
+        <h3>INJECT 5: Unknown Personnel</h3>
+        <p class="situation"><strong>Situation:</strong> The security element on the north side of the perimeter reports movement approximately 75 meters out. Through observation, they identify two individuals in civilian clothing moving generally in the direction of the patrol base. They do not appear to have seen the patrol.</p>
+        
+        <p><strong>Expected Actions:</strong></p>
+        <ul>
+            <li>PL moves to assess situation personally or sends trusted subordinate</li>
+            <li>PL increases security posture (silent alert)</li>
+            <li>PL directs continued observation—no engagement without hostile act</li>
+            <li>PL reports to higher (SALUTE format)</li>
+            <li>PL prepares for possible withdrawal if compromise imminent</li>
+        </ul>
+        
+        <div class="teaching-point">
+            <strong>Teaching Point:</strong> Not all contacts are enemy. ROE and positive identification matter. Officers must exercise tactical patience while remaining ready to act.
+        </div>
+    </div>
+</section>
+
+<!-- SECTION 3: FRAGO -->
+<section id="section3" class="print-break">
+    <h1>SECTION 3: FRAGMENTARY ORDER</h1>
+    <p>Purpose: Issue this FRAGO to candidates following classroom instruction. This order directs movement from the cantonment area to establish a patrol base in the local training area.</p>
+    
+    <div class="frago-header">
+        <h2>FRAGMENTARY ORDER [001] TO OPORD [GUIDON]</h2>
+        <p><strong>211TH REGIMENT (RTI-FL), OFFICER CANDIDATE SCHOOL</strong></p>
+        <p><strong>[INSTALLATION], [STATE]</strong></p>
+        <p><strong>[DTG]</strong></p>
+    </div>
+    
+    <p><strong>References:</strong> Map Sheet [Local Training Area Map], 1:50,000; ATP 3-21.8</p>
+    <p><strong>Time Zone:</strong> Local</p>
+    
+    <div class="frago-section">
+        <h3>1. SITUATION</h3>
+        <p><strong>a. Enemy Forces.</strong> No change. OPFOR elements remain active in the training area. Assume hostile reconnaissance is ongoing. Enemy has demonstrated capability to conduct ambushes on dismounted patrols.</p>
+        <p><strong>b. Friendly Forces.</strong> Headquarters element remains at Bldg [XXX]. Adjacent units are not operating in your assigned training area at this time.</p>
+        <p><strong>c. Attachments/Detachments.</strong> None.</p>
+    </div>
+    
+    <div class="frago-section">
+        <h3>2. MISSION</h3>
+        <p>NLT [TIME], [CALLSIGN] departs cantonment area and conducts tactical movement to Training Area [DESIGNATOR] to establish a patrol base vicinity grid [8-DIGIT GRID] in order to prepare for follow-on operations.</p>
+    </div>
+    
+    <div class="frago-section">
+        <h3>3. EXECUTION</h3>
+        <p><strong>a. Commander's Intent.</strong></p>
+        <div class="indent">
+            <p><strong>Purpose:</strong> Establish a secure position to enable mission planning and rest.</p>
+            <p><strong>Key Tasks:</strong> (1) Conduct tactical movement to training area. (2) Select and occupy suitable patrol base site. (3) Establish security and complete priorities of work.</p>
+            <p><strong>End State:</strong> Patrol is secure in patrol base with 360-degree security, communications established with higher, and prepared for follow-on mission.</p>
+        </div>
+        
+        <p><strong>b. Concept of Operations.</strong> This operation consists of three phases:</p>
+        <div class="indent">
+            <p><strong>Phase 1 (SP to Release Point):</strong> Patrol departs cantonment area at SP [LOCATION/GRID] and moves tactically along Route [NAME] to RP [LOCATION/GRID].</p>
+            <p><strong>Phase 2 (RP to ORP):</strong> From RP, patrol establishes ORP vicinity grid [8-DIGIT GRID]. PL conducts leader's reconnaissance of proposed patrol base site.</p>
+            <p><strong>Phase 3 (Occupation):</strong> Upon confirmation of site, patrol occupies patrol base and completes priorities of work.</p>
+        </div>
+        
+        <p><strong>c. Tasks to Subordinate Units.</strong></p>
+        <div class="indent">
+            <p><strong>1st Squad:</strong> Lead element during movement. Establish initial security at ORP.</p>
+            <p><strong>2nd Squad:</strong> Trail element during movement. Provide rear security.</p>
+            <p><strong>Headquarters Element:</strong> Maintain communications with higher throughout operation.</p>
+        </div>
+        
+        <p><strong>d. Coordinating Instructions.</strong></p>
+        <ol>
+            <li>SP Time: [TIME]</li>
+            <li>Patrol base established NLT [TIME]</li>
+            <li>Movement technique: Traveling overwatch until contact or RP; bounding overwatch from RP to ORP if threat warrants</li>
+            <li>Challenge/Password: [WORD]/[WORD]</li>
+            <li>Running Password: [WORD]</li>
+            <li>Number Combination: [ODD/EVEN NUMBER]</li>
+            <li>ROE: Return fire only if fired upon. Report all contact immediately.</li>
+            <li>PACE Plan: Primary - FM Radio; Alternate - Runner; Contingency - Visual Signals; Emergency - Pyrotechnics</li>
+        </ol>
+    </div>
+    
+    <div class="frago-section">
+        <h3>4. SUSTAINMENT</h3>
+        <p><strong>a. Logistics.</strong> Soldiers carry individual water (minimum 2 quarts) and one MRE. No resupply planned during this operation.</p>
+        <p><strong>b. Medical.</strong> CLS personnel located with HQ element. Casualty evacuation point is SP. 9-Line MEDEVAC on order.</p>
+    </div>
+    
+    <div class="frago-section">
+        <h3>5. COMMAND AND SIGNAL</h3>
+        <p><strong>a. Command.</strong></p>
+        <div class="indent">
+            <p><strong>Location of Commander:</strong> With lead squad during movement; center of perimeter in patrol base.</p>
+            <p><strong>Succession of Command:</strong> PL, PSG, 1st SL, 2nd SL.</p>
+        </div>
+        
+        <p><strong>b. Signal.</strong></p>
+        <div class="indent">
+            <p><strong>Primary Frequency:</strong> [FREQ]</p>
+            <p><strong>Alternate Frequency:</strong> [FREQ]</p>
+            <p><strong>Call Signs:</strong> Higher: Warhorse 3; Patrol: Blackjack 6</p>
+            <p><strong>Signals:</strong> Halt = closed fist; Rally = IR strobe (3 flashes); Enemy contact = red star cluster</p>
+        </div>
+    </div>
+    
+    <p><strong>ACKNOWLEDGE:</strong></p>
+    
+    <p style="margin-top: 30px;"><strong>[TRAINER NAME]</strong><br>Senior Platoon Trainer</p>
+    
+    <h3>ANNEXES:</h3>
+    <p>A - Operational Graphics (Route Overlay)<br>
+    B - Patrol Base Site Options (Grid References)</p>
+    
+    <h3>DISTRIBUTION:</h3>
+    <p>Candidate PL<br>
+    Candidate PSG<br>
+    Squad Leaders</p>
+</section>
+
+<!-- SECTION 4: CADRE IMPLEMENTATION NOTES -->
+<section id="section4" class="print-break">
+    <h1>SECTION 4: CADRE IMPLEMENTATION NOTES</h1>
+    
+    <h2>4.1 Pre-Exercise Preparation</h2>
+    <ul>
+        <li>Conduct map reconnaissance of training area; identify 2-3 suitable patrol base sites</li>
+        <li>Pre-position any scenario inject materials (boot prints, trash for Inject 1)</li>
+        <li>Coordinate with Range Control for training area access</li>
+        <li>Brief assistant instructors on inject timing and execution</li>
+        <li>Complete risk assessment and brief safety considerations</li>
+        <li>Ensure communication plan with OCS TOC is established</li>
+    </ul>
+    
+    <h2>4.2 Crawl Phase Expectations</h2>
+    <p>This is the crawl phase—expect mistakes and use them as teaching opportunities. The focus is on building understanding, not evaluating for record. Key cadre behaviors:</p>
+    <ul>
+        <li>Pause and coach when candidates make errors rather than allowing failure to cascade</li>
+        <li>Ask candidates to explain their reasoning before correcting them</li>
+        <li>Connect tactical tasks to the candidate's future role as a commissioned officer</li>
+        <li>Allow candidates to self-correct when possible before providing the solution</li>
+        <li>Document common deficiencies for AAR and future class improvement</li>
+    </ul>
+    
+    <h2>4.3 AAR Focus Areas</h2>
+    <p>Structure the AAR around these key questions:</p>
+    <ul>
+        <li>What was the planned sequence for site selection and occupation?</li>
+        <li>What actually happened?</li>
+        <li>Why did the PL select this particular site? (OAKOC analysis)</li>
+        <li>How did the patrol maintain security during occupation?</li>
+        <li>What would the PL do differently next time?</li>
+        <li>How do these skills connect to BOLC and future assignments?</li>
+    </ul>
+    
+    <h2>4.4 Common Errors to Watch For</h2>
+    <ul>
+        <li>Walking entire patrol directly into unconfirmed site (critical error)</li>
+        <li>Selecting site on obvious terrain feature or trail</li>
+        <li>Failing to establish security before other priorities</li>
+        <li>Not briefing contingencies (withdrawal routes, rally points)</li>
+        <li>Losing accountability during occupation or transitions</li>
+        <li>Poor noise/light discipline</li>
+        <li>Collapsing security to respond to non-critical events</li>
+    </ul>
+</section>
+
+<footer style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #ccc; text-align: center; font-size: 9pt; color: #666;">
+    <p>211th Regiment (RTI-FL) Officer Candidate School<br>
+    Reference: ATP 3-21.8, Infantry Rifle Platoon and Squad<br>
+    UNCLASSIFIED // FOR OFFICIAL USE ONLY</p>
+</footer>
+
+</body>
+</html>
