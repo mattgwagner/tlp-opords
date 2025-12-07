@@ -6,6 +6,7 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 
 - [OPORD Blank Template](opord-blank-template.html) - A fill-in-the-blank template with quick references designed to help build operations orders in an expedited manner.
 - [TAC's Tactical Quick Reference](tac-quick-reference.html) - A comprehensive reference guide for movement formations, movement techniques, danger area crossings, battle drills, and actions on the objective. Designed to help TACs evaluate OCS candidates during field training exercises.
+- [Patrol Base Operations](patrol-base-ops.html) - A crawl phase training package covering patrol base operations, including cadre refresher material, inspection checklists, scenario injects, and implementation notes. Reference for establishing and operating patrol bases per ATP 3-21.8.
 
 ## Available Orders
 

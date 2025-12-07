@@ -260,10 +260,133 @@
                 break-inside: avoid;
             }
             
-            table {
-                break-inside: avoid;
-            }
+        table {
+            break-inside: avoid;
         }
+    }
+    
+    /* Mobile Responsiveness */
+    .table-wrapper {
+        width: 100%;
+        overflow-x: auto;
+        margin: 15px 0;
+        -webkit-overflow-scrolling: touch;
+    }
+    
+    table {
+        min-width: 100%;
+    }
+    
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    /* Tablet and smaller desktop */
+    @media screen and (max-width: 1024px) {
+        body {
+            padding: 15px;
+        }
+    }
+    
+    /* Large phones and small tablets */
+    @media screen and (max-width: 768px) {
+        body {
+            padding: 12px;
+            font-size: 10pt;
+        }
+        h1 {
+            font-size: 16pt;
+        }
+        h2 {
+            font-size: 13pt;
+        }
+        h3 {
+            font-size: 11pt;
+        }
+        .title-block {
+            padding: 25px 15px;
+        }
+        .title-block h1 {
+            font-size: 20pt;
+        }
+        .title-block .subtitle {
+            font-size: 12pt;
+        }
+        table {
+            font-size: 9pt;
+        }
+        th, td {
+            padding: 6px 8px;
+        }
+    }
+    
+    /* Mobile phones */
+    @media screen and (max-width: 600px) {
+        body {
+            padding: 10px;
+            font-size: 9.5pt;
+        }
+        h1 {
+            font-size: 14pt;
+        }
+        h2 {
+            font-size: 12pt;
+        }
+        h3 {
+            font-size: 10.5pt;
+        }
+        .title-block {
+            padding: 20px 10px;
+        }
+        .title-block h1 {
+            font-size: 18pt;
+        }
+        .title-block .subtitle {
+            font-size: 11pt;
+        }
+        .title-block .unit {
+            font-size: 10pt;
+        }
+        table {
+            font-size: 8.5pt;
+        }
+        th, td {
+            padding: 5px 6px;
+        }
+        .inject-box, .nav-toc, .frago-header {
+            padding: 12px;
+        }
+        ul, ol {
+            padding-left: 20px;
+        }
+    }
+    
+    /* Small mobile phones */
+    @media screen and (max-width: 480px) {
+        body {
+            padding: 8px;
+            font-size: 9pt;
+        }
+        h1 {
+            font-size: 13pt;
+        }
+        h2 {
+            font-size: 11pt;
+        }
+        h3 {
+            font-size: 10pt;
+        }
+        .title-block h1 {
+            font-size: 16pt;
+        }
+        table {
+            font-size: 8pt;
+        }
+        th, td {
+            padding: 4px 5px;
+        }
+    }
     </style>
 </head>
 <body>
@@ -391,6 +514,7 @@
     <p>Purpose: This checklist supports cadre inspection of candidate performance during patrol base establishment and operations. Evaluate each area as GO/NO-GO for the crawl phase; annotate specific deficiencies for AAR.</p>
     
     <h2>1.1 Site Selection</h2>
+    <div class="table-wrapper">
     <table>
         <thead>
             <tr>
@@ -432,8 +556,10 @@
             </tr>
         </tbody>
     </table>
+    </div>
     
     <h2>1.2 Occupation Sequence</h2>
+    <div class="table-wrapper">
     <table>
         <thead>
             <tr>
@@ -480,8 +606,10 @@
             </tr>
         </tbody>
     </table>
+    </div>
     
     <h2>1.3 Priorities of Work</h2>
+    <div class="table-wrapper">
     <table>
         <thead>
             <tr>
@@ -523,8 +651,10 @@
             </tr>
         </tbody>
     </table>
+    </div>
     
     <h2>1.4 Patrol Base Activities and Discipline</h2>
+    <div class="table-wrapper">
     <table>
         <thead>
             <tr>
@@ -561,8 +691,10 @@
             </tr>
         </tbody>
     </table>
+    </div>
     
     <h2>1.5 Contingency Planning and Withdrawal</h2>
+    <div class="table-wrapper">
     <table>
         <thead>
             <tr>
@@ -604,6 +736,7 @@
             </tr>
         </tbody>
     </table>
+    </div>
 </section>
 
 <!-- SECTION 2: SCENARIO INJECTS -->
