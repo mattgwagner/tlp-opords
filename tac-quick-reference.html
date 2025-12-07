@@ -91,11 +91,18 @@
       margin-bottom: 0.08in;
     }
     
+    .table-wrapper {
+      width: 100%;
+      overflow-x: auto;
+      margin: 0.1in 0;
+      -webkit-overflow-scrolling: touch;
+    }
     table {
       width: 100%;
       border-collapse: collapse;
-      margin: 0.1in 0;
+      margin: 0;
       font-size: 10pt;
+      min-width: 100%;
     }
     th {
       background-color: #2B5797;
@@ -104,6 +111,7 @@
       padding: 0.08in;
       border: 1px solid #999;
       text-align: center;
+      white-space: nowrap;
     }
     td {
       padding: 0.08in;
@@ -123,6 +131,12 @@
     
     .page-break { page-break-before: always; }
     
+    /* Responsive images */
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    
     /* Diagram Styles */
     .diagram-container {
       display: flex;
@@ -141,6 +155,8 @@
     .diagram-box svg {
       display: block;
       margin: 0 auto;
+      max-width: 100%;
+      height: auto;
     }
     .diagram-label {
       font-weight: bold;
@@ -184,13 +200,115 @@
       .diagram-container { page-break-inside: avoid; }
     }
     
+    /* Tablet and smaller desktop */
+    @media screen and (max-width: 1024px) {
+      body { padding: 0.4in; }
+    }
+    
+    /* Large phones and small tablets */
+    @media screen and (max-width: 768px) {
+      body { 
+        padding: 0.3in 0.25in; 
+        font-size: 10pt; 
+      }
+      h1 { font-size: 20pt; }
+      h2 { font-size: 15pt; }
+      h3 { font-size: 12pt; }
+      .subtitle { font-size: 13pt; }
+      .purpose-box, .tac-note, .bottom-line {
+        padding: 0.12in;
+      }
+      .formation-grid { 
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); 
+      }
+    }
+    
+    /* Mobile phones */
     @media screen and (max-width: 600px) {
-      body { padding: 0.2in; font-size: 10pt; }
+      body { 
+        padding: 0.25in 0.15in; 
+        font-size: 9.5pt; 
+      }
       h1 { font-size: 18pt; }
-      h2 { font-size: 14pt; }
-      table { font-size: 9pt; }
-      .diagram-container { flex-direction: column; align-items: center; }
-      .formation-grid { grid-template-columns: 1fr 1fr; }
+      h2 { 
+        font-size: 14pt; 
+        margin-top: 0.25in;
+      }
+      h3 { font-size: 11pt; }
+      h4 { font-size: 10.5pt; }
+      .subtitle { font-size: 12pt; }
+      .reference { font-size: 9pt; }
+      table { 
+        font-size: 8.5pt; 
+      }
+      th, td {
+        padding: 0.06in 0.05in;
+      }
+      .diagram-container, .movement-diagram-container { 
+        flex-direction: column; 
+        align-items: stretch;
+        gap: 0.12in;
+      }
+      .diagram-box {
+        width: 100%;
+        max-width: 100%;
+        padding: 0.08in;
+      }
+      .formation-grid { 
+        grid-template-columns: 1fr; 
+        gap: 0.12in;
+      }
+      .purpose-box, .tac-note, .bottom-line {
+        padding: 0.1in;
+        margin: 0.12in 0;
+      }
+      .purpose-box strong, .tac-note-title {
+        font-size: 11pt;
+      }
+      .bottom-line-title {
+        font-size: 12pt;
+      }
+      ul, ol { 
+        margin: 0.04in 0 0.04in 0.2in; 
+        padding-left: 0.15in; 
+      }
+      li { margin: 0.025in 0; }
+    }
+    
+    /* Small mobile phones */
+    @media screen and (max-width: 480px) {
+      body { 
+        padding: 0.2in 0.12in; 
+        font-size: 9pt; 
+      }
+      h1 { font-size: 16pt; }
+      h2 { 
+        font-size: 13pt; 
+        margin-top: 0.2in;
+      }
+      h3 { font-size: 10.5pt; }
+      h4 { font-size: 10pt; }
+      .subtitle { font-size: 11pt; }
+      table { 
+        font-size: 8pt; 
+      }
+      th, td {
+        padding: 0.05in 0.04in;
+      }
+      .diagram-label {
+        font-size: 9pt;
+      }
+      .diagram-note {
+        font-size: 7.5pt;
+      }
+      img {
+        max-width: 100% !important;
+      }
+      /* Make inline flex containers stack on mobile */
+      div[style*="display:flex"] {
+        flex-direction: column !important;
+        align-items: center !important;
+      }
     }
   </style>
 </head>
@@ -252,6 +370,7 @@
   </div>
 </div>
 
+<div class="table-wrapper">
 <table>
   <tr>
     <th>Formation</th>
@@ -278,6 +397,7 @@
     <td>Difficult to control; Vulnerable to flanks; Limited flexibility</td>
   </tr>
 </table>
+</div>
 
 <h3>Platoon Formations with Hand and Arm Signals (ATP 3-21.8)</h3>
 <p>Platoon formations are built from squad formations. The PL positions squads relative to each other based on threat and terrain. Hand and arm signals enable silent communication.</p>
@@ -461,6 +581,7 @@
 </div>
 
 <!-- Platoon Formation Table -->
+<div class="table-wrapper">
 <table>
   <tr>
     <th style="width:15%">Formation</th>
@@ -505,6 +626,7 @@
     <td>Same as vee formation</td>
   </tr>
 </table>
+</div>
 
 <!-- SECTION 2 -->
 <div class="page-break"></div>
@@ -599,6 +721,7 @@
   </div>
 </div>
 
+<div class="table-wrapper">
 <table>
   <tr>
     <th>Technique</th>
@@ -629,6 +752,7 @@
     <td style="text-align:center;">Greatest</td>
   </tr>
 </table>
+</div>
 
 <h4>Bounding Overwatch Methods</h4>
 <ul>
@@ -646,6 +770,7 @@
 <p>A danger area is any place where the unit is vulnerable to enemy observation or fire. Crossing danger areas is a critical tactical task that requires planning, control, and security.</p>
 
 <h3>Types of Danger Areas</h3>
+<div class="table-wrapper">
 <table>
   <tr>
     <th>Type</th>
@@ -664,6 +789,7 @@
     <td>Known or suspected enemy positions, obstacles, minefields</td>
   </tr>
 </table>
+</div>
 
 <h3>Linear Danger Area Crossing Procedure</h3>
 
@@ -957,6 +1083,7 @@
   </div>
 </div>
 
+<div class="table-wrapper">
 <table>
   <tr>
     <th>Element</th>
@@ -979,6 +1106,7 @@
     <td>Establish ORP security; Cover flanks/rear during assault; Screen withdrawal</td>
   </tr>
 </table>
+</div>
 
 <h3>Objective Rally Point (ORP) Procedures</h3>
 <p>The ORP is the last covered and concealed position before the objective where the patrol halts to finalize preparations.</p>
@@ -1013,6 +1141,7 @@
 <h2>Section 6: Connecting Tactics to the FLER</h2>
 <p>The Field Leadership Evaluation Report (FLER) evaluates candidates on the 8 TLPs, not tactical execution. Understanding how tactical tasks connect to TLP evaluation helps focus your assessment.</p>
 
+<div class="table-wrapper">
 <table>
   <tr>
     <th>TLP Step</th>
@@ -1051,6 +1180,7 @@
     <td>Does candidate conduct rehearsals, PCC/PCI, and maintain control throughout execution? Adjusts plan as situation develops?</td>
   </tr>
 </table>
+</div>
 
 <div class="bottom-line">
   <div class="bottom-line-title">BOTTOM LINE FOR TACS</div>
