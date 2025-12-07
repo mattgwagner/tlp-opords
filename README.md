@@ -21,4 +21,7 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 - [Base Defense](006-base-defense.md) - [PDF](006-base-defense.pdf)
 - [Forward Passage of Lines](007-forward-passage-of-lines.md) - [PDF](007-forward-passage-of-lines.pdf)
 
+### Static Operations
+- [Patrol Base Operations](008-patrol-base-operations.md) - [PDF](008-patrol-base-operations.pdf)
+
 This is a repository of simple, platoon level operations orders for use at OCS for STX evaluation lanes and TLP training exercises.
