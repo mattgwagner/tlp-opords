@@ -24,4 +24,20 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 ### Static Operations
 - [Patrol Base Operations](008-patrol-base-operations.md) - [PDF](008-patrol-base-operations.pdf)
 
+## FLX Variation System
+
+To keep iterations fresh during multiple FLX runs, use the inject card system:
+
+- [Inject Cards User Guide](inject-cards-guide.md) - How to use the inject card system
+- [Situation Update Cards](inject-cards-situation-updates.md) - Intelligence and situation updates (10 cards)
+- [Enemy Behavior Cards](inject-cards-enemy-behavior.md) - REAPER action variations (10 cards)
+- [Friendly Force Status Cards](inject-cards-friendly-force-status.md) - Friendly unit condition changes (10 cards)
+- [Weather/Terrain Cards](inject-cards-weather-terrain.md) - Environmental condition variations (10 cards)
+- [Civilian Scenario Cards](inject-cards-civilian-scenarios.md) - ROE and decision-making challenges (10 cards)
+- [Timeline Pressure Cards](inject-cards-timeline-pressure.md) - Time constraint variations (10 cards)
+
+**Quick Start:** Select 1-3 inject cards from different categories per iteration to create unique scenarios without needing new OPORDs.
+
+---
+
 This is a repository of simple, platoon level operations orders for use at OCS for STX evaluation lanes and TLP training exercises.
