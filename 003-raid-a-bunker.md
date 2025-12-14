@@ -8,9 +8,9 @@
 >
 > **Complexity:** Higher | **Recommended Phase:** RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon is tasked to conduct a raid to eliminate enemy forces and secure a fortified position in AO HERRERA.
+> **Mission Summary:** 1st Platoon is tasked to conduct a raid to eliminate REAPER forces and secure a fortified position in AO HERRERA.
 >
-> **Destination:** Enemy bunker (OBJ COTTO) near MP 0600 1540, AO HERRERA.
+> **Destination:** REAPER bunker (OBJ COTTO) near MP 0600 1540, AO HERRERA.
 >
 > **Actions on Objective:** Platoon will establish an ORP, move to the objective, isolate the enemy position, breach and clear the bunker, and withdraw in an organized manner. Assault, support, and security elements will be employed per doctrine.
 >
@@ -50,24 +50,24 @@ Clay County, Florida, in the vicinity of Starke and Highway 16.
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
-### c. Enemy Forces
-The enemy is a determined irregular force, likely associated with a regional militia or paramilitary group. They are equipped with small arms, heavy weapons, and may employ defensive positions and improvised explosive devices. They are experienced in defending fixed positions and may attempt to reinforce or counterattack if threatened.
+### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
+REAPER forces are a determined irregular force, likely associated with a regional militia or paramilitary group. They are equipped with small arms, heavy weapons, and may employ defensive positions and improvised explosive devices. They are experienced in defending fixed positions and may attempt to reinforce or counterattack if threatened.
 
-**1. Composition.** 4-5 combatants, AK-47s, 1 HMG, possible IEDs.
+**1. Composition.** 4-5 REAPER combatants, AK-47s, 1 HMG, possible IEDs.
 
-**2. Disposition.** Enemy forces are positioned in and around fortified defensive locations, utilizing prepared fighting positions and natural cover. They maintain vigilance for approaching threats and are capable of reinforcing their positions or launching counterattacks as needed.
+**2. Disposition.** REAPER forces are positioned in and around fortified defensive locations, utilizing prepared fighting positions and natural cover. They maintain vigilance for approaching threats and are capable of reinforcing their positions or launching counterattacks as needed.
 
-**3. Most Probable Course of Action (MPCOA).** The enemy defends their position with small arms and prepared obstacles, but if the assault is effective, they withdraw through a pre-planned escape route, prioritizing survival over holding the objective. They may attempt to delay the platoon's advance but do not counterattack in strength.
+**3. Most Probable Course of Action (MPCOA).** REAPER forces defend their position with small arms and prepared obstacles, but if the assault is effective, they withdraw through a pre-planned escape route, prioritizing survival over holding the objective. They may attempt to delay the platoon's advance but do not counterattack in strength.
 
-**4. Most Dangerous Course of Action (MDCOA).** The enemy launches a coordinated counterattack with reinforcements during or immediately after the raid, using pre-placed IEDs or booby traps to disrupt friendly movement. They attempt to encircle or cut off the assaulting platoon, inflicting maximum casualties and preventing withdrawal.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER forces launch a coordinated counterattack with reinforcements during or immediately after the raid, using pre-placed IEDs or booby traps to disrupt friendly movement. They attempt to encircle or cut off the assaulting platoon, inflicting maximum casualties and preventing withdrawal.
 
 ### d. Friendly Forces
 
 **1. Higher Headquarters:** A Co. 4th BN – 211th INF.
 
-**2. Mission.** A Company eliminates enemy forces in AO Starke to secure area for follow-on operations.
+**2. Mission.** A Company eliminates REAPER forces in AO Starke to secure area for follow-on operations.
 
-**3. Commander's Intent.** Destroy enemy bunker and hostile forces to allow freedom of movement for friendly forces.
+**3. Commander's Intent.** Destroy REAPER bunker and hostile forces to allow freedom of movement for friendly forces.
 
 ### e. Civil Considerations
 Civilians reside near AO. Protect non-combatants and prevent collateral damage.
@@ -79,14 +79,14 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts a raid of OBJ COTTO in AO HERRERA NLT ____ to eliminate enemy forces and secure the area of operations.
+1st Platoon conducts a raid of OBJ COTTO in AO HERRERA NLT ____ to eliminate REAPER forces and secure the area of operations.
 
 ---
 
 ## 3. EXECUTION
 
 ### a. Concept of Operations
-1st Platoon conducts a raid by establishing an ORP, moving to the objective, and isolating the enemy position. 1st Squad serves as the assault element, breaching and clearing the bunker. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective area. 3rd Squad serves as the security element, securing the flanks and rear, and interdicting enemy reinforcements or escape. Upon completion of the raid, the platoon withdraws in an organized manner to the ORP.
+1st Platoon conducts a raid by establishing an ORP, moving to the objective, and isolating the REAPER position. 1st Squad serves as the assault element, breaching and clearing the bunker. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective area. 3rd Squad serves as the security element, securing the flanks and rear, and interdicting REAPER reinforcements or escape. Upon completion of the raid, the platoon withdraws in an organized manner to the ORP.
 
 ### b. Scheme of Movement and Maneuver
 - Squads SP from platoon ORP in squad column.
@@ -99,8 +99,8 @@ None.
 
 **1. 1st Squad:**
 
-- **TASK:** Assault and breach OBJ COTTO at MP 0600 1540, neutralize enemy combatants, and secure the objective.
-- **PURPOSE:** Destroy enemy defensive positions and eliminate threats to enable freedom of movement for friendly forces.
+- **TASK:** Assault and breach OBJ COTTO at MP 0600 1540, neutralize REAPER combatants, and secure the objective.
+- **PURPOSE:** Destroy REAPER defensive positions and eliminate threats to enable freedom of movement for friendly forces.
 
 **2. 2nd Squad:**
 
@@ -109,8 +109,8 @@ None.
 
 **3. 3rd Squad:**
 
-- **TASK:** Establish security around the bunker, observe for and engage enemy reinforcements or flanking elements, and secure the area.
-- **PURPOSE:** Prevent enemy interference with the raid and ensure the platoon can consolidate and reorganize after the assault.
+- **TASK:** Establish security around the bunker, observe for and engage REAPER reinforcements or flanking elements, and secure the area.
+- **PURPOSE:** Prevent REAPER interference with the raid and ensure the platoon can consolidate and reorganize after the assault.
 
 ### e. Coordinating Instructions
 
@@ -121,10 +121,10 @@ None.
    4. Report civilian casualties immediately.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Identify additional enemy forces in the area.
+   1. Identify additional REAPER forces in the area.
    2. Confirm presence of IEDs or booby traps.
    3. Assess civilian presence near the objective.
-   4. Monitor enemy communications and movement.
+   4. Monitor REAPER communications and movement.
 
 **3. Commander's Critical Information Requirements (CCIR):**
    1. Immediate reporting of any enemy contact or significant changes in enemy posture.

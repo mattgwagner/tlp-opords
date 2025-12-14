@@ -54,22 +54,22 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompa
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms. Limited visibility expected during nighttime operations; plan for EENT/BMNT stand-to procedures.
 
-### c. Enemy Forces
-The enemy consists of irregular forces operating in the area who actively patrol and conduct reconnaissance to locate friendly positions. They are equipped with small arms and may have support weapons. They are experienced in local terrain and may attempt to probe or attack friendly positions if discovered.
+### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
+REAPER forces consist of irregular forces operating in the area who actively patrol and conduct reconnaissance to locate friendly positions. They are equipped with small arms and may have support weapons. They are experienced in local terrain and may attempt to probe or attack friendly positions if discovered.
 
-**1. Composition.** Estimated 6-8 personnel, small arms, possible support weapons, operating in 2-3 person reconnaissance teams and larger assault elements.
+**1. Composition.** Estimated 6-8 REAPER personnel, small arms, possible support weapons, operating in 2-3 person reconnaissance teams and larger assault elements.
 
-**2. Disposition.** Enemy forces are dispersed throughout the area, conducting patrols and reconnaissance. They maintain observation posts on likely routes and are prepared to report and engage friendly forces. Main body elements are positioned to reinforce reconnaissance teams if contact is made.
+**2. Disposition.** REAPER forces are dispersed throughout the area, conducting patrols and reconnaissance. They maintain observation posts on likely routes and are prepared to report and engage friendly forces. Main body elements are positioned to reinforce reconnaissance teams if contact is made.
 
-**3. Most Probable Course of Action (MPCOA).** Enemy reconnaissance elements detect friendly patrol base and conduct observation to assess strength and disposition. They report findings to higher and may conduct limited probing attacks to test friendly defenses before withdrawing to plan a larger operation.
+**3. Most Probable Course of Action (MPCOA).** REAPER reconnaissance elements detect friendly patrol base and conduct observation to assess strength and disposition. They report findings to higher and may conduct limited probing attacks to test friendly defenses before withdrawing to plan a larger operation.
 
-**4. Most Dangerous Course of Action (MDCOA).** Enemy reconnaissance detects patrol base occupation and rapidly coordinates a multi-element attack. The enemy conducts a coordinated assault using indirect fire, support weapons, and assault elements to overwhelm friendly positions before reinforcements can arrive.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER reconnaissance detects patrol base occupation and rapidly coordinates a multi-element attack. REAPER forces conduct a coordinated assault using indirect fire, support weapons, and assault elements to overwhelm friendly positions before reinforcements can arrive.
 
 ### d. Friendly Forces
 
 **1. Higher Headquarters:** A Co. 4th BN – 211th INF.
 
-**2. Mission.** A Company conducts area security operations in AO COTTO to deny enemy freedom of movement and enable follow-on offensive operations.
+**2. Mission.** A Company conducts area security operations in AO COTTO to deny REAPER freedom of movement and enable follow-on offensive operations.
 
 **3. Commander's Intent.** Establish a secure patrol base to enable continuous operations, maintain security of the platoon, and prepare for follow-on missions. The patrol base must be positioned and organized to allow rapid response to enemy contact while providing for sustainment and rest of the force.
 
@@ -101,14 +101,14 @@ None.
 - Withdrawal routes identified and briefed to all personnel.
 
 ### c. Scheme of Fires
-Defensive fires planned for likely enemy avenues of approach. Each squad responsible for fires within assigned sector. Priority of fires to the most likely avenue of approach (determined during leader's reconnaissance). Final protective fires (FPF) designated and briefed.
+Defensive fires planned for likely REAPER avenues of approach. Each squad responsible for fires within assigned sector. Priority of fires to the most likely avenue of approach (determined during leader's reconnaissance). Final protective fires (FPF) designated and briefed.
 
 ### d. Tasks to Subordinate Units
 
 **1. 1st Squad:**
 
 - **TASK:** Occupy and defend the northern sector of PB THUNDER, establish fighting positions with interlocking fires, and conduct local security patrols as assigned.
-- **PURPOSE:** Provide security of the northern perimeter and early warning of enemy approach from the most likely avenue of approach.
+- **PURPOSE:** Provide security of the northern perimeter and early warning of REAPER approach from the most likely avenue of approach.
 
 **2. 2nd Squad:**
 
@@ -139,10 +139,10 @@ Defensive fires planned for likely enemy avenues of approach. Each squad respons
    4. Report all contacts immediately.
 
 **3. Priority Intelligence Requirements (PIR):**
-   1. Identify enemy reconnaissance or patrol activity in the area.
-   2. Monitor for enemy indirect fire positions or support weapons.
+   1. Identify REAPER reconnaissance or patrol activity in the area.
+   2. Monitor for REAPER indirect fire positions or support weapons.
    3. Assess civilian movement near the patrol base area.
-   4. Identify enemy assault positions or staging areas.
+   4. Identify REAPER assault positions or staging areas.
 
 **4. Commander's Critical Information Requirements (CCIR):**
    1. Immediate reporting of any enemy contact or probing activity.

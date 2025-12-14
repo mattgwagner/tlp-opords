@@ -8,7 +8,7 @@
 >
 > **Complexity:** Highest | **Recommended Phase:** RUN (Advanced Iterations - Second Cycle or High Performers)
 >
-> **Mission Summary:** 1st Platoon is tasked to conduct a forward passage of lines through 2nd Platoon's defensive positions to continue offensive operations against enemy forces.
+> **Mission Summary:** 1st Platoon is tasked to conduct a forward passage of lines through 2nd Platoon's defensive positions to continue offensive operations against REAPER forces.
 >
 > **Destination:** Passage point at MP 0640 1580, AO HERRERA (MOUT site). Continue movement to OBJ THUNDER (MP 0650 1590) after passage.
 >
@@ -54,16 +54,16 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO HERRERA inclu
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms. Limited visibility may occur during thunderstorms.
 
-### c. Enemy Forces
-The enemy is an irregular force operating in the urban area. They are capable of observing friendly movements and may attempt to engage friendly forces during or after passage. They employ small arms, possible support weapons, and may use IEDs.
+### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
+REAPER forces are an irregular force operating in the urban area. They are capable of observing friendly movements and may attempt to engage friendly forces during or after passage. They employ small arms, possible support weapons, and may use IEDs.
 
-**1. Composition.** Estimated 4-6 personnel, small arms, possible RPG/HMG, IEDs, in defensive or observation positions.
+**1. Composition.** Estimated 4-6 REAPER personnel, small arms, possible RPG/HMG, IEDs, in defensive or observation positions.
 
-**2. Disposition.** Enemy forces are likely positioned in buildings or observation posts along the route of advance, monitoring friendly movements and prepared to engage if opportunity presents. They may attempt to engage during passage or immediately after.
+**2. Disposition.** REAPER forces are likely positioned in buildings or observation posts along the route of advance, monitoring friendly movements and prepared to engage if opportunity presents. They may attempt to engage during passage or immediately after.
 
-**3. Most Probable Course of Action (MPCOA).** Enemy observes friendly passage but does not engage decisively, preferring to maintain observation and report friendly movements. They may employ limited harassing fire or IEDs but avoid decisive engagement.
+**3. Most Probable Course of Action (MPCOA).** REAPER forces observe friendly passage but do not engage decisively, preferring to maintain observation and report friendly movements. They may employ limited harassing fire or IEDs but avoid decisive engagement.
 
-**4. Most Dangerous Course of Action (MDCOA).** Enemy launches a coordinated attack during or immediately after passage, using indirect fire, IEDs, and small arms to disrupt friendly movement and inflict casualties. They attempt to fix friendly forces at the passage point or along the route of advance.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER forces launch a coordinated attack during or immediately after passage, using indirect fire, IEDs, and small arms to disrupt friendly movement and inflict casualties. They attempt to fix friendly forces at the passage point or along the route of advance.
 
 ### d. Friendly Forces
 
@@ -71,7 +71,7 @@ The enemy is an irregular force operating in the urban area. They are capable of
 
 **2. Mission.** A Company conducts forward passage of lines to continue offensive operations and seize OBJ THUNDER.
 
-**3. Commander's Intent.** Safely pass through 2nd Platoon's positions, maintain operational tempo, and continue movement to objective to maintain pressure on enemy forces.
+**3. Commander's Intent.** Safely pass through 2nd Platoon's positions, maintain operational tempo, and continue movement to objective to maintain pressure on REAPER forces.
 
 ### e. Civil Considerations
 Civilians may be present in the urban area. Passage operations must minimize risk to non-combatants and avoid collateral damage while maintaining security and operational tempo.
@@ -83,7 +83,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts a forward passage of lines through 2nd Platoon's defensive positions at MP 0640 1580 NLT ____, then continues movement to OBJ THUNDER (MP 0650 1590) to continue offensive operations against enemy forces.
+1st Platoon conducts a forward passage of lines through 2nd Platoon's defensive positions at MP 0640 1580 NLT ____, then continues movement to OBJ THUNDER (MP 0650 1590) to continue offensive operations against REAPER forces.
 
 ---
 
@@ -128,9 +128,9 @@ Fires coordinated with 2nd Platoon to avoid fratricide. Priority of fires to squ
    5. Report civilian casualties immediately.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Confirm enemy positions along the route of advance.
+   1. Confirm REAPER positions along the route of advance.
    2. Identify obstacles or IEDs along the route.
-   3. Monitor for enemy indirect fire positions.
+   3. Monitor for REAPER indirect fire positions.
    4. Assess civilian presence along the route.
 
 **3. Commander's Critical Information Requirements (CCIR):**

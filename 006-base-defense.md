@@ -8,7 +8,7 @@
 >
 > **Complexity:** Higher | **Recommended Phase:** RUN (Night Iterations - Coaching Focus)
 >
-> **Mission Summary:** 1st Platoon is tasked to establish and maintain a defensive perimeter around FOB THUNDER to prevent enemy infiltration, protect critical assets, and maintain security of the forward operating base.
+> **Mission Summary:** 1st Platoon is tasked to establish and maintain a defensive perimeter around FOB THUNDER to prevent REAPER infiltration, protect critical assets, and maintain security of the forward operating base.
 >
 > **Destination:** FOB THUNDER, located at MP 0630 1570, AO HERRERA (MOUT site).
 >
@@ -54,16 +54,16 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. FOB THUNDER is l
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms. Limited visibility may occur during thunderstorms.
 
-### c. Enemy Forces
-The enemy is an irregular force capable of conducting reconnaissance, infiltration, and attacks against friendly positions. They are experienced in urban operations and may employ small arms, IEDs, and indirect fire. They are capable of blending with the local populace and using urban terrain for concealment and approach.
+### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
+REAPER forces are an irregular force capable of conducting reconnaissance, infiltration, and attacks against friendly positions. They are experienced in urban operations and may employ small arms, IEDs, and indirect fire. They are capable of blending with the local populace and using urban terrain for concealment and approach.
 
-**1. Composition.** Estimated 6-10 personnel, small arms, possible RPG/HMG, IEDs, and communications equipment.
+**1. Composition.** Estimated 6-10 REAPER personnel, small arms, possible RPG/HMG, IEDs, and communications equipment.
 
-**2. Disposition.** Enemy forces are likely operating in the surrounding urban area, conducting reconnaissance and seeking opportunities to infiltrate or attack the FOB. They may establish observation posts or use civilians to gather intelligence. Exact locations unknown.
+**2. Disposition.** REAPER forces are likely operating in the surrounding urban area, conducting reconnaissance and seeking opportunities to infiltrate or attack the FOB. They may establish observation posts or use civilians to gather intelligence. Exact locations unknown.
 
-**3. Most Probable Course of Action (MPCOA).** Enemy conducts reconnaissance of the FOB perimeter, attempts limited infiltration or probing attacks, and may employ indirect fire or IEDs to harass friendly forces. They avoid decisive engagement but seek to gather intelligence and disrupt operations.
+**3. Most Probable Course of Action (MPCOA).** REAPER forces conduct reconnaissance of the FOB perimeter, attempt limited infiltration or probing attacks, and may employ indirect fire or IEDs to harass friendly forces. They avoid decisive engagement but seek to gather intelligence and disrupt operations.
 
-**4. Most Dangerous Course of Action (MDCOA).** Enemy launches a coordinated attack with multiple elements, using infiltration, indirect fire, and IEDs to breach the perimeter and attack critical assets. The enemy attempts to overrun defensive positions or cause significant casualties before withdrawing.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER forces launch a coordinated attack with multiple elements, using infiltration, indirect fire, and IEDs to breach the perimeter and attack critical assets. REAPER forces attempt to overrun defensive positions or cause significant casualties before withdrawing.
 
 ### d. Friendly Forces
 
@@ -83,7 +83,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon establishes and maintains defensive positions around FOB THUNDER (MP 0630 1570) NLT ____ to prevent enemy infiltration, protect critical assets, and maintain security of the forward operating base.
+1st Platoon establishes and maintains defensive positions around FOB THUNDER (MP 0630 1570) NLT ____ to prevent REAPER infiltration, protect critical assets, and maintain security of the forward operating base.
 
 ---
 
@@ -96,7 +96,7 @@ None.
 - Squads occupy assigned defensive sectors and establish fighting positions.
 - Observation posts established at key locations to provide early warning.
 - Security patrols conducted along the perimeter and in adjacent areas.
-- Reserve element prepared to reinforce threatened sectors or respond to enemy activity.
+- Reserve element prepared to reinforce threatened sectors or respond to REAPER activity.
 
 ### c. Scheme of Fires
 Defensive fires planned for likely enemy avenues of approach. Priority of fires to squad in contact. Indirect fire support available on request. Fires coordinated to avoid fratricide and minimize collateral damage.
@@ -128,10 +128,10 @@ Defensive fires planned for likely enemy avenues of approach. Priority of fires 
    5. Report civilian casualties immediately.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Identify enemy reconnaissance or infiltration attempts.
-   2. Monitor for enemy indirect fire positions or IED emplacement.
+   1. Identify REAPER reconnaissance or infiltration attempts.
+   2. Monitor for REAPER indirect fire positions or IED emplacement.
    3. Assess civilian movement near the FOB perimeter.
-   4. Identify enemy observation posts or communication activity.
+   4. Identify REAPER observation posts or communication activity.
 
 **3. Commander's Critical Information Requirements (CCIR):**
    1. Immediate reporting of any enemy contact or infiltration attempts.

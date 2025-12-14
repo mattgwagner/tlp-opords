@@ -8,9 +8,9 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon is tasked to conduct a movement to contact in AO FLUNKER to locate, engage, and assess enemy forces.
+> **Mission Summary:** 1st Platoon is tasked to conduct a movement to contact in AO FLUNKER to locate, engage, and assess REAPER forces.
 >
-> **Destination:** AO FLUNKER, with movement focused toward enemy's last known location near OBJ HERRERA (MP 0610 1545).
+> **Destination:** AO FLUNKER, with movement focused toward REAPER's last known location near OBJ HERRERA (MP 0610 1545).
 >
 > **Actions on Objective:** Platoon will use bounding overwatch to advance, maintain security, and develop the situation upon enemy contact. 3rd Squad serves as reserve, ready to reinforce or exploit success.
 >
@@ -50,24 +50,24 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO FLUNKER inclu
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
-### c. Enemy Forces
-The enemy is a small, organized group of irregular fighters, likely part of a local militia or insurgent cell. They are familiar with the terrain, use small arms and support weapons, and employ ambush and hit-and-run tactics. They are capable of blending into the local populace and adapting quickly to changing situations.
+### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
+REAPER forces are a small, organized group of irregular fighters, likely part of a local militia or insurgent cell. They are familiar with the terrain, use small arms and support weapons, and employ ambush and hit-and-run tactics. They are capable of blending into the local populace and adapting quickly to changing situations.
 
-**1. Composition.** 6-8 combatants, small arms, possible HMG/RPG, in concealment.
+**1. Composition.** 6-8 REAPER combatants, small arms, possible HMG/RPG, in concealment.
 
-**2. Disposition.** Enemy forces are generally dispersed in concealed positions throughout the area, using terrain and vegetation for cover. They maintain flexibility to regroup or withdraw and are likely to observe friendly movements from hidden vantage points.
+**2. Disposition.** REAPER forces are generally dispersed in concealed positions throughout the area, using terrain and vegetation for cover. They maintain flexibility to regroup or withdraw and are likely to observe friendly movements from hidden vantage points.
 
-**3. Most Probable Course of Action (MPCOA).** Upon contact, the enemy initiates harassing fire from covered positions, then quickly breaks contact to avoid being fixed or destroyed. They may leave behind simple obstacles or IEDs to slow pursuit, but do not attempt to decisively engage or encircle the platoon.
+**3. Most Probable Course of Action (MPCOA).** Upon contact, REAPER forces initiate harassing fire from covered positions, then quickly break contact to avoid being fixed or destroyed. They may leave behind simple obstacles or IEDs to slow pursuit, but do not attempt to decisively engage or encircle the platoon.
 
-**4. Most Dangerous Course of Action (MDCOA).** The enemy initiates a complex ambush using multiple firing positions and IEDs, attempting to fix the platoon in a kill zone. They coordinate with additional elements to reinforce the engagement, seeking to encircle and destroy the platoon or inflict heavy casualties before friendly forces can maneuver out of the ambush.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER forces initiate a complex ambush using multiple firing positions and IEDs, attempting to fix the platoon in a kill zone. They coordinate with additional elements to reinforce the engagement, seeking to encircle and destroy the platoon or inflict heavy casualties before friendly forces can maneuver out of the ambush.
 
 ### d. Friendly Forces
 
 **1. Higher Headquarters:** A Co. 4th BN – 211th INF.
 
-**2. Mission.** A Company locates and engages enemy forces to assess strength and disposition.
+**2. Mission.** A Company locates and engages REAPER forces to assess strength and disposition.
 
-**3. Commander's Intent.** Locate enemy forces and establish tactical advantage for future operations.
+**3. Commander's Intent.** Locate REAPER forces and establish tactical advantage for future operations.
 
 ### e. Civil Considerations
 Civilians present; avoid unnecessary disturbances and ensure safety.
@@ -79,40 +79,40 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts a movement to contact in AO FLUNKER NLT ____ to locate and engage enemy forces and assess their strength and disposition.
+1st Platoon conducts a movement to contact in AO FLUNKER NLT ____ to locate and engage REAPER forces and assess their strength and disposition.
 
 ---
 
 ## 3. EXECUTION
 
 ### a. Concept of Operations
-1st Platoon conducts a movement to contact using bounding overwatch to locate, engage, and develop the situation with enemy forces. 1st and 2nd Squads advance as the main effort, alternating bounds to maintain security and flexibility. 3rd Squad serves as the platoon reserve, prepared to reinforce, exploit success, or respond to enemy counterattack as needed. The platoon maintains contact with higher headquarters and adjusts its maneuver based on enemy contact or intelligence.
+1st Platoon conducts a movement to contact using bounding overwatch to locate, engage, and develop the situation with REAPER forces. 1st and 2nd Squads advance as the main effort, alternating bounds to maintain security and flexibility. 3rd Squad serves as the platoon reserve, prepared to reinforce, exploit success, or respond to REAPER counterattack as needed. The platoon maintains contact with higher headquarters and adjusts its maneuver based on REAPER contact or intelligence.
 
 ### b. Scheme of Movement and Maneuver
-- Squads move from the assembly area toward the last known or suspected enemy location, utilizing covered and concealed routes to maximize security and surprise.
+- Squads move from the assembly area toward the last known or suspected REAPER location, utilizing covered and concealed routes to maximize security and surprise.
 - The platoon employs bounding overwatch, with one squad moving while the other provides overwatch, to maintain security and flexibility.
-- Reconnaissance elements are used to identify enemy positions and develop the situation before committing the main body.
-- Upon establishing contact, the platoon maneuvers to fix and engage the enemy, with the reserve squad prepared to reinforce or exploit success as needed.
+- Reconnaissance elements are used to identify REAPER positions and develop the situation before committing the main body.
+- Upon establishing contact, the platoon maneuvers to fix and engage REAPER forces, with the reserve squad prepared to reinforce or exploit success as needed.
 
 ### c. Scheme of Fires
-First Squad has priority of fires for the organic mortars. Additional mortar support may be requested as needed upon enemy contact.
+First Squad has priority of fires for the organic mortars. Additional mortar support may be requested as needed upon REAPER contact.
 
 ### d. Tasks to Subordinate Units
 
 **1. 1st Squad:**
 
-- **TASK:** Conduct movement to contact to last known enemy position IVO OBJ HERRERA (MP 0610 1545), establish contact, and fix or destroy enemy forces encountered.
-- **PURPOSE:** Locate, engage, and assess the strength and disposition of enemy forces to set conditions for follow-on operations.
+- **TASK:** Conduct movement to contact to last known REAPER position IVO OBJ HERRERA (MP 0610 1545), establish contact, and fix or destroy REAPER forces encountered.
+- **PURPOSE:** Locate, engage, and assess the strength and disposition of REAPER forces to set conditions for follow-on operations.
 
 **2. 2nd Squad:**
 
-- **TASK:** Conduct a reconnaissance sweep of the designated area, identify enemy positions, and report enemy activity prior to main engagement.
-- **PURPOSE:** Provide early warning, confirm enemy presence, and enable the platoon to maneuver effectively against enemy forces.
+- **TASK:** Conduct a reconnaissance sweep of the designated area, identify REAPER positions, and report REAPER activity prior to main engagement.
+- **PURPOSE:** Provide early warning, confirm REAPER presence, and enable the platoon to maneuver effectively against REAPER forces.
 
 **3. 3rd Squad:**
 
-- **TASK:** Serve as platoon reserve and quick reaction force at the assembly area, prepared to reinforce engaged squads or respond to enemy counterattack.
-- **PURPOSE:** Provide immediate support, exploit success, or contain enemy breakthroughs as the tactical situation develops.
+- **TASK:** Serve as platoon reserve and quick reaction force at the assembly area, prepared to reinforce engaged squads or respond to REAPER counterattack.
+- **PURPOSE:** Provide immediate support, exploit success, or contain REAPER breakthroughs as the tactical situation develops.
 
 ### e. Coordinating Instructions
 
@@ -123,9 +123,9 @@ First Squad has priority of fires for the organic mortars. Additional mortar sup
    4. Report civilian casualties immediately.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Confirm enemy personnel and weapons.
+   1. Confirm REAPER personnel and weapons.
    2. Identify fortifications and defensive positions.
-   3. Monitor enemy patrols and movement.
+   3. Monitor REAPER patrols and movement.
    4. Assess civilian presence in the area of operations.
 
 **3. Commander's Critical Information Requirements (CCIR):**

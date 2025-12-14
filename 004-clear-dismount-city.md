@@ -8,7 +8,7 @@
 >
 > **Complexity:** Highest | **Recommended Phase:** RUN (Advanced Iterations - Second Cycle or High Performers)
 >
-> **Mission Summary:** 1st Platoon is tasked to clear, seize, and secure the urban terrain known as OBJ FLUNKER. The enemy is using this area as a base for operations. The platoon must occupy the city and prevent the enemy from regaining control or using it for future operations.
+> **Mission Summary:** 1st Platoon is tasked to clear, seize, and secure the urban terrain known as OBJ FLUNKER. REAPER forces are using this area as a base for operations. The platoon must occupy the city and prevent REAPER from regaining control or using it for future operations.
 >
 > **Destination:** OBJ FLUNKER, AO HERRERA (urban terrain, grid MP 0620 1560).
 >
@@ -52,24 +52,24 @@ Clay County, Florida, in the vicinity of Starke and Highway 16.
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
-### c. Enemy Forces
-The enemy is a well-armed irregular force, using OBJ FLUNKER as a base for operations. They are experienced in urban combat, employ barricades, IEDs, and may use civilians as shields. Capable of rapid movement through buildings and underground routes.
+### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
+REAPER forces are a well-armed irregular force, using OBJ FLUNKER as a base for operations. They are experienced in urban combat, employ barricades, IEDs, and may use civilians as shields. Capable of rapid movement through buildings and underground routes.
 
-**1. Composition.** 8-10 combatants, small arms, possible HMG/RPG, IEDs, barricades, and communications equipment.
+**1. Composition.** 8-10 REAPER combatants, small arms, possible HMG/RPG, IEDs, barricades, and communications equipment.
 
-**2. Disposition.** Enemy forces are dispersed in defensive positions throughout the city, occupying key buildings and intersections. They maintain observation on likely approaches and are prepared to reinforce or withdraw as needed. Possible use of lookouts and early warning systems.
+**2. Disposition.** REAPER forces are dispersed in defensive positions throughout the city, occupying key buildings and intersections. They maintain observation on likely approaches and are prepared to reinforce or withdraw as needed. Possible use of lookouts and early warning systems.
 
-**3. Most Probable Course of Action (MPCOA).** Enemy defends key buildings and intersections, using small arms and IEDs to delay friendly advance. If overwhelmed, they withdraw through underground routes or blend with civilians, attempting to regroup outside the city.
+**3. Most Probable Course of Action (MPCOA).** REAPER forces defend key buildings and intersections, using small arms and IEDs to delay friendly advance. If overwhelmed, they withdraw through underground routes or blend with civilians, attempting to regroup outside the city.
 
-**4. Most Dangerous Course of Action (MDCOA).** Enemy launches a coordinated counterattack with reinforcements, using pre-placed IEDs, barricades, and snipers to inflict maximum casualties. They attempt to encircle friendly forces or use hostages to delay operations.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER forces launch a coordinated counterattack with reinforcements, using pre-placed IEDs, barricades, and snipers to inflict maximum casualties. They attempt to encircle friendly forces or use hostages to delay operations.
 
 ### d. Friendly Forces
 
 **1. Higher Headquarters:** A Co. 4th BN – 211th INF.
 
-**2. Mission.** A Company clears and secures OBJ FLUNKER to deny the enemy a base of operations and enable follow-on operations in AO Starke.
+**2. Mission.** A Company clears and secures OBJ FLUNKER to deny REAPER a base of operations and enable follow-on operations in AO Starke.
 
-**3. Commander's Intent.** Seize and secure OBJ FLUNKER, eliminate enemy presence, and establish a defensive posture to prevent enemy re-infiltration.
+**3. Commander's Intent.** Seize and secure OBJ FLUNKER, eliminate REAPER presence, and establish a defensive posture to prevent REAPER re-infiltration.
 
 ### e. Civil Considerations
 Civilians are present in the city. Minimize risk to non-combatants, avoid collateral damage, and maintain positive relations with local populace.
@@ -81,14 +81,14 @@ None.
 
 ## 2. MISSION
 
-1st Platoon clears, seizes, and secures OBJ FLUNKER (MP 0620 1560) NLT ____ to eliminate enemy forces, deny the enemy a base of operations, and enable occupation by friendly forces.
+1st Platoon clears, seizes, and secures OBJ FLUNKER (MP 0620 1560) NLT ____ to eliminate REAPER forces, deny REAPER a base of operations, and enable occupation by friendly forces.
 
 ---
 
 ## 3. EXECUTION
 
 ### a. Concept of Operations
-1st Platoon establishes an ORP, moves to OBJ FLUNKER, and isolates the objective. 1st Squad serves as the assault element, clearing buildings and key terrain. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective area. 3rd Squad serves as the security element, securing flanks, rear, and preventing enemy reinforcement or escape. Upon completion, the platoon consolidates and establishes defensive positions to hold the city.
+1st Platoon establishes an ORP, moves to OBJ FLUNKER, and isolates the objective. 1st Squad serves as the assault element, clearing buildings and key terrain. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective area. 3rd Squad serves as the security element, securing flanks, rear, and preventing REAPER reinforcement or escape. Upon completion, the platoon consolidates and establishes defensive positions to hold the city.
 
 ### b. Scheme of Movement and Maneuver
 - Squads SP from platoon ORP in squad column.
@@ -102,18 +102,18 @@ None.
 
 **1. 1st Squad:**
 
-- **TASK:** Clear and secure assigned buildings and key terrain in OBJ FLUNKER, neutralize enemy combatants, and report cleared sectors.
-- **PURPOSE:** Eliminate enemy presence and enable occupation by friendly forces.
+- **TASK:** Clear and secure assigned buildings and key terrain in OBJ FLUNKER, neutralize REAPER combatants, and report cleared sectors.
+- **PURPOSE:** Eliminate REAPER presence and enable occupation by friendly forces.
 
 **2. 2nd Squad:**
 
 - **TASK:** Provide suppressive fire, isolate the objective area, and support 1st Squad's clearing operations. Be prepared to reinforce or assist in clearing as needed.
-- **PURPOSE:** Enable the assault element to clear the city with minimal casualties and prevent enemy escape or reinforcement.
+- **PURPOSE:** Enable the assault element to clear the city with minimal casualties and prevent REAPER escape or reinforcement.
 
 **3. 3rd Squad:**
 
-- **TASK:** Secure flanks and rear, block enemy withdrawal or reinforcement routes, and maintain security of cleared sectors. Monitor for civilian movement and report as required.
-- **PURPOSE:** Prevent enemy interference, ensure security of the objective, and maintain control of the urban area.
+- **TASK:** Secure flanks and rear, block REAPER withdrawal or reinforcement routes, and maintain security of cleared sectors. Monitor for civilian movement and report as required.
+- **PURPOSE:** Prevent REAPER interference, ensure security of the objective, and maintain control of the urban area.
 
 ### e. Coordinating Instructions
 
@@ -125,8 +125,8 @@ None.
    5. Report civilian casualties immediately.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Identify enemy positions, barricades, and IEDs.
-   2. Monitor for enemy reinforcements or withdrawal attempts.
+   1. Identify REAPER positions, barricades, and IEDs.
+   2. Monitor for REAPER reinforcements or withdrawal attempts.
    3. Assess civilian presence and movement in the city.
    4. Identify underground routes or escape tunnels.
 

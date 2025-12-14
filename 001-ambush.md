@@ -8,11 +8,11 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon is tasked to conduct a linear ambush along a key supply route to destroy enemy forces and disrupt enemy logistics.
+> **Mission Summary:** 1st Platoon is tasked to conduct a linear ambush along a key supply route to destroy REAPER forces and disrupt REAPER logistics.
 >
 > **Destination:** OBJ FLUNKER at MP 0615 1550, AO COTTO.
 >
-> **Actions on Objective:** Platoon will establish an ORP, move to the ambush site, set up assault, support, and security elements, initiate the ambush on the enemy convoy, and withdraw in an organized manner.
+> **Actions on Objective:** Platoon will establish an ORP, move to the ambush site, set up assault, support, and security elements, initiate the ambush on the REAPER convoy, and withdraw in an organized manner.
 >
 > **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
 >
@@ -50,24 +50,24 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompa
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
-### c. Enemy Forces
-The enemy consists of a lightly armed irregular force, likely affiliated with a regional militia group. They are equipped with small arms, possible support weapons, and have experience operating in rural environments. They are capable of basic convoy operations and may attempt to reinforce or withdraw if engaged.
+### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
+REAPER forces consist of a lightly armed irregular force, likely affiliated with a regional militia group. They are equipped with small arms, possible support weapons, and have experience operating in rural environments. They are capable of basic convoy operations and may attempt to reinforce or withdraw if engaged.
 
-**1. Composition.** 2 vehicles, 6-8 personnel, AK-47s, possible support weapons (e.g., HMG).
+**1. Composition.** 2 vehicles, 6-8 REAPER personnel, AK-47s, possible support weapons (e.g., HMG).
 
-**2. Disposition.** Enemy forces are typically dispersed in small groups along key supply routes and maintain a low profile to avoid detection. They are prepared to consolidate quickly at critical points if threatened and may use scouts or lookouts to monitor friendly movement.
+**2. Disposition.** REAPER forces are typically dispersed in small groups along key supply routes and maintain a low profile to avoid detection. They are prepared to consolidate quickly at critical points if threatened and may use scouts or lookouts to monitor friendly movement.
 
-**3. Most Probable Course of Action (MPCOA).** Upon initiation of the ambush, the enemy returns limited, inaccurate fire, then rapidly withdraws along a secondary route to avoid further engagement. They may abandon vehicles or wounded, and attempt to regroup at a safe distance. Reinforcements are unlikely to arrive in time to decisively affect the engagement.
+**3. Most Probable Course of Action (MPCOA).** Upon initiation of the ambush, REAPER forces return limited, inaccurate fire, then rapidly withdraw along a secondary route to avoid further engagement. They may abandon vehicles or wounded, and attempt to regroup at a safe distance. Reinforcements are unlikely to arrive in time to decisively affect the engagement.
 
-**4. Most Dangerous Course of Action (MDCOA).** A nearby enemy quick reaction force rapidly reinforces the ambushed convoy, coordinating a counterattack with flanking or encirclement maneuvers against the platoon. The enemy employs indirect fire or IEDs to disrupt friendly withdrawal and attempts to inflict maximum casualties before friendly forces can break contact.
+**4. Most Dangerous Course of Action (MDCOA).** A nearby REAPER quick reaction force rapidly reinforces the ambushed convoy, coordinating a counterattack with flanking or encirclement maneuvers against the platoon. REAPER forces employ indirect fire or IEDs to disrupt friendly withdrawal and attempts to inflict maximum casualties before friendly forces can break contact.
 
 ### d. Friendly Forces
 
 **1. Higher Headquarters:** A Co. 4th BN – 211th INF.
 
-**2. Mission.** A Company conducts ambush operations to disable enemy supply route in AO COTTO.
+**2. Mission.** A Company conducts ambush operations to disable REAPER supply route in AO COTTO.
 
-**3. Commander's Intent.** Destroy enemy convoy and seize supplies to ensure safe passage for friendly forces.
+**3. Commander's Intent.** Destroy REAPER convoy and seize supplies to ensure safe passage for friendly forces.
 
 ### e. Civil Considerations
 Local civilians frequent the area. Ambush must minimize risk to non-combatants and avoid civilian casualties to maintain good relations.
@@ -79,17 +79,17 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts an ambush at OBJ FLUNKER (MP 0615 1550) NLT ____ in order to destroy enemy forces and disrupt enemy supply lines.
+1st Platoon conducts an ambush at OBJ FLUNKER (MP 0615 1550) NLT ____ in order to destroy REAPER forces and disrupt REAPER supply lines.
 
 ---
 
 ## 3. EXECUTION
 
 ### a. Concept of Operations
-1st Platoon establishes an objective rally point (ORP), moves to the ambush site, and sets up a linear ambush along the enemy's expected route of movement. 1st Squad serves as the assault element, initiating the ambush and destroying the enemy. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective. 3rd Squad serves as the security element, securing the flanks and rear, and preventing enemy reinforcement or escape. Upon completion, the platoon withdraws in an organized manner to the ORP.
+1st Platoon establishes an objective rally point (ORP), moves to the ambush site, and sets up a linear ambush along REAPER's expected route of movement. 1st Squad serves as the assault element, initiating the ambush and destroying REAPER forces. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective. 3rd Squad serves as the security element, securing the flanks and rear, and preventing REAPER reinforcement or escape. Upon completion, the platoon withdraws in an organized manner to the ORP.
 
 ### b. Scheme of Movement and Maneuver
-- Squads move rapidly to set up the ambush position before enemy arrival.
+- Squads move rapidly to set up the ambush position before REAPER arrival.
 - Ambush executed in linear formation: 1st Squad leads assault, 2nd Squad provides flanking support, 3rd Squad maintains observation and security against reinforcements.
 
 ### c. Scheme of Fires
@@ -99,18 +99,18 @@ None.
 
 **1. 1st Squad:**
 
-- **TASK:** Establish and execute a deliberate ambush on the enemy convoy at MP 0615 1550 from a concealed position, initiate fires, and destroy enemy vehicles and personnel.
-- **PURPOSE:** Disrupt enemy supply lines, seize enemy materiel, and prevent enemy resupply in AO Starke.
+- **TASK:** Establish and execute a deliberate ambush on the REAPER convoy at MP 0615 1550 from a concealed position, initiate fires, and destroy REAPER vehicles and personnel.
+- **PURPOSE:** Disrupt REAPER supply lines, seize REAPER materiel, and prevent REAPER resupply in AO Starke.
 
 **2. 2nd Squad:**
 
-- **TASK:** Provide flanking and suppressive fire during the ambush, and be prepared to maneuver to block or destroy enemy reinforcements.
-- **PURPOSE:** Enable 1st Squad to destroy the convoy and prevent enemy escape or reinforcement.
+- **TASK:** Provide flanking and suppressive fire during the ambush, and be prepared to maneuver to block or destroy REAPER reinforcements.
+- **PURPOSE:** Enable 1st Squad to destroy the convoy and prevent REAPER escape or reinforcement.
 
 **3. 3rd Squad:**
 
-- **TASK:** Establish a security perimeter at MP 0618 1552, observe for enemy reinforcements, and interdict any enemy attempting to reinforce or withdraw.
-- **PURPOSE:** Secure the ambush site, prevent enemy counterattack, and ensure safe withdrawal of friendly forces.
+- **TASK:** Establish a security perimeter at MP 0618 1552, observe for REAPER reinforcements, and interdict any REAPER forces attempting to reinforce or withdraw.
+- **PURPOSE:** Secure the ambush site, prevent REAPER counterattack, and ensure safe withdrawal of friendly forces.
 
 ### e. Coordinating Instructions
 
@@ -121,8 +121,8 @@ None.
    4. Positively identify targets before firing.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Confirm number and types of vehicles in the enemy convoy.
-   2. Monitor for changes in enemy route or reinforcements.
+   1. Confirm number and types of vehicles in the REAPER convoy.
+   2. Monitor for changes in REAPER route or reinforcements.
    3. Assess civilian presence before execution.
 
 **3. Commander's Critical Information Requirements (CCIR):**
