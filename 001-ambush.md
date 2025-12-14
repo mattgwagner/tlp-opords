@@ -85,17 +85,25 @@ None.
 
 ## 3. EXECUTION
 
-### a. Concept of Operations
+### a. Commander's Intent
+
+**i) Commander's Intent.** 1st Platoon destroys REAPER convoy and seizes supplies to disrupt REAPER logistics and ensure safe passage for friendly forces.
+
+**ii) Purpose.** The purpose of this operation is to destroy REAPER forces and disrupt REAPER supply lines to prevent REAPER resupply and maintain friendly freedom of movement in AO COTTO.
+
+**iii) End State.** REAPER convoy is destroyed, supplies are seized, REAPER supply route is disrupted, and friendly forces maintain freedom of movement through AO COTTO.
+
+### b. Concept of Operations
 1st Platoon establishes an objective rally point (ORP), moves to the ambush site, and sets up a linear ambush along REAPER's expected route of movement. 1st Squad serves as the assault element, initiating the ambush and destroying REAPER forces. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective. 3rd Squad serves as the security element, securing the flanks and rear, and preventing REAPER reinforcement or escape. Upon completion, the platoon withdraws in an organized manner to the ORP.
 
-### b. Scheme of Movement and Maneuver
+### c. Scheme of Movement and Maneuver
 - Squads move rapidly to set up the ambush position before REAPER arrival.
 - Ambush executed in linear formation: 1st Squad leads assault, 2nd Squad provides flanking support, 3rd Squad maintains observation and security against reinforcements.
 
-### c. Scheme of Fires
+### d. Scheme of Fires
 1st Squad, as the decisive effort, has been allocated two mortar targets for planning: AB001 and AB002. 2nd Squad has priority for 81mm HE mortars on order.
 
-### d. Tasks to Subordinate Units
+### e. Tasks to Subordinate Units
 
 **1. 1st Squad:**
 
@@ -112,7 +120,7 @@ None.
 - **TASK:** Establish a security perimeter at MP 0618 1552, observe for REAPER reinforcements, and interdict any REAPER forces attempting to reinforce or withdraw.
 - **PURPOSE:** Secure the ambush site, prevent REAPER counterattack, and ensure safe withdrawal of friendly forces.
 
-### e. Coordinating Instructions
+### f. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage only valid military targets.

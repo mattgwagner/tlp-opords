@@ -89,19 +89,27 @@ None.
 
 ## 3. EXECUTION
 
-### a. Concept of Operations
+### a. Commander's Intent
+
+**i) Commander's Intent.** 1st Platoon establishes and maintains a secure defensive perimeter around FOB THUNDER to prevent REAPER infiltration and protect critical assets.
+
+**ii) Purpose.** The purpose of this operation is to establish and maintain security of FOB THUNDER to protect critical assets and enable continued operations in AO HERRERA.
+
+**iii) End State.** FOB THUNDER has a secure defensive perimeter, REAPER infiltration is prevented, critical assets are protected, and the forward operating base remains operational and secure.
+
+### b. Concept of Operations
 1st Platoon establishes a defensive perimeter around FOB THUNDER, assigning sectors of fire to each squad. Defensive positions include fighting positions, observation posts, and early warning systems. The platoon conducts security patrols, maintains observation, and responds to enemy threats. The platoon maintains the capability to reinforce threatened sectors and coordinate with higher headquarters for additional support if needed.
 
-### b. Scheme of Movement and Maneuver
+### c. Scheme of Movement and Maneuver
 - Squads occupy assigned defensive sectors and establish fighting positions.
 - Observation posts established at key locations to provide early warning.
 - Security patrols conducted along the perimeter and in adjacent areas.
 - Reserve element prepared to reinforce threatened sectors or respond to REAPER activity.
 
-### c. Scheme of Fires
+### d. Scheme of Fires
 Defensive fires planned for likely enemy avenues of approach. Priority of fires to squad in contact. Indirect fire support available on request. Fires coordinated to avoid fratricide and minimize collateral damage.
 
-### d. Tasks to Subordinate Units
+### e. Tasks to Subordinate Units
 
 **1. 1st Squad:**
 
@@ -118,7 +126,7 @@ Defensive fires planned for likely enemy avenues of approach. Priority of fires 
 - **TASK:** Serve as platoon reserve and quick reaction force, maintain observation of the eastern and western approaches, and be prepared to reinforce threatened sectors or respond to enemy activity.
 - **PURPOSE:** Provide flexibility to respond to enemy threats and maintain security of additional approach routes.
 
-### e. Coordinating Instructions
+### f. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage only confirmed enemy combatants posing a threat.

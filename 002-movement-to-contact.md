@@ -85,19 +85,27 @@ None.
 
 ## 3. EXECUTION
 
-### a. Concept of Operations
+### a. Commander's Intent
+
+**i) Commander's Intent.** 1st Platoon locates and engages REAPER forces to develop the situation and establish tactical advantage for follow-on operations.
+
+**ii) Purpose.** The purpose of this operation is to locate and engage REAPER forces to assess their strength and disposition, enabling the company to make informed decisions for future operations in AO FLUNKER.
+
+**iii) End State.** REAPER forces are located and engaged, their strength and disposition are assessed, and friendly forces have established tactical advantage for follow-on operations in AO FLUNKER.
+
+### b. Concept of Operations
 1st Platoon conducts a movement to contact using bounding overwatch to locate, engage, and develop the situation with REAPER forces. 1st and 2nd Squads advance as the main effort, alternating bounds to maintain security and flexibility. 3rd Squad serves as the platoon reserve, prepared to reinforce, exploit success, or respond to REAPER counterattack as needed. The platoon maintains contact with higher headquarters and adjusts its maneuver based on REAPER contact or intelligence.
 
-### b. Scheme of Movement and Maneuver
+### c. Scheme of Movement and Maneuver
 - Squads move from the assembly area toward the last known or suspected REAPER location, utilizing covered and concealed routes to maximize security and surprise.
 - The platoon employs bounding overwatch, with one squad moving while the other provides overwatch, to maintain security and flexibility.
 - Reconnaissance elements are used to identify REAPER positions and develop the situation before committing the main body.
 - Upon establishing contact, the platoon maneuvers to fix and engage REAPER forces, with the reserve squad prepared to reinforce or exploit success as needed.
 
-### c. Scheme of Fires
+### d. Scheme of Fires
 First Squad has priority of fires for the organic mortars. Additional mortar support may be requested as needed upon REAPER contact.
 
-### d. Tasks to Subordinate Units
+### e. Tasks to Subordinate Units
 
 **1. 1st Squad:**
 
@@ -114,7 +122,7 @@ First Squad has priority of fires for the organic mortars. Additional mortar sup
 - **TASK:** Serve as platoon reserve and quick reaction force at the assembly area, prepared to reinforce engaged squads or respond to REAPER counterattack.
 - **PURPOSE:** Provide immediate support, exploit success, or contain REAPER breakthroughs as the tactical situation develops.
 
-### e. Coordinating Instructions
+### f. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage only confirmed enemy combatants posing a threat.

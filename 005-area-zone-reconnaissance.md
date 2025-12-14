@@ -88,19 +88,27 @@ None.
 
 ## 3. EXECUTION
 
-### a. Concept of Operations
+### a. Commander's Intent
+
+**i) Commander's Intent.** 1st Platoon conducts area reconnaissance to locate REAPER positions and assess REAPER strength and disposition to enable follow-on operations.
+
+**ii) Purpose.** The purpose of this operation is to gather intelligence on REAPER positions, strength, and disposition to enable follow-on operations and prevent REAPER freedom of action in AO COTTO.
+
+**iii) End State.** REAPER positions are located, strength and disposition are assessed, key terrain features are identified, and intelligence is reported to enable follow-on operations in AO COTTO.
+
+### b. Concept of Operations
 1st Platoon establishes an ORP, then conducts area reconnaissance using zone or area reconnaissance techniques. Squads are assigned sectors or zones to reconnoiter, maintaining security and avoiding detection. The platoon collects intelligence on REAPER positions, activities, and terrain, then consolidates findings and reports to higher headquarters. The platoon maintains the capability to break contact and withdraw if compromised.
 
-### b. Scheme of Movement and Maneuver
+### c. Scheme of Movement and Maneuver
 - Squads move from the ORP to assigned reconnaissance sectors using covered and concealed routes.
 - Reconnaissance conducted using appropriate techniques (zone recon, area recon, or route recon as assigned).
 - Elements maintain security, use noise and light discipline, and avoid detection.
 - Upon completion or if compromised, squads return to ORP for consolidation and reporting.
 
-### c. Scheme of Fires
+### d. Scheme of Fires
 Fires are limited to self-defense only. Avoid engagement unless necessary to break contact. Priority of fires to squad in contact if engagement occurs.
 
-### d. Tasks to Subordinate Units
+### e. Tasks to Subordinate Units
 
 **1. 1st Squad:**
 
@@ -117,7 +125,7 @@ Fires are limited to self-defense only. Avoid engagement unless necessary to bre
 - **TASK:** Establish and secure the ORP, maintain security during reconnaissance operations, and be prepared to support other squads if contact is made or if extraction is required.
 - **PURPOSE:** Provide a secure base for reconnaissance operations and ensure platoon security during the mission.
 
-### e. Coordinating Instructions
+### f. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Avoid engagement unless necessary for self-defense or to break contact.

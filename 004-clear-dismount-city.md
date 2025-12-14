@@ -87,18 +87,26 @@ None.
 
 ## 3. EXECUTION
 
-### a. Concept of Operations
+### a. Commander's Intent
+
+**i) Commander's Intent.** 1st Platoon clears, seizes, and secures OBJ FLUNKER to eliminate REAPER presence and establish a defensive posture to prevent REAPER re-infiltration.
+
+**ii) Purpose.** The purpose of this operation is to clear and secure OBJ FLUNKER to deny REAPER a base of operations and enable follow-on operations in AO HERRERA.
+
+**iii) End State.** OBJ FLUNKER is cleared and secured, REAPER forces are eliminated, and friendly forces occupy the city with a defensive posture preventing REAPER re-infiltration.
+
+### b. Concept of Operations
 1st Platoon establishes an ORP, moves to OBJ FLUNKER, and isolates the objective. 1st Squad serves as the assault element, clearing buildings and key terrain. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective area. 3rd Squad serves as the security element, securing flanks, rear, and preventing REAPER reinforcement or escape. Upon completion, the platoon consolidates and establishes defensive positions to hold the city.
 
-### b. Scheme of Movement and Maneuver
+### c. Scheme of Movement and Maneuver
 - Squads SP from platoon ORP in squad column.
 - 1st Squad clears buildings along the main axis; 2nd Squad provides overwatch and suppressive fire from key intersections and rooftops; 3rd Squad secures flanks, rear, and blocks likely enemy withdrawal or reinforcement routes.
 - Platoon advances by phase lines, clearing and securing each sector before moving forward.
 
-### c. Scheme of Fires
+### d. Scheme of Fires
 1st Squad, as the decisive effort, has been allocated two mortar targets for planning: DC001 and DC002. 2nd Squad has priority for 81mm HE mortars on order. Use smoke to screen movement as needed.
 
-### d. Tasks to Subordinate Units
+### e. Tasks to Subordinate Units
 
 **1. 1st Squad:**
 
@@ -115,7 +123,7 @@ None.
 - **TASK:** Secure flanks and rear, block REAPER withdrawal or reinforcement routes, and maintain security of cleared sectors. Monitor for civilian movement and report as required.
 - **PURPOSE:** Prevent REAPER interference, ensure security of the objective, and maintain control of the urban area.
 
-### e. Coordinating Instructions
+### f. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage only confirmed enemy combatants.

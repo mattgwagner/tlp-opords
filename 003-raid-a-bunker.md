@@ -85,17 +85,25 @@ None.
 
 ## 3. EXECUTION
 
-### a. Concept of Operations
+### a. Commander's Intent
+
+**i) Commander's Intent.** 1st Platoon eliminates REAPER forces and destroys the bunker to deny REAPER a defensive position and enable friendly freedom of movement.
+
+**ii) Purpose.** The purpose of this operation is to eliminate REAPER forces and destroy the bunker to deny REAPER a base of operations and allow freedom of movement for friendly forces in AO HERRERA.
+
+**iii) End State.** REAPER bunker is destroyed, REAPER forces are eliminated, and friendly forces have freedom of movement in AO HERRERA.
+
+### b. Concept of Operations
 1st Platoon conducts a raid by establishing an ORP, moving to the objective, and isolating the REAPER position. 1st Squad serves as the assault element, breaching and clearing the bunker. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective area. 3rd Squad serves as the security element, securing the flanks and rear, and interdicting REAPER reinforcements or escape. Upon completion of the raid, the platoon withdraws in an organized manner to the ORP.
 
-### b. Scheme of Movement and Maneuver
+### c. Scheme of Movement and Maneuver
 - Squads SP from platoon ORP in squad column.
 - 1st Squad breaches bunker; 2nd Squad provides covering fire from elevation; 3rd Squad remains mobile to react to enemy movements.
 
-### c. Scheme of Fires
+### d. Scheme of Fires
 1st Squad, as the decisive effort, has been allocated two mortar targets for planning: AB001 and AB002. 2nd Squad has priority for 81mm HE mortars on order.
 
-### d. Tasks to Subordinate Units
+### e. Tasks to Subordinate Units
 
 **1. 1st Squad:**
 
@@ -112,7 +120,7 @@ None.
 - **TASK:** Establish security around the bunker, observe for and engage REAPER reinforcements or flanking elements, and secure the area.
 - **PURPOSE:** Prevent REAPER interference with the raid and ensure the platoon can consolidate and reorganize after the assault.
 
-### e. Coordinating Instructions
+### f. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage only confirmed enemy combatants.

@@ -89,19 +89,27 @@ None.
 
 ## 3. EXECUTION
 
-### a. Concept of Operations
+### a. Commander's Intent
+
+**i) Commander's Intent.** 1st Platoon safely passes through 2nd Platoon's positions and continues movement to OBJ THUNDER to maintain operational tempo and pressure on REAPER forces.
+
+**ii) Purpose.** The purpose of this operation is to conduct a forward passage of lines to continue offensive operations and seize OBJ THUNDER, maintaining pressure on REAPER forces.
+
+**iii) End State.** 1st Platoon successfully passes through 2nd Platoon's positions, continues movement to OBJ THUNDER, and maintains operational tempo to continue offensive operations against REAPER forces.
+
+### b. Concept of Operations
 1st Platoon coordinates with 2nd Platoon to conduct a forward passage of lines. The platoon moves to the passage point, coordinates passage procedures, and moves through 2nd Platoon's positions while maintaining security and formation. Upon completion of passage, the platoon continues movement to OBJ THUNDER, maintaining security and operational tempo. The platoon is prepared to respond to enemy contact during or after passage.
 
-### b. Scheme of Movement and Maneuver
+### c. Scheme of Movement and Maneuver
 - Squads move from assembly area to passage point using covered and concealed routes.
 - Passage conducted in designated order with coordination between units.
 - Security maintained during passage to prevent enemy interference.
 - Upon completion of passage, platoon continues movement to objective maintaining formation and security.
 
-### c. Scheme of Fires
+### d. Scheme of Fires
 Fires coordinated with 2nd Platoon to avoid fratricide. Priority of fires to squad in contact if engagement occurs. Indirect fire support available on request.
 
-### d. Tasks to Subordinate Units
+### e. Tasks to Subordinate Units
 
 **1. 1st Squad:**
 
@@ -118,7 +126,7 @@ Fires coordinated with 2nd Platoon to avoid fratricide. Priority of fires to squ
 - **TASK:** Conduct forward passage of lines as the trail element, maintain rear security, and be prepared to respond to enemy contact or support other squads during movement to OBJ THUNDER.
 - **PURPOSE:** Maintain rear security and provide flexibility to respond to enemy threats.
 
-### e. Coordinating Instructions
+### f. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage only confirmed enemy combatants posing a threat.

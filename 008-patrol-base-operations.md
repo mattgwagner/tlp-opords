@@ -89,10 +89,18 @@ None.
 
 ## 3. EXECUTION
 
-### a. Concept of Operations
+### a. Commander's Intent
+
+**i) Commander's Intent.** 1st Platoon establishes and occupies a secure patrol base to enable continuous operations, maintain security of the platoon, and prepare for follow-on missions.
+
+**ii) Purpose.** The purpose of this operation is to establish a secure patrol base to enable continuous operations, maintain security of the platoon, and prepare for follow-on missions while denying REAPER freedom of movement in AO COTTO.
+
+**iii) End State.** Patrol Base THUNDER is established and occupied, security is maintained, the platoon is positioned for follow-on operations, and REAPER freedom of movement is denied in AO COTTO.
+
+### b. Concept of Operations
 1st Platoon conducts a leader's reconnaissance of the patrol base site, then occupies the patrol base using the appropriate technique (triangle or cigar-shaped based on terrain). Squads are assigned sectors of the perimeter with interlocking fields of fire. The platoon establishes security including observation posts, listening posts, and a security patrol schedule. The platoon conducts patrol base activities including weapons maintenance, personal hygiene, rest plan, and planning for follow-on operations. Stand-to is conducted at BMNT and EENT. The platoon maintains the capability to defend the patrol base or displace on order.
 
-### b. Scheme of Movement and Maneuver
+### c. Scheme of Movement and Maneuver
 - Platoon halts short of patrol base site; PL conducts leader's reconnaissance with security element.
 - Upon confirmation of site suitability, platoon moves to patrol base using designated technique.
 - Squads occupy assigned sectors; each squad establishes fighting positions with interlocking fires.
@@ -100,10 +108,10 @@ None.
 - Patrol schedule established for local security patrols.
 - Withdrawal routes identified and briefed to all personnel.
 
-### c. Scheme of Fires
+### d. Scheme of Fires
 Defensive fires planned for likely REAPER avenues of approach. Each squad responsible for fires within assigned sector. Priority of fires to the most likely avenue of approach (determined during leader's reconnaissance). Final protective fires (FPF) designated and briefed.
 
-### d. Tasks to Subordinate Units
+### e. Tasks to Subordinate Units
 
 **1. 1st Squad:**
 
@@ -120,7 +128,7 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
 - **TASK:** Occupy and defend the southwestern sector of PB THUNDER, establish fighting positions with interlocking fires, and serve as the quick reaction force if contact is made.
 - **PURPOSE:** Provide security of the southwestern perimeter and immediate response capability to reinforce any sector under attack.
 
-### e. Coordinating Instructions
+### f. Coordinating Instructions
 
 **1. Patrol Base Priorities of Work (in order):**
    1. Security – Establish fighting positions, assign sectors, emplace LP/OPs
