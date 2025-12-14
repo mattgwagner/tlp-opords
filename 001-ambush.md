@@ -134,9 +134,16 @@ None.
    3. Assess civilian presence before execution.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Immediate reporting of any enemy contact or significant changes in enemy posture.
-   2. Status of civilian interactions or casualties in the area.
-   3. Status of friendly forces, including any casualties and equipment failures.
+   1. Crew served weapons
+   2. Signs of NBC capabilities
+   3. A Soldier suffered an injury during movement
+   4. Potable water resources on site reduced materially
+   5. A Soldier missing
+   6. Loss of equipment
+   7. Use of a nine Line
+   8. KIA
+   9. Immediate reporting of any REAPER contact or significant changes in REAPER posture
+   10. Status of civilian interactions or casualties in the area
 
 **4. Reporting:**
    - **SALUTE Report:** Upon enemy visual confirmation.

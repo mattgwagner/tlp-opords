@@ -153,10 +153,17 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
    4. Identify REAPER assault positions or staging areas.
 
 **4. Commander's Critical Information Requirements (CCIR):**
-   1. Immediate reporting of any enemy contact or probing activity.
-   2. Status of security posture and any degradation.
-   3. Status of friendly forces, including any casualties and equipment failures.
-   4. Compromise of patrol base location.
+   1. Crew served weapons
+   2. Signs of NBC capabilities
+   3. A Soldier suffered an injury during movement
+   4. Potable water resources on site reduced materially
+   5. A Soldier missing
+   6. Loss of equipment
+   7. Use of a nine Line
+   8. KIA
+   9. Immediate reporting of any REAPER contact or probing activity
+   10. Status of security posture and any degradation
+   11. Compromise of patrol base location
 
 **5. Reporting:**
    - **Report to higher when departing current location.**
