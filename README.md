@@ -2,6 +2,15 @@
 
 All Operations Orders should be written in GitHub Flavored Markdown (GFM) format. Changes to the Markdown (.md) files will generate new PDFs during the next deployment.
 
+## Contents
+
+- [Templates and References](#templates-and-references)
+- [Available Orders](#available-orders)
+  - [Evaluated Missions (Wooded Terrain)](#evaluated-missions-wooded-terrain)
+  - [MOUT Training Scenarios](#mout-training-scenarios)
+  - [Static Operations](#static-operations)
+- [FLX Variation System](#flx-variation-system)
+
 ## Templates and References
 
 - [OPORD Blank Template](opord-blank-template.html) - A fill-in-the-blank template with quick references designed to help build operations orders in an expedited manner.
