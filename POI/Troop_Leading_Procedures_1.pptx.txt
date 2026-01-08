@@ -1,0 +1,700 @@
+TroopLeading Procedures
+1
+
+Introduction
+Last Updated 2/14/2019
+2
+
+Last Updated 2/14/2019
+3
+Administrative Notes
+
+Table of Contents
+TLPs – Introduction
+TLPs – Step 1: Receive the Mission
+TLPs – Step 2: Issue the WARNORD
+TLPs – Step 3: Make a Tentative Plan
+TLPs – Step 4: Initiate Movement
+TLPs – Step 5: Conduct Reconnaissance
+TLPs – Step 6: Complete the Plan
+TLPs – Step 7: Issue the Order
+TLPs – Step 8: Supervise and Refine
+
+Last Updated 2/14/2019
+4
+
+REFERENCES
+ATP 3-21.8
+ATP 2-01.3
+FM 3-90-1 
+FM 6-0
+
+Last Updated 2/14/2019
+5
+
+Troop leading procedures are a dynamic process used by small-unit leaders to analyze a mission, develop a plan, and prepare for an operation (ADP 5-0). These procedures enable leaders to maximize available planning time while developing effective plans and preparing their units for an operation. (See paragraphs 10-10 to 10-41 for a discussion on the eight steps of TLP.)  -FM 6-0, p. 10-2 (2014)
+
+
+Use video clip here
+Motivator
+Last Updated 2/14/2019
+6
+Purpose of the video is to introduce content. Requires no discussion.  Ask OC’s to reflect as you progress through the TLPs.
+6
+
+
+Action: Conduct Troop Leading Procedures.
+
+Condition: In a classroom or field environment, given handouts and scenarios.
+
+Standard: Officer Candidates are able to work in small groups to make plans for given scenarios using the Troop Leading Procedures and brief those plans to the class.
+
+Terminal Learning Objective
+Last Updated 2/14/2019
+7
+
+
+The order of these steps doesn’t change 
+
+
+
+Steps 4-7 are interchangeable.  
+ 
+
+Step 8 occurs throughout  the process.
+1. Receive the Mission 
+2. Issue a Warning Order 
+3. Make a Tentative Plan
+4. Initiate Movement 
+5. Conduct Reconnaissance 
+6. Complete the Plan 
+7. Issue the Order 
+8. Supervise and Refine
+Last Updated 2/14/2019
+8
+Describe the order of the TLPs.
+8
+
+Receive a mission alert in the form of a Combat Order
+Warning Order (WARNORD) – Quick brief on general situation/mission to start planning.
+Operations Order (OPORD) – Primary brief with in-depth and thorough plan on how to execute mission.
+Fragmentary Order (FRAGORD) – This is how changes to the OPORD are briefed.
+Initiates the planning and preparation process so the platoon leader can prepare an initial WARNORD as quickly as possible. 
+Can be delivered Written, Verbal, or Electronic.
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Last Updated 2/14/2019
+9
+Step 1: Receive the Mission
+
+Leader uses no more than 1/3 of available time for planning, preparation and issuing OPORD.
+Subordinates get 2/3 of available time to plan and prepare for operation.
+Use backwards planning to schedule preparation time.
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Last Updated 2/14/2019
+10
+Step 1: Receive the Mission
+10
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Leaders determine their units’ missions and assess the time available to accomplish them.
+
+Conduct an initial (light) analysis of the Order using METT-TC, mission variables, which will be referred to as TMTCET.
+
+Continue to conduct analysis as new information is received.
+
+Deduce tentative mission if one was not received.
+Last Updated 2/14/2019
+11
+Step 1: Receive the Mission
+Explain FM 6-0, Chapter 10, Section 13 states “The order and detail in which leaders analyze the factors of METT-TC is flexible. “ 
+
+11
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Mission Variables
+Time Available
+Mission
+Terrain and Weather
+Civilian Considerations
+Enemy
+Troops and Support Available
+
+Mission Variables describe the characteristics of the area of operation, focusing on how they might affect a mission. Incorporating the analysis of the operational variables into TMTCET ensures Army Leaders consider the best available relevant information about conditions that pertain to the mission. 
+Last Updated 2/14/2019
+12
+TMTCET It is a logical process/order to analyze mission variables when making a tentative plan. First understanding our Time and Mission helps us to frame our planning. Then we analyze Terrain, Civil Considerations, and Enemy next because that is the order it is analyzed in Information Preparation of the Battlefield (ATP 2-01.3). We conduct a detailed analysis of Troops Available last because it transitions us into AGADAP. Cursory analysis of other mission variables will sometimes happen concurrently, such as Time and Mission or AO/AI being placed into Terrain.  The order of mission variables into TMTCET is how we will analyze mission variables when we are learning how to build OPORDERs. THIS IS A WAY.
+
+Note: Backwards planning of time is one of the first things we do when receiving the mission in step 1 of the TLP process, understanding how much time we have determines how we dive into analyzing/planning everything else.
+
+12
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Time Analysis
+Time
+Outcome
+Higher echelon’s timeline
+Operations
+Planning and preparation
+Enemy Timeline
+Identify the timeline of your next higher and nest your timeline in with theirs
+Use the 1/3, 2/3 rule for planning and preparation
+If available analyze the enemy’s timeline identifying the best time to start your movement
+Be realistic about the length of time it will take to accomplish your designated mission.
+
+Last Updated 2/14/2019
+15
+Time is generally the biggest constraint.
+PRACTICAL EXERCISE
+Example: Backwards plan how to get to chow.
+
+13
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Analysis of Mission
+Outcome
+What is a Mission?
+A task and purpose that clearly indicates the action to be taken and the reason for the action
+Task
+A clearly defined and measurable activity accomplished by Soldiers or units. 
+Essential Task – Must be done in order to accomplish the mission
+Specified Tasks – Specifically given to you by your commander
+Implied Tasks – Must be performed to accomplish a specified task 
+The result of mission analysis is the restated mission statement.
+Commanders Guidance
+Commanders intent
+Time and Location of Decisive points
+List of specified, implied, and essential task that must be accomplished and the purpose to be achieved
+Decisive Operation
+Supporting Operation
+Limitations on freedom of action
+Mission Statement
+Who
+What
+Where
+When
+Why
+Last Updated 2/14/2019
+16
+Mission
+14
+
+Last Updated 2/14/2019
+17
+Mission
+Doctrinal Tasks
+Task and Purpose: 
+FM 3-90-1, Appendix B
+“The tactical mission tasks in this appendix describe the results or effects the commander wants to achieve—the what and why of a mission statement not previously addressed in this publication. A mission statement contains the who, what, when, where, and why associated with a specific operation. The what and why of a mission statement are not the same thing and both are needed. The what is an effect that is normally measurable. The why of a mission statement provides the mission’s purpose. These tasks have specific military definitions that are different from those found in a dictionary. In some cases, the discussion includes more than just a definition; it includes results or effects in relation to the enemy, terrain, or friendly forces not associated with any specific type or form of an operation. Tasks that identify a friendly action rarely provide sufficient clarity for a mission statement. 
+A tactical mission task is the specific activity performed by a unit while executing a form of tactical operation or form of maneuver. It may be expressed in terms of either actions by a friendly force or effects on an enemy force.”
+
+15
+
+Last Updated 2/14/2019
+17
+Mission
+Mission Statement
+1-187IN attacks to destroy forces in vicinity of OBJ Silver NLT 100500JUL04 
+
+
+in order allow 3-187IN to seize OBJ Gold.
+WHO
+WHY
+WHERE
+WHAT
+WHEN
+Example Mission Statement
+16
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Terrain & Weather Analysis
+Area of Operation (AO) – Higher commanders use boundaries to define their platoons’ and companies' areas of operations. Assigning areas of operations to subordinates lets the subordinates use their initiative and supports decentralized execution.
+	“What do I own?” 
+Area of Interest (AI) – An area of interest is a geographical area, usually larger than the leader's area of operation. The area of interest includes threat forces or other elements characterizing the operational environment and greatly influencing the accomplishment of the mission.
+	“What can affect me?”
+Terrain
+O- Obstacles
+A- Avenues of Approach
+K- Key Terrain
+O- Observation & fields of fire
+C- Cover and Concealment
+Weather
+Visibility
+Winds
+Temperature/
+Humidity
+Precipitation
+Cloud Cover
+Last Updated 2/14/2019
+18
+Terrain and Weather
+17
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Outcomes of Terrain &Weather Analysis
+Provide an analysis on the operational environment, what this means to the enemy and yourself and how it will effect the fight.
+
+Analyze aspects of terrain and weather identifying how your unit uses both to accomplish its mission.
+Last Updated 2/14/2019
+18
+Terrain and Weather
+18
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Civil Analysis
+Outcome
+A- Areas
+S- Structure
+C- Capabilities
+O- Organizations
+P- People
+E- Events
+Analysis of civil considerations can help focus efforts or place constraints on your mission.
+Not always needed at squad level, but there may be key points that need to be addressed.
+Last Updated 2/14/2019
+19
+Civil Considerations
+Instructor Note: We just want the candidates to know this exists and we do not want to focus/spend too much times on this, because it detracts from learning the more important parts in the condensed block of instructions.
+19
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Enemy Analysis
+Outcome
+Disposition 
+Doctrine
+Equipment
+Capabilities
+Vulnerabilities
+Probable Courses of Action
+    
+Identify most likely courses of action, and most dangerous courses of action
+Analyze how each course of action affects your mission?
+Identify how the enemy fights to ensure that you have the right alignment of forces to engage and destroy enemy forces 
+Last Updated 2/14/2019
+20
+Enemy
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Troop Analysis
+Outcome
+Number
+Type
+Capabilities
+Condition
+Readiness
+Maintenance
+Training
+Strengths
+Weaknesses
+Leaders
+An analysis of your own troop strength to identify any deficiencies in regards to the mission set given.
+Is your unit outfitted with the correct number of personnel, do you have the capabilities and training to accomplish the mission and do you have the right leaders for this mission set. 
+Last Updated 2/14/2019
+21
+Troops
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Step 2: Issue a Warning Order
+Issue immediately after mission analysis
+
+Do not sacrifice time to gain more info
+
+OPORD Format
+At a minimum WARNORD should include:
+Type of operation
+General location of operation
+Initial operational timeline
+Reconnaissance to initiate
+Movement to initiate
+Planning and preparation instructions
+Information Requirements
+Commander’s critical information requirements.
+Last Updated 2/14/2019
+22
+Enables subordinates to begin preparation for the mission now.
+22
+
+Situation
+	-General location of operation
+
+Proposed Mission 
+
+3.   Execution
+       > Concept of the Operation
+	- Type of operation
+      
+       > Tasks to Subordinate Units
+	-Movement to initiate
+	-Reconnaissance to initiate
+	-Planning and preparation instructions
+       
+      > Coordinating Instructions
+	-Initial operational timeline
+-Information Requirements
+- Commander’s critical information requirements
+Why does this information go out before the leader has made their tentative plan?
+Last Updated 2/14/2019
+23
+The Warning Order (WARNORD)
+Shows the paragraphs of the WARNORD that the information will be placed. Explain that the proposed mission statement could have location of objective or type of operations, but WARNORDs will not always provide task and purpose to develop a mission statement.
+23
+
+Step three of TLPs -  Make a Tentative Plan.
+
+Mission Analysis 🡪 TMTCET
+Course of Action (COA) Development 🡪 AGADAP
+Analyze Relative Combat Power
+Generate Options
+Array Forces
+Develop Course of Action
+Assign Responsibilities
+Prepare Course of Action Statement and Sketch
+COA Analysis 🡪 War-Game
+COA Comparison
+COA Selection
+
+
+If the CDR (due to time constraints), is unable to develop more than one COA, step 4 and 5 do not apply
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Last Updated 2/14/2019
+24
+Step 3: Make a Tentative Plan
+Mission analysis is conducted through the analysis of mission variables. This analysis drives COA Development in the form of AGADAP.
+
+Instructor Note: COA Analysis is done to ensure the plan meets the COA Screening Criteria that will be discussed in the next block of instruction. We are just letting the candidate know steps 4 and 5 exist, not diving in depth. Do not need to dive into types of COA Analysis war-game later, it will detract from learning the basics.
+24
+
+This step can occur at any point during the TLPs
+Can be conducted by subordinate leaders
+Includes movement to positions closer to LD, initial inspections, reconnaissance, battle drill rehearsals,  or SOP items
+If the reconnaissance reveals a change in the situation, the plan must be adjusted accordingly.
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+The purpose of the Warning Order is to enable troops to initiate movement while the leader is making a tentative plan
+Last Updated 2/14/2019
+25
+Step 4: Initiate Movement
+25
+
+Reconnaissance is used to confirm or deny the assumptions we made during the planning process. 
+Situation and time available dictate the type and detail of reconnaissance
+Map, terrain model, aerial photo, ground
+
+Plan and conduct a leader’s reconnaissance for every mission.
+
+Consider risk inherent in moving forward of friendly lines, or into unoccupied area. Avoid detection.
+
+If reconnaissance reveals a change to the situation you must modify your plan.
+
+Rehearsing reconnaissance plan will mitigate risk.
+
+
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Last Updated 2/14/2019
+26
+Step 5: Conduct Reconnaissance
+26
+
+Develop OPORD based on tentative plan, reconnaissance and additional guidance. 
+Review plan to ensure that the Commander’s mission and intent is satisfied.
+Prepare overlays, indirect fire list, complete sustainment and mission command requirements.
+Use five paragraph format and common tactical language from ATP 3-21.8 (Ch. 5) and ADRP 5-0.
+Prepare the briefing site, medium, and material needed to brief subordinates. 
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Use your Terrain Model Kit!
+Last Updated 2/14/2019
+27
+Step 6: Complete the Plan
+27
+
+Can be issued either orally or written 
+Issue while observing the combat area if possible 
+Supplements to OPORDs:
+ Terrain models
+ Sand Table 
+ Map boards/Overlays 
+ Sketches
+ Fire Support Matrix
+The OPORD must precisely and concisely explain the mission, commanders intent, and concept of the operation. 
+Conduct confirmation brief.
+
+
+
+
+If there is a section of the OPORD format that has no significant conclusions or effect on your mission, don’t brief it.  
+In terms of evaluation, safer to say, “Nothing significant.”
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Last Updated 2/14/2019
+28
+Step 7: Issue the Order
+28
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Last Updated 2/14/2019
+29
+At the completion of your order.  Your subordinates should:  
+Understand and share your vision (Mission, Key Tasks, Concept)
+
+Understand how all elements work together and how they are synchronized (Scheme of Maneuver/Course of Battle)
+
+Walk away with a clear understanding of what they must do (Understand Task & Purpose, Key Tasks, Decisive Point, Endstate)
+Step 7: Issue the Order
+29
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+Last Updated 2/14/2019
+30
+Good Operations Orders . . .
+Have Clarity
+Are Complete and Brief
+Are Timely
+Allow Initiative by recognizing subordinates freedom of action within the PLs concept
+Use affirmative form and are authoritative
+
+Cut out excess information that does not apply to your AO or add to the situational awareness of adjacent unit missions. 
+Step 7: Issue the Order
+30
+
+Last Updated 2/14/2019
+31
+Rehearsals
+ The leader uses rehearsals to
+Practice essential tasks (improve performance). 
+Reveal weaknesses or problems in the plan. 
+Coordinate the actions of subordinate elements. Improve soldier understanding of the concept of the operation (foster confidence in soldiers). 
+
+Rehearsals Must
+Be habitual during training in order to effectively employ units tactically.  
+Clarify the Commander’s intent.
+Reinforce scheme of maneuver.
+Ensure understanding and instill confidence in participants.
+Provide feedback and expose problems in the plan.
+
+
+
+
+Troop Leading Procedures
+Receive the Mission
+Issue a Warning order
+Make a Tentative Plan
+Initiate Movement
+Conduct Reconnaissance
+Complete the Plan
+Issue the Order
+Supervise and Assess
+
+Inspections:  
+Pre Combat Checks (PCCs): Soldier items
+Pre Combat Inspections (PCIs): Mission essential equipment
+Weapons and ammo:  test fire 
+Uniforms and equipment
+Mission Essential Equipment
+Soldiers understanding of mission and their specific responsibilities
+Communications: radios, frequencies, batteries
+Rations and water
+Camouflage; personnel and equipment
+Step 8: Supervise and Refine
+31
+
+Longstreet’s TLPs: Pickett’s Charge
+Have the students discuss how General Longstreet demonstrated each step of the Troop Leading Procedures:
+1) Receive the Mission
+General Longstreet is briefed the mission by Gen. Lee
+2) Issue the WARNORD
+Gen Longstreet issues WARNORD to Gen. Pickett
+3) Make a Tentative Plan
+Gen. Longstreet makes the plan with Gen. Lee
+4) Initiate Movement
+Mission preparation was continuous during presentation
+5) Conduct Reconnaissance
+Gen. Longstreet conducts recon with Gen. Lee
+6) Complete the Plan: 
+Gen. Longstreet completes the plan when he coordinates fires plan with Cpt. Porter
+7) Issue OPORD
+Gen Longstreet briefs order to Gen. Pickett, Trimble, and Pettigrew
+8) Supervise and Refine: 
+Gen. Longstreet directs Cpt. Porter to adjust rate of fire 
+
+
+
+This slide is hidden and for the instructor. Optional to show Pickett’s Charge video again. Have the student’s discuss how General Longstreet demonstrated each step of the TLPs.
+32
+
+Check on Learning
+How many TLPs are there?
+
+
+2.   What are the TLPs?
+
+
+3.   Which Step takes the longest?
+
+
+4.  What are the mission variables?
+
+
+5.  Which Step requires in depth analysis of the mission variables? 
+EIGHT
+Receive the Mission, Issue WARNORD, Make a Tentative Plan, Initiate Movement, Conduct Reconnaissance, Complete the Plan, Issue Order, Supervise and Refine
+MAKE A TENTATIVE PLAN
+TIME, MISSION, TERRAIN AND WEATHER, ENEMY, TROOPS AVAILABLE, CIVIL CONSIDERATIONS
+MAKE A TENTATIVE PLAN
+Last Updated 2/14/2019
+33
+33
+
+?
+Questions
+34

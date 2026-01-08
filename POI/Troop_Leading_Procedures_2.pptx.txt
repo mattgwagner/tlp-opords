@@ -1,0 +1,1650 @@
+Troop Leading Procedures
+Part 2 of 2
+References:
+ATP 3-21.8
+ATP 2-01.3
+FM 3-90-1
+FM 6-0
+JP 5-0
+ADRP 5-0
+
+1
+
+Table of Contents
+Make A Tentative Plan
+Mission Analysis: Time 
+Mission Analysis: Mission
+Mission Analysis: Terrain and Weather
+Mission Analysis: Enemy
+Mission Analysis: Troops Available
+Course of Action Development
+COA Development: Analyze Relative Combat Power
+COA Development: Generate Options
+COA Development: Array Forces
+COA Development: Develop Concept of Operations
+COA Development: Assign Responsibility
+COA Development: Prepare COA Statement and Sketch
+
+
+Motivator
+People formulate plans both consciously and subconsciously throughout everyday life for any number of tasks or events that they carry out. In the military, plans are the basis for any mission. To develop their plan (concept of the operation), the leader summarizes how best to accomplish their mission within the scope of the commander’s intent one and two levels up. The leader uses TLP to turn the concept into a fully developed plan and to prepare a concise, accurate operation order (OPORD). They assign additional tasks (and outlines their purpose) for subordinate elements, allocates available resources, and establishes priorities to make the concept work. The following periods of instruction and practical exercise covers important aspects of order development.
+Link video
+3
+
+Terminal Learning Objective
+TASK: Conduct Troop Leading Procedures.
+
+CONDITIONS: In a classroom environment, given instruction on TLPs and a scenario.
+
+STANDARDS: Officer Candidates are able to work in small groups to make plans for given scenarios using the Troop Leading Procedures and brief those plans to the class.
+
+
+Learn Step Activity 2
+TASK: Make a Tentative Plan.
+
+CONDITIONS: In a classroom environment, given instruction on TLPs and a scenario.
+
+STANDARDS: Officer Candidates are able to work in small groups to make tentative plans for given scenarios using the Troop Leading Procedures.
+
+
+Troop Leading Procedures
+Step 3:
+Make a Tentative Plan
+
+Troop Leading Procedures
+
+The order of these steps doesn’t change 
+
+
+
+Steps 4-7 are interchangeable.  
+ 
+
+Step 8 occurs throughout  the process.
+1. Receive the Mission 
+2. Issue a Warning Order 
+3. Make a Tentative Plan 
+4. Initiate Movement 
+5. Conduct Reconnaissance 
+6. Complete the Plan 
+7. Issue the Order 
+8. Supervise and Refine
+
+Step 3: Make a Tentative Plan
+Step three of TLPs -  Make a Tentative Plan.
+
+Mission Analysis 🡪 TMTCET
+Course of Action (COA) Development 🡪 AGADAP
+COA Analysis 🡪 War-Game
+COA Comparison
+COA Selection
+
+If the LDR (due to time constraints), is unable to develop more than one COA, step 4 and 5 do not apply
+
+
+1. Mission Analysis
+Use TMTCET to conduct mission analysis.
+
+Mission analysis answers the four questions of the leader’s visualization:
+What is my mission?
+What is the current situation?
+How do we accomplish the mission?
+What are the risks?
+
+Summary of mission analysis
+Restated mission
+Initial risk assessment
+Tentative decisive point
+Initial commander’s intent
+
+
+2. COA Development
+Use AGADAP to develop the COA.
+
+COA Screening Criteria at the end of COA Dev, COA must be:
+Suitable (appropriate for particular person, purpose, situation)
+Acceptable (able to be agreed on, tolerated, allowed)
+Distinguishable (clear enough to be discerned or identified as different)
+Complete (entire or full)
+Feasible (possible to do easily)
+
+COA Includes
+Purpose of the operation
+Form of maneuver or defensive technique
+Decisive point and why
+Risk and mitigation
+Decisive operation with task and purpose
+Shaping operation with task and purpose
+Concept of fires/assets
+End State
+
+
+3. COA Analysis
+COA Analysis is the “War Game.” 
+Action🡪 Reaction🡪 Counteraction
+
+
+
+
+
+
+4. COA Comparison
+5. COA Selection
+
+Briefly explain what COA Analysis is. Touch on COA Comparison and COA Selection, don’t spend time on it.
+11
+
+Troop Leading Procedures
+Make a Tentative Plan
+Mission Analysis: Time Available
+
+13
+Time Available
+T
+M
+T
+C
+E
+T
+NEMY
+ERRAIN AND WEATHER
+IVILIAN CONSIDERATIONS
+IME AVAILABLE
+ISSION
+ROOPS AND SUPPORT AVAILABLE
+              HOPE-W
+ Higher (1 lvl up)
+ Operational
+ Planning and preparation
+ Enemy
+ Weather
+How much time do we have to plan?
+
+When do we need to:
+Brief
+Backbrief
+PCC/PCI
+Rehearse
+SP
+etc.
+
+
+Guides the leader through the decision making process.
+***Does not need to evaluated in a specific order***
+13
+
+Time Available
+Initial time analysis allows a Leader to determine the total amount of time to develop, prepare, and execute a plan.
+
+Leader should plan to use no more than one third of the time available, thus leaving his subordinates with two thirds of the available time (1/3-2/3 rule).
+
+Backward Planning Process
+
+Ongoing, drives the planning process
+
+
+Time Available
+Considerations:
+Specified Times – dictated in the Company CDR’s WARNO/OPORD
+Backbriefs
+Rehearsals
+LD
+Mission Execution Times: At/NET/NLT
+Logistic Requirements
+COMMEX
+
+Implied Times – not dictated in the Company CDR’s WARNO/OPORD
+PLT/SQD level planning (Backbriefs, OPORD, Rehearsals, COMMEX, etc.)
+
+
+Time Available
+One technique for time analysis (Backwards Planning)
+I need to seize NLT 1630	THEREFORE	1600 Begin Seizure
+It will take 30 min for MVMT from ORP to OBJ	1530 Depart ORP
+It will take 20 min for ORP Actions			1510 Arrive ORP
+It will take 2 hours for MVMT from LZ to ORP	1310 Depart HLZ
+It will take 10 min to consolidate on HLZ		1300 Land
+The flight will take 30 mins				1230 Depart PZ
+It will take 5 min to load A/C				1225 A/C Arrive PZ
+Establish PZ Posture will take 10 min		1215 PLT arrives at PZ
+
+Mission Timeline
+Planning Timeline
+
+Time Available
+
+PCC/PCI’s plus 15 mins to fix deficiencies	1130 Final PCC/PCI’s
+PLT Rehearsal will take 30 mins			1100 PLT Rehearsal Squad Rehearsal will take 15 mins			1040 SQD Rehearsals
+PLT OPORD will take 1 hour and SQDs 		
+    will take 45 mins 					0845 OPORD
+
+It is currently 0600 THEREFORE
+WARNO takes 5 min					0605 Warno
+
+This gives us 2.5 hours to plan each aspect before we brief the overall OPORD
+
+17
+Mission Timeline
+Planning Timeline
+
+Time Available
+Your Parallel Planning Nests with higher HQ’s
+
+
+
+
+
+
+
+
+
+
+(Your Plan can be changed from BN 3 different times)
+
+
+18
+
+Check On Learning
+What type of time planning are you going to use?
+
+
+What is the rule of thumb for planning?
+
+
+What is the start point for planning your time line?
+
+Practical Exercise: Break into small groups for 3-5 minutes and backwards plan your day, forming up for PT, going to chow, or some other task you routinely perform. 
+
+Backwards Planning
+1/3 of time for your planning and 2/3 time for subordinates
+NLT Mission Complete time
+Practical Exercise: Be prepared to have an example of your own
+
+
+19
+
+Troop Leading Procedures
+Make a Tentative Plan
+ Mission Analysis: Mission
+
+Mission (synonymous with METT-TC(I))
+Guides the leader through the decision making process.
+***Does not need to evaluated in a specific order***
+T
+M
+T
+C
+E
+T
+NEMY
+ERRAIN AND WEATHER
+IVILIAN CONSIDERATIONS
+IME AVAILABLE
+ISSION
+ROOPS AND SUPPORT AVAILABLE
+Mission, Intent, Concept
+1 up and 2 up
+Purpose
+Tasks
+Specified, Implied, Essential
+Constraints
+Restated mission
+*Significant conclusions
+
+Mission
+Higher Headquarters’ (two levels up)Mission, Intent, and Concept.
+
+Immediate Higher Headquarters’ (one level up) mission, intent, and concept.
+
+Unit’s Purpose
+
+Constraints
+
+Specified, Implied, and Essential tasks
+
+Restated Mission and it is the end state of this analysis
+
+
+Mission
+Commander’s Intent
+A clear, concise statement of what the unit must do to succeed with respect to terrain, the enemy, and the desired end-state (friendly disposition).
+
+PLs  and SLs do not have intent – they issue key tasks
+
+
+
+Mission
+INTENT ALLOWS SUBORDINATES TO EXERCISE INITIATIVE TO ACHIEVE THE DESIRED PURPOSE IF…
+
+C2 is lost or interrupted
+The plan becomes unfeasible/invalid
+Conditions on the battlefield change
+Purpose can be achieved in a more beneficial manner
+
+
+Mission
+HIGHER HEADQUARTERS
+Squad Leaders must know what his Company CDR’s and Platoon Leader’s want  accomplished:
+
+Two Levels Up Concept/Intent
+
+One Level Up Concept
+
+A-27. Leaders understand their second higher up concepts of the operation. They identify the tasks and purposes, and how their immediate higher up are contributing to the fight. They also must understand leaders' intent (two levels up).
+
+
+Mission
+UNIT PURPOSE
+YOUR purpose is located in the concepts of the operation in the immediate higher headquarters OPORD and usually matches or achieves the purpose of the immediate higher headquarters.
+Shaping operation purposes must relate directly to those of the decisive operation.
+Understand how the units purposes relate to higher.
+Understand why their leaders one level up assigned their unit’s particular purposes. 
+Determine how those fit into the superior’s concepts of the operation.
+
+
+Mission
+Constraints
+Take the form of a proscriptive/ prohibitive actions. TIME IS ALWAYS A CONSTRAINT.
+
+
+
+Prohibitive Action:
+Do not cross PL Blue until directed
+No indirect fires within 100 meters of buildings
+Do not initiate unless fired upon
+
+Proscriptive Action:
+Recon route prior to LD
+Establish MFP 1
+Establish EPW collection point
+Consolidate casualties at Company CCP
+
+
+Mission
+Specified Tasks - Tasks that are clearly stated in the order, during the oral order or in overlays and annexes.
+
+Implied Tasks - Tasks that become apparent as the OPORD is analyzed. Not inherent, routine, or standard operating procedure (SOP). Must be performed to accomplish a specified task.
+
+
+Mission
+SPECIFIED:
+
+Secure LZ Helo
+
+Search all houses
+
+Build company terrain model
+
+Orient fires south of TRP 2
+
+Conduct reconnaissance
+
+IMPLIED: (derived from specified tasks)
+Bring LZ marking kit
+
+BPT mark or transport  items
+
+Get graphics from CO
+
+Ensure all soldiers are aware of TRP 2 and it’s markings
+Camouflage and prepare uniform for movement
+
+Mission
+SPECIFIED:
+
+PT Formation 0530
+
+Go to Chow
+
+Pay attention in class
+
+Rooms IAW SOP
+
+Conduct 4 mile ruck
+
+IMPLIED: (derived from specified tasks)
+Hygiene, PT Uniform, 15min prior
+
+XO detail identified
+
+Take notes
+
+All rooms clean, look the same, and closets secured
+Student leadership develops 35lb packing list
+
+Mission
+Essential Task
+An Essential task is a clearly defined and measurable activity accomplished by soldiers or units.  These tasks will be oriented in one of three ways:
+
+Decisive Operation: since the purposes are the same the essential task also accomplishes the higher headquarters’ purpose.	
+Shaping Operation: accomplishes the assigned purpose, which shapes the decisive operation.	
+Sustaining Operation: accomplishes the assigned purpose, which enables both the shaping and decisive operation.
+
+31
+
+Mission
+The Mission Statement answers who, what, where, when, why and will contain the mission essential task.
+
+The assigned essential task is included in the mission statement or Course of Action (COA) statement and is the task you must achieve to accomplish the mission
+
+Mission
+Nesting
+When analyzing the mission you will see that the “why” or purpose for the mission is always nested.
+There are two types of “nesting” – horizontal and vertical nesting.
+Vertical nesting is the nesting of the purpose up and down the chain of command.
+Horizontal nesting is the nesting of purposes oriented around the decisive operation.
+
+
+In other words the decisive operation will have the same purpose as the higher unit, and the purposes of the adjacent units will all support the decisive operation.
+
+
+33
+
+Mission
+The “Nesting” Concept
+
+HORIZONTAL NESTING
+VERTICAL NESTING
+DO: 2-11 IN BN
+T: Destroy
+P: Facilitate MVT of TF Stryker north along I-185 
+I I
+I
+A
+DO: A CO 2-11 IN BN
+T: Destroy
+P: Facilitate MVT of TF Stryker north along I-185 
+I
+B
+I
+C
+SO1: B CO 2-11 IN BN
+T: Fix
+P: Prevent ENY MNVR on DO
+SO2: C CO 2-11 IN BN
+T: Block
+P: Prevent ENY envelop of DO
+DO:1/A/ 2-11 IN 
+T: Destroy
+P: Facilitate MVT of TF Stryker north along I-185 
+SO1:2/A/ 2-11 IN 
+T: Block
+P: Prevent ENY MNVR on CO DO
+SO2:3/A/ 2-11 IN 
+T: Screen
+P: Provide early warning to CO DO
+DO:1/1/A/ 2-11 IN 
+T: Destroy
+P: Facilitate MVT of TF Stryker north along I-185 
+SO1:2/1/A/ 2-11 IN 
+T: Suppress
+P: Prevent ENY Massing on DO
+SO2:3/1/A/ 2-11 IN 
+T: Breach
+P:Facilitate mvmt of DO on OBJ X
+SO2:3/C/ 2-11 IN 
+T: Screen
+P: Provide early warning to CO DO
+SO1:2/C/ 2-11 IN 
+T: Block
+P: Prevent EN bypass of DO
+DO:1/C/ 2-11 IN 
+T: Block
+P: Prevent ENY Envelop of DO
+Shows how the DOs task and purpose all they way down is the same. Shows at each echelon how the partner units support the DO to facilitate completion of mission. Take time to understand this and explain.
+34
+
+Mission
+A
+B
+C
+T: Suppress OBJ Bull
+P: Provide freedom of maneuver for the DO
+T: Fix OBJ Cow
+P: Prevent enemy 
+maneuver against 
+the decisive operation
+T: Seize OBJ Bull
+P: Control Pike Rd to 
+     allow passage of 
+     52d ID
+OBJ BULL
+OBJ COW
+P
+I
+K
+E    
+
+R
+D
+This is the precursor for the next slide to show company AOs and how one company AO will be broken down farther.
+35
+
+Mission
+P
+I
+K
+E    
+
+R
+D
+T: Seize OBJ Horns
+P: Control Pike Rd to 
+     allow passage of 
+     52d ID
+OBJ BULL
+1
+2
+T: Seize OBJ Tail
+P: Provide freedom of maneuver for the Company DO
+T: Breach OBJ FOOT
+P: Allow passage of
+     the company decisive operation
+3
+OBJ TAIL
+OBJ HORNS
+OBJ FOOT
+36
+
+Mission
+Restated Mission
+A clear, concise statement of the mission essential task to be accomplished and purpose to be achieved by the unit.
+
+Focus for the remainder of the estimate process
+
+Answers the who, what, where, when, and why about the mission
+
+Created after all mission analysis is done.
+
+
+Mission
+Mission Statement
+
+1-187IN attacks to destroy forces in vicinity of OBJ Silver
+
+ 
+NLT 100500JUL04  in order allow 3-187IN to seize OBJ Gold.
+
+
+WHO
+WHY
+WHERE
+WHAT
+WHEN
+Example Mission Statement
+38
+
+Check On Learning
+Where is your unit purpose located?
+
+What five questions does the mission statement answer?
+
+What kinds of constraints are there?
+
+Why is Commander’s Intent important? Who has intent?
+
+What types of tasks are there?
+
+
+
+
+Concept of the operation in the immediate higher headquarters OPORD
+Who, What, When, Where, Why
+Prohibitive and Proscriptive
+Allows subordinates to exercise initiative to achieve the desired purpose and Commanders have intent
+Essential, Specified, and Implied
+
+39
+
+Troop Leading Procedures
+Make a Tentative Plan
+Mission Analysis: Terrain and Weather
+
+40
+
+Terrain and Weather
+T
+M
+T
+C
+E
+T
+NEMY
+ERRAIN AND WEATHER
+IVILIAN CONSIDERATIONS
+IME AVAILABLE
+ISSION
+ROOPS AND SUPPORT AVAILABLE
+Guides the leader through the decision making process.
+***Does not need to evaluated in a specific order***
+Terrain
+AO 
+AI-CARO
+Weather
+Wind
+Visibility
+Temp/humidity
+Cloud coverage
+Precipitation 
+Terrain
+Obstacles
+Avenue of approach
+Key terrain
+Observation/fields of fire
+Cover and concealment
+*Significant conclusions
+Where am I going to be moving through and operating?
+
+How does it affect me?
+
+How does it affect the enemy?
+
+Terrain and Weather
+Step One: Define the Operational Environment
+Area of Operations (AO)—A geographical area, including the airspace above, usually defined by lateral, forward, and rear boundaries assigned to a commander, by a higher commander, in which he has responsibility and the authority to conduct military operations.
+
+A briefing technique is OBTF:
+Orient your audience to the map/terrain model
+Box the boundaries of the map/terrain model for your AO
+Trace through the map/terrain model identifying what the graphics or items represent
+Familiarize the audience with the map/terrain model by identifying key features they will recognize while conducting the operation
+
+42
+
+Terrain and Weather
+Step One: Define the Operational Environment
+Area of Interest (AI)—A geographical area…[that] includes any threat forces or characteristics of the battlefield environment that will significantly influence accomplishment of the command’s mission. 
+
+AI is determined in terms of C.A.R.O.
+C- Enemy air assets CAS/CCA (fixed or rotary wing)
+A- Artillery or mortars (Indirect fires)
+R- Reserves/Reinforcements (ability to employ reserves on your Objective)
+O- Other (UAS)
+NOTE: Areas of Interest are doctrinally not within our Area of Operations.
+
+
+AI 
+AO
+Another example of AO Outlined with two AIs as template enemy locations, possible locations for reinforcements from the CAR acronym.
+This graphic will be used to show the remaining steps of creating a TO.
+
+44
+
+Terrain and Weather
+Step Two: Describe the Environmental Effects on Operations
+What do we mean by describe the effects?
+Anybody can define the environment by saying this is a hill, this is a ravine, that’s a river, etc.  Good leaders determine what this means to the enemy and their unit and how it will effect the fight.  Subordinates expect leaders to make these deductions and develop plans to mitigate or exploit these effects.
+Don’t forget that you must always describe the effects on the enemy and on yourself and determine what you will do about it.
+45
+
+Terrain and Weather
+Step Two: Describe the Environmental Effects on Operations
+
+
+
+
+
+
+
+
+
+Notice how each aspect that we define means something to the fight and forces us to adjust our operation to mitigate or exploit the effect
+
+
+Define the Terrain
+Numerous Creeks
+Main intersection
+Only one avenue of approach from objective
+Observation limited to 35 to 40 meters
+Sparsely vegetated concealment
+Describe it’s effects
+This will slow our movement 
+Allows movement throughout sector
+The enemy will have only one mounted escape route
+We will have to get close to the objective to engage
+Enemy will be able to more easily detect our movement
+What will you do about the effect (SO WHAT) 
+Provide more time for movement
+We will have to control this intersection
+We must isolate this avenue of approach to prevent enemy withdrawal
+BPT fight into SBF and move to staging positions before final approach
+We must slow our movement, conduct SLHs more often and use our thermals every 100m-200m
+
+Terrain and Weather
+Military Aspects of Terrain
+Obstacles
+Avenues of Approach
+Key Terrain
+Observation and Fields of Fire
+Cover and Concealment
+
+So What? 
+Who do these Favor/How/Why? 
+
+
+Terrain and Weather
+Obstacles
+Existing Obstacles:
+Natural obstacles involve terrain, topography, and/or physical characteristics that affect or impede movement
+Man-made obstacles involve human influence to affect or impede maneuver or arrangement
+Reinforcing Obstacles:
+Tactical Obstacles: Those obstacles employed to disrupt enemy formations, to turn them into a desired area, to fix them in position under direct and indirect fires, or to block enemy penetrations.
+Protective Obstacles: Obstacles employed to assist a unit in its local, close-in protection. 
+
+Terrain and Weather
+Obstacles
+ The terrain itself can actually be an obstacle.  This is indicated by classifying the terrain.
+Classification of Terrain
+Unrestricted: Indicates terrain free of constraints to movement. Nothing needs to be done to enhance mobility.
+Restricted: Hinders movement to some degree. Little effort is needed to enhance mobility but units are unable to move at desired speeds or combat formations.
+Severely Restricted: Hinders or slows movement in combat formations unless some effort is made to enhance mobility (i.e. Engineer Assets).
+
+
+Terrain and Weather
+Types of Terrain
+5 major terrain features
+Hill, Ridge, Valley, Saddle, Depression
+
+ 5 minor terrain features
+Draw, Spur, Cut, Fill, Cliff
+
+Briefly define the features and identify them in the following slide, but let them be taught in depth at land navigation training.
+50
+
+Terrain and Weather
+
+Terrain and Weather
+Avenues of Approach
+An air or ground route of an attacking force of a given size leading to its objective or to key terrain in its path.
+Mobility Corridors fall into Avenues of Approach
+Areas where a force will be canalized due to terrain restrictions.  They allow military forces to capitalize on the principles of mass and speed.
+
+
+
+In this slide we are letting candidates know mobility corridors exist and what they are, but inform them not to focus heavily on them at this level.
+52
+
+Terrain and Weather
+Practical Exercise
+Break into small groups and take 5 minutes to discuss what Avenue of Approach you think is best and why. Be prepared to provide an answer for the group.
+OBJ
+Ask which Avenue of Approach appears to be the best to get to the objective assuming the terrain is densely vegetated around the creeks, less vegetated on the hilltops, and that we are moving to attack an enemy that is located on the OBJ. 
+Explain the middle Avenue of Approach would be the best because the IV line on the ridge blocks observation from the north while at the same time using the IV lines created by draws/spurs to helps to limit observation from the East and West, while the vegetation near the creeks also provides better concealment. If the knowledge base appears high you can explain there probably would be enemy pre-planned targets for the hilltops.
+53
+
+Terrain and Weather
+Key Terrain
+Any locality or area the seizure, retention, or control of affords a marked advantage to either combatant (marked advantage to you or the enemy).
+Examples:
+Terrain with good observation over AAs
+Terrain providing cover of an obstacle
+Road junctions or communication centers that are central to operations
+When developing and briefing key terrain you must talk about what the terrain is, why it is key, and what you will do about this terrain? Bypass it, seize it, indirect fire target, etc.
+
+K1
+
+Terrain and Weather
+Observation and Fields of Fire
+Observation  is the ability to see the threat either visually or through use of surveillance devices (NVG, thermals, etc).
+
+Fields of Fire  are areas that a weapon or group of weapons may effectively cover with fire from a given position.
+
+When talking about observation and fields of fire, talk about what you can see and engage, and what the enemy can see and engage.  How will limited visibility effect your observation?  Will weather like early morning fog effect your observation?  
+
+
+Terrain and Weather
+Cover and Concealment
+Cover is protection from the effects of direct and indirect fires.
+
+Concealment is protection from observation.
+
+Armor, protective obstacles, buildings, trees, trenches, etc. will all have an effect on cover for you and the enemy.  Don’t forget about concealment from aerial observation as well as ground observation.
+Highlight critical areas and what types of cover and quality are available (what size rounds will they provide cover from)
+Highlight areas lacking cover or areas with only concealment 
+
+
+Terrain and Weather
+Additional Considerations
+Seasonal effects
+Vegetation
+Canopy
+Drainage
+Soil Composition
+Cultural/Religious/Civilian Obstacles (landmarks)
+Heavily trafficked areas
+Lines of communication
+
+
+Terrain and Weather
+Terrain Analysis Worksheet (a tool/way)
+Military Aspects of Terrain
+“Define”
+Effects on Enemy
+Effects on Friendly
+Deductions, (the “so what”)
+Obstacles
+River running N/S within AO
+Small Boats are ideal to move within AO
+We have no Boats 
+We need to place an OP along water to disrupt
+Avenues of Approach
+Key Terrain
+Observation & FOF
+Cover & Concealment 
+The most important part
+If time permits you can turn this into a practical exercise.
+58
+
+Terrain and Weather
+How do I depict my terrain analysis?
+
+In order to graphically display our analysis we will draw a graphical terrain overlay (GTAO).  A good graphical terrain overlay will have a huge impact on getting your point across to your men.
+
+When drawing your GTAO there are specific colors used for each aspect of the terrain:
+O	BSTACLES (drawn in green)
+A	VENUES OF APPROACH (drawn in red or blue)
+K	EY TERRAIN (drawn in purple)
+O	BSERVATION AND FIELDS OF FIRE (ranges drawn in black)
+C   	OVER AND CONCEALMENT
+
+
+
+Terrain and Weather
+Two Outputs from Terrain Analysis
+Terrain Analysis Worksheet 
+Graphic Terrain Analysis Overlay
+The worksheet is a way of showing the deductions, the “so what?”
+The GTAO is a required product according to ATP 3-21.8, but it will not be a required product here, a terrain model will suffice.
+The next slides will show the process of building a GTAO for candidates situational awareness and reference to look back to if they desire. Explain the analysis shown briefly for each of the next seven slides.
+60
+
+These next slides demonstrate how you add each layer to create the GTO.
+61
+
+
+
+
+
+
+K1
+K2
+
+Terrain and Weather
+What are the military aspects of weather?
+C P T V W
+Cloud Cover
+Precipitation
+Temperature
+Visibility
+Wind
+
+
+
+
+Can weather really effect our operation that much?
+
+
+68
+
+Terrain and Weather
+Visibility
+ Low visibility (<3Km) limits employment of aircraft, aerial sensors, and airborne forces
+  May canalize attacking forces onto well defined Avenues of Approach
+  BMNT, SR, SS, EENT, MR, MS
+  Limited visibility due to night, fog, rain
+
+
+
+
+Poor visibility may force us to utilize NVG, thermals, etc.  It will also help conceal us from enemy observation.
+
+69
+
+Terrain and Weather
+Wind
+Upwind force generally has better visibility
+Speed and direction can have significant impact on smoke and NBC operations
+Wind carries noise and scent
+Heavy winds can mask noise and allow for rapid movement
+Winds will be canalized in urban environments
+Speed and direction of surface and altitude winds favor upwind force
+Upwind force generally has better visibility
+Speed and direction have significant impact on smoke and NBC Operations
+Described as “from-to”
+Focus on smoke, smells, and masking sound.
+70
+
+Terrain and Weather
+Precipitation
+Heavy rains will effect visibility and can effect level of activity of all forces.
+Rain and snow can combine with chemicals to create “hot spots” in low-lying areas.
+Mist can distribute chemicals more evenly and create high vapor concentrations
+Can have significant effect on road washout and trafficability
+Snow will reduce effectiveness of indirect fires, mines, and grenades by reducing the velocity of shrapnel
+Rain will reduce the overall effectiveness of NVGs and thermals
+Focus on visibility, sound, movement.
+71
+
+Terrain and Weather
+Cloud Cover
+Altitude of cloud cover influences aviation operations
+Can reduce overall illumination and visibility
+Can effect laser guided munitions (copperhead, hellfire, etc)
+Greater than 70% cloud cover creates neutral gradient conditions which favor smoke and chemical munitions
+Cloud cover can reduce temperature by blocking the sun, but can also increase temperatures during the night by trapping heat
+Focus on illumination at night and that it can affect air.
+72
+
+Terrain and Weather
+Temperature and Humidity
+Hot and cold temperatures will effect personnel and equipment performance.  You must train in all conditions (try magazine changes and weapon operation in extreme cold).
+Humidity (air density) will effect smoke operations and aircraft payloads
+Hot weather may cause increased stress and frustration for enemy forces, friendly forces, and civilians (civil disorder) and can also significantly reduce activity
+Additional risk mitigation must be in place for extreme hot and cold weather
+
+Terrain and Weather
+The most important part
+“Define”
+Effects on Enemy
+Effects on Friendly
+Deductions, (the “so what”)
+Visibility
+
+Wind
+Precipitation
+Cloud Cover
+Clouds at 8000 MSL
+None
+No CAS
+IDF is only support
+Temperature and Humidity
+
+Check On Learning
+What is the difference between AO and AI?
+
+What are the two acronyms we use to analyze terrain and weather?
+
+What is the most important result of our analysis of terrain and weather?
+
+1. AO is your area and AI is everything outside your boundaries that can effect your AO
+2. OAKOC and CPTVW
+3. Deductions, the “so what”
+75
+
+Troop Leading Procedures
+
+Make a Tentative Plan
+Mission Analysis: Civil Considerations
+
+
+76
+
+Civil Considerations
+T
+M
+T
+C
+E
+T
+NEMY
+ERRAIN AND WEATHER
+IVILIAN CONSIDERATIONS
+IME AVAILABLE
+ISSION
+ROOPS AND SUPPORT AVAILABLE
+Area
+Structures
+Capabilities
+Organizations
+People
+Events
+Significant Conclusions
+Guides the leader through the decision making process.
+***Does not need to evaluated in a specific order***
+Where am I going to be moving through and operating?
+
+How does it affect me?
+
+How does it affect the enemy?
+Understand and know Civil Considerations does need analysis, but if there is no impact on mission then it doesn’t require too much analysis and here all missions will require at most a limited analysis. This gains more focus when operating on the platoon level, but we are teaching the squad level.
+
+77
+
+Enemy
+T
+M
+T
+C
+E
+T
+NEMY
+ERRAIN AND WEATHER
+IVILIAN CONSIDERATIONS
+IME AVAILABLE
+ISSION
+ROOPS AND SUPPORT AVAILABLE
+Enemy
+General situation
+Disposition
+Composition
+MPCOA
+MDCOA
+*Significant conclusions
+Where is the enemy?
+
+What equipment/personnel do they have?
+
+What is their task and purpose?
+
+How do they fight?
+
+How will they fight me?
+Guides the leader through the decision making process.
+***Does not need to evaluated in a specific order***
+
+Enemy
+COA Statement – form of maneuver, DP and Why, Task and Purpose, end state
+CAPABILITIES
+
+DISPOSITION
+COMPOSITION
+MPCOA/ MDCOA
+GENERAL INFORMATION
+SPECIFIC INFORMATION
+STRENGTH
+Who are they? 
+Why are they here? 
+Where did they come from?  
+General Situation
+Where are they now? Task and Purpose 1 & 2 levels up
+What do they look like? Line wire diagram/ equipment chart
+Numbers? Percentage strength, organic, attached, supporting 
+What are his strengths and weaknesses? How will he use them to win? How can we attack his weaknesses?
+Depicted 1 level down, start to finish, tell the whole story of the fight
+THREE CRITICAL QUESTIONS FROM TLPS CONCERNING THE ENEMY.
+What does he look like? 
+How can he hurt us?	     
+3.  How can we hurt him?    
+
+79
+
+Enemy
+Disposition
+Where the enemy is placed on battlefield and what he is doing.
+General locations (Known, Likely, and Suspected)
+Task & Purpose
+Describe the fight from the enemy’s perspective.
+
+Takeaway’s from Enemy Disposition are not just where the enemy is on the map but how the enemy plans to fight you.
+
+The enemy’s plan is not to wait for you to show up and then die in place, they are going to fight, and they won’t plan to fail.  They have a task and purpose and you need to determine that in order to figure out how they will fight you.
+
+
+25 MIN
+30 MIN
+25 MIN
+11
+12
+80
+79
+21
+22
+86
+85
+(+)
+(+)
+(+)
+DO
+T: Disrupt
+P: Prevent bypass of the BN DO
+SO1
+T: Disrupt
+P: Prevent envelopment of the CO DO
+SO2
+T: Block
+P: Prevent US forces from bypassing the CO DO
+Company
+T: Disrupt 
+P: Prevent bypass of 
+ BN DO 
+How does the enemy plan to fight?
+81
+
+Enemy
+Composition/Strength
+Strength:
+Organic: 9
+Attached: 3
+Estimated %: 90%* 12 = 10.8 = 11
+Total: 11 Pax on OBJ
+Organic: 9 pax, 2 x RPK, 1 x RPG, 7 x AK 47
+
+Attached: 3 x RPG 7, 3 pax
+
+Supporting: 1 x sortie of Hind D, 2 x 82mm Mortar 
+1 x RPK
+1 x RPG
+3 x AK47
+1 x RPK
+3 x AK47
+3 x RPG
+
+Enemy
+Break down your enemy analysis into components
+Disposition
+Composition
+Strength
+Develop the enemy:
+Most Probable Course of Action (MPCOA) – the plan you think the enemy will most likely execute based off the information provided and analysis made.
+AND IF YOU HAVE TIME
+
+
+*NOTE: You should use AGADAP to develop your enemy*
+
+ 
+Granted the enemy you’ll face here will generally only be 2-3 personnel, this means it will be relatively simple to go through the process of AGADAP to develop the ENY MP/DCOA so developing COAs will be easier in the future.
+83
+
+Enemy
+Most Dangerous Course of Action (MDCOA) – the worst case scenario the enemy could confront you with based off the information provided.
+Generally the greatest difference between the MPCOA and MDCOA is how the enemy arrays themselves on the battlefield with little to no change in disposition, composition, or strength. The more dangerous the COA, generally the more risk the enemy exposes themselves to.
+
+Think like the enemy would! And you really need to develop both COAs, but MPCOA takes priority
+
+
+Enemy
+Most Probable/Dangerous Course of Action
+Describe how you think the enemy will fight you from start to finish (be specific and use doctrine).
+If you were the enemy, how would you fight based upon their task and purpose using the resources that they have. 
+Your plan should fight this.
+Brief the enemy plan using the Terrain Model or Graphics you have developed. 
+SHOW enemy locations, weapon systems, kill zones, max ranges of weapon systems, retrograde routes, reinforcement routes, etc.
+
+Explain the list of things to show the enemy on the bottom of the slide isn’t all inclusive, but are just some of things that need to be shown. Explain how depicting these things can help you to understand your maneuver and develop your plan later. For example that initial SBF position doesn’t look so good anymore if you have to maneuver well within the range of the enemies primary kill zone without support.
+85
+
+Enemy
+Ensure subordinate understand differences between:
+
+What you know 
+
+What you suspect
+
+What you template (estimates).
+Explain not to brief assumptions as facts. Only brief what higher tells you is a fact as a fact, everything else is analysis/assumption/best guess.
+86
+
+Check On Learning
+If your 1 level up provides their information on the enemy the unit faces, what must you do with that information?
+
+Define: Disposition, Composition, Strength, Capabilities, MPCOA/MDCOA
+
+What is the difference between MPCOA and MDCOA?
+
+Practical Exercise: Break in small groups for 3-5 minutes and discuss any item where you need to consider worst case scenario and most likely: interviews, sports play, investing, trying to get away with something your not supposed to do at OCS and the Cadre most likely COA and dangerous COA to catch you. You can think back to the discussion on how you applied mission variables in the past from the first block of instruction.
+
+Build the enemy you face at your level with the information provided from higher
+See above slide or reference
+How the enemy arrays its force on the battlefield
+Practical exercise think of a personal experience or one in relation to OCS and share before breaking them into groups.
+87
+
+Troop Leading Procedures
+Make a Tentative Plan: 
+Mission Analysis: Troops and Support Available
+88
+
+Troops
+T
+M
+T
+C
+E
+T
+NEMY
+ERRAIN AND WEATHER
+IVILIAN CONSIDERATIONS
+IME AVAILABLE
+ISSION
+ROOPS AND SUPPORT AVAILABLE
+Troops
+Morale
+Training and experience
+Capabilities by WFF elements
+Leadership
+*Significant conclusions
+Who/what do I have in order to do what I’m being ordered to do?
+
+Do I need more?
+
+Best done after enemy. Why?
+Guides the leader through the decision making process.
+***Does not need to evaluated in a specific order***
+
+Troops
+Determining the troops you have available for the mission will effect how you will be able to accomplish the mission.
+
+Determining the elements you have to accomplish the mission will drive your task organization to include attachments/detachments.
+
+Task organization is the first thing you will brief in your operations order.
+
+
+Troops
+Additionally, when you determine the task and purpose for each element, you may also list that in the task organization.  This will ensure each leader understands how he will fit into the operation during the OPORD.
+
+1ST 
+3RD  
+2ND 
+HQ 
+PL, RTO, PSG, FO, MEDIC
+Detached to 2nd Platoon
+WPNS 
+Platoon
+A
+B
+Squad
+
+Troop Leading Procedures
+Make a Tentative Plan: 
+COA Development
+92
+
+COA Development
+Mission Analysis Complete
+
+Time Available
+Mission
+Terrain and Weather
+Civil Considerations
+Enemy
+Troops Available
+
+Course of Action Development
+Analyze Relative Combat Power
+Generate Options
+Array Forces
+Develop Course of Action
+Assign Responsibilities
+Prepare Course of Action Statement and Sketch
+
+🡪
+We have completed Mission Analysis.  Now we are going to take all of that analysis and everything we deduced to develop our course of action.
+
+COA Development
+The purpose of COA DEV is to determine one or multiple ways to accomplish the mission.
+
+A COA describes how the unit will generate overwhelming combat power against the enemy at the decisive point while mitigating risks/casualties.
+
+Start planning from the decisive point and work back toward the start of the mission.
+
+
+COA Development
+Decisive Operation:  Those that directly accomplish the task of the higher headquarters.  Decisive operations conclusively determine the outcome of major operations, battles, and engagements.
+
+Decisive Point:  A geographic place, specific key event, critical factor, or function that, when acted upon allows commanders to gain a marked advantage over an adversary or contribute materially to achieving success. 
+
+Endstate:  Conditions that, when achieved, accomplish the mission.                                                                                                   
+
+
+COA Development
+Decisive Point
+A geographic place:  (TERRAIN BASED) Focused on the seizure, retention, control, occupation, or denial of a specified piece of terrain that greatly influences the outcome.
+
+A Key Event:  (TIME BASED) Focused on causing events to occur at or within a specific time that greatly influences the outcome.
+
+An Enabling System:  (ENEMY BASED) Focused on the destruction, incapacitation, seizure, attrition, clearance, or neutralization of an enemy force, unit, capability that greatly influences the outcome.  
+
+Your decisive point will usually accomplish one of these three.
+
+
+
+COA Development
+How the DP works
+Setting the Conditions
+Reaching the DP: The moment the scale tips in your favor.
+After the DP
+Friendly
+Friendly
+Friendly
+Enemy
+Enemy
+Enemy
+97
+
+COA Development
+COA Screening Criteria
+SUITABLE - accomplishes the mission and comply with the commander’s guidance
+FEASIBLE - capability to accomplish the mission in terms of available time, space and resources
+ACCEPTABLE - advantages gained by executing the COA must justify the cost in resources/casualties 
+DISTINGUISHABLE - each COA must differ significantly from any others
+COMPLETE - it must be a complete mission statement (Who, What, When, Where & Why) and go from start to finish (LD to C/R)
+
+
+COA Development
+Analyze Relative Combat Power (What's available?)
+Generate Options (What are you going to do?)
+Array Forces  (What do you need where?)
+Develop the Concept of Operations (Create a tentative plan)
+Assign Responsibilities (who’s doing what?)
+Prepare COA Statement and Sketch
+. 
+
+
+Decisive point and what makes it decisive.
+Form of maneuver or type of defensive mission.
+Task and purposes of the decisive, shaping, and sustaining operations.
+Reserve planning priorities
+Purposes of critical warfighting functions elements
+The end state
+Briefly go over Prepare COA Statement and Sketch, they’ll go in depth on OPORDs.
+99
+
+COA Development
+Decisive Point Exercise
+https://www.youtube.com/watch?v=8F5WY9DzkQY&spfreload=10
+What do you think the Decisive Point should be?  
+
+Why is it decisive?  
+
+Who will accomplish the DP?
+
+
+1. DP is the destruction/neutralization of the tanks
+2. The tanks are the primary threat to success of the operation and neutralizing the tanks will provide a marked advantage to achieving the mission
+3. 1st Squad preventing enemy from making it to the tank shed
+100
+
+COA Development
+Analyze Relative Combat Power
+Compares most significant strengths and weakness of each force. 
+Gives insight into-
+Enemy weaknesses to exploit
+Friendly strengths to exploit enemy weaknesses
+Enemy strengths to mitigate
+Friendly weaknesses to protect
+Look at ENY & Terrain Analysis –YOU ALREADY DID THE WORK!
+They have fortified bunkers in open fields
+We could conduct an attack OR we destroy it with a Javelin 
+Technique:
+Determine force ratios (ex: Historical planning ratio attacker-to-defender for an attack of a fortified position is 3:1)
+
+
+COA Development
+Generate Options
+As a platoon leader how many options do you think you will develop?
+How do we generate options?
+Look at the doctrinal aspects of how to accomplish the mission
+Wargame with your subordinates, peers, commander
+Think outside the box/adhere to the Principles of War
+Analyze past operations and their success or failure
+Designate the decisive operation (DO) and all shaping operations (SO) and determine their purpose first, then which tactical task will best achieve that purpose.
+The essential tasks your DO & SOs are designated must mass the effects of overwhelming combat power at your decisive point.
+
+COA Development
+Generate Options
+Options should account for all enemy COAs
+
+Where can we start?
+Commander’s Guidance
+History
+Doctrine
+ 
+(1 level up or higher) Decisive Point = Task for the Decisive Operation
+
+
+
+
+Which do we identify first, Task or Purpose? Why?
+T:
+
+
+P: IOT provide freedom of
+maneuver for DO
+T:
+
+
+P: IOT Allow rapid passage of the DO onto the OBJ
+
+T:
+
+
+P: IOT allow unhindered passage the SBCT between CP 2 and CP3
+B
+
+COA Development
+Generate Options
+Begin with your unit’s Purpose.
+Identify the Decisive Point
+Identify your unit’s Task
+Determine the Form of Maneuver/Defensive Technique
+Determine the doctrinal requirements for how your unit will breakdown to accomplish that Form of Maneuver
+Determine the Decisive Operation’s Purpose 
+Determine the Shaping Operation(s) Purpose
+Determine the tactical tasks to be accomplished during the Decisive Operation and Shaping Operations
+Brainstorm-Generate Options
+
+
+COA Development
+Generate Options
+
+Purpose: Allow unhindered passage of C/2-327th, Battalion Decisive Operation to OBJ HAMMER
+
+Task: Seize OBJ Saw
+
+Decisive Point: The seizure of OBJ Saw East, this is decisive because seizing that ground prevents enemy direct or observed indirect fires from being placed on C/2-327th, the Battalion DO
+
+Form of Maneuver: Envelopment
+
+Doctrine: Organize into Assault, Support, Breach, and a Reserve
+
+
+105
+
+COA Development
+Generate Options
+Decisive Operation 
+Shaping Operation 
+Shaping Operation
+Assault
+
+T: Seize Saw East
+P: allow unhindered passage C/2-327th Battalion  DO 
+Support
+
+T: Suppress
+P: prevent effective direct fire on the DO
+Breach 
+
+T: Breach
+P: provide unhindered passage of the DO
+106
+
+COA Development
+BRAINSTORM:
+I can do it this way.
+
+References:
+ATP 3-21.8
+FM 3-0
+
+COA Development
+Or I can do it this way.
+
+They are both options. Pick the best one. 
+
+
+COA Development
+Array Initial Forces
+Determine relative combat power needed to accomplish each task
+Determine (Line of Departure) LD
+Initial Array of Force
+Start with the list of available forces 
+
+Begin with the unit that will perform the Decisive Operation
+
+Move to units that will perform Shaping Operations
+
+Array forces 2 levels down to accomplish mission (teams, key weapons, vehicles) 
+
+Identify total number of units needed
+
+
+COA Development
+Array Initial Forces
+Where should we look first?
+Analysis of Troops & task organization 
+
+What level do Platoon Leaders task organize?
+Team level/ Crew served weapons 
+
+
+What happens if we run out of available forces?
+Change Task Organization
+Request more forces from higher HQ
+Limit the scope of the operation
+Assume tactical risk
+
+What happens if we have extra forces?
+Contingency Plan
+Create a reserve
+
+COA Development
+Develop Concept of Operations
+The Two Techniques to use: 
+From the Decisive Point backward
+AND THEN
+From the Decisive Point forward
+
+Ensure the plan is nested with higher
+How to employ support elements such as Fires, Engineers, and Intel Assets.
+
+
+
+COA Development
+Develop Concept of Operations
+Describes how arrayed forces will accomplish the mission within the commander’s intent
+Offense: Movement, actions on OBJ, C&R
+Use the objective blow up to show action on the objective in greater detail
+Defense: EA Dev & BP Prep, Actions in EA, CATK, C&R
+
+Develops the maneuver control measures necessary to convey his intent, enhance the understanding of the schemes of maneuver, prevent fratricide (direct fire control measures), and clarify the tasks and purposes of the decisive shaping, and sustaining operations. He also determines the sustainment aspects of the COA.
+
+
+COA Development
+Assign Responsibilities
+Assign subordinate units to the groupings of forces from step 3 and 4
+
+Major considerations:
+Span of control (2-5 elements/unit)
+Type of unit assigned
+Unit integrity
+
+Consider special mission requirements: 
+Aid and Litter, EPW, Demo teams at Squad Level
+Leaders can generally manage 2-5 elements (or personnel) before they begin to lose effectiveness.
+
+
+COA Development
+Assign Responsibilities 
+1st SQD
+2nd SQD
+3rd SQD
+
+COA Development
+Prepare COA Statement
+The purpose of this operation is (YOUR UNIT’S PURPOSE)
+Decisive to this operation is  (DECISIVE POINT- enemy, terrain, or time)
+This is decisive because  (WHY will massing effects of combat power ultimately result in accomplishment of your purpose?)
+We will accomplish this by (Form of Maneuver or Defensive Technique) 
+FOM: Frontal Attack, Flank Attack, Penetration, Envelopment, Infiltration, Turning movement .
+FOD:  Defense of a linear obstacle, Perimeter defense, reverse slope defense.
+We will accept tactical risk by ____________________
+We will mitigate this risk by ______________________
+Endstate:
+Friendly
+Enemy
+Terrain
+Civilian
+
+
+COA Development
+COA Statement
+
+The Purpose of this operation is to allow the unhindered passage of the Battalion Decisive Operation to OBJ HAMMER.
+
+Decisive to the operation is the seizure of OBJ SAW East.  This is decisive because it will prevent direct or observed indirect fires from being placed on C/2-327, the BN DO.
+
+We will accomplish this by conducting an envelopment. 
+
+
+
+
+COA Development
+COA Statement continued
+
+We will assume tactical risk by moving near the OBJ across open terrain.
+
+We will mitigate this risk with IDF suppression and obscuration vic. of the OBJ.
+
+Endstate:  Tactical Obstacles on OBJ SAW Reduced.  Enemy unable to place direct or observed indirect fires on C/2-327.  C/2-327 passed through our AO.  Company postured in PLT BPs, prepared to defeat enemy CATK from the East.
+
+
+COA Development
+Remaining Considerations 
+
+How will you support your COA? (Sustainment paragraph of the OPORD)
+What supplies do you need to ensure mission success? (Only brief what is relevant.)
+How will you handle personnel issues (if relevant to your level of operation) and how will you handle enemy personnel you have captured.
+CASEVAC/MEDEVAC PLAN?
+What will you do if you take a casualty? 
+Where are your Casualty Collection Points? 
+Where are the HLZs (Helicopter Landing Zones) or AXPs (Ambulance Exchange Points)?
+Briefly go over sustainment paragraph, it will be covered in OPORD.
+118
+
+COA Development
+Remaining Considerations continued
+
+How will you control and coordinate your COA? (Command and Signal)
+Where are key leaders within your element and higher located for each phase of the operation. (Important if your PACE plan incorporates a runner to send information.)
+How will you communicate? 
+Within your element
+To higher
+To neighboring units
+
+
+Briefly go over Command and Signal, it will be briefed in depth in OPORD.
+119
+
+Check On Learning
+Define each step of AGADAP.
+What is the DP?
+What order must the mission variables be placed in?
+What techniques do we use to develop the concept of operations?
+
+Practical Exercise 1: Identify the steps of AGADAP in “Saving Private Ryan” final battle defense plan. https://www.youtube.com/watch?v=jcwN0KOKMrI
+
+Practical Exercise 2: Break into small groups for 3-5 minutes and think of a time in your civilian life when you unknowingly used AGADAP and apply actions taken to the process. Can use examples you’ve previously examined for mission variables and enemy COAs.
+
+
+
+Reference ATP 3-21.8
+A geographic place, specific key event, critical factor, or function that, when acted upon, allows commanders to gain a marked advantage over an adversary or contribute materially to achieving success. (JP 5-0) See ADRP 3-0, ADRP 3-07, ADRP 5-0, ATP 5-0.1.
+Any order, doctrine provides us the flexibility. TMTCET is just a logical process building biggest picture to smallest and is in line with IPB..
+What techniques do we use to develop the concept of the operation? Backwards Planning from the DP and when that is complete planning forward of DP to mission complete.
+Any order, doctrine provides us the flexibility. TMTCET is just a logical process building biggest picture to smallest and is in line with IPB.
+Practical Exercise 1: Saving Private Ryan Final Battle Defense Plan: This is simply an opportunity to exercise knowledge, this isn’t necessarily a great example.
+Analyze relative combat power: Detailing the weapons and equipment remaining
+Generate Options: Canalizing in the rubble between the buildings, “Sticky Bomb” 
+Array Forces: Sniper in bell tower, identifying the need of a “rabbit” to give chase to the tank, positioning on flanks of tank, and fall back positions
+Develop Concept of Operation: Ongoing throughout the clip, it’s the plan
+Assign Responsibility: Jackson in the bell tower
+Prepare Concept Statement and COA Sketch: No concise or doctrinal COA Sketch or Statement
+
+Practical Exercise 2: Facilitate discussion and have groups share example and guide them in the right direction if they are wrong.
+120
+
+
+Questions
+?
+122

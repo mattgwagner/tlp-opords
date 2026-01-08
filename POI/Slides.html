@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Troop Leading Procedures - OCS Training</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: Arial, sans-serif; background: #000; }
+    
+    .slide {
+      width: 960px;
+      height: 540px;
+      margin: 20px auto;
+      background: #1a1a1a;
+      color: #f5f5f5;
+      padding: 24px 32px;
+      display: none;
+      flex-direction: column;
+      position: relative;
+      page-break-after: always;
+    }
+    .slide.active { display: flex; }
+    @media print {
+      .slide { display: flex !important; margin: 0; }
+      .nav, .slide-counter { display: none !important; }
+    }
+    
+    h1 { font-size: 28px; font-weight: 700; color: #d4a017; margin-bottom: 16px; }
+    h2 { font-size: 22px; font-weight: 700; color: #d4a017; margin-bottom: 12px; }
+    
+    .gold { color: #d4a017; }
+    .muted { color: #a0a0a0; }
+    .dark-muted { color: #666; }
+    
+    .box { background: #2a2a2a; padding: 16px; margin-bottom: 12px; }
+    .box-accent { border-left: 4px solid #d4a017; }
+    .box-dark { background: #333; }
+    .box-gold { background: #d4a017; color: #1a1a1a; }
+    .box-danger { background: #8B0000; color: #fff; }
+    
+    .row { display: flex; gap: 20px; }
+    .col { display: flex; flex-direction: column; }
+    .fill { flex: 1; }
+    .center { align-items: center; justify-content: center; text-align: center; }
+    .gap-sm { gap: 8px; }
+    .gap-md { gap: 12px; }
+    
+    ul, ol { margin-left: 20px; line-height: 1.6; }
+    li { margin-bottom: 4px; }
+    
+    .footnote { font-size: 10px; color: #666; margin-top: auto; padding-top: 10px; }
+    
+    .step-num {
+      width: 32px; height: 32px;
+      display: flex; align-items: center; justify-content: center;
+      font-weight: 700; font-size: 16px;
+      flex-shrink: 0;
+    }
+    .step-gold { background: #d4a017; color: #1a1a1a; }
+    .step-gray { background: #666; color: #ccc; }
+    .step-danger { background: #8B0000; color: #fff; }
+    
+    .nav {
+      position: fixed; bottom: 20px; left: 50%;
+      transform: translateX(-50%);
+      display: flex; gap: 10px; z-index: 100;
+    }
+    .nav button {
+      padding: 10px 20px; font-size: 14px;
+      background: #d4a017; color: #1a1a1a;
+      border: none; cursor: pointer; font-weight: 700;
+    }
+    .nav button:hover { background: #b8860b; }
+    .slide-counter {
+      position: fixed; bottom: 20px; right: 40px;
+      color: #666; font-size: 14px;
+    }
+    
+    .divider { width: 80px; height: 6px; background: #d4a017; margin: 20px 0; }
+  </style>
+</head>
+<body>
+
+<!-- SLIDE 1: Title -->
+<div class="slide active center">
+  <div class="divider" style="margin: 0 auto 30px;"></div>
+  <h1 style="font-size: 44px; letter-spacing: 2px; margin-bottom: 16px;">TROOP LEADING PROCEDURES</h1>
+  <p style="font-size: 18px; color: #a0a0a0; margin-bottom: 30px;">The Foundation of Tactical Leadership</p>
+  <div class="divider" style="margin: 0 auto 30px;"></div>
+  <p style="font-size: 14px; color: #666;">211th Regiment RTI-FL | Officer Candidate School</p>
+  <p style="font-size: 12px; color: #555; margin-top: 8px;">References: ATP 3-21.8 | FM 6-0 | ATP 5-0.1</p>
+</div>
+
+<!-- SLIDE 2: TLO -->
+<div class="slide">
+  <h1>TERMINAL LEARNING OBJECTIVE</h1>
+  <div class="fill col gap-md">
+    <div class="box box-accent">
+      <p class="gold" style="font-size: 12px; font-weight: 700; margin-bottom: 6px;">ACTION</p>
+      <p style="font-size: 14px;">Conduct Troop Leading Procedures</p>
+    </div>
+    <div class="box box-accent">
+      <p class="gold" style="font-size: 12px; font-weight: 700; margin-bottom: 6px;">CONDITION</p>
+      <p style="font-size: 14px;">In a classroom or field environment, given scenarios, references, and terrain</p>
+    </div>
+    <div class="box box-accent">
+      <p class="gold" style="font-size: 12px; font-weight: 700; margin-bottom: 6px;">STANDARD</p>
+      <p style="font-size: 14px;">Officer Candidates will analyze missions, develop plans, and issue orders using the 8-step TLP process, demonstrating tactical and leadership competence as evaluated on the FLER</p>
+    </div>
+  </div>
+  <p class="footnote">Evaluation: Field Leadership Evaluation Report (FLER) during STX lanes</p>
+</div>
+
+<!-- SLIDE 3: Why TLPs Matter -->
+<div class="slide">
+  <h1>WHY TLPs MATTER</h1>
+  <div class="fill row">
+    <div class="fill col gap-md">
+      <div class="box">
+        <p style="font-size: 13px; line-height: 1.5;"><span class="gold" style="font-weight: 700;">TLPs are a dynamic process</span> used by small-unit leaders to analyze a mission, develop a plan, and prepare for an operation.</p>
+      </div>
+      <p style="font-size: 13px;">TLPs enable leaders to:</p>
+      <ul style="font-size: 13px; color: #a0a0a0;">
+        <li>Maximize available planning time</li>
+        <li>Develop effective, executable plans</li>
+        <li>Prepare their units for success</li>
+        <li>Adapt when the situation changes</li>
+      </ul>
+      <div class="box box-dark" style="border-left: 3px solid #d4a017;">
+        <p style="font-size: 12px; font-style: italic;">"OCS stresses the use of TLP to effectively accomplish the mission." — OCSOP</p>
+      </div>
+    </div>
+    <div style="width: 280px;" class="box-gold">
+      <p style="font-size: 14px; font-weight: 700; margin-bottom: 12px;">THE BOTTOM LINE</p>
+      <p style="font-size: 13px; line-height: 1.5;">TLPs are how you translate a commander's intent into action on the ground.</p>
+      <p style="font-size: 12px; color: #333; margin-top: 12px;">Your ability to execute TLPs determines whether your unit succeeds or fails.</p>
+    </div>
+  </div>
+  <p class="footnote">FM 6-0, para 10-2</p>
+</div>
+
+<!-- SLIDE 4: The 8 Steps -->
+<div class="slide">
+  <h1>THE 8 STEPS</h1>
+  <div class="fill row">
+    <div class="col gap-sm" style="width: 420px;">
+      <div class="row" style="align-items: center; gap: 10px;">
+        <div class="step-num step-gold">1</div>
+        <p style="font-size: 14px; font-weight: 600;">Receive the Mission</p>
+      </div>
+      <div class="row" style="align-items: center; gap: 10px;">
+        <div class="step-num step-gold">2</div>
+        <p style="font-size: 14px; font-weight: 600;">Issue a Warning Order</p>
+      </div>
+      <div class="row" style="align-items: center; gap: 10px;">
+        <div class="step-num step-gold">3</div>
+        <p style="font-size: 14px; font-weight: 600;">Make a Tentative Plan</p>
+      </div>
+      <div class="row" style="align-items: center; gap: 10px;">
+        <div class="step-num step-gray">4</div>
+        <p style="font-size: 14px; color: #888;">Initiate Movement</p>
+      </div>
+      <div class="row" style="align-items: center; gap: 10px;">
+        <div class="step-num step-gray">5</div>
+        <p style="font-size: 14px; color: #888;">Conduct Reconnaissance</p>
+      </div>
+      <div class="row" style="align-items: center; gap: 10px;">
+        <div class="step-num step-gray">6</div>
+        <p style="font-size: 14px; color: #888;">Complete the Plan</p>
+      </div>
+      <div class="row" style="align-items: center; gap: 10px;">
+        <div class="step-num step-gold">7</div>
+        <p style="font-size: 14px; font-weight: 600;">Issue the Order</p>
+      </div>
+      <div class="row" style="align-items: center; gap: 10px;">
+        <div class="step-num step-gold">8</div>
+        <p style="font-size: 14px; font-weight: 600;">Supervise and Refine</p>
+      </div>
+    </div>
+    <div class="fill box">
+      <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 10px;">KEY POINTS</p>
+      <p style="font-size: 12px; margin-bottom: 8px; line-height: 1.5;"><span class="gold">Steps 1-3</span> always occur in sequence</p>
+      <p style="font-size: 12px; margin-bottom: 8px; line-height: 1.5;"><span class="muted">Steps 4-7</span> are interchangeable based on situation</p>
+      <p style="font-size: 12px; margin-bottom: 14px; line-height: 1.5;"><span class="gold">Step 8</span> occurs continuously throughout</p>
+      <div class="box-dark" style="padding: 12px;">
+        <p class="gold" style="font-size: 11px; font-weight: 700; margin-bottom: 4px;">HIGHLIGHTED = WHERE CANDIDATES FAIL</p>
+        <p class="muted" style="font-size: 11px; line-height: 1.4;">Analysis (Step 3) and order delivery (Step 7) are the most common failure points on the FLER.</p>
+      </div>
+    </div>
+  </div>
+  <p class="footnote">ATP 3-21.8, Chapter 2</p>
+</div>
+
+<!-- SLIDE 5: Step 1 - Receive the Mission -->
+<div class="slide">
+  <div class="row" style="align-items: center; gap: 12px; margin-bottom: 16px;">
+    <div class="step-num step-gold" style="width: 40px; height: 40px; font-size: 20px;">1</div>
+    <h1 style="margin: 0;">RECEIVE THE MISSION</h1>
+  </div>
+  <div class="fill row">
+    <div class="fill col gap-md">
+      <p style="font-size: 14px;">You receive your mission through a combat order:</p>
+      <div class="box">
+        <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 4px;">WARNORD</p>
+        <p class="muted" style="font-size: 12px;">Quick brief on general situation/mission to start planning</p>
+      </div>
+      <div class="box">
+        <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 4px;">OPORD</p>
+        <p class="muted" style="font-size: 12px;">Complete plan with in-depth details on how to execute</p>
+      </div>
+      <div class="box">
+        <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 4px;">FRAGORD</p>
+        <p class="muted" style="font-size: 12px;">Changes to an existing OPORD</p>
+      </div>
+      <p class="muted" style="font-size: 13px;">Orders can be written, verbal, or electronic.</p>
+    </div>
+    <div style="width: 340px;" class="col gap-md">
+      <div class="box-gold" style="padding: 20px;">
+        <p style="font-size: 15px; font-weight: 700; margin-bottom: 10px;">THE 1/3 - 2/3 RULE</p>
+        <p style="font-size: 13px; color: #333; line-height: 1.5;">Use no more than <strong>1/3</strong> of available time for your own planning</p>
+        <p style="font-size: 13px; color: #333; margin-top: 8px; line-height: 1.5;">Give subordinates <strong>2/3</strong> of available time for their planning and preparation</p>
+      </div>
+      <div class="box">
+        <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 8px;">UPON RECEIPT:</p>
+        <ul style="font-size: 12px; line-height: 1.5;">
+          <li>Determine your unit's mission</li>
+          <li>Assess time available</li>
+          <li>Conduct initial METT-TC analysis</li>
+          <li>Begin backwards planning</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <p class="footnote">ATP 3-21.8, para 2-16; FM 6-0, para 10-10</p>
+</div>
+
+<!-- SLIDE 6: METT-TC Overview -->
+<div class="slide">
+  <h1>METT-TC: THE MISSION VARIABLES</h1>
+  <div class="fill col gap-sm">
+    <p class="muted" style="font-size: 13px;">Mission variables describe the characteristics of the operational environment. Your analysis of METT-TC drives every decision you make.</p>
+    <div class="row" style="flex-wrap: wrap; gap: 10px;">
+      <div class="box box-accent" style="flex: 1; min-width: 280px;">
+        <p class="gold" style="font-size: 15px; font-weight: 700; margin-bottom: 4px;">M - MISSION</p>
+        <p class="muted" style="font-size: 12px;">Task and purpose from higher; specified, implied, essential tasks</p>
+      </div>
+      <div class="box box-accent" style="flex: 1; min-width: 280px;">
+        <p class="gold" style="font-size: 15px; font-weight: 700; margin-bottom: 4px;">E - ENEMY</p>
+        <p class="muted" style="font-size: 12px;">Disposition, composition, strength, capabilities, COAs</p>
+      </div>
+      <div class="box box-accent" style="flex: 1; min-width: 280px;">
+        <p class="gold" style="font-size: 15px; font-weight: 700; margin-bottom: 4px;">T - TERRAIN & WEATHER</p>
+        <p class="muted" style="font-size: 12px;">OAKOC analysis; visibility, precipitation, temperature effects</p>
+      </div>
+      <div class="box box-accent" style="flex: 1; min-width: 280px;">
+        <p class="gold" style="font-size: 15px; font-weight: 700; margin-bottom: 4px;">T - TROOPS AVAILABLE</p>
+        <p class="muted" style="font-size: 12px;">Personnel, equipment, capabilities, training, strengths/weaknesses</p>
+      </div>
+      <div class="box box-accent" style="flex: 1; min-width: 280px;">
+        <p class="gold" style="font-size: 15px; font-weight: 700; margin-bottom: 4px;">T - TIME AVAILABLE</p>
+        <p class="muted" style="font-size: 12px;">Higher's timeline, your timeline, enemy timeline, 1/3-2/3 rule</p>
+      </div>
+      <div class="box box-accent" style="flex: 1; min-width: 280px;">
+        <p class="gold" style="font-size: 15px; font-weight: 700; margin-bottom: 4px;">C - CIVIL CONSIDERATIONS</p>
+        <p class="muted" style="font-size: 12px;">ASCOPE: Areas, Structures, Capabilities, Organizations, People, Events</p>
+      </div>
+    </div>
+    <div class="box box-dark">
+      <p style="font-size: 12px;"><span class="gold" style="font-weight: 700;">NOTE:</span> METT-TC analysis is continuous. Update as you gain new information through reconnaissance and execution.</p>
+    </div>
+  </div>
+  <p class="footnote">ATP 5-0.1; FM 6-0, Chapter 9</p>
+</div>
+
+<!-- SLIDE 7: Mission Analysis -->
+<div class="slide">
+  <h1>MISSION ANALYSIS</h1>
+  <div class="fill row">
+    <div class="fill col gap-md">
+      <p class="gold" style="font-size: 14px; font-weight: 700;">UNDERSTAND THE TASK</p>
+      <div class="box">
+        <p style="font-size: 13px; font-weight: 600; margin-bottom: 4px;">Specified Tasks</p>
+        <p class="muted" style="font-size: 12px;">Explicitly stated by your commander</p>
+      </div>
+      <div class="box">
+        <p style="font-size: 13px; font-weight: 600; margin-bottom: 4px;">Implied Tasks</p>
+        <p class="muted" style="font-size: 12px;">Not stated but required to accomplish specified tasks</p>
+      </div>
+      <div class="box">
+        <p style="font-size: 13px; font-weight: 600; margin-bottom: 4px;">Essential Tasks</p>
+        <p class="muted" style="font-size: 12px;">Must be accomplished to achieve mission success</p>
+      </div>
+      <p class="gold" style="font-size: 14px; font-weight: 700; margin-top: 8px;">COMMANDER'S GUIDANCE</p>
+      <ul class="muted" style="font-size: 12px;">
+        <li>Commander's intent</li>
+        <li>Decisive point(s)</li>
+        <li>Constraints and limitations</li>
+      </ul>
+    </div>
+    <div style="width: 380px;" class="col gap-md">
+      <div class="box-gold" style="padding: 16px;">
+        <p style="font-size: 14px; font-weight: 700; margin-bottom: 8px;">MISSION STATEMENT FORMAT</p>
+        <p style="font-size: 22px; font-weight: 700; text-align: center;">WHO • WHAT • WHERE • WHEN • WHY</p>
+      </div>
+      <div class="box">
+        <p class="gold" style="font-size: 12px; font-weight: 700; margin-bottom: 8px;">EXAMPLE:</p>
+        <p style="font-size: 13px; line-height: 1.6;">
+          <span class="gold">[WHO]</span> 1st Squad 
+          <span class="gold">[WHAT]</span> attacks to destroy enemy forces 
+          <span class="gold">[WHERE]</span> vicinity OBJ Silver 
+          <span class="gold">[WHEN]</span> NLT 100500JUL 
+          <span class="gold">[WHY]</span> to allow 2nd PLT to seize OBJ Gold.
+        </p>
+      </div>
+      <div class="box box-dark">
+        <p style="font-size: 12px;"><span class="gold" style="font-weight: 700;">WHY matters:</span> Understanding purpose allows you to adapt when conditions change.</p>
+      </div>
+    </div>
+  </div>
+  <p class="footnote">ATP 5-0.1; FM 6-0</p>
+</div>
+
+<!-- SLIDE 8: Terrain Analysis OAKOC -->
+<div class="slide">
+  <h1>TERRAIN ANALYSIS: OAKOC</h1>
+  <div class="fill row">
+    <div class="fill col gap-sm">
+      <div class="box">
+        <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 6px;">O - OBSERVATION & FIELDS OF FIRE</p>
+        <p class="muted" style="font-size: 12px; line-height: 1.4;">Where can we see? Where can we shoot? Where can the enemy see and shoot?</p>
+      </div>
+      <div class="box">
+        <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 6px;">A - AVENUES OF APPROACH</p>
+        <p class="muted" style="font-size: 12px; line-height: 1.4;">Routes that lead to the objective. Consider both friendly and enemy movement.</p>
+      </div>
+      <div class="box">
+        <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 6px;">K - KEY TERRAIN</p>
+        <p class="muted" style="font-size: 12px; line-height: 1.4;">Terrain that gives marked advantage to whoever controls it. High ground, road junctions, bridges.</p>
+      </div>
+      <div class="box">
+        <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 6px;">O - OBSTACLES</p>
+        <p class="muted" style="font-size: 12px; line-height: 1.4;">Natural and man-made. What blocks movement? What can you use defensively?</p>
+      </div>
+      <div class="box">
+        <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 6px;">C - COVER & CONCEALMENT</p>
+        <p class="muted" style="font-size: 12px; line-height: 1.4;">Cover protects from fire. Concealment hides from observation. You need both.</p>
+      </div>
+    </div>
+    <div style="width: 280px;" class="col gap-md">
+      <div class="box box-dark">
+        <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 10px;">WEATHER EFFECTS</p>
+        <ul style="font-size: 12px;">
+          <li>Visibility</li>
+          <li>Precipitation</li>
+          <li>Temperature/Humidity</li>
+          <li>Wind</li>
+          <li>Cloud Cover</li>
+        </ul>
+      </div>
+      <div class="box-gold" style="padding: 16px;">
+        <p style="font-size: 13px; font-weight: 700; margin-bottom: 8px;">AO vs AI</p>
+        <p style="font-size: 12px; color: #333; line-height: 1.4;"><strong>Area of Operation:</strong> What you own</p>
+        <p style="font-size: 12px; color: #333; margin-top: 6px; line-height: 1.4;"><strong>Area of Interest:</strong> What can affect you</p>
+      </div>
+    </div>
+  </div>
+  <p class="footnote">ATP 2-01.3; FM 3-90-1</p>
+</div>
+
+<!-- SLIDE 9: Enemy Analysis -->
+<div class="slide">
+  <h1>ENEMY ANALYSIS</h1>
+  <div class="fill row">
+    <div class="fill col gap-md">
+      <p class="gold" style="font-size: 14px; font-weight: 700;">ANALYZE THE THREAT</p>
+      <div class="row" style="flex-wrap: wrap; gap: 10px;">
+        <div class="box" style="flex: 1; min-width: 140px;">
+          <p style="font-size: 13px; font-weight: 600;">Disposition</p>
+          <p class="muted" style="font-size: 11px; margin-top: 4px;">Where are they?</p>
+        </div>
+        <div class="box" style="flex: 1; min-width: 140px;">
+          <p style="font-size: 13px; font-weight: 600;">Composition</p>
+          <p class="muted" style="font-size: 11px; margin-top: 4px;">Who/what are they?</p>
+        </div>
+        <div class="box" style="flex: 1; min-width: 140px;">
+          <p style="font-size: 13px; font-weight: 600;">Strength</p>
+          <p class="muted" style="font-size: 11px; margin-top: 4px;">How many?</p>
+        </div>
+        <div class="box" style="flex: 1; min-width: 140px;">
+          <p style="font-size: 13px; font-weight: 600;">Capabilities</p>
+          <p class="muted" style="font-size: 11px; margin-top: 4px;">What can they do?</p>
+        </div>
+        <div class="box" style="flex: 1; min-width: 140px;">
+          <p style="font-size: 13px; font-weight: 600;">Vulnerabilities</p>
+          <p class="muted" style="font-size: 11px; margin-top: 4px;">Where are they weak?</p>
+        </div>
+        <div class="box" style="flex: 1; min-width: 140px;">
+          <p style="font-size: 13px; font-weight: 600;">Doctrine</p>
+          <p class="muted" style="font-size: 11px; margin-top: 4px;">How do they fight?</p>
+        </div>
+      </div>
+    </div>
+    <div style="width: 320px;" class="col gap-md">
+      <div class="box-gold" style="padding: 16px;">
+        <p style="font-size: 14px; font-weight: 700; margin-bottom: 10px;">ENEMY COA ANALYSIS</p>
+        <p style="font-size: 13px; color: #333; margin-bottom: 8px; line-height: 1.4;"><strong>MLCOA:</strong> Most Likely Course of Action</p>
+        <p style="font-size: 12px; color: #333; margin-bottom: 12px;">What will they probably do?</p>
+        <p style="font-size: 13px; color: #333; margin-bottom: 8px; line-height: 1.4;"><strong>MDCOA:</strong> Most Dangerous Course of Action</p>
+        <p style="font-size: 12px; color: #333;">What's the worst they could do?</p>
+      </div>
+      <div class="box box-dark">
+        <p style="font-size: 12px; line-height: 1.5;"><span class="gold" style="font-weight: 700;">KEY:</span> Identify how enemy actions affect your mission. Plan to counter MLCOA and prepare contingencies for MDCOA.</p>
+      </div>
+    </div>
+  </div>
+  <p class="footnote">ATP 2-01.3</p>
+</div>
+
+<!-- SLIDE 10: Step 2 - Issue WARNORD -->
+<div class="slide">
+  <div class="row" style="align-items: center; gap: 12px; margin-bottom: 16px;">
+    <div class="step-num step-gold" style="width: 40px; height: 40px; font-size: 20px;">2</div>
+    <h1 style="margin: 0;">ISSUE A WARNING ORDER</h1>
+  </div>
+  <div class="fill row">
+    <div class="fill col gap-md">
+      <div class="box-gold" style="padding: 14px;">
+        <p style="font-size: 14px; font-weight: 700;">Issue immediately after initial mission analysis.</p>
+        <p style="font-size: 13px; color: #333; margin-top: 8px;">Do not sacrifice time to gain more information.</p>
+      </div>
+      <p class="gold" style="font-size: 14px; font-weight: 700;">MINIMUM WARNORD CONTENT:</p>
+      <ul style="font-size: 13px; line-height: 1.6;">
+        <li>Type of operation</li>
+        <li>General location of operation</li>
+        <li>Initial operational timeline</li>
+        <li>Reconnaissance to initiate</li>
+        <li>Movement to initiate</li>
+        <li>Planning and preparation instructions</li>
+        <li>CCIR (PIR and FFIR)</li>
+      </ul>
+    </div>
+    <div style="width: 340px;" class="col gap-md">
+      <div class="box">
+        <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 10px;">WARNORD FORMAT (5-Para)</p>
+        <p style="font-size: 12px; margin-bottom: 8px;"><span class="gold">1. SITUATION:</span> General location</p>
+        <p style="font-size: 12px; margin-bottom: 8px;"><span class="gold">2. MISSION:</span> Proposed mission</p>
+        <p style="font-size: 12px; margin-bottom: 4px;"><span class="gold">3. EXECUTION:</span></p>
+        <ul class="muted" style="font-size: 12px; margin-left: 16px; margin-bottom: 8px;">
+          <li>Concept: Type of operation</li>
+          <li>Tasks: Movement, recon, prep</li>
+          <li>Coord: Timeline, CCIR</li>
+        </ul>
+        <p style="font-size: 12px; margin-bottom: 8px;"><span class="gold">4. SERVICE SUPPORT:</span> As needed</p>
+        <p style="font-size: 12px;"><span class="gold">5. COMMAND/SIGNAL:</span> As needed</p>
+      </div>
+      <div class="box box-dark">
+        <p style="font-size: 12px;"><span class="gold" style="font-weight: 700;">PURPOSE:</span> Enable subordinates to begin preparation while you complete planning.</p>
+      </div>
+    </div>
+  </div>
+  <p class="footnote">ATP 3-21.8; FM 6-0, para 10-18</p>
+</div>
+
+<!-- SLIDE 11: Step 3 - Make Tentative Plan -->
+<div class="slide">
+  <div class="row" style="align-items: center; gap: 12px; margin-bottom: 16px;">
+    <div class="step-num step-gold" style="width: 40px; height: 40px; font-size: 20px;">3</div>
+    <h1 style="margin: 0;">MAKE A TENTATIVE PLAN</h1>
+  </div>
+  <div class="fill row">
+    <div class="fill col gap-md">
+      <p class="muted" style="font-size: 13px;">This is the longest step. Use detailed METT-TC analysis to develop your course of action.</p>
+      <div class="box">
+        <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 10px;">COA DEVELOPMENT: AGADAP</p>
+        <p style="font-size: 13px; margin-bottom: 6px;"><span class="gold">A</span>nalyze Relative Combat Power</p>
+        <p style="font-size: 13px; margin-bottom: 6px;"><span class="gold">G</span>enerate Options</p>
+        <p style="font-size: 13px; margin-bottom: 6px;"><span class="gold">A</span>rray Forces</p>
+        <p style="font-size: 13px; margin-bottom: 6px;"><span class="gold">D</span>evelop COA</p>
+        <p style="font-size: 13px; margin-bottom: 6px;"><span class="gold">A</span>ssign Responsibilities</p>
+        <p style="font-size: 13px;"><span class="gold">P</span>repare COA Statement and Sketch</p>
+      </div>
+      <div class="box box-dark">
+        <p style="font-size: 12px;"><span class="gold" style="font-weight: 700;">NOTE:</span> Time constraints at squad level often allow only one COA. If so, skip comparison/selection—go straight to war-gaming your single COA.</p>
+      </div>
+    </div>
+    <div style="width: 320px;" class="col gap-md">
+      <div class="box">
+        <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 8px;">COA SCREENING CRITERIA</p>
+        <p style="font-size: 12px; margin-bottom: 4px;">Each COA must be:</p>
+        <ul class="muted" style="font-size: 12px;">
+          <li>Suitable (accomplishes mission)</li>
+          <li>Feasible (within capabilities)</li>
+          <li>Acceptable (worth the cost)</li>
+          <li>Distinguishable (different from others)</li>
+          <li>Complete (Who/What/When/Where/Why)</li>
+        </ul>
+      </div>
+      <div class="box-gold" style="padding: 14px;">
+        <p style="font-size: 13px; font-weight: 700; margin-bottom: 8px;">WAR-GAME YOUR COA</p>
+        <p style="font-size: 12px; color: #333; line-height: 1.4;">Action → Reaction → Counteraction</p>
+        <p style="font-size: 12px; color: #333; margin-top: 8px;">Methods: Box, Belt, Avenue-in-Depth</p>
+      </div>
+    </div>
+  </div>
+  <p class="footnote">ATP 5-0.1; FM 6-0, para 10-21</p>
+</div>
+
+<!-- SLIDE 12: Steps 4-6 -->
+<div class="slide">
+  <h1>STEPS 4-6: INTERCHANGEABLE BASED ON SITUATION</h1>
+  <div class="fill row" style="gap: 16px;">
+    <div class="fill box" style="border-top: 4px solid #666;">
+      <div class="row" style="align-items: center; gap: 8px; margin-bottom: 12px;">
+        <div class="step-num step-gray" style="width: 28px; height: 28px; font-size: 14px;">4</div>
+        <p style="font-size: 14px; font-weight: 600;">INITIATE MOVEMENT</p>
+      </div>
+      <p class="muted" style="font-size: 12px; margin-bottom: 10px; line-height: 1.5;">Can occur at any point during TLPs. May be conducted by subordinate leaders.</p>
+      <p style="font-size: 12px; margin-bottom: 4px;">Includes:</p>
+      <ul class="muted" style="font-size: 11px;">
+        <li>Movement closer to LD</li>
+        <li>Initial inspections</li>
+        <li>Battle drill rehearsals</li>
+        <li>SOP items</li>
+      </ul>
+    </div>
+    <div class="fill box" style="border-top: 4px solid #666;">
+      <div class="row" style="align-items: center; gap: 8px; margin-bottom: 12px;">
+        <div class="step-num step-gray" style="width: 28px; height: 28px; font-size: 14px;">5</div>
+        <p style="font-size: 14px; font-weight: 600;">CONDUCT RECON</p>
+      </div>
+      <p class="muted" style="font-size: 12px; margin-bottom: 10px; line-height: 1.5;">Confirm or deny assumptions from planning. <span class="gold">If recon changes the situation, modify your plan.</span></p>
+      <p style="font-size: 12px; margin-bottom: 4px;">Types:</p>
+      <ul class="muted" style="font-size: 11px;">
+        <li>Map recon</li>
+        <li>Terrain model</li>
+        <li>Aerial photo</li>
+        <li>Leader's ground recon</li>
+      </ul>
+    </div>
+    <div class="fill box" style="border-top: 4px solid #666;">
+      <div class="row" style="align-items: center; gap: 8px; margin-bottom: 12px;">
+        <div class="step-num step-gray" style="width: 28px; height: 28px; font-size: 14px;">6</div>
+        <p style="font-size: 14px; font-weight: 600;">COMPLETE THE PLAN</p>
+      </div>
+      <p class="muted" style="font-size: 12px; margin-bottom: 10px; line-height: 1.5;">Adjust tentative plan based on recon. Fill in specific details.</p>
+      <p style="font-size: 12px; margin-bottom: 4px;">Prepare:</p>
+      <ul class="muted" style="font-size: 11px;">
+        <li>Final OPORD</li>
+        <li>Overlays</li>
+        <li>Fire support plan</li>
+        <li>Terrain model/briefing aids</li>
+      </ul>
+    </div>
+  </div>
+  <div class="box box-dark" style="margin-top: 12px;">
+    <p style="font-size: 12px;"><span class="gold" style="font-weight: 700;">KEY POINT:</span> The WARNORD enables your troops to initiate movement and preparation while you complete planning. Don't wait until you have a complete plan.</p>
+  </div>
+  <p class="footnote">ATP 3-21.8; FM 6-0</p>
+</div>
+
+<!-- SLIDE 13: Step 7 - Issue the Order -->
+<div class="slide">
+  <div class="row" style="align-items: center; gap: 12px; margin-bottom: 16px;">
+    <div class="step-num step-gold" style="width: 40px; height: 40px; font-size: 20px;">7</div>
+    <h1 style="margin: 0;">ISSUE THE ORDER</h1>
+    <div class="box-danger" style="padding: 4px 10px; margin-left: 10px;">
+      <p style="font-size: 11px; font-weight: 700;">COMMON FAILURE AREA</p>
+    </div>
+  </div>
+  <div class="fill row">
+    <div class="fill col gap-md">
+      <div class="box-gold" style="padding: 14px;">
+        <p style="font-size: 14px; font-weight: 700;">YOUR ORDER MUST:</p>
+        <ul style="font-size: 13px; color: #333; margin-top: 8px; line-height: 1.5;">
+          <li>Precisely explain the mission and commander's intent</li>
+          <li>Clearly communicate the concept of operation</li>
+          <li>Ensure subordinates know their specific tasks</li>
+        </ul>
+      </div>
+      <p class="gold" style="font-size: 14px; font-weight: 700;">GOOD ORDERS ARE:</p>
+      <ul style="font-size: 13px; line-height: 1.6;">
+        <li><strong>Clear</strong> — No ambiguity</li>
+        <li><strong>Complete</strong> — All essential info</li>
+        <li><strong>Brief</strong> — No excess info</li>
+        <li><strong>Timely</strong> — Allows prep time</li>
+        <li><strong>Authoritative</strong> — Delivered with confidence</li>
+      </ul>
+      <div class="box box-dark">
+        <p style="font-size: 12px;"><span class="gold" style="font-weight: 700;">TIP:</span> Issue while observing the terrain if possible. Use terrain model, sand table, or map board.</p>
+      </div>
+    </div>
+    <div style="width: 320px;" class="col gap-md">
+      <div class="box">
+        <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 10px;">SUBORDINATES SHOULD LEAVE WITH:</p>
+        <ul style="font-size: 12px; line-height: 1.4;">
+          <li>Understanding of your vision</li>
+          <li>How all elements work together</li>
+          <li>Their specific task and purpose</li>
+          <li>The decisive point and endstate</li>
+        </ul>
+      </div>
+      <div class="box-danger" style="padding: 14px;">
+        <p style="font-size: 13px; font-weight: 700; margin-bottom: 8px;">CONFIRMATION BRIEF</p>
+        <p style="font-size: 12px; color: #ffcccc; line-height: 1.4;">After issuing the order, have subordinates brief back their understanding. <strong>This is how you confirm they got it.</strong></p>
+      </div>
+    </div>
+  </div>
+  <p class="footnote">ATP 3-21.8, Chapter 5; FM 6-0, para 10-38</p>
+</div>
+
+<!-- SLIDE 14: Leadership Presence -->
+<div class="slide">
+  <h1>LEADERSHIP PRESENCE IN ORDER DELIVERY</h1>
+  <div class="fill row">
+    <div class="fill col gap-md">
+      <div class="box-danger" style="padding: 14px;">
+        <p style="font-size: 14px; font-weight: 700;">Poor leadership presence during order delivery is a common cause of "N" ratings on the FLER.</p>
+      </div>
+      <p class="gold" style="font-size: 14px; font-weight: 700;">WHAT WE'RE LOOKING FOR:</p>
+      <div class="box">
+        <p style="font-size: 13px; font-weight: 600; margin-bottom: 8px;">Command Presence</p>
+        <ul class="muted" style="font-size: 12px;">
+          <li>Speak with confidence and authority</li>
+          <li>Make eye contact with subordinates</li>
+          <li>Project your voice—don't mumble</li>
+          <li>Stand upright, don't slouch over notes</li>
+        </ul>
+      </div>
+      <div class="box">
+        <p style="font-size: 13px; font-weight: 600; margin-bottom: 8px;">Technical Proficiency</p>
+        <ul class="muted" style="font-size: 12px;">
+          <li>Know your plan—don't just read</li>
+          <li>Use the terrain model effectively</li>
+          <li>Answer questions with competence</li>
+        </ul>
+      </div>
+    </div>
+    <div style="width: 340px;" class="col gap-md">
+      <div class="box-gold" style="padding: 16px;">
+        <p style="font-size: 14px; font-weight: 700; margin-bottom: 10px;">THE BOTTOM LINE</p>
+        <p style="font-size: 13px; color: #333; line-height: 1.5;">Your subordinates need to trust that you know what you're doing. If you don't look and sound like a leader, they won't follow you with confidence.</p>
+      </div>
+      <div class="box">
+        <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 10px;">COMMON MISTAKES:</p>
+        <ul style="font-size: 12px; line-height: 1.6;">
+          <li style="color: #cc6666;">Reading verbatim from notes</li>
+          <li style="color: #cc6666;">Speaking too quietly</li>
+          <li style="color: #cc6666;">Failing to use terrain model</li>
+          <li style="color: #cc6666;">Unable to answer basic questions</li>
+          <li style="color: #cc6666;">Skipping confirmation brief</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <p class="footnote">ADP 6-22 Army Leadership</p>
+</div>
+
+<!-- SLIDE 15: Step 8 - Supervise and Refine -->
+<div class="slide">
+  <div class="row" style="align-items: center; gap: 12px; margin-bottom: 16px;">
+    <div class="step-num step-gold" style="width: 40px; height: 40px; font-size: 20px;">8</div>
+    <h1 style="margin: 0;">SUPERVISE AND REFINE</h1>
+  </div>
+  <div class="fill row">
+    <div class="fill col gap-md">
+      <div class="box-gold" style="padding: 14px;">
+        <p style="font-size: 14px; font-weight: 700;">This step occurs CONTINUOUSLY throughout the TLP process and during execution.</p>
+      </div>
+      <p class="gold" style="font-size: 14px; font-weight: 700;">REHEARSALS</p>
+      <div class="box">
+        <p style="font-size: 12px; margin-bottom: 6px;">Rehearsals allow you to:</p>
+        <ul class="muted" style="font-size: 12px;">
+          <li>Practice essential tasks</li>
+          <li>Reveal weaknesses in the plan</li>
+          <li>Coordinate subordinate actions</li>
+          <li>Build soldier confidence</li>
+        </ul>
+      </div>
+      <p class="gold" style="font-size: 14px; font-weight: 700;">INSPECTIONS</p>
+      <div class="box">
+        <p style="font-size: 13px; margin-bottom: 6px;"><span class="gold">PCCs</span> — Pre-Combat Checks (Soldier items)</p>
+        <p style="font-size: 13px;"><span class="gold">PCIs</span> — Pre-Combat Inspections (Mission essential equipment)</p>
+      </div>
+    </div>
+    <div style="width: 320px;" class="col gap-md">
+      <div class="box">
+        <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 10px;">INSPECT:</p>
+        <ul style="font-size: 12px; line-height: 1.6;">
+          <li>Weapons and ammunition</li>
+          <li>Uniforms and equipment</li>
+          <li>Mission-essential equipment</li>
+          <li>Communications (radios, batteries)</li>
+          <li>Rations and water</li>
+          <li>Camouflage</li>
+        </ul>
+      </div>
+      <div class="box box-dark">
+        <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 8px;">MOST IMPORTANT:</p>
+        <p style="font-size: 12px; line-height: 1.5;">Verify soldiers understand the mission and their specific responsibilities.</p>
+      </div>
+    </div>
+  </div>
+  <p class="footnote">ATP 3-21.8; FM 6-0, para 10-41</p>
+</div>
+
+<!-- SLIDE 16: FLER Evaluation -->
+<div class="slide">
+  <h1>HOW YOU'LL BE EVALUATED: THE FLER</h1>
+  <div class="fill row">
+    <div class="fill col gap-sm">
+      <p class="muted" style="font-size: 12px;">The Field Leadership Evaluation Report (FLER) is used during field exercises, STX lanes, LRC, and FLRC. You will be rated E/S/N on each TLP step.</p>
+      <div class="box">
+        <p style="font-size: 12px;"><span style="color: #00aa00; font-weight: 700;">E = EXCELLENT</span> — Exceeds requirements</p>
+      </div>
+      <div class="box">
+        <p style="font-size: 12px;"><span class="gold" style="font-weight: 700;">S = SATISFACTORY</span> — Meets requirements</p>
+      </div>
+      <div class="box">
+        <p style="font-size: 12px;"><span style="color: #cc0000; font-weight: 700;">N = NOT SATISFACTORY</span> — Fails to meet requirements</p>
+      </div>
+      <div class="box box-dark">
+        <p style="font-size: 12px;"><span class="gold" style="font-weight: 700;">NOTE:</span> All "E" and "N" ratings require written justification. FLER evaluations count toward your status advancement.</p>
+      </div>
+    </div>
+    <div style="width: 400px;" class="box">
+      <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 12px;">FLER EVALUATES ALL 8 TLP STEPS:</p>
+      <div class="row" style="gap: 6px; margin-bottom: 6px; align-items: center;">
+        <div class="step-num step-gold" style="width: 24px; height: 24px; font-size: 12px;">1</div>
+        <p style="font-size: 12px;">Receive the Mission</p>
+      </div>
+      <div class="row" style="gap: 6px; margin-bottom: 6px; align-items: center;">
+        <div class="step-num step-gold" style="width: 24px; height: 24px; font-size: 12px;">2</div>
+        <p style="font-size: 12px;">Issue a Warning Order</p>
+      </div>
+      <div class="row" style="gap: 6px; margin-bottom: 6px; align-items: center;">
+        <div class="step-num step-danger" style="width: 24px; height: 24px; font-size: 12px;">3</div>
+        <p style="font-size: 12px;">Make a Tentative Plan <span style="color: #cc6666; font-size: 10px;">(COMMON FAIL)</span></p>
+      </div>
+      <div class="row" style="gap: 6px; margin-bottom: 6px; align-items: center;">
+        <div class="step-num step-gray" style="width: 24px; height: 24px; font-size: 12px;">4</div>
+        <p style="font-size: 12px; color: #888;">Initiate Movement</p>
+      </div>
+      <div class="row" style="gap: 6px; margin-bottom: 6px; align-items: center;">
+        <div class="step-num step-gray" style="width: 24px; height: 24px; font-size: 12px;">5</div>
+        <p style="font-size: 12px; color: #888;">Conduct Reconnaissance</p>
+      </div>
+      <div class="row" style="gap: 6px; margin-bottom: 6px; align-items: center;">
+        <div class="step-num step-gray" style="width: 24px; height: 24px; font-size: 12px;">6</div>
+        <p style="font-size: 12px; color: #888;">Complete the Plan</p>
+      </div>
+      <div class="row" style="gap: 6px; margin-bottom: 6px; align-items: center;">
+        <div class="step-num step-danger" style="width: 24px; height: 24px; font-size: 12px;">7</div>
+        <p style="font-size: 12px;">Issue the Order <span style="color: #cc6666; font-size: 10px;">(COMMON FAIL)</span></p>
+      </div>
+      <div class="row" style="gap: 6px; align-items: center;">
+        <div class="step-num step-gold" style="width: 24px; height: 24px; font-size: 12px;">8</div>
+        <p style="font-size: 12px;">Supervise and Refine</p>
+      </div>
+    </div>
+  </div>
+  <p class="footnote">Platoon Trainer Guide, para 3-8; ARNGOCS Form 5</p>
+</div>
+
+<!-- SLIDE 17: STX Lane Execution -->
+<div class="slide">
+  <h1>STX LANE EXECUTION: WHAT TO EXPECT</h1>
+  <div class="fill row">
+    <div class="fill col gap-md">
+      <div class="box-gold" style="padding: 14px; text-align: center;">
+        <p style="font-size: 20px; font-weight: 700;">1 HOUR 45 MINUTES</p>
+        <p style="font-size: 13px; color: #333; margin-top: 8px;">Total time per evaluation lane (end to end)</p>
+      </div>
+      <p class="gold" style="font-size: 14px; font-weight: 700;">THE SEQUENCE:</p>
+      <div class="box">
+        <p style="font-size: 13px;"><span class="gold" style="font-weight: 700;">1.</span> Cadre issues PLT-level OPORD to SL candidates + RTOs</p>
+      </div>
+      <div class="box">
+        <p style="font-size: 13px;"><span class="gold" style="font-weight: 700;">2.</span> You receive the mission and begin TLPs</p>
+      </div>
+      <div class="box">
+        <p style="font-size: 13px;"><span class="gold" style="font-weight: 700;">3.</span> Issue WARNORD, conduct analysis, develop your plan</p>
+      </div>
+      <div class="box">
+        <p style="font-size: 13px;"><span class="gold" style="font-weight: 700;">4.</span> Issue your squad OPORD using terrain model</p>
+      </div>
+      <div class="box">
+        <p style="font-size: 13px;"><span class="gold" style="font-weight: 700;">5.</span> Execute the mission</p>
+      </div>
+    </div>
+    <div style="width: 320px;" class="col gap-md">
+      <div class="box box-dark">
+        <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 10px;">TRAINING FOCUS</p>
+        <p style="font-size: 13px; line-height: 1.5;">Outside of March FTX and Phase III, we focus more on everything <span class="gold" style="font-weight: 600;">before crossing the LD</span>.</p>
+        <p class="muted" style="font-size: 12px; margin-top: 10px; line-height: 1.5;">This means your analysis, planning, and order delivery are the primary evaluation areas.</p>
+      </div>
+      <div class="box">
+        <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 8px;">MISSION TYPES:</p>
+        <p style="font-size: 12px; margin-bottom: 4px;">Mixed tactical missions including:</p>
+        <ul class="muted" style="font-size: 12px;">
+          <li>Movement to contact</li>
+          <li>Ambush</li>
+          <li>Raid</li>
+          <li>Recon</li>
+          <li>Defense</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <p class="footnote">Class 65 SOP</p>
+</div>
+
+<!-- SLIDE 18: Training Progression -->
+<div class="slide">
+  <h1>TRAINING PROGRESSION: BUILDING TO SLX</h1>
+  <div class="fill col gap-md">
+    <p class="muted" style="font-size: 12px;">We build your TLP competence using a crawl-walk-run methodology. Each step increases complexity.</p>
+    <div class="row" style="gap: 12px;">
+      <div class="fill box" style="border-top: 4px solid #666;">
+        <p style="font-size: 11px; color: #666; font-weight: 700; margin-bottom: 4px;">CRAWL</p>
+        <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 10px;">Classroom</p>
+        <p class="muted" style="font-size: 12px; line-height: 1.4;">Learn the 8 steps, METT-TC analysis, order formats. Individual and group practical exercises.</p>
+      </div>
+      <div class="fill box" style="border-top: 4px solid #888;">
+        <p style="font-size: 11px; color: #888; font-weight: 700; margin-bottom: 4px;">WALK</p>
+        <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 10px;">Terrain Model PE</p>
+        <p class="muted" style="font-size: 12px; line-height: 1.4;">Practice building plans and issuing orders on sand table. No time pressure. Cadre coaching.</p>
+      </div>
+      <div class="fill box" style="border-top: 4px solid #aaa;">
+        <p style="font-size: 11px; color: #aaa; font-weight: 700; margin-bottom: 4px;">WALK+</p>
+        <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 10px;">Leader's Recon PE</p>
+        <p class="muted" style="font-size: 12px; line-height: 1.4;">Integrate reconnaissance into planning. Confirm/deny assumptions. Adjust plans based on ground truth.</p>
+      </div>
+      <div class="fill box" style="border-top: 4px solid #d4a017;">
+        <p class="gold" style="font-size: 11px; font-weight: 700; margin-bottom: 4px;">RUN</p>
+        <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 10px;">Evaluated STX Lanes</p>
+        <p class="muted" style="font-size: 12px; line-height: 1.4;">Full TLP execution under time constraints. FLER evaluation. Mission execution.</p>
+      </div>
+    </div>
+    <div class="box-gold" style="padding: 14px 20px;">
+      <p style="font-size: 14px; font-weight: 700;">CULMINATING EVENT: SENIOR LEADERSHIP EXERCISE (SLX)</p>
+      <p style="font-size: 12px; color: #333; margin-top: 6px;">March FTX — 48+ hours of continuous tactical operations demonstrating mastery of TLPs</p>
+    </div>
+    <div class="box box-dark">
+      <p style="font-size: 12px;"><span class="gold" style="font-weight: 700;">KEY:</span> Use every training opportunity. The PEs are where you make mistakes and learn. The evaluated lanes are where you demonstrate competence.</p>
+    </div>
+  </div>
+  <p class="footnote">OCS POI; Class 65 Training Schedule</p>
+</div>
+
+<!-- SLIDE 19: Summary -->
+<div class="slide">
+  <h1>SUMMARY: KEY TAKEAWAYS</h1>
+  <div class="fill row">
+    <div class="fill col gap-sm">
+      <div class="box">
+        <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 8px;">THE 8 STEPS</p>
+        <p style="font-size: 12px; line-height: 1.6;">Receive Mission → WARNORD → Tentative Plan → Movement → Recon → Complete Plan → Issue Order → Supervise/Refine</p>
+      </div>
+      <div class="box">
+        <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 8px;">TIME MANAGEMENT</p>
+        <p style="font-size: 12px;">1/3 for you, 2/3 for subordinates. Use backwards planning.</p>
+      </div>
+      <div class="box">
+        <p class="gold" style="font-size: 14px; font-weight: 700; margin-bottom: 8px;">METT-TC</p>
+        <p style="font-size: 12px;">Mission, Enemy, Terrain/Weather, Troops, Time, Civil Considerations. Your analysis drives the plan.</p>
+      </div>
+      <div class="box-danger" style="padding: 14px;">
+        <p style="font-size: 14px; font-weight: 700; margin-bottom: 8px;">WHERE CANDIDATES FAIL</p>
+        <p style="font-size: 12px; color: #ffcccc;">Analysis (Step 3) and Order Delivery (Step 7). Lack of understanding and poor leadership presence.</p>
+      </div>
+    </div>
+    <div style="width: 320px;" class="col gap-md">
+      <div class="box-gold" style="padding: 20px;">
+        <p style="font-size: 16px; font-weight: 700; margin-bottom: 12px;">THE BOTTOM LINE</p>
+        <p style="font-size: 14px; color: #333; line-height: 1.5;">TLPs are how you lead in combat. Master the process. Own your plan. Deliver with confidence.</p>
+      </div>
+      <div class="box">
+        <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 10px;">CHECK ON LEARNING</p>
+        <ol style="font-size: 12px; line-height: 1.6;">
+          <li>How many TLP steps?</li>
+          <li>What are the mission variables?</li>
+          <li>Which step takes the longest?</li>
+          <li>What is the 1/3-2/3 rule?</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+  <p class="footnote">References: ATP 3-21.8 | FM 6-0 | ATP 5-0.1 | ADP 6-22</p>
+</div>
+
+<!-- SLIDE 20: Questions -->
+<div class="slide center">
+  <div class="divider" style="margin: 0 auto 40px;"></div>
+  <h1 style="font-size: 56px; margin-bottom: 20px;">QUESTIONS?</h1>
+  <p style="font-size: 16px; color: #666; margin-bottom: 40px;">What remains unclear about Troop Leading Procedures?</p>
+  <div class="divider" style="margin: 0 auto 40px;"></div>
+  <p style="font-size: 14px; color: #888;">Practical Application to follow</p>
+</div>
+
+<!-- Navigation -->
+<div class="nav">
+  <button onclick="prevSlide()">← Previous</button>
+  <button onclick="nextSlide()">Next →</button>
+</div>
+<div class="slide-counter" id="counter">1 / 20</div>
+
+<script>
+  let current = 0;
+  const slides = document.querySelectorAll('.slide');
+  const total = slides.length;
+  
+  function showSlide(n) {
+    slides[current].classList.remove('active');
+    current = (n + total) % total;
+    slides[current].classList.add('active');
+    document.getElementById('counter').textContent = (current + 1) + ' / ' + total;
+  }
+  
+  function nextSlide() { showSlide(current + 1); }
+  function prevSlide() { showSlide(current - 1); }
+  
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowRight' || e.key === ' ') nextSlide();
+    if (e.key === 'ArrowLeft') prevSlide();
+  });
+</script>
+
+</body>
+</html>
