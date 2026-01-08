@@ -7,18 +7,20 @@
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     html, body { height: 100%; overflow: hidden; }
-    body { font-family: Arial, sans-serif; background: #000; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0d0d0d; }
+
+    /* Responsive base - scales nicely from 1280px to 4K */
+    html { font-size: clamp(16px, 1.25vw, 28px); }
 
     .slide {
       width: 100vw;
       height: 100vh;
-      background: #1a1a1a;
-      color: #f5f5f5;
-      padding: 3vh 4vw 8vh 4vw;
+      background: linear-gradient(180deg, #141414 0%, #1a1a1a 100%);
+      color: #e8e8e8;
+      padding: 4vh 6vw 10vh 6vw;
       display: none;
       flex-direction: column;
       position: relative;
-      page-break-after: always;
       overflow: hidden;
     }
     .slide.active { display: flex; }
@@ -27,104 +29,163 @@
       .nav, .slide-counter { display: none !important; }
     }
 
-    /* Base font size scales with viewport */
-    html { font-size: clamp(14px, 1.1vw, 20px); }
+    /* Typography */
+    h1 {
+      font-size: 2.4rem;
+      font-weight: 600;
+      color: #d4a017;
+      margin-bottom: 3vh;
+      letter-spacing: 0.02em;
+    }
+    h2 { font-size: 1.5rem; font-weight: 600; color: #d4a017; margin-bottom: 1.5vh; }
 
-    h1 { font-size: 2.2rem; font-weight: 700; color: #d4a017; margin-bottom: 1.5vh; }
-    h2 { font-size: 1.6rem; font-weight: 700; color: #d4a017; margin-bottom: 1vh; }
+    p { font-size: 1.1rem; line-height: 1.7; color: #d0d0d0; }
 
     .gold { color: #d4a017; }
-    .muted { color: #a0a0a0; }
+    .muted { color: #999; }
     .dark-muted { color: #666; }
 
-    .box { background: #2a2a2a; padding: 1rem; margin-bottom: 0.8rem; }
-    .box-accent { border-left: 4px solid #d4a017; }
-    .box-dark { background: #333; }
-    .box-gold { background: #d4a017; color: #1a1a1a; }
-    .box-danger { background: #8B0000; color: #fff; }
+    /* Cards/Boxes - cleaner with subtle borders */
+    .box {
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 0.5rem;
+      padding: 1.25rem;
+      margin-bottom: 1rem;
+    }
+    .box-accent {
+      border-left: 3px solid #d4a017;
+      background: rgba(212,160,23,0.05);
+    }
+    .box-dark {
+      background: rgba(0,0,0,0.3);
+      border-color: rgba(255,255,255,0.05);
+    }
+    .box-gold {
+      background: linear-gradient(135deg, #d4a017 0%, #b8860b 100%);
+      color: #0d0d0d;
+      border: none;
+    }
+    .box-gold p { color: #1a1a1a; }
+    .box-danger {
+      background: linear-gradient(135deg, #8B0000 0%, #6B0000 100%);
+      color: #fff;
+      border: none;
+    }
 
-    .row { display: flex; gap: 1.5rem; }
+    /* Layout */
+    .row { display: flex; gap: 2rem; }
     .col { display: flex; flex-direction: column; }
     .fill { flex: 1; min-width: 0; }
     .center { align-items: center; justify-content: center; text-align: center; }
-    .gap-sm { gap: 0.5rem; }
-    .gap-md { gap: 0.75rem; }
+    .gap-sm { gap: 0.75rem; }
+    .gap-md { gap: 1rem; }
 
-    ul, ol { margin-left: 1.5rem; line-height: 1.6; }
-    li { margin-bottom: 0.3rem; font-size: 1rem; }
+    /* Lists */
+    ul, ol { margin-left: 1.5rem; line-height: 1.8; }
+    li { margin-bottom: 0.5rem; font-size: 1.05rem; color: #bbb; }
+    li::marker { color: #d4a017; }
 
-    p { font-size: 1rem; line-height: 1.5; }
+    .footnote {
+      font-size: 0.7rem;
+      color: #555;
+      margin-top: auto;
+      padding-top: 2vh;
+      letter-spacing: 0.03em;
+    }
 
-    .footnote { font-size: 0.75rem; color: #666; margin-top: auto; padding-top: 1vh; }
-
+    /* Step numbers */
     .step-num {
-      width: 2.2rem; height: 2.2rem;
+      width: 2.5rem; height: 2.5rem;
       display: flex; align-items: center; justify-content: center;
       font-weight: 700; font-size: 1.1rem;
       flex-shrink: 0;
-      border-radius: 4px;
+      border-radius: 0.4rem;
     }
-    .step-gold { background: #d4a017; color: #1a1a1a; }
-    .step-gray { background: #666; color: #ccc; }
+    .step-gold { background: #d4a017; color: #0d0d0d; }
+    .step-gray { background: #3a3a3a; color: #888; }
     .step-danger { background: #8B0000; color: #fff; }
 
+    /* Navigation */
     .nav {
-      position: fixed; bottom: 2vh; left: 50%;
+      position: fixed; bottom: 3vh; left: 50%;
       transform: translateX(-50%);
-      display: flex; gap: 10px; z-index: 100;
+      display: flex; gap: 0.75rem; z-index: 100;
     }
     .nav button {
-      padding: 0.6rem 1.5rem;
-      font-size: 1rem;
-      background: #d4a017; color: #1a1a1a;
-      border: none; cursor: pointer; font-weight: 700;
-      border-radius: 4px;
+      padding: 0.7rem 1.8rem;
+      font-size: 0.9rem;
+      background: #d4a017; color: #0d0d0d;
+      border: none; cursor: pointer; font-weight: 600;
+      border-radius: 0.4rem;
+      transition: all 0.2s ease;
     }
-    .nav button:hover { background: #b8860b; }
+    .nav button:hover { background: #e8b82a; transform: translateY(-1px); }
+
     .slide-counter {
-      position: fixed; bottom: 2vh; right: 3vw;
-      color: #888; font-size: 1rem;
+      position: fixed; bottom: 3vh; right: 4vw;
+      color: #555; font-size: 0.85rem;
+      font-weight: 500;
     }
 
-    .divider { width: 6rem; height: 0.4rem; background: #d4a017; margin: 1.5vh 0; }
+    .divider {
+      width: 5rem;
+      height: 3px;
+      background: linear-gradient(90deg, #d4a017, transparent);
+      margin: 1.5vh 0;
+      border-radius: 2px;
+    }
 
-    /* Utility classes for inline font sizing */
-    .text-xs { font-size: 0.75rem; }
-    .text-sm { font-size: 0.875rem; }
-    .text-base { font-size: 1rem; }
-    .text-lg { font-size: 1.15rem; }
-    .text-xl { font-size: 1.3rem; }
-    .text-2xl { font-size: 1.6rem; }
-    .text-3xl { font-size: 2rem; }
+    /* Sidebar panels - fixed width relative to viewport */
+    .sidebar {
+      width: 22vw;
+      min-width: 280px;
+      max-width: 400px;
+      flex-shrink: 0;
+    }
+
+    /* Better label styling */
+    .label {
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #d4a017;
+      margin-bottom: 0.5rem;
+    }
+
+    /* Content text sizing */
+    .content-text { font-size: 1rem; color: #ccc; line-height: 1.6; }
+    .content-text-sm { font-size: 0.9rem; color: #aaa; line-height: 1.5; }
   </style>
 </head>
 <body>
 
 <!-- SLIDE 1: Title -->
 <div class="slide active center">
-  <div class="divider" style="margin: 0 auto 30px;"></div>
-  <h1 style="font-size: 44px; letter-spacing: 2px; margin-bottom: 16px;">TROOP LEADING PROCEDURES</h1>
-  <p style="font-size: 18px; color: #a0a0a0; margin-bottom: 30px;">The Foundation of Tactical Leadership</p>
-  <div class="divider" style="margin: 0 auto 30px;"></div>
-  <p style="font-size: 14px; color: #666;">211th Regiment RTI-FL | Officer Candidate School</p>
-  <p style="font-size: 12px; color: #555; margin-top: 8px;">References: ATP 3-21.8 | FM 6-0 | ATP 5-0.1</p>
+  <div class="divider" style="margin: 0 auto 2rem; width: 8rem;"></div>
+  <h1 style="font-size: 3.5rem; letter-spacing: 0.08em; margin-bottom: 1rem;">TROOP LEADING PROCEDURES</h1>
+  <p style="font-size: 1.3rem; color: #888; margin-bottom: 2rem;">The Foundation of Tactical Leadership</p>
+  <div class="divider" style="margin: 0 auto 2rem; width: 8rem;"></div>
+  <p style="color: #555; font-size: 0.95rem;">211th Regiment RTI-FL | Officer Candidate School</p>
+  <p style="color: #444; margin-top: 0.5rem; font-size: 0.8rem;">References: ATP 3-21.8 (2024) | FM 6-0 | ATP 5-0.1</p>
 </div>
 
 <!-- SLIDE 2: TLO -->
 <div class="slide">
   <h1>TERMINAL LEARNING OBJECTIVE</h1>
-  <div class="fill col gap-md">
+  <div class="fill col gap-md" style="max-width: 70%; justify-content: center;">
     <div class="box box-accent">
-      <p class="gold" style="font-size: 12px; font-weight: 700; margin-bottom: 6px;">ACTION</p>
-      <p style="font-size: 14px;">Conduct Troop Leading Procedures</p>
+      <p class="label">ACTION</p>
+      <p class="content-text">Conduct Troop Leading Procedures</p>
     </div>
     <div class="box box-accent">
-      <p class="gold" style="font-size: 12px; font-weight: 700; margin-bottom: 6px;">CONDITION</p>
-      <p style="font-size: 14px;">In a classroom or field environment, given scenarios, references, and terrain</p>
+      <p class="label">CONDITION</p>
+      <p class="content-text">In a classroom or field environment, given scenarios, references, and terrain</p>
     </div>
     <div class="box box-accent">
-      <p class="gold" style="font-size: 12px; font-weight: 700; margin-bottom: 6px;">STANDARD</p>
-      <p style="font-size: 14px;">Officer Candidates will analyze missions, develop plans, and issue orders using the 8-step TLP process, demonstrating tactical and leadership competence as evaluated on the FLER</p>
+      <p class="label">STANDARD</p>
+      <p class="content-text">Officer Candidates will analyze missions, develop plans, and issue orders using the 8-step TLP process, demonstrating tactical and leadership competence as evaluated on the FLER</p>
     </div>
   </div>
   <p class="footnote">Evaluation: Field Leadership Evaluation Report (FLER) during STX lanes</p>
@@ -133,26 +194,26 @@
 <!-- SLIDE 3: Why TLPs Matter -->
 <div class="slide">
   <h1>WHY TLPs MATTER</h1>
-  <div class="fill row">
-    <div class="fill col gap-md">
+  <div class="fill row" style="align-items: stretch;">
+    <div class="fill col gap-md" style="justify-content: center;">
       <div class="box">
-        <p style="font-size: 13px; line-height: 1.5;"><span class="gold" style="font-weight: 700;">TLPs are a dynamic process</span> used by small-unit leaders to analyze a mission, develop a plan, and prepare for an operation.</p>
+        <p class="content-text"><span class="gold" style="font-weight: 600;">TLPs are a dynamic process</span> used by small-unit leaders to analyze a mission, develop a plan, and prepare for an operation.</p>
       </div>
-      <p style="font-size: 13px;">TLPs enable leaders to:</p>
-      <ul style="font-size: 13px; color: #a0a0a0;">
+      <p class="content-text" style="margin-bottom: 0.5rem;">TLPs enable leaders to:</p>
+      <ul>
         <li>Maximize available planning time</li>
         <li>Develop effective, executable plans</li>
         <li>Prepare their units for success</li>
         <li>Adapt when the situation changes</li>
       </ul>
-      <div class="box box-dark" style="border-left: 3px solid #d4a017;">
-        <p style="font-size: 12px; font-style: italic;">"OCS stresses the use of TLP to effectively accomplish the mission." — OCSOP</p>
+      <div class="box box-dark box-accent" style="margin-top: 1rem;">
+        <p class="content-text-sm" style="font-style: italic;">"OCS stresses the use of TLP to effectively accomplish the mission." — OCSOP</p>
       </div>
     </div>
-    <div style="width: 280px;" class="box-gold">
-      <p style="font-size: 14px; font-weight: 700; margin-bottom: 12px;">THE BOTTOM LINE</p>
-      <p style="font-size: 13px; line-height: 1.5;">TLPs are how you translate a commander's intent into action on the ground.</p>
-      <p style="font-size: 12px; color: #333; margin-top: 12px;">Your ability to execute TLPs determines whether your unit succeeds or fails.</p>
+    <div class="sidebar box-gold" style="display: flex; flex-direction: column; justify-content: center; padding: 2rem;">
+      <p class="label" style="color: #333;">THE BOTTOM LINE</p>
+      <p class="content-text" style="margin-top: 1rem;">TLPs are how you translate a commander's intent into action on the ground.</p>
+      <p class="content-text-sm" style="margin-top: 1rem; color: #333;">Your ability to execute TLPs determines whether your unit succeeds or fails.</p>
     </div>
   </div>
   <p class="footnote">FM 6-0, para 10-2</p>
@@ -161,49 +222,49 @@
 <!-- SLIDE 4: The 8 Steps -->
 <div class="slide">
   <h1>THE 8 STEPS</h1>
-  <div class="fill row">
-    <div class="col gap-sm" style="width: 420px;">
-      <div class="row" style="align-items: center; gap: 10px;">
+  <div class="fill row" style="align-items: center;">
+    <div class="col gap-md" style="flex: 0 0 45%;">
+      <div class="row" style="align-items: center; gap: 1rem;">
         <div class="step-num step-gold">1</div>
-        <p style="font-size: 14px; font-weight: 600;">Receive the Mission</p>
+        <p class="content-text" style="font-weight: 600;">Receive the Mission</p>
       </div>
-      <div class="row" style="align-items: center; gap: 10px;">
+      <div class="row" style="align-items: center; gap: 1rem;">
         <div class="step-num step-gold">2</div>
-        <p style="font-size: 14px; font-weight: 600;">Issue a Warning Order</p>
+        <p class="content-text" style="font-weight: 600;">Issue a Warning Order</p>
       </div>
-      <div class="row" style="align-items: center; gap: 10px;">
+      <div class="row" style="align-items: center; gap: 1rem;">
         <div class="step-num step-gold">3</div>
-        <p style="font-size: 14px; font-weight: 600;">Make a Tentative Plan</p>
+        <p class="content-text" style="font-weight: 600;">Make a Tentative Plan</p>
       </div>
-      <div class="row" style="align-items: center; gap: 10px;">
+      <div class="row" style="align-items: center; gap: 1rem;">
         <div class="step-num step-gray">4</div>
-        <p style="font-size: 14px; color: #888;">Initiate Movement</p>
+        <p class="content-text muted">Initiate Movement</p>
       </div>
-      <div class="row" style="align-items: center; gap: 10px;">
+      <div class="row" style="align-items: center; gap: 1rem;">
         <div class="step-num step-gray">5</div>
-        <p style="font-size: 14px; color: #888;">Conduct Reconnaissance</p>
+        <p class="content-text muted">Conduct Reconnaissance</p>
       </div>
-      <div class="row" style="align-items: center; gap: 10px;">
+      <div class="row" style="align-items: center; gap: 1rem;">
         <div class="step-num step-gray">6</div>
-        <p style="font-size: 14px; color: #888;">Complete the Plan</p>
+        <p class="content-text muted">Complete the Plan</p>
       </div>
-      <div class="row" style="align-items: center; gap: 10px;">
+      <div class="row" style="align-items: center; gap: 1rem;">
         <div class="step-num step-gold">7</div>
-        <p style="font-size: 14px; font-weight: 600;">Issue the Order</p>
+        <p class="content-text" style="font-weight: 600;">Issue the Order</p>
       </div>
-      <div class="row" style="align-items: center; gap: 10px;">
+      <div class="row" style="align-items: center; gap: 1rem;">
         <div class="step-num step-gold">8</div>
-        <p style="font-size: 14px; font-weight: 600;">Supervise and Refine</p>
+        <p class="content-text" style="font-weight: 600;">Supervise and Refine</p>
       </div>
     </div>
-    <div class="fill box">
-      <p class="gold" style="font-size: 13px; font-weight: 700; margin-bottom: 10px;">KEY POINTS</p>
-      <p style="font-size: 12px; margin-bottom: 8px; line-height: 1.5;"><span class="gold">Steps 1-3</span> always occur in sequence</p>
-      <p style="font-size: 12px; margin-bottom: 8px; line-height: 1.5;"><span class="muted">Steps 4-7</span> are interchangeable based on situation</p>
-      <p style="font-size: 12px; margin-bottom: 14px; line-height: 1.5;"><span class="gold">Step 8</span> occurs continuously throughout</p>
-      <div class="box-dark" style="padding: 12px;">
-        <p class="gold" style="font-size: 11px; font-weight: 700; margin-bottom: 4px;">HIGHLIGHTED = WHERE CANDIDATES FAIL</p>
-        <p class="muted" style="font-size: 11px; line-height: 1.4;">Analysis (Step 3) and order delivery (Step 7) are the most common failure points on the FLER.</p>
+    <div class="fill box" style="align-self: stretch; display: flex; flex-direction: column; justify-content: center;">
+      <p class="label" style="margin-bottom: 1rem;">KEY POINTS</p>
+      <p class="content-text-sm" style="margin-bottom: 0.75rem;"><span class="gold">Steps 1-3</span> always occur in sequence</p>
+      <p class="content-text-sm" style="margin-bottom: 0.75rem;"><span class="muted">Steps 4-7</span> are interchangeable based on situation</p>
+      <p class="content-text-sm" style="margin-bottom: 1.5rem;"><span class="gold">Step 8</span> occurs continuously throughout</p>
+      <div class="box-danger" style="padding: 1rem;">
+        <p class="label" style="color: #ffcccc; margin-bottom: 0.5rem;">WHERE CANDIDATES FAIL</p>
+        <p class="content-text-sm" style="color: #eee;">Analysis (Step 3) and order delivery (Step 7) are the most common failure points on the FLER.</p>
       </div>
     </div>
   </div>
