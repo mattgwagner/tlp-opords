@@ -128,6 +128,19 @@
       font-weight: 500;
     }
 
+    .credit-footer {
+      position: fixed; bottom: 3vh; left: 4vw;
+      color: #444; font-size: 0.7rem;
+      font-weight: 400;
+      z-index: 100;
+    }
+    .credit-footer a {
+      color: #555;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+    .credit-footer a:hover { color: #d4a017; }
+
     .divider {
       width: 5rem;
       height: 3px;
@@ -1369,6 +1382,50 @@
   <p class="footnote">Platoon Trainer Guide, para 3-8; ARNGOCS Form 5</p>
 </div>
 
+<!-- SLIDE: FLER Form - Front -->
+<div class="slide">
+  <h1>FLER: FRONT SIDE - THE 8 TLP STEPS</h1>
+  <div class="fill" style="display: flex; justify-content: center; align-items: center; padding: 1rem;">
+    <img src="../fler-front.png" alt="FLER Form Front - 8 TLP Steps Evaluation Criteria" style="max-width: 75%; max-height: 85%; object-fit: contain; border: 2px solid #333; border-radius: 4px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+  </div>
+  <p class="footnote">ARNGOCS Form 5 - Field Leadership Evaluation Report</p>
+</div>
+
+<!-- SLIDE: FLER Form - Back -->
+<div class="slide">
+  <h1>FLER: BACK SIDE - SUMMARY & FEEDBACK</h1>
+  <div class="fill" style="display: flex; justify-content: center; align-items: center; padding: 1rem;">
+    <img src="../fler-back.png" alt="FLER Form Back - Summary, Sustains, Improves" style="max-width: 70%; max-height: 85%; object-fit: contain; border: 2px solid #333; border-radius: 4px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+  </div>
+  <p class="footnote">ARNGOCS Form 5 - Field Leadership Evaluation Report</p>
+</div>
+
+<!-- SLIDE: FLER Grading Scale -->
+<div class="slide">
+  <h1>FLER GRADING SCALE: E / S / N</h1>
+  <div class="fill" style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1rem; gap: 2rem;">
+    <img src="../fler-scale.png" alt="FLER Grading Scale - E, S, N definitions" style="max-width: 90%; object-fit: contain; border: 2px solid #333; border-radius: 4px;">
+    <div class="row" style="gap: 1.5rem; justify-content: center;">
+      <div class="box" style="text-align: center; padding: 1rem 1.5rem; border-top: 4px solid #4CAF50;">
+        <p style="font-size: 2rem; font-weight: 700; color: #4CAF50;">E</p>
+        <p class="content-text-sm">Exceeds Standard</p>
+        <p class="muted" style="font-size: 0.75rem;">Well above OC level</p>
+      </div>
+      <div class="box" style="text-align: center; padding: 1rem 1.5rem; border-top: 4px solid #d4a017;">
+        <p style="font-size: 2rem; font-weight: 700; color: #d4a017;">S</p>
+        <p class="content-text-sm">Meets Standard</p>
+        <p class="muted" style="font-size: 0.75rem;">Expected OC level</p>
+      </div>
+      <div class="box" style="text-align: center; padding: 1rem 1.5rem; border-top: 4px solid #cc4444;">
+        <p style="font-size: 2rem; font-weight: 700; color: #cc4444;">N</p>
+        <p class="content-text-sm">Below Standard</p>
+        <p class="muted" style="font-size: 0.75rem;">Fails to meet OC level</p>
+      </div>
+    </div>
+  </div>
+  <p class="footnote">ARNGOCS Form 5 - Know what you're being graded on</p>
+</div>
+
 <!-- SLIDE: Common FLER Failures Detail -->
 <div class="slide">
   <h1>COMMON FLER FAILURES: WHAT "N" LOOKS LIKE</h1>
@@ -1565,6 +1622,7 @@
   <button onclick="nextSlide()">Next →</button>
 </div>
 <div class="slide-counter" id="counter">1 / 33</div>
+<div class="credit-footer">Matt Wagner · <a href="https://github.com/mattgwagner/tlp-opords" target="_blank">github.com/mattgwagner/tlp-opords</a></div>
 
 <script>
   let current = 0;
