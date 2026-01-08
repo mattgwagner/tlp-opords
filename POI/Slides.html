@@ -27,38 +27,42 @@
       .nav, .slide-counter { display: none !important; }
     }
 
-    h1 { font-size: clamp(24px, 3.5vw, 42px); font-weight: 700; color: #d4a017; margin-bottom: 2vh; }
-    h2 { font-size: clamp(18px, 2.5vw, 32px); font-weight: 700; color: #d4a017; margin-bottom: 1.5vh; }
+    /* Base font size scales with viewport */
+    html { font-size: clamp(14px, 1.1vw, 20px); }
+
+    h1 { font-size: 2.2rem; font-weight: 700; color: #d4a017; margin-bottom: 1.5vh; }
+    h2 { font-size: 1.6rem; font-weight: 700; color: #d4a017; margin-bottom: 1vh; }
 
     .gold { color: #d4a017; }
     .muted { color: #a0a0a0; }
     .dark-muted { color: #666; }
 
-    .box { background: #2a2a2a; padding: clamp(12px, 1.5vw, 20px); margin-bottom: clamp(8px, 1vh, 16px); }
+    .box { background: #2a2a2a; padding: 1rem; margin-bottom: 0.8rem; }
     .box-accent { border-left: 4px solid #d4a017; }
     .box-dark { background: #333; }
     .box-gold { background: #d4a017; color: #1a1a1a; }
     .box-danger { background: #8B0000; color: #fff; }
 
-    .row { display: flex; gap: clamp(12px, 2vw, 30px); }
+    .row { display: flex; gap: 1.5rem; }
     .col { display: flex; flex-direction: column; }
     .fill { flex: 1; min-width: 0; }
     .center { align-items: center; justify-content: center; text-align: center; }
-    .gap-sm { gap: clamp(6px, 0.8vh, 12px); }
-    .gap-md { gap: clamp(10px, 1.2vh, 18px); }
+    .gap-sm { gap: 0.5rem; }
+    .gap-md { gap: 0.75rem; }
 
-    ul, ol { margin-left: clamp(16px, 2vw, 28px); line-height: 1.5; }
-    li { margin-bottom: clamp(2px, 0.4vh, 6px); font-size: clamp(12px, 1.4vw, 18px); }
+    ul, ol { margin-left: 1.5rem; line-height: 1.6; }
+    li { margin-bottom: 0.3rem; font-size: 1rem; }
 
-    p { font-size: clamp(12px, 1.4vw, 18px); }
+    p { font-size: 1rem; line-height: 1.5; }
 
-    .footnote { font-size: clamp(9px, 1vw, 14px); color: #666; margin-top: auto; padding-top: 1vh; }
+    .footnote { font-size: 0.75rem; color: #666; margin-top: auto; padding-top: 1vh; }
 
     .step-num {
-      width: clamp(28px, 3vw, 44px); height: clamp(28px, 3vw, 44px);
+      width: 2.2rem; height: 2.2rem;
       display: flex; align-items: center; justify-content: center;
-      font-weight: 700; font-size: clamp(14px, 1.6vw, 22px);
+      font-weight: 700; font-size: 1.1rem;
       flex-shrink: 0;
+      border-radius: 4px;
     }
     .step-gold { background: #d4a017; color: #1a1a1a; }
     .step-gray { background: #666; color: #ccc; }
@@ -70,18 +74,28 @@
       display: flex; gap: 10px; z-index: 100;
     }
     .nav button {
-      padding: clamp(8px, 1.2vh, 14px) clamp(16px, 2vw, 28px);
-      font-size: clamp(12px, 1.4vw, 18px);
+      padding: 0.6rem 1.5rem;
+      font-size: 1rem;
       background: #d4a017; color: #1a1a1a;
       border: none; cursor: pointer; font-weight: 700;
+      border-radius: 4px;
     }
     .nav button:hover { background: #b8860b; }
     .slide-counter {
       position: fixed; bottom: 2vh; right: 3vw;
-      color: #666; font-size: clamp(12px, 1.4vw, 18px);
+      color: #888; font-size: 1rem;
     }
 
-    .divider { width: clamp(60px, 8vw, 120px); height: clamp(4px, 0.6vh, 8px); background: #d4a017; margin: 2vh 0; }
+    .divider { width: 6rem; height: 0.4rem; background: #d4a017; margin: 1.5vh 0; }
+
+    /* Utility classes for inline font sizing */
+    .text-xs { font-size: 0.75rem; }
+    .text-sm { font-size: 0.875rem; }
+    .text-base { font-size: 1rem; }
+    .text-lg { font-size: 1.15rem; }
+    .text-xl { font-size: 1.3rem; }
+    .text-2xl { font-size: 1.6rem; }
+    .text-3xl { font-size: 2rem; }
   </style>
 </head>
 <body>
