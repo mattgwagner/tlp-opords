@@ -170,6 +170,135 @@
     /* Content text sizing */
     .content-text { font-size: 1rem; color: #ccc; line-height: 1.6; }
     .content-text-sm { font-size: 0.9rem; color: #aaa; line-height: 1.5; }
+
+    /* Interactive Elements */
+    .interactive-question {
+      background: rgba(212, 160, 23, 0.1);
+      border: 2px solid #d4a017;
+      border-radius: 0.5rem;
+      padding: 1rem;
+      margin: 1rem 0;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    .interactive-question:hover {
+      background: rgba(212, 160, 23, 0.15);
+      border-color: #e8b82a;
+    }
+    .interactive-question.active {
+      background: rgba(212, 160, 23, 0.2);
+    }
+    .q-label {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #d4a017;
+      margin-bottom: 0.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .q-toggle-icon {
+      display: inline-block;
+      font-size: 1.2rem;
+      transition: transform 0.3s ease;
+    }
+    .q-toggle-icon.open { transform: rotate(90deg); }
+    .q-text {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #e8e8e8;
+      margin-bottom: 0.5rem;
+    }
+    .q-answer {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s ease;
+      margin-top: 0;
+    }
+    .q-answer.show {
+      max-height: 500px;
+      margin-top: 0.75rem;
+      padding-top: 0.75rem;
+      border-top: 1px solid rgba(212, 160, 23, 0.3);
+    }
+    .q-answer p {
+      font-size: 0.9rem;
+      color: #bbb;
+      line-height: 1.6;
+      margin: 0.5rem 0;
+    }
+
+    .scenario-exercise {
+      background: rgba(100, 150, 255, 0.1);
+      border-left: 4px solid #2196F3;
+      border-radius: 0.4rem;
+      padding: 1rem;
+      margin: 1rem 0;
+    }
+    .scenario-exercise .label {
+      color: #64B5F6;
+    }
+    .scenario-text {
+      font-size: 0.95rem;
+      color: #aaa;
+      line-height: 1.7;
+      margin-bottom: 0.75rem;
+    }
+
+    .check-options {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      margin: 0.75rem 0;
+    }
+    .option-btn {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(212, 160, 23, 0.3);
+      color: #aaa;
+      padding: 0.75rem;
+      border-radius: 0.3rem;
+      cursor: pointer;
+      font-size: 0.9rem;
+      text-align: left;
+      transition: all 0.2s ease;
+    }
+    .option-btn:hover {
+      background: rgba(212, 160, 23, 0.15);
+      border-color: #d4a017;
+      color: #e8e8e8;
+    }
+    .option-btn.correct {
+      background: rgba(76, 175, 80, 0.2);
+      border-color: #4CAF50;
+      color: #4CAF50;
+    }
+    .option-btn.incorrect {
+      background: rgba(244, 67, 54, 0.2);
+      border-color: #f44336;
+      color: #f44336;
+    }
+
+    .feedback-box {
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 0.3rem;
+      padding: 0.75rem;
+      margin-top: 0.75rem;
+      font-size: 0.85rem;
+      line-height: 1.6;
+      color: #bbb;
+    }
+    .feedback-box.correct {
+      background: rgba(76, 175, 80, 0.1);
+      border-left: 3px solid #4CAF50;
+      color: #7FE7A8;
+    }
+    .feedback-box.incorrect {
+      background: rgba(244, 67, 54, 0.1);
+      border-left: 3px solid #f44336;
+      color: #EF9A9A;
+    }
   </style>
 </head>
 <body>
@@ -463,6 +592,48 @@
   <p class="footnote">ATP 3-21.8 (2024); ATP 5-0.1; FM 6-0, Chapter 9</p>
 </div>
 
+<!-- SLIDE: Interactive - Quick Questions on METT-TC -->
+<div class="slide">
+  <h1>QUICK CHECK: METT-TC ANALYSIS</h1>
+  <div class="fill col gap-md">
+    <div class="interactive-question">
+      <div class="q-label">
+        <span class="q-toggle-icon">▶</span>
+        <span>If you have plenty of forces but limited time, what is your main constraint?</span>
+      </div>
+      <div class="q-answer">
+        <p><span class="gold" style="font-weight: 700;">ANSWER:</span> Time Available (the T in METT-TC)</p>
+        <p style="color: #999; font-size: 0.85rem; margin-top: 0.5rem;">This constraint shapes EVERYTHING. If higher needs the mission completed in 3 hours and you need 6, you either find a way to compress planning/execution or you have a problem. This drives your 1/3-2/3 rule: 1/3 for planning, 2/3 for execution.</p>
+      </div>
+    </div>
+
+    <div class="interactive-question">
+      <div class="q-label">
+        <span class="q-toggle-icon">▶</span>
+        <span>You spot a heavily armed enemy position on a ridgeline. Which METT-TC variable just changed?</span>
+      </div>
+      <div class="q-answer">
+        <p><span class="gold" style="font-weight: 700;">ANSWER:</span> Two actually changed: ENEMY (new enemy position/capability) and TERRAIN (the ridgeline affects your plan)</p>
+        <p style="color: #999; font-size: 0.85rem; margin-top: 0.5rem;">This is why recon is critical Step 5. A visual confirmation can alter your entire plan. If your analysis said "light enemy opposition" but recon shows "heavy fortified position," you need to reassess COAs immediately.</p>
+      </div>
+    </div>
+
+    <div class="interactive-question">
+      <div class="q-label">
+        <span class="q-toggle-icon">▶</span>
+        <span>What's the difference between analyzing TROOPS AVAILABLE vs. TROOPS ASSIGNED?</span>
+      </div>
+      <div class="q-answer">
+        <p><span class="gold" style="font-weight: 700;">ANSWER:</span> Available = What you've been told you might get. Assigned = What you actually have to work with in your plan.</p>
+        <p style="color: #999; font-size: 0.85rem; margin-top: 0.5rem;">In your TLP, you work with ASSIGNED troops. AVAILABLE is for higher's contingency planning. Know your Task Organization cold.</p>
+      </div>
+    </div>
+
+    <p style="font-size: 0.8rem; color: #666; text-align: center; margin-top: 1.5rem; font-style: italic;">Click any question to reveal the answer →</p>
+  </div>
+  <p class="footnote">ATP 3-21.8 (2024); FM 6-0</p>
+</div>
+
 <!-- SLIDE: Mission Analysis -->
 <div class="slide">
   <h1>MISSION ANALYSIS</h1>
@@ -686,16 +857,55 @@
       </div>
     </div>
   </div>
-  <p class="footnote">FM 6-0; ATP 2-01.3</p>
+  <p class="footnote">FM 6-0; ATP 5-0.1</p>
 </div>
 
-<!-- SLIDE: GTAO - Graphic Terrain Analysis Overlay -->
+<!-- SLIDE: Interactive - Scenario Exercise - Task Analysis -->
 <div class="slide">
-  <h1>GTAO: GRAPHIC TERRAIN ANALYSIS OVERLAY</h1>
+  <h1>SCENARIO: IDENTIFY THE TASKS</h1>
+  <div class="fill col gap-md">
+    <div class="scenario-exercise">
+      <p class="label">YOUR PLATOON SERGEANT GIVES YOU:</p>
+      <p class="scenario-text">"1st Platoon conducts a raid on OBJ Bronze to destroy enemy command post vicinity grid 12AB3456 NLT 150600JAN to disrupt enemy operations. You have 6 hours to plan."</p>
+    </div>
+
+    <div class="scenario-exercise" style="margin-top: 1.5rem;">
+      <p class="label">QUESTION: Which is the ESSENTIAL TASK that becomes your mission statement?</p>
+      
+      <button class="option-btn" data-correct="true">
+        Conduct a raid on OBJ Bronze to destroy enemy command post
+      </button>
+      <div class="feedback-box" style="display: none;">
+        ✓ <span class="gold" style="font-weight: 700;">CORRECT!</span> This is the essential task—the one that MUST be accomplished for mission success. Your mission statement task = essential task.
+      </div>
+
+      <button class="option-btn" data-correct="false" style="margin-top: 0.5rem;">
+        Brief your squad leaders on the plan
+      </button>
+      <div class="feedback-box" style="display: none;">
+        ✗ This is an IMPLIED task (necessary to brief orders), not essential to the mission itself.
+      </div>
+
+      <button class="option-btn" data-correct="false" style="margin-top: 0.5rem;">
+        Arrive at OBJ Bronze NLT 150600JAN
+      </button>
+      <div class="feedback-box" style="display: none;">
+        ✗ This is part of the essential task but not the complete essential task. The WHY (destroy enemy CP) is what matters.
+      </div>
+    </div>
+
+    <p style="font-size: 0.75rem; color: #666; margin-top: 1rem; font-style: italic;">Click an option to check your answer →</p>
+  </div>
+  <p class="footnote">FM 6-0</p>
+</div>
+
+<!-- SLIDE: The Nesting Concept -->
+<div class="slide">
+  <h1>THE NESTING CONCEPT</h1>
   <div class="fill row">
     <div class="fill col gap-md">
-      <div class="box-gold" style="padding: 0.75rem;">
-        <p class="content-text" style="font-weight: 700; color: #1a1a1a;">The GTAO is the visual product of your terrain analysis.</p>
+      <div class="box-gold" style="padding: 1rem;">
+        <p class="content-text" style="font-weight: 700; color: #1a1a1a;">The "WHY" (purpose) is always nested vertically and horizontally.</p>
         <p class="content-text-sm" style="color: #333; margin-top: 0.25rem;">At OCS, your terrain model substitutes for the formal GTAO product.</p>
       </div>
       <p class="label" style="font-size: 0.85rem;">GTAO CONSTRUCTION (Layering Process):</p>
@@ -1178,6 +1388,48 @@
   <p class="footnote">FM 6-0; ATP 5-0.1</p>
 </div>
 
+<!-- SLIDE: Interactive - Check Your Understanding on COA Development -->
+<div class="slide">
+  <h1>CHECK YOUR UNDERSTANDING: COA DEVELOPMENT</h1>
+  <div class="fill col gap-md">
+    <div class="interactive-question">
+      <div class="q-label">
+        <span class="q-toggle-icon">▶</span>
+        <span>QUESTION 1: What does SAFDC stand for in COA screening?</span>
+      </div>
+      <div class="q-answer">
+        <p><span class="gold" style="font-weight: 700;">ANSWER:</span> Suitable, Acceptable, Feasible, Distinguishable, Complete</p>
+        <p style="color: #999; font-size: 0.85rem; margin-top: 0.5rem;">Each COA must meet all five criteria to be considered viable. A COA that accomplishes the mission (suitable) but exceeds available assets (not feasible) is not an option you can execute.</p>
+      </div>
+    </div>
+
+    <div class="interactive-question">
+      <div class="q-label">
+        <span class="q-toggle-icon">▶</span>
+        <span>QUESTION 2: In AGADAP, what does "Array Forces" mean?</span>
+      </div>
+      <div class="q-answer">
+        <p><span class="gold" style="font-weight: 700;">ANSWER:</span> Determine what forces you need and WHERE to position them to accomplish the plan.</p>
+        <p style="color: #999; font-size: 0.85rem; margin-top: 0.5rem;">You array forces by starting with the Decisive Operation (what MUST succeed), then move to Shaping Operations (what enables the DO). At squad level, this means deciding: Which team assaults? Which provides support fire? Who provides security?</p>
+      </div>
+    </div>
+
+    <div class="interactive-question">
+      <div class="q-label">
+        <span class="q-toggle-icon">▶</span>
+        <span>QUESTION 3: Why is the Decisive Point critical to your COA?</span>
+      </div>
+      <div class="q-answer">
+        <p><span class="gold" style="font-weight: 700;">ANSWER:</span> The DP is the geographic place, event, or system that, when acted upon, provides a MARKED ADVANTAGE. Everything else in your plan (shaping ops, prep, movement) sets conditions for the DP.</p>
+        <p style="color: #999; font-size: 0.85rem; margin-top: 0.5rem;">If you cannot identify a decisive point, you don't have a real plan—you just have a series of tasks. Work backwards from DP to identify what enables it, and forward from DP to identify what exploits success.</p>
+      </div>
+    </div>
+
+    <p style="font-size: 0.8rem; color: #666; text-align: center; margin-top: 1.5rem; font-style: italic;">Click any question to reveal the answer →</p>
+  </div>
+  <p class="footnote">ATP 5-0.1</p>
+</div>
+
 <!-- SLIDE: COA Statement Template -->
 <div class="slide">
   <h1>COA STATEMENT TEMPLATE</h1>
@@ -1258,6 +1510,55 @@
         <p class="content-text-sm" style="color: #fff;"><strong>AT SQUAD LEVEL:</strong> War-game your single COA against the MPCOA. Adjust your plan based on what you find.</p>
       </div>
     </div>
+  </div>
+  <p class="footnote">FM 6-0; ATP 5-0.1</p>
+</div>
+
+<!-- SLIDE: Interactive - War-Gaming Decision Point -->
+<div class="slide">
+  <h1>SCENARIO: WAR-GAME YOUR PLAN</h1>
+  <div class="fill col gap-md">
+    <div class="scenario-exercise">
+      <p class="label">YOUR PLAN:</p>
+      <p class="scenario-text">1st Squad assaults OBJ Green via northern approach (DO). 2nd Squad provides suppressive fire from the ridge to the west (SO). You expect light enemy resistance based on HUMINT.</p>
+    </div>
+
+    <div class="scenario-exercise" style="margin-top: 1rem;">
+      <p class="label">YOUR ACTION:</p>
+      <p class="scenario-text">1st Squad crosses LD at 0630 and moves toward OBJ. After 200 meters, they reach the draw...</p>
+    </div>
+
+    <div class="scenario-exercise" style="margin-top: 1rem;">
+      <p class="label">ENEMY REACTION (MPCOA):</p>
+      <p class="scenario-text">Enemy opens fire from OBJ with MG position you didn't detect. 1st Squad takes 50% casualties in first 30 seconds. 2nd Squad's suppressive fire from the ridge is ineffective—wrong angle.</p>
+    </div>
+
+    <div class="scenario-exercise" style="margin-top: 1.5rem;">
+      <p class="label">QUESTION: What did your war-gaming miss?</p>
+      
+      <button class="option-btn" data-correct="false">
+        You needed more artillery support
+      </button>
+      <div class="feedback-box" style="display: none;">
+        ✗ Artillery wasn't part of your TLP scope. This is a squad-level operation.
+      </div>
+
+      <button class="option-btn" data-correct="true" style="margin-top: 0.5rem;">
+        You didn't war-game the MDCOA (enemy had more combat power than expected)
+      </button>
+      <div class="feedback-box" style="display: none;">
+        ✓ <span class="gold" style="font-weight: 700;">CORRECT!</span> Your intelligence said "light resistance" but you should have asked: "What if they're stronger?" War-gaming against MDCOA would have revealed your southern approach vulnerability and SO position weakness.
+      </div>
+
+      <button class="option-btn" data-correct="false" style="margin-top: 0.5rem;">
+        You moved too slowly—should have assaulted faster
+      </button>
+      <div class="feedback-box" style="display: none;">
+        ✗ Speed in the draw would just get you killed faster. The issue is lack of planning against the MDCOA.
+      </div>
+    </div>
+
+    <p style="font-size: 0.75rem; color: #666; margin-top: 1rem; font-style: italic;">This is why war-gaming against BOTH MPCOA and MDCOA is critical. →</p>
   </div>
   <p class="footnote">FM 6-0; ATP 5-0.1</p>
 </div>
@@ -1894,6 +2195,40 @@
   document.addEventListener('keydown', (e) => {
     if (e.key === 'ArrowRight' || e.key === ' ') nextSlide();
     if (e.key === 'ArrowLeft') prevSlide();
+  });
+
+  // Interactive Question/Answer Toggle
+  document.addEventListener('click', function(e) {
+    if (e.target.closest('.interactive-question')) {
+      const question = e.target.closest('.interactive-question');
+      const answer = question.querySelector('.q-answer');
+      const icon = question.querySelector('.q-toggle-icon');
+      
+      question.classList.toggle('active');
+      answer.classList.toggle('show');
+      if (icon) icon.classList.toggle('open');
+    }
+    
+    // Option button handling
+    if (e.target.closest('.option-btn')) {
+      const btn = e.target.closest('.option-btn');
+      const isCorrect = btn.dataset.correct === 'true';
+      const container = btn.closest('.scenario-exercise') || btn.parentElement;
+
+      // Lock buttons inside this scenario only
+      const optionButtons = container.querySelectorAll('.option-btn');
+      const feedbackBoxes = container.querySelectorAll('.feedback-box');
+      optionButtons.forEach(b => b.style.pointerEvents = 'none');
+      
+      btn.classList.add(isCorrect ? 'correct' : 'incorrect');
+      
+      // Show feedback if it exists
+      const nextEl = btn.nextElementSibling;
+      if (nextEl && nextEl.classList.contains('feedback-box')) {
+        nextEl.classList.add(isCorrect ? 'correct' : 'incorrect');
+        nextEl.style.display = 'block';
+      }
+    }
   });
 </script>
 
