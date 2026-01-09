@@ -236,14 +236,15 @@
     /* Credit footer */
     .credit {
       position: fixed;
-      bottom: 10px;
+      bottom: 12px;
       left: 20px;
-      font-size: 0.5em;
-      color: #444;
+      font-size: 0.65em;
+      color: #888;
       z-index: 100;
+      letter-spacing: 0.03em;
     }
-    .credit a { color: #555; text-decoration: none; }
-    .credit a:hover { color: var(--gold); }
+    .credit a { color: var(--gold-dark); text-decoration: none; }
+    .credit a:hover { color: var(--gold); text-decoration: underline; }
 
     /* Responsive font sizing */
     @media (max-width: 1200px) {
