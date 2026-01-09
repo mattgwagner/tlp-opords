@@ -774,7 +774,7 @@
         <p style="font-size: 0.8rem; color: #ccc;"><span class="gold" style="font-weight: 700;">WHY matters:</span> Purpose allows you to adapt when conditions change.</p>
       </div>
       <div class="box box-accent" style="padding: 0.5rem 0.75rem;">
-        <p style="font-size: 0.75rem;"><span class="gold" style="font-weight: 700;">AT OCS:</span> As SL, "two levels up" = CO OPORD. As PL, it's BN OPORD. Know them cold.</p>
+        <p style="font-size: 0.75rem;"><span class="gold" style="font-weight: 700;">AT OCS:</span> As SL, "two levels up" = CO OPORD. As PL, it's BN OPORD.</p>
       </div>
     </div>
   </div>
@@ -936,9 +936,6 @@
       </div>
       <div class="box">
         <p class="content-text-sm"><span class="gold" style="font-weight: 700;">YOUR PURPOSE:</span> Located in the Concept of Operation in your immediate higher HQ OPORD.</p>
-      </div>
-      <div class="box box-accent">
-        <p class="content-text-sm" style="font-size: 0.85rem;"><span class="gold" style="font-weight: 700;">AT OCS:</span> If you can't nest your purpose with higher's intent, you don't understand the mission. This is a common red flag for cadre. Know why your task matters to the overall operation.</p>
       </div>
     </div>
   </div>
@@ -2696,19 +2693,27 @@
       if (icon) icon.classList.toggle('open');
     }
     
-    // Option button handling
+    // Option button handling - allows changing answers
     if (e.target.closest('.option-btn')) {
       const btn = e.target.closest('.option-btn');
       const isCorrect = btn.dataset.correct === 'true';
       const container = btn.closest('.scenario-exercise') || btn.parentElement;
 
-      // Lock buttons inside this scenario only
+      // Clear previous selections in this container
       const optionButtons = container.querySelectorAll('.option-btn');
       const feedbackBoxes = container.querySelectorAll('.feedback-box');
-      optionButtons.forEach(b => b.style.pointerEvents = 'none');
-      
+
+      optionButtons.forEach(b => {
+        b.classList.remove('correct', 'incorrect');
+      });
+      feedbackBoxes.forEach(fb => {
+        fb.style.display = 'none';
+        fb.classList.remove('correct', 'incorrect');
+      });
+
+      // Mark current selection
       btn.classList.add(isCorrect ? 'correct' : 'incorrect');
-      
+
       // Show feedback if it exists
       const nextEl = btn.nextElementSibling;
       if (nextEl && nextEl.classList.contains('feedback-box')) {
