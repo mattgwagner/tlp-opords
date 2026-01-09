@@ -251,6 +251,58 @@
       .reveal h2 { font-size: 1.4em; }
     }
 
+    /* Ensure slides fit within viewport - RevealJS viewport safety */
+    .reveal .slides section {
+      max-height: 100%;
+      overflow: hidden;
+    }
+
+    /* Compact mode for content-heavy slides */
+    .reveal .slides section.compact .box {
+      padding: 0.6em;
+      margin: 0.3em 0;
+    }
+    .reveal .slides section.compact p,
+    .reveal .slides section.compact li {
+      font-size: 0.85em;
+      line-height: 1.4;
+    }
+    .reveal .slides section.compact .columns {
+      gap: 1em;
+    }
+    .reveal .slides section.compact h2 {
+      font-size: 1.4em;
+      margin-bottom: 0.5em;
+    }
+
+    /* Very compact mode for densest slides */
+    .reveal .slides section.very-compact .box {
+      padding: 0.4em 0.6em;
+      margin: 0.25em 0;
+    }
+    .reveal .slides section.very-compact p,
+    .reveal .slides section.very-compact li {
+      font-size: 0.8em;
+      line-height: 1.3;
+    }
+    .reveal .slides section.very-compact .label {
+      font-size: 0.6em;
+      margin-bottom: 0.3em;
+    }
+    .reveal .slides section.very-compact h2 {
+      font-size: 1.3em;
+      margin-bottom: 0.4em;
+    }
+    .reveal .slides section.very-compact .columns {
+      gap: 0.75em;
+    }
+
+    /* Tighter step-grid for compact slides */
+    .reveal .slides section.compact .step-grid,
+    .reveal .slides section.very-compact .step-grid {
+      gap: 0.5em;
+    }
+
     /* Grid layout for step cards */
     .step-grid {
       display: grid;
@@ -491,7 +543,7 @@
       </section>
 
       <!-- SLIDE: HOPE-W Time Considerations -->
-      <section>
+      <section class="compact">
         <h2>Time Considerations: HOPE-W</h2>
         <div class="columns">
           <div class="column">
@@ -572,7 +624,7 @@
       </section>
 
       <!-- SLIDE: Mission Analysis -->
-      <section>
+      <section class="compact">
         <h2>Mission Analysis</h2>
         <div class="columns">
           <div class="column">
@@ -615,7 +667,7 @@
       </section>
 
       <!-- SLIDE: Task Types -->
-      <section>
+      <section class="compact">
         <h2>Task Types: Specified, Implied, Essential</h2>
         <div class="columns">
           <div class="column">
@@ -832,7 +884,7 @@
       </section>
 
       <!-- SLIDE: Decisive Point -->
-      <section>
+      <section class="compact">
         <h2>Decisive Point: The Key to Your Plan</h2>
         <div class="columns">
           <div class="column">
@@ -875,7 +927,7 @@
       </section>
 
       <!-- SLIDE: AGADAP Steps 1-2 -->
-      <section>
+      <section class="compact">
         <h2>AGADAP: Analyze & Generate</h2>
         <div class="columns">
           <div class="column">
@@ -938,7 +990,7 @@
       </section>
 
       <!-- SLIDE: AGADAP Steps 3-4 -->
-      <section>
+      <section class="compact">
         <h2>AGADAP: Array & Develop</h2>
         <div class="columns">
           <div class="column">
@@ -991,7 +1043,7 @@
       </section>
 
       <!-- SLIDE: AGADAP Steps 5-6 -->
-      <section>
+      <section class="compact">
         <h2>AGADAP: Assign & Prepare</h2>
         <div class="columns">
           <div class="column">
@@ -1077,7 +1129,7 @@
       </section>
 
       <!-- SLIDE: War-Gaming Your Plan -->
-      <section>
+      <section class="compact">
         <h2>War-Gaming Your Plan</h2>
         <div class="columns">
           <div class="column">
@@ -1123,7 +1175,7 @@
       </section>
 
       <!-- SLIDE: Branches and Sequels -->
-      <section>
+      <section class="compact">
         <h2>Branches and Sequels: Contingency Planning</h2>
         <div class="columns">
           <div class="column">
@@ -1269,7 +1321,7 @@
       </section>
 
       <!-- SLIDE: OPORD 5-Paragraph Format -->
-      <section>
+      <section class="very-compact">
         <h2>OPORD 5-Paragraph Format: Overview</h2>
         <div class="columns">
           <div class="column">
@@ -1306,7 +1358,7 @@
       </section>
 
       <!-- SLIDE: OPORD Para 3 Execution -->
-      <section>
+      <section class="compact">
         <h2>OPORD Paragraph 3: Execution</h2>
         <div class="columns">
           <div class="column">
@@ -1397,7 +1449,7 @@
       </section>
 
       <!-- SLIDE: Step 8 - Supervise and Refine -->
-      <section>
+      <section class="compact">
         <div class="step-header">
           <span class="step-num step-gold">8</span>
           <h2>Supervise and Refine</h2>
@@ -1448,7 +1500,7 @@
       </section>
 
       <!-- SLIDE: Rehearsal Types -->
-      <section>
+      <section class="compact">
         <h2>Rehearsal Types</h2>
         <div class="columns">
           <div class="column">
@@ -1497,7 +1549,7 @@
       </section>
 
       <!-- SLIDE: FLER Evaluation -->
-      <section>
+      <section class="compact">
         <h2>How You'll Be Evaluated: The FLER</h2>
         <div class="columns">
           <div class="column">
@@ -1562,7 +1614,7 @@
       </section>
 
       <!-- SLIDE: Common FLER Failures -->
-      <section>
+      <section class="very-compact">
         <h2>Common FLER Failures: What "N" Looks Like</h2>
         <div class="columns">
           <div class="column">
@@ -1615,7 +1667,7 @@
       </section>
 
       <!-- SLIDE: STX Lane Execution -->
-      <section>
+      <section class="compact">
         <h2>STX Lane Execution: What to Expect</h2>
         <div class="columns">
           <div class="column">
@@ -1741,7 +1793,7 @@
       </section>
 
       <!-- SLIDE: Check on Learning Answers -->
-      <section>
+      <section class="very-compact">
         <h2>Check on Learning: Answer Key</h2>
         <div class="columns">
           <div class="column">
