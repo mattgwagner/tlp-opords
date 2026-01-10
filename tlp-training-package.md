@@ -23,7 +23,6 @@
 - [Section 7: Required Training Aids](#section-7-required-training-aids)
 - [Section 8: AAR Framework](#section-8-aar-framework)
 - [Appendix A: OPORD Repository Reference](#appendix-a-opord-repository-reference)
-- [Section 9: Approval](#section-9-approval)
 
 ---
 
@@ -537,19 +536,3 @@ OPORDs are maintained in Markdown format at: [github.com/mattgwagner/tlp-opords]
 
 Cadre should download and print OPORDs prior to training. Coordinate with Senior Platoon Trainer for any required modifications or additions.
 
----
-
-## Section 9: Approval
-
-This training package has been reviewed and approved for implementation with the OCS detachment.
-
-| Role | Signature | Date |
-|------|-----------|------|
-| Senior Platoon Trainer | _________________________ | __________ |
-| OCS Training Company Commander | _________________________ | __________ |
-
-### Distribution
-
-- OCS Company Commander
-- All Platoon Trainers
-- Company Training Files
