@@ -17,6 +17,7 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 - [TAC's Tactical Quick Reference](tac-quick-reference.html) - A comprehensive reference guide for movement formations, movement techniques, danger area crossings, battle drills, and actions on the objective. Designed to help TACs evaluate OCS candidates during field training exercises.
 - [Patrol Base Operations](patrol-base-ops.html) - A crawl phase training package covering patrol base operations, including cadre refresher material, inspection checklists, scenario injects, and implementation notes. Reference for establishing and operating patrol bases per ATP 3-21.8.
 - [Troop Leading Procedures](POI/Slides-RevealJS.html) - Interactive instructional slides covering the 8-step TLP framework, mission analysis (METT-TC), terrain analysis (OAKOC), and COA development (AGADAP) per ATP 3-21.8 and FM 6-0.
+- [TLP Training Package](tlp-training-package.md) - Complete Crawl-Walk-Run training package for Troop Leading Procedures. Includes 4-hour CRAWL phase (conceptual), 15-hour WALK phase (guided practice), and 48-hour RUN phase (FTX evaluation). References CMP, ISAP, and OCSOP standards with FLER evaluation criteria.
 
 ## Available Orders
 
