@@ -64,7 +64,7 @@ Per OCSOP B-11, TLPs provide a format to follow in any leadership situation. As 
 | 5 | Conduct Reconnaissance |
 | 6 | Complete the Plan |
 | 7 | Issue the Order |
-| 8 | Supervise and Assess |
+| 8 | Supervise and Refine |
 
 ### Critical Planning Concepts
 
@@ -117,8 +117,8 @@ The doctrinal order for analysis is:
 
 - **Step 2: Issue Warning Order** - WARNO format (5-paragraph abbreviated), timeline coordination
 - **Step 3: Make a Tentative Plan** - Mission analysis using METT-TC
-  - COA Development: Purpose, method, end state
-  - COA Screening Criteria: Suitable, Feasible, Acceptable, Distinguishable, Complete
+  - COA Development using **AGADAP**: Analyze relative combat power, Generate options, Array forces, Develop concept of operations, Assign responsibilities, Prepare COA statement and sketch
+  - COA Screening Criteria (**SAFDC**): Suitable, Acceptable, Feasible, Distinguishable, Complete
 
 ### Block 2: TLP Steps 4-8 and Integration (2 Hours)
 
@@ -134,7 +134,7 @@ The doctrinal order for analysis is:
 - **Step 5: Conduct Reconnaissance** - Types of recon, confirming/denying terrain assumptions
 - **Step 6: Complete the Plan** - Integrating recon findings, preparing terrain model
 - **Step 7: Issue the Order** - 5-paragraph OPORD structure, briefing techniques
-- **Step 8: Supervise and Assess** - PCCs/PCIs occur HERE, rehearsals, contingencies
+- **Step 8: Supervise and Refine** - PCCs/PCIs occur HERE, rehearsals, contingencies
 
 #### Small Group Exercise (30 Minutes)
 
@@ -215,6 +215,12 @@ Given a scenario, squads identify key actions at each TLP step. Focus questions:
 - Identify key terrain, likely OPFOR positions, movement routes, danger areas
 - Candidates practice verbal terrain analysis using OAKOC
 - Review control measures: phase lines, checkpoints, ORPs, assault positions
+- Introduce **GOTWA** briefing for leader's reconnaissance:
+  - **G** - Where I'm Going
+  - **O** - Others going with me
+  - **T** - Time I'll return
+  - **W** - What to do if I don't return
+  - **A** - Actions on contact
 
 #### Part B: Walk-Through Exercise (2 Hours)
 
@@ -397,7 +403,7 @@ Per the Platoon Trainer Guide, the FLER uses the 8 Troop Leading Procedures to e
 - Number Combo, Challenge PW, Running PW
 - Asks Questions/Receives Back Brief
 
-#### Step 8: Supervise and Assess
+#### Step 8: Supervise and Refine
 
 > **CLARIFICATION:** THIS is where final PCCs/PCIs occur
 
