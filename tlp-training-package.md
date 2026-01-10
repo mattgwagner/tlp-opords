@@ -36,8 +36,8 @@ This training package is developed in accordance with the following publications
 | ATP 5-0.1 | Commander and Staff Officer Guide |
 | ADP 5-0 | The Operations Process |
 | ATP 3-21.8 | Infantry Rifle Platoon and Squad |
-| [CMP](../0%20-%20CMP%20and%20ISAP/ARNG%20OCS%20CMP%201%20JAN%202024.md) | ARNG OCS Course Management Plan, 1 JAN 2024 |
-| [ISAP](../0%20-%20CMP%20and%20ISAP/ARNG%20OCS%20ISAP%201%20JAN%202024.md) | ARNG OCS Individual Student Assessment Plan, 1 JAN 2024 |
+| CMP | ARNG OCS Course Management Plan, 1 JAN 2024 |
+| ISAP | ARNG OCS Individual Student Assessment Plan, 1 JAN 2024 |
 | Platoon Trainer Guide | 15 November 2024 |
 | 211th Regiment OCSOP | 1 OCT 2024 |
 
@@ -47,7 +47,7 @@ This training package provides a systematic approach to teaching **Troop Leading
 
 ### Evaluation Standard
 
-Per [ISAP](../0%20-%20CMP%20and%20ISAP/ARNG%20OCS%20ISAP%201%20JAN%202024.md) Section 2-5(c): Platoon trainers will evaluate the candidate's use and understanding of the troop leading procedures during the Field Leadership Exercise (FLX) II in a one hour and forty-five-minute scenario. The candidate must receive an **"E"** or **"S"** on the Field Leadership Evaluation Report (FLER).
+Per ISAP Section 2-5(c): Platoon trainers will evaluate the candidate's use and understanding of the troop leading procedures during the Field Leadership Exercise (FLX) II in a one hour and forty-five-minute scenario. The candidate must receive an **"E"** or **"S"** on the Field Leadership Evaluation Report (FLER).
 
 ---
 
