@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** 1st Platoon is tasked to establish and occupy a patrol base in AO COTTO to conduct continuous operations, provide security, and enable sustainment for follow-on missions.
 >
-> **Destination:** Patrol Base (PB) THUNDER, vicinity MP 0625 1555, AO COTTO.
+> **Destination:** Patrol Base (PB) THUNDER, vicinity MP 058 152, AO COTTO, NLT 2200.
 >
 > **Actions on Objective:** Platoon will conduct a leader's reconnaissance, occupy the patrol base using the triangle or cigar-shaped technique, establish security, and conduct patrol base activities including security patrols, maintenance, and planning for follow-on operations.
 >
@@ -50,7 +50,7 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompa
 
 **1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-   - **Key Terrain:** The planned patrol base site at MP 0625 1555 offers good concealment, defensible terrain, and access to covered withdrawal routes. The surrounding woodlines provide observation points for early warning. A small creek to the south provides a water source but may also canalize enemy approach. Elevated ground to the north offers observation of likely enemy avenues of approach.
+   - **Key Terrain:** The planned patrol base site at MP 058 152 offers good concealment, defensible terrain, and access to covered withdrawal routes. The surrounding woodlines provide observation points for early warning. A small creek to the south provides a water source but may also canalize enemy approach. Elevated ground to the north offers observation of likely enemy avenues of approach.
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms. Limited visibility expected during nighttime operations; plan for EENT/BMNT stand-to procedures.
 
@@ -83,7 +83,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon establishes and occupies Patrol Base THUNDER (vicinity MP 0625 1555) NLT ____ to provide security, enable sustainment, and prepare for follow-on operations in AO COTTO.
+1st Platoon establishes and occupies Patrol Base THUNDER (vicinity MP 058 152) NLT 2200 to provide security, enable sustainment, and prepare for follow-on operations in AO COTTO.
 
 ---
 
@@ -130,29 +130,13 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
 
 ### f. Coordinating Instructions
 
-**1. Patrol Base Priorities of Work (in order):**
-   1. Security – Establish fighting positions, assign sectors, emplace LP/OPs
-   2. Withdrawal Plan – Identify routes, rally points, contingency plans
-   3. Communication – Establish internal comms, report occupation to higher
-   4. Weapons Maintenance – Clean and inspect all weapons
-   5. Water Resupply – Identify water source, establish water point security
-   6. Personal Hygiene – Establish latrine, personal hygiene area
-   7. Mess Plan – Establish eating schedule, cold meals to maintain noise discipline
-   8. Rest Plan – Establish sleep plan ensuring 50% security at all times
-
-**2. Rules of Engagement (ROE):**
+**1. Rules of Engagement (ROE):**
    1. Engage only confirmed enemy combatants posing a threat.
    2. Use graduated response appropriate to the threat.
    3. Challenge unknown personnel using challenge and password.
    4. Report all contacts immediately.
 
-**3. Priority Intelligence Requirements (PIR):**
-   1. Identify REAPER reconnaissance or patrol activity in the area.
-   2. Monitor for REAPER indirect fire positions or support weapons.
-   3. Assess civilian movement near the patrol base area.
-   4. Identify REAPER assault positions or staging areas.
-
-**4. Commander's Critical Information Requirements (CCIR):**
+**2. Commander's Critical Information Requirements (CCIR):**
    1. Crew served weapons
    2. Signs of NBC capabilities
    3. A Soldier suffered an injury during movement
@@ -165,19 +149,19 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
    10. Status of security posture and any degradation
    11. Compromise of patrol base location
 
-**5. Reporting:**
+**3. Reporting:**
    - **Report to higher when departing current location.**
    - **In Position Report:** Upon completing patrol base occupation.
    - **SALUTE Report:** Upon sighting enemy forces or indicators.
    - **SITREP:** At designated times (every 4 hours minimum).
    - **LACE Report:** Upon occupation and prior to displacement.
 
-**6. Stand-To Procedures:**
+**4. Stand-To Procedures:**
    - Stand-to conducted 30 minutes before BMNT and 30 minutes before EENT.
    - 100% alert during stand-to; all personnel in fighting positions.
    - Stand-down only after PL or PSG conducts assessment and issues order.
 
-**7.** This OPORD is effective immediately upon distribution.
+**5.** This OPORD is effective immediately upon distribution.
 
 ---
 
@@ -185,7 +169,7 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
 
 ### a. Logistics
 1. Resupply not available for 24 hours.
-2. Meal Cycle: M-M-M (cold meals; no open fires).
+2. Meal Cycle: M-M-M.
 3. Water resupply point to be established within patrol base.
 4. Class V (ammunition): Redistribute as needed; report any shortages.
 5. Equipment maintenance: Conducted during priorities of work.
@@ -230,9 +214,5 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
    - Running Password: Thunder
    - Combination: 8
 
-**4. Signals:**
-   - Stand-to: Three short whistle blasts (or radio call "Stand-to, stand-to, stand-to")
-   - All clear: One long whistle blast (or radio call "Stand down")
-   - Compromise/Displacement: Red star cluster (or radio call "Displace, displace, displace")
 
 
