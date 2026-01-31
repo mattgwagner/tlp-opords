@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** 1st Platoon is tasked to conduct a linear ambush along a key supply route to destroy REAPER forces and disrupt REAPER logistics.
 >
-> **Destination:** OBJ FLUNKER at MP 0600 1530, AO COTTO.
+> **Destination:** OBJ FLUNKER at MP 0601 1538, AO COTTO.
 >
 > **Actions on Objective:** Platoon will establish an ORP, move to the ambush site, set up assault, support, and security elements, initiate the ambush on the REAPER convoy, and withdraw in an organized manner.
 >
@@ -42,13 +42,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompasses the crossroads at MP 0600 1530 and surrounding woodlines, bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the railroad tracks, and to the west by the pine forest edge.
+Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompasses the crossroads at MP 0601 1538 and surrounding woodlines, bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the railroad tracks, and to the west by the pine forest edge.
 
 ### b. Area of Operations
 
 **1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-   - **Key Terrain:** OBJ FLUNKER at MP 0600 1530 is decisive for controlling movement through the area. The adjacent woodlines provide concealment for the assault and support elements. Elevated ground to the north and south offers observation and fields of fire.
+   - **Key Terrain:** OBJ FLUNKER at MP 0601 1538 is decisive for controlling movement through the area. The adjacent woodlines provide concealment for the assault and support elements. Elevated ground to the north and south offers observation and fields of fire.
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
@@ -81,7 +81,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts an ambush at OBJ FLUNKER (MP 0600 1530) NLT ____ in order to destroy REAPER forces and disrupt REAPER supply lines.
+1st Platoon conducts an ambush at OBJ FLUNKER (MP 0601 1538) NLT ____ in order to destroy REAPER forces and disrupt REAPER supply lines.
 
 ---
 
@@ -109,7 +109,7 @@ None.
 
 **1. 1st Squad:**
 
-- **TASK:** Establish and execute a deliberate ambush on the REAPER convoy at MP 0600 1530 from a concealed position, initiate fires, and destroy REAPER vehicles and personnel.
+- **TASK:** Establish and execute a deliberate ambush on the REAPER convoy at MP 0601 1538 from a concealed position, initiate fires, and destroy REAPER vehicles and personnel.
 - **PURPOSE:** Disrupt REAPER supply lines, seize REAPER materiel, and prevent REAPER resupply in AO Starke.
 
 **2. 2nd Squad:**
