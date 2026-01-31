@@ -24,25 +24,6 @@ This document provides grid references for key locations within the Local Traini
 
 ---
 
-## LTA Grid Reference Table
-
-| Training Area | Grid | Description |
-|---------------|------|-------------|
-| LTA | `MP 0612 1546` | South entrance to FOB |
-| LTA | `MP 0607 1555` | North entrance to FOB |
-| LTA | `MP 0610 1550` | FOB center |
-| LTA | `MP 0611 1530` | Conex City center |
-| LTA | `MP 0613 1532` | Conex City, northeast building |
-| LTA | `MP 0600 1523` | Intersection of Arcadia St and Bradenton Ave |
-| LTA | `MP 0600 1538` | Intersection of Bradenton Ave and unnamed street |
-| LTA | `MP 0575 1524` | Intersection of Arcadia St and Clearwater Ave |
-| LTA | `MP 0575 1538` | Intersection of Clearwater Ave and unnamed street |
-| LTA | `MP 0602 1565` | Intersection of Bradenton Ave and Jacksonville St |
-| LTA | `MP 0600 1530` | "Ambush" along Bradenton Ave |
-| LTA | `MP 0585 1559` | "Ambush" along unnamed street north-south through LTA |
-
----
-
 ## Grids by Category
 
 ### FOB Locations
@@ -91,9 +72,3 @@ The following grids are used in current OPORDs:
 - Grids are 8-digit (10m accuracy) for training purposes.
 - When modifying OPORDs, ensure all grid references are updated consistently throughout the document.
 - Consider terrain features and line-of-sight when selecting alternate grids.
-
----
-
-**DISTRIBUTION:**
-- OCS Cadre, 211 RTI
-- Senior TAC Officers

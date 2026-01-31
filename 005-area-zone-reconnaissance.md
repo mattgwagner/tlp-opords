@@ -51,7 +51,7 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompa
 
 **1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-   - **Key Terrain:** The suspected REAPER position at MP 0613 1532 is the focus of reconnaissance. Elevated ground to the north and south offers observation points. Woodlines provide concealment for reconnaissance elements. A small creek bisects the area, potentially affecting movement and REAPER positions.
+   - **Key Terrain:** The suspected REAPER position at MP 0613 1532 is the focus of reconnaissance. The area north and south of the objective is relatively open, limiting observation positions. Woodlines to the east and west provide concealment for reconnaissance elements approaching the objective.
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms. Limited visibility may occur during thunderstorms.
 
@@ -114,12 +114,12 @@ Fires are limited to self-defense only. Avoid engagement unless necessary to bre
 
 **1. 1st Squad:**
 
-- **TASK:** Conduct reconnaissance of the northern sector of AO COTTO, focusing on the area north of the creek line and east of MP 0613 1532, to locate REAPER positions and assess REAPER activity.
+- **TASK:** Conduct reconnaissance of the northern sector of AO COTTO, focusing on the area north and east of MP 0613 1532, to locate REAPER positions and assess REAPER activity.
 - **PURPOSE:** Gather intelligence on REAPER positions and activities in the northern portion of the area of operations.
 
 **2. 2nd Squad:**
 
-- **TASK:** Conduct reconnaissance of the southern sector of AO COTTO, focusing on the area south of the creek line and around MP 0613 1532, to locate REAPER positions and assess REAPER activity.
+- **TASK:** Conduct reconnaissance of the southern sector of AO COTTO, focusing on the area south and west of MP 0613 1532, to locate REAPER positions and assess REAPER activity.
 - **PURPOSE:** Gather intelligence on REAPER positions and activities in the southern portion of the area of operations, including the suspected REAPER position.
 
 **3. 3rd Squad:**
