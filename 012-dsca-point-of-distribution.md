@@ -8,89 +8,101 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** WALK (Blocks 2-3), RUN (Day/Night Iterations)
 >
-> **Mission Summary:** 1st Platoon is tasked to establish and operate a Point of Distribution (POD) at a designated location in Bay County to distribute emergency supplies to affected civilians in support of Hurricane DELTA relief operations.
+> **Mission Summary:** A Company establishes and operates multiple Points of Distribution (PODs) in Bay County to distribute emergency supplies to affected civilians. 1st Platoon is tasked to operate POD Site ALPHA.
 >
-> **Destination:** Designated POD site in Bay County, FL (school parking lot, church, or similar large paved area).
+> **Training Focus:** This is a COMPANY-LEVEL OPORD. Candidates receive this order as the 1st Platoon Leader and must conduct TLP to plan their platoon's POD operations. Focus areas include site organization, traffic flow, supply management, personnel allocation, and contingency planning for civilian interactions.
 >
-> **Actions on Objective:** Platoon will establish POD site, set up traffic flow pattern, distribute emergency supplies (water, ice, MREs, tarps) to affected civilians, maintain supply accountability, coordinate resupply, and transition or close POD on order.
+> **Evaluation Timeline:** Candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8. Candidates will brief their platoon order to cadre. This is a planning exercise only.
 >
-> **Training Focus:** This OPORD emphasizes logistics, crowd/traffic management, supply accountability, and interaction with distressed civilians. Tests leadership under sustained operations with continuous civilian contact. Good for static training iterations.
+> **Training Wrinkles (for candidate planning consideration):**
+> - Supplies running low before scheduled resupply.
+> - Aggressive or desperate civilians.
+> - Civilians without vehicles (walk-up requests).
+> - Media presence requesting interviews.
+> - Local officials requesting priority distribution.
+> - Medical emergencies at the POD site.
+> - Requests exceeding distribution limits.
+> - Language barriers with non-English speakers.
+> - Rumors causing crowd surges.
+> - Vehicle breakdown blocking distribution lane.
+> - Other agencies arriving to coordinate.
 >
-> **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 90 minutes (simulated). AAR is 15 minutes.
->
-> **OPFOR/Training Wrinkles:**
-> - Supplies running low before scheduled resupply (prioritization decisions).
-> - Aggressive or desperate civilians demanding more than allocation.
-> - Civilians without vehicles (walk-up distribution requests).
-> - Media presence requesting interviews or filming operations.
-> - Local officials requesting priority distribution for specific groups.
-> - Medical emergency at POD site (heat casualty, diabetic emergency, etc.).
-> - Requests exceeding distribution limits (large families, group homes).
-> - Language barriers with non-English speaking civilians.
-> - Rumors spreading about POD closure causing crowd surge.
-> - Vehicle breakdown in distribution lane blocking traffic flow.
-> - Power outage affecting any electronic tracking/communication.
-> - Other agencies (Red Cross, FEMA, church groups) arriving to coordinate or set up adjacent.
-> - Civilian complaints about wait times or distribution amounts.
-> - Suspected fraud (same vehicle returning for additional supplies).
->
-> **NOTE:** This is a DSCA operation. Security awareness is important due to high-value supplies and stressed civilian population, but there is no enemy threat.
->
-> **See Also:** [DSCA Operations Overview](dsca-operations-overview.md)
+> **NOTE:** This is a DSCA operation. Security awareness is important due to supplies and stressed population, but there is no enemy threat.
+
+**CLASSIFICATION: UNCLASSIFIED // FOR TRAINING USE ONLY**
+
+**ISSUING HEADQUARTERS:** A Company, 4th Battalion, 211th Infantry Regiment
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
 **Task Organization:**
 
-1st Platoon, A Co. 4th BN-211th INF (POD Element)
-Platoon Leader (Command Post)
-Platoon Sergeant (Distribution Point Supervisor)
-1st Squad - Distribution Team #1
-2nd Squad - Distribution Team #2
-3rd Squad - Traffic Control/Security
+A Company, 4th BN-211th INF
+- Company Headquarters (Bay County Staging Area)
+- 1st Platoon (POD Site ALPHA - Panama City High School)
+- 2nd Platoon (POD Site BRAVO - Lynn Haven Community Center)
+- 3rd Platoon (Resupply/QRF)
 
-Attached: 3x LMTV (supply transport), 1x HMMWV (command/control)
+**1st Platoon Task Organization:**
+- Platoon Leader (Command Post)
+- Platoon Sergeant (Distribution Point Supervisor)
+- 1st Squad (Distribution Team #1)
+- 2nd Squad (Distribution Team #2)
+- 3rd Squad (Traffic Control/Site Security)
+
+**Attached:**
+- 3x LMTV (initial supply load)
+- 1x HMMWV (command/control)
 
 ---
 
 ## 1. SITUATION
 
 ### a. Area of Interest
-Bay County, Florida. Hurricane DELTA made landfall 72-96 hours ago. Emergency supplies have arrived at the Bay County Staging Area. Points of Distribution are being established throughout the affected area to provide relief supplies directly to civilians.
+Bay County, Florida. Hurricane DELTA made landfall 72-96 hours ago. Emergency supplies have arrived at the Bay County Staging Area. PODs are being established throughout the affected area to provide relief supplies directly to civilians.
 
 ### b. Area of Operations
 
-**1. Terrain.** The POD site is located at [designated location - school, church, or large parking area] in Bay County. The site features a large paved area suitable for vehicle traffic flow, with defined entry and exit points. Surrounding area includes residential neighborhoods and commercial areas affected by hurricane damage.
+**1. Terrain.** POD Site ALPHA is located at Panama City High School, featuring a large parking lot suitable for drive-through operations. The site has defined entry points from the main road and exit to secondary streets. Surrounding area is residential with significant hurricane damage.
 
-   - **Key Terrain:** POD site (the decisive terrain), entry control point, distribution point, exit lane, staging area for supply vehicles, command post location.
+   - **Key Terrain:** POD Site ALPHA (decisive terrain), entry control point on main road, parking lot distribution lanes, exit routes, covered areas for supply staging.
 
-**2. Weather.** Post-hurricane conditions: Clear to partly cloudy, temperature 80-90°F, humidity 70-80%. Heat casualties are a concern for both Soldiers and civilians. Ensure hydration and shade when possible.
+**2. Weather.** Post-hurricane conditions: Clear to partly cloudy, temperature 80-90°F, humidity 70-80%. Heat casualties are a concern for both Soldiers and civilians.
 
 ### c. Civil Considerations
-Civilians in the area are stressed, without power, and in need of basic supplies. Many have been without adequate food, water, or ice for 3-4 days. Expect high demand and emotional civilians. Some may be aggressive or desperate. Others may be elderly, disabled, or have special needs. Media may be present. Other relief organizations may be operating nearby.
+Civilians in Bay County are stressed—many have been without adequate food, water, or ice for 3-4 days. Expect high demand and emotional civilians. Media may be present. Other relief organizations may be operating nearby.
 
-**1. Population.** POD is expected to serve approximately 500-1000 households during operational hours. Expect diverse population including elderly, families with children, disabled individuals, and non-English speakers.
+**1. Expected Demand:** POD Site ALPHA is expected to serve 500-1000 households during operational hours.
 
-**2. Expectations.** Civilians expect fair, efficient distribution. Long wait times or perceived unfairness may cause frustration. Clear communication about distribution limits and procedures is essential.
+**2. Population Characteristics:** Diverse population including elderly, families with children, disabled individuals, non-English speakers. Some may be aggressive or desperate.
 
-**3. Special Needs.** Some civilians may have medical conditions, mobility limitations, or language barriers. Be prepared to accommodate reasonable requests while maintaining fairness.
+**3. Special Considerations:**
+   - Elderly/disabled may have mobility limitations
+   - Some households may have special medical needs (insulin requiring ice)
+   - Large families or group homes may request additional supplies
+   - Walk-up civilians (no vehicle) will need accommodation
 
 ### d. Friendly Forces
 
-**1. Higher Headquarters:** A Co. 4th BN – 211th INF, supporting the Florida National Guard Joint Task Force – Hurricane DELTA.
+**1. Higher Headquarters:** 4th BN, 211th INF, supporting Florida National Guard Joint Task Force – Hurricane DELTA.
 
-**2. Mission.** A Company operates multiple POD sites in Bay County to distribute emergency relief supplies to affected civilians.
+**2. Battalion Mission.** 4th Battalion conducts humanitarian assistance operations in Bay County to provide relief supplies to affected civilians.
 
-**3. Commander's Intent.** Distribute supplies fairly and efficiently to maximize the number of households served. Treat all civilians with dignity and respect. Maintain accountability of supplies. Coordinate with other agencies as needed. Report issues and needs to enable resupply and support.
+**3. Battalion Commander's Intent.** Distribute supplies fairly and efficiently to maximize the number of households served. Treat all civilians with dignity and respect. Maintain accountability of supplies. Report issues to enable timely resupply.
+
+**4. Adjacent Units:**
+   - B Company: Operating POD sites in eastern Bay County
+   - C Company: Security operations
+   - County Emergency Management: Coordinating overall relief effort
 
 ### e. Attachments and Detachments
-None.
+3x LMTV with initial supply load attached to 1st Platoon for POD Site ALPHA operations.
 
 ---
 
 ## 2. MISSION
 
-1st Platoon establishes and operates a Point of Distribution at [designated location] in Bay County NLT ____ to distribute emergency relief supplies to affected civilians in support of Hurricane DELTA relief operations.
+A Company establishes and operates Points of Distribution at designated locations in Bay County NLT ____ to distribute emergency relief supplies to affected civilians in support of Hurricane DELTA relief operations.
 
 ---
 
@@ -98,248 +110,268 @@ None.
 
 ### a. Commander's Intent
 
-**1. Commander's Intent.** 1st Platoon operates a fair, efficient POD that maximizes the number of households served while treating all civilians with dignity and respect.
+**1. Commander's Intent.** A Company operates fair, efficient PODs that maximize the number of households served while treating all civilians with dignity and respect. We will maintain supply accountability and coordinate with other agencies to ensure comprehensive relief coverage.
 
-**2. Purpose.** The purpose of this operation is to distribute emergency relief supplies to civilians affected by Hurricane DELTA, providing immediate assistance and demonstrating effective military support to civil authorities.
+**2. Purpose.** Distribute emergency relief supplies to civilians affected by Hurricane DELTA, providing immediate assistance and demonstrating effective military support to civil authorities.
 
-**3. End State.** POD is established and operational, supplies are distributed fairly and efficiently, supply accountability is maintained, and the platoon is prepared for continued operations or transition.
+**3. End State.** POD sites operational, supplies distributed fairly and efficiently, supply accountability maintained, civilians treated with dignity, company prepared for sustained operations.
+
+**4. Key Tasks:**
+   - Establish POD sites at designated locations
+   - Distribute supplies using drive-through method
+   - Maintain supply accountability
+   - Coordinate resupply as needed
+   - Treat all civilians professionally
 
 ### b. Concept of Operations
-1st Platoon establishes a POD using the drive-through distribution method. Traffic control personnel manage vehicle entry and flow. Distribution teams issue supplies to each vehicle according to established limits. The command post coordinates operations, supply accountability, resupply requests, and reporting. The platoon operates the POD during designated hours, distributes supplies until depleted or ordered to close, and maintains security of supplies and personnel throughout.
+A Company operates two POD sites in Bay County. 1st Platoon operates POD Site ALPHA at Panama City High School. 2nd Platoon operates POD Site BRAVO at Lynn Haven Community Center. 3rd Platoon conducts resupply runs from the staging area and serves as QRF. Each POD uses the drive-through distribution method with traffic control at entry, multiple distribution lanes, and controlled exit. PODs operate during designated hours or until supplies are depleted. Resupply is coordinated through the Company TOC.
 
-### c. POD Layout and Traffic Flow
-- **Entry Control Point:** Single entry point with traffic control. Verify civilian vehicles, provide instructions.
-- **Holding Area:** Vehicle queue lane leading to distribution point.
-- **Distribution Point:** Supplies staged for rapid issue. 2 distribution teams operating simultaneously.
-- **Exit Lane:** One-way exit to prevent return traffic.
-- **Command Post:** Central location for coordination, accountability, and reporting.
-- **Supply Staging Area:** Resupply vehicles stage here; supplies moved to distribution point as needed.
-- **Walk-Up Area (if established):** Separate area for civilians without vehicles.
+### c. Scheme of Movement and Maneuver
+- Platoons move from staging area to assigned POD sites
+- Establish POD layout per SOP
+- Conduct distribution operations
+- Transition or close POD on order
 
 ### d. Scheme of Fires
 Not applicable (DSCA operation).
 
 ### e. Tasks to Subordinate Units
 
-**1. 1st Squad (Distribution Team #1):**
+**1st Platoon (POD Site ALPHA - Main Effort):**
 
-- **TASK:** Operate distribution point lane #1, issue supplies to civilians according to established limits, maintain supply accountability using tally sheets, and report supply status to the command post.
-- **PURPOSE:** Distribute supplies fairly and efficiently while maintaining accountability.
+- **TASK:** Establish and operate POD Site ALPHA at Panama City High School. Set up traffic flow pattern, distribute emergency supplies (water, ice, MREs, tarps) to affected civilians, maintain supply accountability, coordinate resupply through Company TOC, and transition or close POD on order.
+- **PURPOSE:** Distribute relief supplies to civilians in the Panama City area, providing immediate humanitarian assistance.
+- **END STATE:** POD Site ALPHA operational, supplies distributed fairly and efficiently, accountability maintained, site secured or transitioned on order.
 
-**2. 2nd Squad (Distribution Team #2):**
+**Distribution Limits (per household):**
+- Water: 1 case (24 bottles)
+- Ice: 2 bags (if available)
+- MREs: 1 case (12 meals)
+- Tarps: 1 (if available)
 
-- **TASK:** Operate distribution point lane #2, issue supplies to civilians according to established limits, restock distribution point from staging area as needed, and assist with walk-up distribution if established.
-- **PURPOSE:** Distribute supplies fairly and efficiently while maintaining continuous operations.
+**Site Layout Requirements:**
+- Single entry point with traffic control
+- Holding/queue area
+- Minimum 2 distribution lanes
+- Single exit (prevent return traffic)
+- Command post
+- Supply staging area
+- Walk-up area (if established)
 
-**3. 3rd Squad (Traffic Control/Security):**
+**2nd Platoon (POD Site BRAVO):**
 
-- **TASK:** Manage traffic flow at entry control point and throughout POD site, maintain security of supply staging area, respond to disturbances or emergencies, and assist with crowd management as needed.
-- **PURPOSE:** Ensure smooth traffic flow, maintain security, and respond to incidents.
+- **TASK:** Establish and operate POD Site BRAVO at Lynn Haven Community Center using same procedures as POD Site ALPHA.
+- **PURPOSE:** Distribute relief supplies to civilians in the Lynn Haven area.
+
+**3rd Platoon (Resupply/QRF):**
+
+- **TASK:** Conduct resupply runs from Bay County Staging Area to POD sites as requested. Serve as Quick Reaction Force to support POD operations if required.
+- **PURPOSE:** Maintain continuous supply flow to PODs and provide emergency response capability.
 
 ### f. Coordinating Instructions
 
-**1. Distribution Limits (per household):**
-   - Water: 1 case (24 bottles)
-   - Ice: 2 bags (if available)
-   - MREs: 1 case (12 meals)
-   - Tarps: 1 per household (if available)
+**1. Distribution Procedures:**
+   1. Greet civilian at distribution point
+   2. Verify household (honor system—no ID required)
+   3. Issue supplies according to limits
+   4. Mark tally sheet
+   5. Direct to exit
 
-**2. Distribution Procedures:**
-   1. Greet civilian, verify household (no ID required, honor system).
-   2. Issue supplies according to limits.
-   3. Mark tally sheet for each distribution.
-   4. Direct civilian to exit lane.
-   5. If supplies depleted, inform civilian of other POD locations or next resupply time.
+**2. Special Situations:**
+   - **Large families (6+):** May issue additional water and MREs (PL discretion)
+   - **Group homes/shelters:** Coordinate with PSG for bulk distribution
+   - **Walk-up civilians:** Serve in separate area; reduced allocation (what can be carried)
+   - **Returning vehicles:** Note but do not confront; report pattern to PL
+   - **Special medical needs:** PL discretion for additional ice (insulin, etc.)
 
-**3. Special Situations:**
-   - Large families (6+): May issue additional water and MREs (PL discretion).
-   - Group homes/shelters: Coordinate with PSG for bulk distribution.
-   - Walk-up civilians: Serve in separate area if established; otherwise, provide reduced allocation that can be carried.
-   - Returning vehicles: Note but do not confront; report pattern to PL.
+**3. Civilian Interaction:**
+   - Be professional, courteous, and patient
+   - Explain distribution limits clearly and calmly
+   - Do NOT argue—refer complaints to PL/PSG
+   - If civilian becomes aggressive, do not escalate; call for assistance
+   - Treat all civilians with dignity regardless of behavior
 
-**4. Civilian Interaction Guidelines:**
-   1. Be professional, courteous, and patient.
-   2. Explain distribution limits clearly.
-   3. Do not argue with civilians; refer complaints to PL/PSG.
-   4. If civilian becomes aggressive, do not escalate; call for assistance.
-   5. Treat all civilians with dignity regardless of behavior.
+**4. Media Interaction:**
+   - Be professional and continue duties
+   - Refer all interview requests to PL
+   - Do not speculate or provide unofficial information
+   - PL coordinates media through Company TOC
 
-**5. Media Interaction:**
-   1. Be professional and continue duties.
-   2. Refer all interview requests to PL.
-   3. Do not speculate or provide unofficial information.
-   4. PL coordinates any media interaction with higher headquarters.
+**5. Medical Emergencies:**
+   1. Stop distribution in affected area
+   2. Provide first aid if trained
+   3. Call 911 if available; request support from Company TOC
+   4. Designate Soldier to meet emergency responders
+   5. Resume operations when safe
 
-**6. Medical Emergencies:**
-   1. Stop distribution in affected area.
-   2. Provide first aid if trained.
-   3. Call 911 if available; request support from higher.
-   4. Designate Soldier to meet emergency responders.
-   5. Resume operations when safe.
+**6. Supply Accountability:**
+   - Initial inventory upon receipt
+   - Tally sheets at each distribution point
+   - Hourly status reports to Company TOC
+   - End of day inventory
 
-**7. Supply Accountability:**
-   - Initial inventory upon receipt.
-   - Tally sheets maintained at each distribution point.
-   - Hourly supply status reports to command post.
-   - End of day inventory and report.
+**7. Reporting Requirements:**
+   - **POD Operational:** When site setup complete
+   - **Hourly Status:** Households served, supply levels, issues
+   - **Resupply Request:** When supplies reach 25% remaining
+   - **Incident Report:** Security, medical, or significant events
+   - **End of Day:** Total distributed, remaining supplies, issues
 
-**8. Reporting:**
-   - **POD Operational Report:** Upon completing setup.
-   - **Hourly Status Report:** Distribution count, supply status, issues.
-   - **Incident Report:** Any security, medical, or significant events.
-   - **End of Day Report:** Total distributed, supplies remaining, issues, recommendations.
+**8. Coordination with Other Agencies:**
+   - Other agencies (Red Cross, FEMA, churches) may arrive
+   - Be professional and cooperative
+   - Coordinate through PL
+   - Do not combine distribution operations without Company approval
 
 **9. POD Operating Hours:**
-   - Setup: NLT ____
+   - Setup complete: NLT ____
    - Distribution begins: ____
    - Distribution ends: ____ (or when supplies depleted)
-   - Breakdown/transition: On order
+   - Site transition/closure: On order
 
-**10.** This OPORD is effective immediately upon distribution.
+**10.** This OPORD is effective upon receipt.
 
 ---
 
 ## 4. SUSTAINMENT
 
 ### a. Logistics
-1. Supplies: Initial load delivered by LMTV convoy. Resupply coordinated through Company TOC.
-2. Fuel: Vehicles maintain minimum half tank; refuel at staging area.
-3. Meals: Soldiers eat MREs during breaks (not from distribution supplies).
-4. Water: Soldiers maintain hydration from separate supply (not distribution stock).
-5. Equipment: Tally sheets, markers, traffic cones, signs, tables.
+1. **Initial Supply Load:** 3x LMTV (water, ice, MREs, tarps). Detailed manifest provided separately.
+2. **Resupply:** Request through Company TOC when at 25% remaining.
+3. **Soldier Sustainment:** MREs and water from separate supply (NOT distribution stock).
+4. **Fuel:** Vehicles maintain half tank minimum.
+5. **Equipment:** Traffic cones, signs, tables, tally sheets, markers.
 
 ### b. Health System Support
 1. First aid kit at command post.
-2. Combat lifesaver on site.
-3. Shade and water available for heat casualty prevention.
-4. Emergency: Stabilize, call 911, report to higher.
+2. CLS on site.
+3. Shade and water for Soldiers (heat casualty prevention).
+4. Civilian medical emergency: Stabilize, call 911, report to Company TOC.
 
 ---
 
 ## 5. COMMAND AND SIGNAL
 
 ### a. Command
-1. Platoon Leader at command post (overall POD operations).
-2. Platoon Sergeant supervises distribution point operations.
-3. Succession of Command: PL, PSG, 1st SL, 2nd SL, 3rd SL.
+1. Company Commander at Bay County Staging Area.
+2. 1st Platoon Leader commands POD Site ALPHA.
+3. Succession of Command (1st Platoon): PL, PSG, 1st SL, 2nd SL, 3rd SL.
 
 ### b. Control
-1. Command Post: Central location at POD site.
-2. Report to Company TOC.
+1. Company TOC: Bay County Staging Area
+2. POD Site ALPHA CP: Central location within site
 
 ### c. Signal
 
 **1. PACE Plan:**
-   - Primary: Radio FH NET ID 601
+   - Primary: Company Command Net (FH NET ID 601)
    - Alternate: Cell phone
-   - Contingency: Frequency 47000 single channel plain text
-   - Emergency: Runner
+   - Contingency: FM 47000 single channel
+   - Emergency: Runner to staging area
 
 **2. Call Signs:**
-   - PL – Delta 1-6
-   - PSG – Delta 1-7
-   - Distribution Team #1 – Delta 1-1
-   - Distribution Team #2 – Delta 1-2
-   - Traffic Control – Delta 1-3
+   - Company Commander – Gator 6
+   - 1st PL (POD ALPHA) – Gator 1-6
+   - 1st PSG – Gator 1-7
+   - Distribution Team #1 – Gator 1-1
+   - Distribution Team #2 – Gator 1-2
+   - Traffic Control – Gator 1-3
 
-**3. Internal POD Communications:**
-   - Hand signals for traffic control.
-   - Whistle: 1 blast = attention; 3 blasts = emergency/stop operations.
-   - Runner for non-urgent coordination.
+**3. Internal POD Signals:**
+   - Hand signals for traffic control
+   - Whistle: 1 blast = attention; 3 blasts = emergency/stop operations
+   - Runner for non-urgent internal coordination
 
 ---
 
-## ANNEX A: POD SITE LAYOUT DIAGRAM
+## ANNEX A: POD SITE LAYOUT
 
 ```
+                         MAIN ROAD
+                             |
                     [ENTRY CONTROL POINT]
-                           |
-                           v
-    +------------------[HOLDING AREA/QUEUE]------------------+
-    |                                                         |
-    |     [DIST POINT #1]          [DIST POINT #2]           |
-    |          |                         |                    |
-    |          v                         v                    |
-    |     +-------+                 +-------+                 |
-    |     |SUPPLIES|                |SUPPLIES|                |
-    |     +-------+                 +-------+                 |
-    |                                                         |
-    |                   [COMMAND POST]                        |
-    |                                                         |
-    |              [SUPPLY STAGING AREA]                      |
-    |                   [LMTV PARKING]                        |
-    |                                                         |
-    +----------------------[EXIT LANE]------------------------+
-                              |
-                              v
-                         [EXIT TO STREET]
+                             |
+                             v
+         +--[HOLDING AREA / VEHICLE QUEUE]--+
+         |                                   |
+         |   [DIST      [DIST               |
+         |   LANE 1]    LANE 2]             |
+         |      |          |                |
+         |      v          v                |
+         |  +------+   +------+             |
+         |  |SUPPLY|   |SUPPLY|             |
+         |  +------+   +------+             |
+         |                                   |
+         |        [COMMAND POST]            |
+         |                                   |
+         |     [SUPPLY STAGING AREA]        |
+         |        [LMTV PARKING]            |
+         |                                   |
+         +-------[EXIT LANE]----------------+
+                      |
+                      v
+               SECONDARY ROAD
 
-    [WALK-UP AREA] (if established - separate from vehicle traffic)
+   [WALK-UP AREA] - Separate from vehicle traffic
 ```
 
 ---
 
-## ANNEX B: POD TALLY SHEET
+## ANNEX B: TALLY SHEET FORMAT
 
 | Time | Water (cases) | Ice (bags) | MREs (cases) | Tarps | Notes |
 |------|---------------|------------|--------------|-------|-------|
 |      |               |            |              |       |       |
-|      |               |            |              |       |       |
-|      |               |            |              |       |       |
 
-**Hourly Totals:**
-- Hour 1: _____ households served
-- Hour 2: _____ households served
-- Hour 3: _____ households served
-
-**Daily Total:** _____ households served
-
-**Supplies Remaining:**
-- Water: _____ cases
-- Ice: _____ bags
-- MREs: _____ cases
-- Tarps: _____
-
-**Issues/Notes:**
+**Hourly Summary:**
+- Households served: ____
+- Supplies issued: Water ___ / Ice ___ / MRE ___ / Tarp ___
+- Issues: ____
 
 ---
 
-## ANNEX C: POD SETUP CHECKLIST
+## ANNEX C: 1ST PLATOON PLANNING CONSIDERATIONS
 
-**1. Site Preparation:**
-   - [ ] Entry point identified and marked
-   - [ ] Exit point identified and marked
-   - [ ] Queue lane established
-   - [ ] Distribution points established
-   - [ ] Command post established
-   - [ ] Supply staging area established
-   - [ ] Walk-up area established (if applicable)
+The Platoon Leader should address the following during TLP:
 
-**2. Traffic Control:**
-   - [ ] Traffic cones placed
-   - [ ] Signs posted (ENTRY, EXIT, POD OPEN, etc.)
-   - [ ] Traffic control personnel positioned
-   - [ ] Barriers/cones to prevent wrong-way traffic
+**1. Site Organization:**
+   - [ ] Entry point location and traffic control plan
+   - [ ] Queue/holding area capacity and management
+   - [ ] Distribution lane layout (number, positioning)
+   - [ ] Exit route (prevent return traffic)
+   - [ ] Command post location
+   - [ ] Supply staging area
+   - [ ] Walk-up area (if applicable)
 
-**3. Distribution Points:**
-   - [ ] Tables/staging area set up
-   - [ ] Initial supplies staged
-   - [ ] Tally sheets and markers ready
-   - [ ] Distribution teams briefed on limits and procedures
+**2. Personnel Allocation:**
+   - [ ] Traffic control team composition and positions
+   - [ ] Distribution teams composition and responsibilities
+   - [ ] Command post staffing
+   - [ ] Relief/rotation plan
+   - [ ] Reserve for contingencies
 
-**4. Communications:**
-   - [ ] Radio check completed
-   - [ ] Cell phones charged
-   - [ ] Contact information for higher headquarters current
+**3. Supply Management:**
+   - [ ] Initial inventory procedures
+   - [ ] Tally sheet procedures and responsibilities
+   - [ ] Resupply trigger point (when to request)
+   - [ ] End of day accountability
 
-**5. Safety:**
-   - [ ] First aid kit positioned
-   - [ ] Water and shade available for Soldiers
-   - [ ] Emergency procedures briefed
-   - [ ] 911 contact confirmed (if available)
+**4. Contingency Planning:**
+   - [ ] Crowd surge procedures
+   - [ ] Aggressive civilian procedures
+   - [ ] Medical emergency procedures
+   - [ ] Supply depletion procedures (what to tell civilians)
+   - [ ] Weather contingency (lightning, severe heat)
+   - [ ] Vehicle blocking distribution lane
 
-**6. Accountability:**
-   - [ ] Initial supply inventory completed
-   - [ ] Tally sheets prepared
-   - [ ] Reporting schedule confirmed
+**5. Communications:**
+   - [ ] Internal communication plan (within POD)
+   - [ ] External reporting schedule
+   - [ ] Media interaction procedures
+
+**6. Transition/Closure:**
+   - [ ] Criteria for closure (supplies depleted, ordered, end of hours)
+   - [ ] Procedures for informing waiting civilians
+   - [ ] Site cleanup/security
+   - [ ] Final reporting
 
