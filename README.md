@@ -26,6 +26,7 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 - [Movement to Contact](002-movement-to-contact.md) - [PDF](002-movement-to-contact.pdf)
 - [Raid on Bunker](003-raid-a-bunker.md) - [PDF](003-raid-a-bunker.pdf)
 - [Area/Zone Reconnaissance](005-area-zone-reconnaissance.md) - [PDF](005-area-zone-reconnaissance.pdf)
+- [Tactical Road March](009-tactical-road-march.md) - [PDF](009-tactical-road-march.pdf)
 
 ### MOUT Training Scenarios
 - [Clear Dismount City](004-clear-dismount-city.md) - [PDF](004-clear-dismount-city.pdf)
