@@ -12,18 +12,6 @@ This document provides grid references for key locations within the Local Traini
 
 ---
 
-## Related OPORDs
-
-- [001 - Ambush at Crossroads](001-ambush.md)
-- [002 - Movement to Contact](002-movement-to-contact.md)
-- [003 - Raid on Bunker](003-raid-a-bunker.md)
-- [004 - Clear Dismount City](004-clear-dismount-city.md)
-- [005 - Area Reconnaissance](005-area-zone-reconnaissance.md)
-- [006 - Base Defense](006-base-defense.md)
-- [007 - Forward Passage of Lines](007-forward-passage-of-lines.md)
-
----
-
 ## Grids by Category
 
 ### FOB Locations
