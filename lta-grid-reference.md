@@ -67,29 +67,28 @@ This document provides grid references for key locations within the Local Traini
 
 ---
 
-## OPORD Grid Cross-Reference
+## OPORD Grid Reference
 
-The following grids are used in current OPORDs. These may be modified by cadre to use actual LTA grid references as needed:
+The following grids are used in current OPORDs:
 
-| OPORD | Grid Used | Purpose | Suggested LTA Grid |
-|-------|-----------|---------|-------------------|
-| 001 - Ambush | `MP 0615 1550` | OBJ FLUNKER | `MP 0600 1530` (Ambush site on Bradenton Ave) |
-| 001 - Ambush | `MP 0618 1552` | 3rd Squad Security | `MP 0610 1550` (FOB center) |
-| 002 - MTC | `MP 0610 1545` | OBJ HERRERA | `MP 0612 1546` (South entrance to FOB) |
-| 003 - Raid | `MP 0600 1540` | OBJ COTTO (Bunker) | `MP 0600 1538` (Bradenton Ave intersection) |
-| 004 - Clear City | `MP 0620 1560` | OBJ FLUNKER (Urban) | `MP 0611 1530` (Conex City center) |
-| 005 - Recon | `MP 0620 1540` | Suspected Enemy Position | `MP 0613 1532` (Conex City NE bldg) |
-| 006 - Base Defense | `MP 0630 1570` | FOB THUNDER | `MP 0610 1550` (FOB center) |
-| 007 - FPOL | `MP 0640 1580` | Passage Point | `MP 0607 1555` (North entrance to FOB) |
-| 007 - FPOL | `MP 0650 1590` | OBJ THUNDER | `MP 0602 1565` (Bradenton/Jacksonville intersection) |
+| OPORD | Grid | Purpose | LTA Location |
+|-------|------|---------|--------------|
+| 001 - Ambush | `MP 0600 1530` | OBJ FLUNKER | Ambush site on Bradenton Ave |
+| 001 - Ambush | `MP 0610 1550` | 3rd Squad Security | FOB center |
+| 002 - MTC | `MP 0612 1546` | OBJ HERRERA | South entrance to FOB |
+| 003 - Raid | `MP 0600 1538` | OBJ COTTO (Bunker) | Bradenton Ave intersection |
+| 004 - Clear City | `MP 0611 1530` | OBJ FLUNKER (Urban) | Conex City center |
+| 005 - Recon | `MP 0613 1532` | Suspected Enemy Position | Conex City NE bldg |
+| 006 - Base Defense | `MP 0610 1550` | FOB THUNDER | FOB center |
+| 007 - FPOL | `MP 0607 1555` | Passage Point | North entrance to FOB |
+| 007 - FPOL | `MP 0602 1565` | OBJ THUNDER | Bradenton/Jacksonville intersection |
 
 ---
 
 ## Usage Notes
 
-- All grids use the **MP** (Military Practice) 100,000m grid zone designation.
+- All grids are in UTM Zone **17R**, 100,000m grid square **MP** (Camp Blanding area).
 - Grids are 8-digit (10m accuracy) for training purposes.
-- Cadre may substitute OPORD grids with actual LTA grids based on training objectives and terrain availability.
 - When modifying OPORDs, ensure all grid references are updated consistently throughout the document.
 - Consider terrain features and line-of-sight when selecting alternate grids.
 
