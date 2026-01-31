@@ -27,6 +27,8 @@
 > - Test ability to maintain formation and control during passage.
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
+>
+> **See Also:** [LTA Grid Reference](lta-grid-reference.md)
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 

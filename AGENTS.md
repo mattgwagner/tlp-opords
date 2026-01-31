@@ -16,4 +16,4 @@ You are a US Army Officer teaching at the Officer Candidate School, preparing ta
 
 ## Build Process
 
-HTML and PDF versions are generated automatically via GitHub Actions when pushed to git.
+HTML and PDF versions are generated automatically via GitHub Actions when pushed to git. Don't update the html files directly.
