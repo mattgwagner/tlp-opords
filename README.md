@@ -9,6 +9,7 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
   - [Evaluated Missions (Wooded Terrain)](#evaluated-missions-wooded-terrain)
   - [MOUT Training Scenarios](#mout-training-scenarios)
   - [Static Operations](#static-operations)
+  - [DSCA Operations (Hurricane Response)](#dsca-operations-hurricane-response)
 - [FLX Variation System](#flx-variation-system)
 
 ## Templates and References
@@ -35,6 +36,14 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 
 ### Static Operations
 - [Patrol Base Operations](008-patrol-base-operations.md) - [PDF](008-patrol-base-operations.pdf)
+
+### DSCA Operations (Hurricane Response)
+
+These OPORDs support TLP planning exercises focused on Defense Support of Civil Authorities (DSCA) operations. Set during a fictional Hurricane DELTA response in Florida, they introduce candidates to real-world National Guard domestic operations including convoy movements, reconnaissance, and humanitarian assistance. These are planning exercises only—candidates develop orders but do not execute.
+
+- [Hurricane Relief Convoy](010-dsca-convoy-operations.md) - [PDF](010-dsca-convoy-operations.pdf)
+- [Mounted Area Reconnaissance](011-dsca-mounted-reconnaissance.md) - [PDF](011-dsca-mounted-reconnaissance.pdf)
+- [Point of Distribution Operations](012-dsca-point-of-distribution.md) - [PDF](012-dsca-point-of-distribution.pdf)
 
 ## FLX Variation System
 
