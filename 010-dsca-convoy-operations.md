@@ -52,13 +52,13 @@ A Company, 4th BN-211th INF
 ## 1. SITUATION
 
 ### a. Area of Interest
-State of Florida, from Camp Blanding Joint Training Center (Clay County) to Bay County via I-10 and US-231. Hurricane DELTA made landfall 72 hours ago as a Category 3 hurricane, causing widespread damage to infrastructure, power grid, and transportation networks in the Florida Panhandle.
+State of Florida, from Camp Blanding Joint Training Center (Clay County) to Bay County (Panama City area). Hurricane DELTA made landfall 72 hours ago as a Category 3 hurricane, causing widespread damage to infrastructure, power grid, and transportation networks in the Florida Panhandle. Route distance is approximately 200 miles. Major highways in the region include I-10, US-90, US-231, and US-98.
 
 ### b. Area of Operations
 
-**1. Terrain.** The convoy route follows major highways through north-central Florida to the Panhandle region. Terrain is generally flat with pine forests, agricultural areas, and small towns along the route. Urban areas include Lake City, Tallahassee, and Panama City. Infrastructure damage increases approaching Bay County. Route distance is approximately 200 miles.
+**1. Terrain.** The region between Camp Blanding and Bay County consists of flat to gently rolling terrain with pine forests, agricultural areas, and small towns. Urban areas in the region include Lake City, Tallahassee, and Panama City. Infrastructure damage increases approaching Bay County.
 
-   - **Key Terrain:** I-10/I-75 interchange, Tallahassee bypass, US-231 corridor into Bay County. Fuel points at Lake City and Tallahassee. Bay County Staging Area at Panama City.
+   - **Key Terrain:** Camp Blanding Assembly Area (SP), Bay County Staging Area in Panama City (RP). Fuel availability is limited in the affected area; plan fuel stops accordingly. Major highway interchanges and urban bypass routes may experience congestion.
 
 **2. Weather.** Post-hurricane conditions: Clear skies, temperature 75-85°F, humidity 70-80%. Roads may have standing water in low-lying areas. Debris fields throughout Bay County.
 
@@ -114,9 +114,9 @@ A Company conducts logistics convoy operations from Camp Blanding Joint Training
 A Company conducts a logistics convoy from Camp Blanding to Bay County. 1st Platoon executes the convoy as the main effort, transporting relief supplies via three LMTVs with HMMWV escort. 2nd Platoon maintains security of the Camp Blanding assembly area. 3rd Platoon secures the Bay County Staging Area and prepares to receive the convoy. Upon arrival, 1st Platoon transfers supplies to the staging area and prepares for return convoy or follow-on operations as directed.
 
 ### c. Scheme of Movement and Maneuver
-- 1st Platoon conducts convoy using primary route: Camp Blanding → I-10 West → US-231 South → Bay County Staging Area
-- Alternate route: US-90 West (if I-10 blocked)
-- Scheduled halts at CP2 (Lake City) and CP4 (Tallahassee) for fuel and accountability
+- 1st Platoon plans and executes convoy from Camp Blanding to Bay County Staging Area
+- Platoon Leader selects primary and alternate routes
+- Platoon Leader designates checkpoints, fuel stops, and rest halts
 - Convoy maintains 50-100 meter intervals; adjust for traffic conditions
 
 ### d. Scheme of Fires
@@ -167,17 +167,14 @@ Not applicable (DSCA operation).
 
 **4. Fuel Management:**
    - Depart with full fuel tanks
-   - Planned fuel stops at CP2 (Lake City) and CP4 (Tallahassee)
+   - Platoon Leader plans fuel stops based on route and vehicle range
    - If commercial fuel unavailable, report to higher for military fuel point location
 
 **5. Route and Checkpoints:**
    - SP: Camp Blanding Assembly Area
-   - CP1: I-10 West on-ramp
-   - CP2: Lake City (fuel stop)
-   - CP3: I-10/US-90 junction
-   - CP4: Tallahassee (fuel/rest stop)
-   - CP5: US-231 South turn
-   - RP: Bay County Staging Area
+   - RP: Bay County Staging Area (Panama City vicinity)
+   - Platoon Leader designates checkpoints along selected route
+   - Minimum requirements: fuel stop(s), rest halt, alternate route decision points
 
 **6. Reporting Requirements:**
    - SP Report: When departing Camp Blanding
@@ -197,7 +194,7 @@ Not applicable (DSCA operation).
 ## 4. SUSTAINMENT
 
 ### a. Logistics
-1. **Fuel:** Full tanks at SP; refuel at CP2 and CP4. Emergency fuel coordination through Company TOC.
+1. **Fuel:** Full tanks at SP; refuel at planned fuel stops. Emergency fuel coordination through Company TOC.
 2. **Meals:** MREs carried by each vehicle; consume during scheduled halts.
 3. **Water:** Each Soldier carries 2 quarts minimum; additional water in each vehicle.
 4. **Maintenance:** PMCS prior to SP; report deficiencies to PSG. Trail vehicle carries basic recovery equipment.
