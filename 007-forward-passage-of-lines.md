@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** 1st Platoon is tasked to conduct a forward passage of lines through 2nd Platoon's defensive positions to continue offensive operations against REAPER forces.
 >
-> **Destination:** Passage point at MP 0640 1580, AO HERRERA (MOUT site). Continue movement to OBJ THUNDER (MP 0650 1590) after passage.
+> **Destination:** Passage point at MP 0607 1555, AO HERRERA (MOUT site). Continue movement to OBJ THUNDER (MP 0602 1565) after passage.
 >
 > **Actions on Objective:** Platoon will coordinate with 2nd Platoon, move through the passage point, maintain security during passage, and continue movement to the objective. Critical coordination required to avoid fratricide and maintain operational tempo.
 >
@@ -46,13 +46,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Starke and Highway 16. AO HERRERA includes the MOUT training area with passage point at MP 0640 1580 and objective at OBJ THUNDER (MP 0650 1590).
+Clay County, Florida, in the vicinity of Starke and Highway 16. AO HERRERA includes the MOUT training area with passage point at MP 0607 1555 and objective at OBJ THUNDER (MP 0602 1565).
 
 ### b. Area of Operations
 
 **1. Terrain.** The passage point is located in an urban environment with buildings, streets, and limited open areas. The route from passage point to objective includes urban terrain with potential enemy positions. Urban terrain provides cover and concealment but also limits observation and fields of fire. Buildings and alleys may be used by enemy forces to observe or engage friendly forces during passage.
 
-   - **Key Terrain:** The passage point at MP 0640 1580 is critical for safe passage. OBJ THUNDER (MP 0650 1590) is the objective for follow-on operations. Buildings along the route provide observation points and potential enemy positions.
+   - **Key Terrain:** The passage point at MP 0607 1555 is critical for safe passage. OBJ THUNDER (MP 0602 1565) is the objective for follow-on operations. Buildings along the route provide observation points and potential enemy positions.
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms. Limited visibility may occur during thunderstorms.
 
@@ -85,7 +85,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts a forward passage of lines through 2nd Platoon's defensive positions at MP 0640 1580 NLT ____, then continues movement to OBJ THUNDER (MP 0650 1590) to continue offensive operations against REAPER forces.
+1st Platoon conducts a forward passage of lines through 2nd Platoon's defensive positions at MP 0607 1555 NLT ____, then continues movement to OBJ THUNDER (MP 0602 1565) to continue offensive operations against REAPER forces.
 
 ---
 

@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** 1st Platoon is tasked to establish and maintain a defensive perimeter around FOB THUNDER to prevent REAPER infiltration, protect critical assets, and maintain security of the forward operating base.
 >
-> **Destination:** FOB THUNDER, located at MP 0630 1570, AO HERRERA (MOUT site).
+> **Destination:** FOB THUNDER, located at MP 0610 1550, AO HERRERA (MOUT site).
 >
 > **Actions on Objective:** Platoon will establish defensive positions, assign sectors of fire, establish early warning systems, conduct security patrols, and respond to enemy threats. Defensive positions will be occupied and maintained for the duration of the operation.
 >
@@ -46,7 +46,7 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Starke and Highway 16. FOB THUNDER is located at MP 0630 1570 within the MOUT training area (AO HERRERA), surrounded by urban terrain and limited open areas.
+Clay County, Florida, in the vicinity of Starke and Highway 16. FOB THUNDER is located at MP 0610 1550 within the MOUT training area (AO HERRERA), surrounded by urban terrain and limited open areas.
 
 ### b. Area of Operations
 
@@ -85,7 +85,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon establishes and maintains defensive positions around FOB THUNDER (MP 0630 1570) NLT ____ to prevent REAPER infiltration, protect critical assets, and maintain security of the forward operating base.
+1st Platoon establishes and maintains defensive positions around FOB THUNDER (MP 0610 1550) NLT ____ to prevent REAPER infiltration, protect critical assets, and maintain security of the forward operating base.
 
 ---
 
@@ -188,7 +188,7 @@ Defensive fires planned for likely enemy avenues of approach. Priority of fires 
 2. Succession of Command: PL, PSG, 1st SL, 2nd SL, 3rd SL.
 
 ### b. Control
-1. Command Posts: FOB THUNDER IVO MP 0630 1570.
+1. Command Posts: FOB THUNDER IVO MP 0610 1550.
 
 ### c. Signal
 

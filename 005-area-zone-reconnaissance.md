@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** 1st Platoon is tasked to conduct an area reconnaissance in AO COTTO to locate REAPER positions, assess REAPER strength and disposition, and identify key terrain features.
 >
-> **Destination:** AO COTTO, bounded by Highway 16 (north), railroad tracks (south), Starke city limits (east), and pine forest edge (west). Focus area around suspected REAPER position at MP 0620 1540.
+> **Destination:** AO COTTO, bounded by Highway 16 (north), railroad tracks (south), Starke city limits (east), and pine forest edge (west). Focus area around suspected REAPER position at MP 0613 1532.
 >
 > **Actions on Objective:** Platoon will establish an ORP, conduct reconnaissance of the area using zone or area reconnaissance techniques, collect intelligence on enemy positions and activities, and report findings to higher headquarters.
 >
@@ -45,13 +45,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompasses the area bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the railroad tracks, and to the west by the pine forest edge. Suspected enemy activity centered around MP 0620 1540.
+Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompasses the area bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the railroad tracks, and to the west by the pine forest edge. Suspected enemy activity centered around MP 0613 1532.
 
 ### b. Area of Operations
 
 **1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-   - **Key Terrain:** The suspected REAPER position at MP 0620 1540 is the focus of reconnaissance. Elevated ground to the north and south offers observation points. Woodlines provide concealment for reconnaissance elements. A small creek bisects the area, potentially affecting movement and REAPER positions.
+   - **Key Terrain:** The suspected REAPER position at MP 0613 1532 is the focus of reconnaissance. Elevated ground to the north and south offers observation points. Woodlines provide concealment for reconnaissance elements. A small creek bisects the area, potentially affecting movement and REAPER positions.
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms. Limited visibility may occur during thunderstorms.
 
@@ -114,12 +114,12 @@ Fires are limited to self-defense only. Avoid engagement unless necessary to bre
 
 **1. 1st Squad:**
 
-- **TASK:** Conduct reconnaissance of the northern sector of AO COTTO, focusing on the area north of the creek line and east of MP 0620 1540, to locate REAPER positions and assess REAPER activity.
+- **TASK:** Conduct reconnaissance of the northern sector of AO COTTO, focusing on the area north of the creek line and east of MP 0613 1532, to locate REAPER positions and assess REAPER activity.
 - **PURPOSE:** Gather intelligence on REAPER positions and activities in the northern portion of the area of operations.
 
 **2. 2nd Squad:**
 
-- **TASK:** Conduct reconnaissance of the southern sector of AO COTTO, focusing on the area south of the creek line and around MP 0620 1540, to locate REAPER positions and assess REAPER activity.
+- **TASK:** Conduct reconnaissance of the southern sector of AO COTTO, focusing on the area south of the creek line and around MP 0613 1532, to locate REAPER positions and assess REAPER activity.
 - **PURPOSE:** Gather intelligence on REAPER positions and activities in the southern portion of the area of operations, including the suspected REAPER position.
 
 **3. 3rd Squad:**

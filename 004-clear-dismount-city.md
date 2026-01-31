@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** 1st Platoon is tasked to clear, seize, and secure the urban terrain known as OBJ FLUNKER. REAPER forces are using this area as a base for operations. The platoon must occupy the city and prevent REAPER from regaining control or using it for future operations.
 >
-> **Destination:** OBJ FLUNKER, AO HERRERA (urban terrain, grid MP 0620 1560).
+> **Destination:** OBJ FLUNKER, AO HERRERA (urban terrain, grid MP 0611 1530).
 >
 > **Actions on Objective:** Platoon will establish an ORP, move to the city, isolate the objective, clear buildings and key terrain, secure the area, and establish defensive positions to prevent enemy re-infiltration. Assault, support, and security elements will be employed per doctrine.
 >
@@ -50,7 +50,7 @@ Clay County, Florida, in the vicinity of Starke and Highway 16.
 
 **1. Terrain.** OBJ FLUNKER is a small urban area with multiple multi-story buildings, narrow streets, alleys, and limited open spaces. The city is surrounded by wooded areas and open fields. Urban terrain provides numerous positions for defense, ambush, and concealment. Buildings offer cover and observation points, while underground routes (sewers, basements) may be used for movement or escape. Limited vehicle access due to debris and barricades.
 
-   - **Key Terrain:** Central plaza (MP 0620 1560), police station, and high-rise building dominate OBJ FLUNKER and are critical for control. Rooftops and intersections provide observation and fields of fire. Main roads and alleyways are likely avenues of approach and withdrawal.
+   - **Key Terrain:** Central plaza (MP 0611 1530), police station, and high-rise building dominate OBJ FLUNKER and are critical for control. Rooftops and intersections provide observation and fields of fire. Main roads and alleyways are likely avenues of approach and withdrawal.
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
@@ -83,7 +83,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon clears, seizes, and secures OBJ FLUNKER (MP 0620 1560) NLT ____ to eliminate REAPER forces, deny REAPER a base of operations, and enable occupation by friendly forces.
+1st Platoon clears, seizes, and secures OBJ FLUNKER (MP 0611 1530) NLT ____ to eliminate REAPER forces, deny REAPER a base of operations, and enable occupation by friendly forces.
 
 ---
 

@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** 1st Platoon is tasked to conduct a raid to eliminate REAPER forces and secure a fortified position in AO HERRERA.
 >
-> **Destination:** REAPER bunker (OBJ COTTO) near MP 0600 1540, AO HERRERA.
+> **Destination:** REAPER bunker (OBJ COTTO) near MP 0600 1538, AO HERRERA.
 >
 > **Actions on Objective:** Platoon will establish an ORP, move to the objective, isolate the enemy position, breach and clear the bunker, and withdraw in an organized manner. Assault, support, and security elements will be employed per doctrine.
 >
@@ -48,7 +48,7 @@ Clay County, Florida, in the vicinity of Starke and Highway 16.
 
 **1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-   - **Key Terrain:** OBJ COTTO (bunker) near MP 0600 1540 is the decisive objective and dominates the surrounding area. Woodlines to the west and south provide covered approaches for the assault and support elements. A small knoll north of the bunker offers observation and a support-by-fire position. A concealed trail to the southwest enables a secure withdrawal after the raid.
+   - **Key Terrain:** OBJ COTTO (bunker) near MP 0600 1538 is the decisive objective and dominates the surrounding area. Woodlines to the west and south provide covered approaches for the assault and support elements. A small knoll north of the bunker offers observation and a support-by-fire position. A concealed trail to the southwest enables a secure withdrawal after the raid.
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
@@ -109,7 +109,7 @@ None.
 
 **1. 1st Squad:**
 
-- **TASK:** Assault and breach OBJ COTTO at MP 0600 1540, neutralize REAPER combatants, and secure the objective.
+- **TASK:** Assault and breach OBJ COTTO at MP 0600 1538, neutralize REAPER combatants, and secure the objective.
 - **PURPOSE:** Destroy REAPER defensive positions and eliminate threats to enable freedom of movement for friendly forces.
 
 **2. 2nd Squad:**
