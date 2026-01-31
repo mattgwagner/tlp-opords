@@ -93,11 +93,11 @@ None.
 
 ### a. Commander's Intent
 
-**i) Commander's Intent.** 1st Platoon establishes and maintains a secure defensive perimeter around FOB THUNDER to prevent REAPER infiltration and protect critical assets.
+**1. Commander's Intent.** 1st Platoon establishes and maintains a secure defensive perimeter around FOB THUNDER to prevent REAPER infiltration and protect critical assets.
 
-**ii) Purpose.** The purpose of this operation is to establish and maintain security of FOB THUNDER to protect critical assets and enable continued operations in AO HERRERA.
+**2. Purpose.** The purpose of this operation is to establish and maintain security of FOB THUNDER to protect critical assets and enable continued operations in AO HERRERA.
 
-**iii) End State.** FOB THUNDER has a secure defensive perimeter, REAPER infiltration is prevented, critical assets are protected, and the forward operating base remains operational and secure.
+**3. End State.** FOB THUNDER has a secure defensive perimeter, REAPER infiltration is prevented, critical assets are protected, and the forward operating base remains operational and secure.
 
 ### b. Concept of Operations
 1st Platoon establishes a defensive perimeter around FOB THUNDER, assigning sectors of fire to each squad. Defensive positions include fighting positions, observation posts, and early warning systems. The platoon conducts security patrols, maintains observation, and responds to enemy threats. The platoon maintains the capability to reinforce threatened sectors and coordinate with higher headquarters for additional support if needed.

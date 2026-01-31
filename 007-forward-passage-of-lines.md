@@ -93,11 +93,11 @@ None.
 
 ### a. Commander's Intent
 
-**i) Commander's Intent.** 1st Platoon safely passes through 2nd Platoon's positions and continues movement to OBJ THUNDER to maintain operational tempo and pressure on REAPER forces.
+**1. Commander's Intent.** 1st Platoon safely passes through 2nd Platoon's positions and continues movement to OBJ THUNDER to maintain operational tempo and pressure on REAPER forces.
 
-**ii) Purpose.** The purpose of this operation is to conduct a forward passage of lines to continue offensive operations and seize OBJ THUNDER, maintaining pressure on REAPER forces.
+**2. Purpose.** The purpose of this operation is to conduct a forward passage of lines to continue offensive operations and seize OBJ THUNDER, maintaining pressure on REAPER forces.
 
-**iii) End State.** 1st Platoon successfully passes through 2nd Platoon's positions, continues movement to OBJ THUNDER, and maintains operational tempo to continue offensive operations against REAPER forces.
+**3. End State.** 1st Platoon successfully passes through 2nd Platoon's positions, continues movement to OBJ THUNDER, and maintains operational tempo to continue offensive operations against REAPER forces.
 
 ### b. Concept of Operations
 1st Platoon coordinates with 2nd Platoon to conduct a forward passage of lines. The platoon moves to the passage point, coordinates passage procedures, and moves through 2nd Platoon's positions while maintaining security and formation. Upon completion of passage, the platoon continues movement to OBJ THUNDER, maintaining security and operational tempo. The platoon is prepared to respond to enemy contact during or after passage.

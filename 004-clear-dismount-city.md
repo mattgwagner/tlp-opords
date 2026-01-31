@@ -91,11 +91,11 @@ None.
 
 ### a. Commander's Intent
 
-**i) Commander's Intent.** 1st Platoon clears, seizes, and secures OBJ FLUNKER to eliminate REAPER presence and establish a defensive posture to prevent REAPER re-infiltration.
+**1. Commander's Intent.** 1st Platoon clears, seizes, and secures OBJ FLUNKER to eliminate REAPER presence and establish a defensive posture to prevent REAPER re-infiltration.
 
-**ii) Purpose.** The purpose of this operation is to clear and secure OBJ FLUNKER to deny REAPER a base of operations and enable follow-on operations in AO HERRERA.
+**2. Purpose.** The purpose of this operation is to clear and secure OBJ FLUNKER to deny REAPER a base of operations and enable follow-on operations in AO HERRERA.
 
-**iii) End State.** OBJ FLUNKER is cleared and secured, REAPER forces are eliminated, and friendly forces occupy the city with a defensive posture preventing REAPER re-infiltration.
+**3. End State.** OBJ FLUNKER is cleared and secured, REAPER forces are eliminated, and friendly forces occupy the city with a defensive posture preventing REAPER re-infiltration.
 
 ### b. Concept of Operations
 1st Platoon establishes an ORP, moves to OBJ FLUNKER, and isolates the objective. 1st Squad serves as the assault element, clearing buildings and key terrain. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective area. 3rd Squad serves as the security element, securing flanks, rear, and preventing REAPER reinforcement or escape. Upon completion, the platoon consolidates and establishes defensive positions to hold the city.
@@ -106,7 +106,7 @@ None.
 - Platoon advances by phase lines, clearing and securing each sector before moving forward.
 
 ### d. Scheme of Fires
-1st Squad, as the decisive effort, has been allocated two mortar targets for planning: DC001 and DC002. 2nd Squad has priority for 81mm HE mortars on order. Use smoke to screen movement as needed.
+1st Squad, as the decisive effort, has priority of indirect fires. Mortar support and smoke available through company on request.
 
 ### e. Tasks to Subordinate Units
 

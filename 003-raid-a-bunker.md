@@ -89,11 +89,11 @@ None.
 
 ### a. Commander's Intent
 
-**i) Commander's Intent.** 1st Platoon eliminates REAPER forces and destroys the bunker to deny REAPER a defensive position and enable friendly freedom of movement.
+**1. Commander's Intent.** 1st Platoon eliminates REAPER forces and destroys the bunker to deny REAPER a defensive position and enable friendly freedom of movement.
 
-**ii) Purpose.** The purpose of this operation is to eliminate REAPER forces and destroy the bunker to deny REAPER a base of operations and allow freedom of movement for friendly forces in AO HERRERA.
+**2. Purpose.** The purpose of this operation is to eliminate REAPER forces and destroy the bunker to deny REAPER a base of operations and allow freedom of movement for friendly forces in AO HERRERA.
 
-**iii) End State.** REAPER bunker is destroyed, REAPER forces are eliminated, and friendly forces have freedom of movement in AO HERRERA.
+**3. End State.** REAPER bunker is destroyed, REAPER forces are eliminated, and friendly forces have freedom of movement in AO HERRERA.
 
 ### b. Concept of Operations
 1st Platoon conducts a raid by establishing an ORP, moving to the objective, and isolating the REAPER position. 1st Squad serves as the assault element, breaching and clearing the bunker. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective area. 3rd Squad serves as the security element, securing the flanks and rear, and interdicting REAPER reinforcements or escape. Upon completion of the raid, the platoon withdraws in an organized manner to the ORP.
@@ -103,7 +103,7 @@ None.
 - 1st Squad breaches bunker; 2nd Squad provides covering fire from elevation; 3rd Squad remains mobile to react to enemy movements.
 
 ### d. Scheme of Fires
-1st Squad, as the decisive effort, has been allocated two mortar targets for planning: AB001 and AB002. 2nd Squad has priority for 81mm HE mortars on order.
+1st Squad, as the decisive effort, has priority of indirect fires. Mortar support available through company on request.
 
 ### e. Tasks to Subordinate Units
 

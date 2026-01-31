@@ -92,11 +92,11 @@ None.
 
 ### a. Commander's Intent
 
-**i) Commander's Intent.** 1st Platoon conducts area reconnaissance to locate REAPER positions and assess REAPER strength and disposition to enable follow-on operations.
+**1. Commander's Intent.** 1st Platoon conducts area reconnaissance to locate REAPER positions and assess REAPER strength and disposition to enable follow-on operations.
 
-**ii) Purpose.** The purpose of this operation is to gather intelligence on REAPER positions, strength, and disposition to enable follow-on operations and prevent REAPER freedom of action in AO COTTO.
+**2. Purpose.** The purpose of this operation is to gather intelligence on REAPER positions, strength, and disposition to enable follow-on operations and prevent REAPER freedom of action in AO COTTO.
 
-**iii) End State.** REAPER positions are located, strength and disposition are assessed, key terrain features are identified, and intelligence is reported to enable follow-on operations in AO COTTO.
+**3. End State.** REAPER positions are located, strength and disposition are assessed, key terrain features are identified, and intelligence is reported to enable follow-on operations in AO COTTO.
 
 ### b. Concept of Operations
 1st Platoon establishes an ORP, then conducts area reconnaissance using zone or area reconnaissance techniques. Squads are assigned sectors or zones to reconnoiter, maintaining security and avoiding detection. The platoon collects intelligence on REAPER positions, activities, and terrain, then consolidates findings and reports to higher headquarters. The platoon maintains the capability to break contact and withdraw if compromised.
