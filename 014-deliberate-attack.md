@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** 1st Platoon is tasked to attack to seize OBJ HERRERA to deny REAPER use of a key road junction.
 >
-> **Destination:** OBJ HERRERA at MP 0612 1546, AO COTTO.
+> **Destination:** OBJ HERRERA at MP 0585 1552, AO COTTO.
 >
 > **Actions on Objective:** Platoon will establish an ORP, conduct leader's reconnaissance, move to assault positions, seize the objective, and consolidate.
 >
@@ -49,7 +49,7 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
 
 **1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces.
 
-   - **Key Terrain:** The road junction at OBJ HERRERA (MP 0612 1546) controls north-south movement through AO COTTO. Woodlines on the east and west sides of the approach route provide covered and concealed avenues of approach. A small rise north of the objective offers observation and fields of fire over the junction.
+   - **Key Terrain:** The road junction at OBJ HERRERA (MP 0585 1552) controls north-south movement through AO COTTO. Woodlines on the east and west sides of the approach route provide covered and concealed avenues of approach. A small rise north of the objective offers observation and fields of fire over the junction.
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms. Limited visibility may occur during storms.
 
@@ -58,7 +58,7 @@ A squad-sized REAPER element occupies hasty fighting positions in the vicinity o
 
 **1. Composition.** 4-6 REAPER personnel with small arms in hasty fighting positions.
 
-**2. Disposition.** REAPER forces occupy positions oriented south along the road junction at MP 0612 1546. They have limited observation to the east and west due to vegetation.
+**2. Disposition.** REAPER forces occupy positions oriented south along the road junction at MP 0585 1552. They have limited observation to the east and west due to vegetation.
 
 **3. Most Probable Course of Action (MPCOA).** REAPER defends from current positions, returns fire when engaged, and attempts to withdraw north if overwhelmed.
 
@@ -82,7 +82,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon attacks to seize OBJ HERRERA (MP 0612 1546) NLT ____ in order to deny REAPER use of the road junction and enable follow-on operations in AO COTTO.
+1st Platoon attacks to seize OBJ HERRERA (MP 0585 1552) NLT ____ in order to deny REAPER use of the road junction and enable follow-on operations in AO COTTO.
 
 ---
 
@@ -119,7 +119,7 @@ None.
 
 **2. 2nd Squad (Assault):**
 
-- **TASK:** Assault through OBJ HERRERA from the east to destroy REAPER forces and seize the road junction at MP 0612 1546.
+- **TASK:** Assault through OBJ HERRERA from the east to destroy REAPER forces and seize the road junction at MP 0585 1552.
 - **PURPOSE:** Seize OBJ HERRERA to deny REAPER control of the road junction.
 
 **3. 3rd Squad (Security / Reserve):**
@@ -231,7 +231,7 @@ When you receive this order, you need to immediately begin extracting critical i
 | **WHO** | 1st Platoon, A Co. 4th BN-211th INF |
 | **WHAT** | Attacks to seize OBJ HERRERA |
 | **WHEN** | NLT ____ (to be filled in at briefing) |
-| **WHERE** | MP 0612 1546, AO COTTO |
+| **WHERE** | MP 0585 1552, AO COTTO |
 | **WHY** | To deny REAPER use of the road junction and enable follow-on operations |
 
 **Understand higher's mission and intent:**
@@ -258,7 +258,7 @@ Issue your WARNORD immediately after initial analysis. Do not wait until you hav
 **Minimum WARNORD content from this OPORD:**
 
 1. **Type of operation:** Deliberate attack
-2. **General location:** OBJ HERRERA, vic MP 0612 1546, AO COTTO
+2. **General location:** OBJ HERRERA, vic MP 0585 1552, AO COTTO
 3. **Initial timeline:** SP time, H-hour (fill in when given time hack)
 4. **Reconnaissance to initiate:** PL will conduct leader's recon from the ORP
 5. **Movement to initiate:** Begin movement to assembly area
@@ -281,7 +281,7 @@ This is the longest step. You conduct a detailed METT-TC analysis and develop yo
 
 **E — Enemy:**
 - Composition: 4-6 personnel, small arms, hasty fighting positions.
-- Disposition: Oriented south along road junction at MP 0612 1546; limited observation east/west.
+- Disposition: Oriented south along road junction at MP 0585 1552; limited observation east/west.
 - MPCOA: Defend, return fire, withdraw north if overwhelmed.
 - MDCOA: Reinforcements counterattack from the north.
 - *Ask yourself:* How does the enemy's orientation affect my scheme of maneuver? Where are his blind spots?
@@ -371,7 +371,7 @@ Before leaving for leader's recon, issue a **GOTWA** briefing to your PSG:
 | **A** — Actions on contact | Break contact, return to ORP, report |
 
 **During recon, confirm or deny your assumptions:**
-- Is the enemy where the OPORD says they are? (Vicinity MP 0612 1546)
+- Is the enemy where the OPORD says they are? (Vicinity MP 0585 1552)
 - Are fighting positions oriented south as expected?
 - Does the woodline to the east actually provide a concealed approach?
 - Is the rise north of the objective suitable for a SBF position?
@@ -393,7 +393,7 @@ Update your tentative plan based on what you found on recon. Prepare your briefi
 - Scale (1 pace = X meters)
 - Current location / Assembly Area
 - ORP location (vic MP 0607 1555)
-- OBJ HERRERA with grid (MP 0612 1546)
+- OBJ HERRERA with grid (MP 0585 1552)
 - Enemy positions (oriented south at the junction)
 - Phase lines (if used)
 - Primary and alternate routes
