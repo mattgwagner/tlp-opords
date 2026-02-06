@@ -25,7 +25,7 @@
 >
 > **OPFOR/Training Wrinkles:** Not applicable for CRAWL phase classroom use. If used for a WALK phase iteration, OPFOR should present a static defense with 4-6 personnel in hasty fighting positions.
 >
-> **See Also:** [LTA Grid Reference](lta-grid-reference.md)
+> **See Also:** [LTA Grid Reference](lta-grid-reference.md) | [Tactical Overlay](014-deliberate-attack-overlay.html)
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
