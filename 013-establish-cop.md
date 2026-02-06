@@ -128,7 +128,7 @@ Support element has priority of fires during Phase 2 (Clear), oriented north alo
 
 **2. 2nd Squad:**
 
-- **TASK:** Provide support by fire during Phase 2 from a position south of the facility oriented north along the Bradenton Avenue corridor to suppress enemy resistance within the COP. Upon completion of clearing, establish and man the entrance control point at the Bradenton Avenue entrance to COP Seggel, conduct positive identification of all personnel entering the facility, and provide observation of the eastern approach along the access roads toward the FOB area and the western approach from the direction of Clearwater Avenue.
+- **TASK:** Provide support by fire during Phase 2 from a position south of the facility oriented north along the Bradenton Avenue corridor to suppress enemy resistance within the COP. Upon completion of clearing, establish and man the entrance control point at the Bradenton Avenue entrance to COP Seggel, conduct positive identification of all personnel entering the facility, and provide observation of the eastern approach along the access roads east of the COP and the western approach from the direction of Clearwater Avenue.
 - **PURPOSE:** Suppress enemy resistance during clearing operations, then control access to the COP along Bradenton Avenue and provide early warning of REAPER activity along the eastern and western avenues of approach.
 - **END STATE:** Entrance control point is established on Bradenton Avenue with positive identification procedures, eastern and western approaches are under observation, and squad is prepared to deny unauthorized entry.
 
@@ -268,7 +268,7 @@ Support element has priority of fires during Phase 2 (Clear), oriented north alo
 
 **3. Secondary (SOUTH):** North along Bradenton Avenue from the south. This is the friendly force approach route and also a potential avenue for REAPER flanking movement. The road corridor provides observation for the southern defensive sector.
 
-**4. Secondary (EAST):** West along east-west access roads from the direction of the FOB area (MP 0610 1550). Dense woodlines between the COP and the FOB restrict observation but improved roads provide a direct approach.
+**4. Secondary (EAST):** West along east-west access roads from the east (vicinity MP 0610 1550). Dense woodlines east of the COP restrict observation but improved roads provide a direct approach.
 
 ### Terrain Analysis Notes
 
