@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** 1st Platoon is tasked to attack to seize OBJ HERRERA to deny REAPER use of a key road junction.
 >
-> **Destination:** OBJ HERRERA at MP 0585 1552, AO COTTO.
+> **Destination:** OBJ HERRERA at MP 0602 1565, AO COTTO.
 >
 > **Actions on Objective:** Platoon will establish an ORP, conduct leader's reconnaissance, move to assault positions, seize the objective, and consolidate.
 >
@@ -47,22 +47,22 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
 
 ### b. Area of Operations
 
-**1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces.
+**1. Terrain.** The AO consists of flat terrain with sandy soils and dense pine and hardwood forests throughout. Thick vegetation and tree canopy severely limit observation and fields of fire except along improved roads and clearings. Jacksonville Street runs east-west through the northern portion of the AO. Bradenton Avenue runs north-south, intersecting Jacksonville Street at the objective. These improved roads are the primary avenues of approach and the only locations offering extended fields of fire. The woods between and surrounding the roads provide excellent concealment for dismounted movement but restrict visibility to under 50 meters in most areas.
 
-   - **Key Terrain:** The road junction at OBJ HERRERA (MP 0585 1552) controls north-south movement through AO COTTO. Woodlines on the east and west sides of the approach route provide covered and concealed avenues of approach. A small rise north of the objective offers observation and fields of fire over the junction.
+   - **Key Terrain:** The road junction of Jacksonville Street and Bradenton Avenue at OBJ HERRERA (MP 0602 1565) controls north-south and east-west movement through AO COTTO. The woodlines surrounding the junction on all sides provide covered and concealed avenues of approach for dismounted elements. Bradenton Avenue south of the junction provides a cleared lane of fire into the objective from the south.
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms. Limited visibility may occur during storms.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
-A squad-sized REAPER element occupies hasty fighting positions in the vicinity of OBJ HERRERA. They are equipped with small arms and are using the road junction to control local movement.
+A squad-sized REAPER element occupies hasty fighting positions in the vicinity of OBJ HERRERA on the north side of Jacksonville Street, north of the junction with Bradenton Avenue. They are equipped with small arms and are using the road junction to control local movement.
 
 **1. Composition.** 4-6 REAPER personnel with small arms in hasty fighting positions.
 
-**2. Disposition.** REAPER forces occupy positions oriented south along the road junction at MP 0585 1552. They have limited observation to the east and west due to vegetation.
+**2. Disposition.** REAPER forces occupy positions oriented south and southwest along the Bradenton Avenue corridor and the Jacksonville Street junction at MP 0602 1565. Dense woods to the north provide them cover from that direction. They have limited observation to the east and west due to thick vegetation but can observe south along Bradenton Avenue and east-west along Jacksonville Street.
 
-**3. Most Probable Course of Action (MPCOA).** REAPER defends from current positions, returns fire when engaged, and attempts to withdraw north if overwhelmed.
+**3. Most Probable Course of Action (MPCOA).** REAPER defends from current positions, returns fire when engaged, and attempts to withdraw north into the dense woods or east along Jacksonville Street if overwhelmed.
 
-**4. Most Dangerous Course of Action (MDCOA).** REAPER has reinforcements nearby and counterattacks from the north after friendly forces commit to the assault.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER has reinforcements nearby at a position further north and counterattacks from the north through the woodline after friendly forces commit to the assault.
 
 ### d. Friendly Forces
 
@@ -82,7 +82,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon attacks to seize OBJ HERRERA (MP 0585 1552) NLT ____ in order to deny REAPER use of the road junction and enable follow-on operations in AO COTTO.
+1st Platoon attacks to seize OBJ HERRERA (MP 0602 1565) NLT ____ in order to deny REAPER use of the road junction and enable follow-on operations in AO COTTO.
 
 ---
 
@@ -97,15 +97,16 @@ None.
 **3. End State.** OBJ HERRERA is seized, REAPER forces are destroyed or displaced, and the platoon is consolidated and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon moves from the platoon assembly area to an ORP vicinity MP 0607 1555. The platoon leader conducts a leader's reconnaissance of the objective. 1st Squad serves as the support-by-fire element, establishing a position to suppress the enemy. 2nd Squad serves as the assault element, maneuvering to seize the objective. 3rd Squad provides security and serves as the platoon reserve. Upon seizure of the objective, the platoon consolidates and reports to higher.
+1st Platoon moves from the platoon assembly area to an ORP vicinity MP 0586 1552, in the woodline west of Bradenton Avenue. The platoon leader conducts a leader's reconnaissance of the objective. 1st Squad serves as the support-by-fire element, establishing a position south of the objective on Bradenton Avenue to suppress the enemy with fires north along the road corridor. 2nd Squad serves as the assault element, maneuvering north through the woods from the ORP and assaulting the objective from the west. 3rd Squad provides security at the ORP and serves as the platoon reserve. Upon seizure of the objective, the platoon consolidates and reports to higher.
 
 ### c. Scheme of Movement and Maneuver
-- Platoon moves from the assembly area to the ORP using a file formation and traveling overwatch.
-- From the ORP, 1st Squad moves to a support-by-fire position on the rise north of the objective.
-- On the PL's signal, 1st Squad initiates suppressive fire.
-- 2nd Squad assaults through the objective from the east, using the woodline for concealment on approach.
+- Platoon moves from the assembly area to the ORP (MP 0586 1552) using a file formation and traveling overwatch through the woodline.
+- From the ORP, 1st Squad moves east through the woods to a support-by-fire position on Bradenton Avenue south of the objective (MP 0601 1552), oriented north.
+- 2nd Squad moves north from the ORP through the woodline, establishing an assault position west of the objective.
+- On the PL's signal, 1st Squad initiates suppressive fire north along the Bradenton Avenue corridor into enemy positions at the junction.
+- On order, 2nd Squad assaults through the objective from the west, crossing Jacksonville Street and clearing through the enemy positions on the north side of the junction.
 - 3rd Squad remains at the ORP to provide rear security and serve as reserve.
-- Upon seizure, the platoon consolidates on the objective and establishes a hasty perimeter.
+- Upon seizure, the platoon consolidates on the objective and establishes a hasty perimeter oriented north and east.
 
 ### d. Scheme of Fires
 1st Squad, as the support-by-fire element, has priority of fires. Mortar support is available through company on request.
@@ -114,12 +115,12 @@ None.
 
 **1. 1st Squad (Support by Fire):**
 
-- **TASK:** Establish a support-by-fire position on the rise IVO MP 0610 1550 and suppress REAPER positions on OBJ HERRERA.
-- **PURPOSE:** Fix REAPER forces in place and enable 2nd Squad to assault through the objective.
+- **TASK:** Establish a support-by-fire position on Bradenton Avenue south of OBJ HERRERA IVO MP 0601 1552, oriented north. Suppress REAPER positions at the Jacksonville Street junction.
+- **PURPOSE:** Fix REAPER forces in place and enable 2nd Squad to assault through the objective from the west.
 
 **2. 2nd Squad (Assault):**
 
-- **TASK:** Assault through OBJ HERRERA from the east to destroy REAPER forces and seize the road junction at MP 0585 1552.
+- **TASK:** Assault through OBJ HERRERA from the east to destroy REAPER forces and seize the road junction at MP 0602 1565.
 - **PURPOSE:** Seize OBJ HERRERA to deny REAPER control of the road junction.
 
 **3. 3rd Squad (Security / Reserve):**
@@ -231,7 +232,7 @@ When you receive this order, you need to immediately begin extracting critical i
 | **WHO** | 1st Platoon, A Co. 4th BN-211th INF |
 | **WHAT** | Attacks to seize OBJ HERRERA |
 | **WHEN** | NLT ____ (to be filled in at briefing) |
-| **WHERE** | MP 0585 1552, AO COTTO |
+| **WHERE** | MP 0602 1565, AO COTTO |
 | **WHY** | To deny REAPER use of the road junction and enable follow-on operations |
 
 **Understand higher's mission and intent:**
@@ -258,7 +259,7 @@ Issue your WARNORD immediately after initial analysis. Do not wait until you hav
 **Minimum WARNORD content from this OPORD:**
 
 1. **Type of operation:** Deliberate attack
-2. **General location:** OBJ HERRERA, vic MP 0585 1552, AO COTTO
+2. **General location:** OBJ HERRERA, vic MP 0602 1565, AO COTTO
 3. **Initial timeline:** SP time, H-hour (fill in when given time hack)
 4. **Reconnaissance to initiate:** PL will conduct leader's recon from the ORP
 5. **Movement to initiate:** Begin movement to assembly area
@@ -281,7 +282,7 @@ This is the longest step. You conduct a detailed METT-TC analysis and develop yo
 
 **E — Enemy:**
 - Composition: 4-6 personnel, small arms, hasty fighting positions.
-- Disposition: Oriented south along road junction at MP 0585 1552; limited observation east/west.
+- Disposition: Oriented south along road junction at MP 0602 1565; limited observation east/west.
 - MPCOA: Defend, return fire, withdraw north if overwhelmed.
 - MDCOA: Reinforcements counterattack from the north.
 - *Ask yourself:* How does the enemy's orientation affect my scheme of maneuver? Where are his blind spots?
@@ -371,7 +372,7 @@ Before leaving for leader's recon, issue a **GOTWA** briefing to your PSG:
 | **A** — Actions on contact | Break contact, return to ORP, report |
 
 **During recon, confirm or deny your assumptions:**
-- Is the enemy where the OPORD says they are? (Vicinity MP 0585 1552)
+- Is the enemy where the OPORD says they are? (Vicinity MP 0602 1565)
 - Are fighting positions oriented south as expected?
 - Does the woodline to the east actually provide a concealed approach?
 - Is the rise north of the objective suitable for a SBF position?
@@ -393,7 +394,7 @@ Update your tentative plan based on what you found on recon. Prepare your briefi
 - Scale (1 pace = X meters)
 - Current location / Assembly Area
 - ORP location (vic MP 0607 1555)
-- OBJ HERRERA with grid (MP 0585 1552)
+- OBJ HERRERA with grid (MP 0602 1565)
 - Enemy positions (oriented south at the junction)
 - Phase lines (if used)
 - Primary and alternate routes
