@@ -120,7 +120,7 @@ None.
 
 **2. 2nd Squad (Assault):**
 
-- **TASK:** Assault through OBJ HERRERA from the east to destroy REAPER forces and seize the road junction at MP 0602 1565.
+- **TASK:** Move north through the woodline from the ORP to an assault position west of OBJ HERRERA. On order, assault east through OBJ HERRERA to destroy REAPER forces and seize the road junction at MP 0602 1565.
 - **PURPOSE:** Seize OBJ HERRERA to deny REAPER control of the road junction.
 
 **3. 3rd Squad (Security / Reserve):**
@@ -137,9 +137,9 @@ None.
    4. Positively identify targets before firing.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Confirm REAPER positions and strength at OBJ HERRERA.
-   2. Identify any REAPER reinforcement routes from the north.
-   3. Assess civilian presence in the area.
+   1. Confirm REAPER positions and strength at OBJ HERRERA, specifically their orientation along Jacksonville Street and Bradenton Avenue.
+   2. Identify any REAPER reinforcement routes from the north through the woodline or along Avenue C.
+   3. Assess civilian presence in the area, particularly along Jacksonville Street and in the vicinity of structures east of the objective.
 
 **3. Commander's Critical Information Requirements (CCIR):**
    1. Crew served weapons
@@ -282,17 +282,17 @@ This is the longest step. You conduct a detailed METT-TC analysis and develop yo
 
 **E — Enemy:**
 - Composition: 4-6 personnel, small arms, hasty fighting positions.
-- Disposition: Oriented south along road junction at MP 0602 1565; limited observation east/west.
-- MPCOA: Defend, return fire, withdraw north if overwhelmed.
-- MDCOA: Reinforcements counterattack from the north.
-- *Ask yourself:* How does the enemy's orientation affect my scheme of maneuver? Where are his blind spots?
+- Disposition: North side of Jacksonville St at the Bradenton Ave junction (MP 0602 1565). Oriented south and southwest; can observe along Bradenton Ave and Jacksonville St but has limited observation into the woodlines on all sides.
+- MPCOA: Defend, return fire, withdraw north into the woods or east along Jacksonville St if overwhelmed.
+- MDCOA: Reinforcements counterattack from the north through the woodline.
+- *Ask yourself:* How does the enemy's orientation affect my scheme of maneuver? Where are his blind spots? The enemy can see down the roads but NOT into the dense woods — exploit this.
 
 **T — Terrain and Weather (OAKOC):**
-- **O** — Observation and Fields of Fire: Enemy has fields of fire to the south along the road. Rise north of OBJ offers observation. Woodlines limit long-range observation east/west.
-- **A** — Avenues of Approach: Road from south (enemy oriented this way — avoid). Woodline from the east (concealed approach for assault). Rise from the north (good SBF position).
-- **K** — Key Terrain: The road junction at OBJ HERRERA — whoever controls it controls movement. The rise north of OBJ is key for support by fire.
-- **O** — Obstacles: Dense underbrush may slow movement. Wetlands restrict vehicle movement.
-- **C** — Cover and Concealment: Woodlines east and west provide concealment for approach. Hasty fighting positions provide cover for enemy.
+- **O** — Observation and Fields of Fire: Enemy has fields of fire south along Bradenton Avenue and east-west along Jacksonville Street. Dense woods throughout the AO limit observation to under 50 meters off the improved roads. Bradenton Avenue south of the junction provides a cleared lane of fire for the SBF.
+- **A** — Avenues of Approach: Bradenton Avenue from the south (enemy oriented this way — use for SBF, not assault). Woodlines west of Bradenton Ave provide a concealed dismounted avenue of approach for the assault element. Jacksonville Street from the east is observable by the enemy — avoid.
+- **K** — Key Terrain: The road junction of Jacksonville Street and Bradenton Avenue at OBJ HERRERA — whoever controls it controls movement through AO COTTO.
+- **O** — Obstacles: Dense underbrush and pine forest slow dismounted movement off improved roads. Low-lying areas may restrict movement after rain.
+- **C** — Cover and Concealment: Dense woods on all sides of the junction provide excellent concealment for approach from any direction off the roads. Hasty fighting positions provide cover for enemy. No significant elevation changes — terrain is flat throughout.
 
 **T — Troops Available:**
 - 3 rifle squads, PL, PSG. No attachments. Standard infantry platoon weapons.
@@ -311,24 +311,24 @@ This is the longest step. You conduct a detailed METT-TC analysis and develop yo
 - *Exploit:* Numerical superiority, enemy blind spots to the east. *Mitigate:* Enemy prepared positions by suppressing with SBF.
 
 **G — Generate Options:**
-- The enemy is oriented south with limited observation east/west. A flank attack from the east using the woodline for concealment is the most suitable form of maneuver.
+- The enemy is oriented south along Bradenton Ave and east-west along Jacksonville St, with limited observation into the woodlines. A flank attack from the west using the dense woods for concealment is the most suitable form of maneuver, with a support-by-fire position south on Bradenton Ave to fix the enemy in place.
 
 **A — Array Forces:**
-- Decisive operation: 2nd Squad (assault from the east)
-- Shaping operation: 1st Squad (SBF from the rise)
+- Decisive operation: 2nd Squad (assault from the west through the woodline)
+- Shaping operation: 1st Squad (SBF south of OBJ on Bradenton Ave)
 - Reserve/security: 3rd Squad (ORP security, reserve)
 
 **D — Develop Concept of Operations:**
-- Movement from assembly area to ORP. Leader's recon confirms enemy positions. 1st Squad moves to SBF position. On signal, 1st Squad suppresses. 2nd Squad assaults through from the east. 3rd Squad secures ORP and is prepared to reinforce. Consolidate on objective.
+- Movement from assembly area to ORP (MP 0586 1552) in the woodline west of Bradenton Ave. Leader's recon confirms enemy positions at the junction. 1st Squad moves east to SBF position on Bradenton Ave (MP 0601 1552). 2nd Squad moves north through the woods to an assault position west of OBJ. On signal, 1st Squad suppresses north along Bradenton Ave. On order, 2nd Squad assaults east through OBJ. 3rd Squad secures ORP and is prepared to reinforce. Consolidate on objective.
 
 **A — Assign Responsibilities:**
-- 1st SL: SBF element — suppress enemy positions on signal
-- 2nd SL: Assault element — assault through OBJ from east
+- 1st SL: SBF element — move east to Bradenton Ave, suppress enemy positions north on signal
+- 2nd SL: Assault element — move north through woodline, assault east through OBJ on order
 - 3rd SL: ORP security and reserve — reinforce on order
 - PSG: Consolidation, casualty collection, resupply coordination
 
 **P — Prepare COA Statement:**
-> "The purpose of this operation is to deny REAPER use of the road junction at OBJ HERRERA. Decisive to this operation is 2nd Squad's assault through OBJ HERRERA from the east. This is decisive because it destroys the enemy force on the objective and seizes the key terrain. We will accomplish this by conducting a flank attack. We will assume risk by committing 3rd Squad to ORP security rather than the assault. We will mitigate this risk by suppressing the enemy with 1st Squad's support by fire before the assault begins."
+> "The purpose of this operation is to deny REAPER use of the road junction at OBJ HERRERA. Decisive to this operation is 2nd Squad's assault through OBJ HERRERA from the west. This is decisive because it destroys the enemy force on the objective and seizes the key terrain. We will accomplish this by conducting a flank attack — SBF fixes the enemy from the south along Bradenton Avenue while the assault element maneuvers through the woods and strikes from the west, exploiting the enemy's limited observation into the woodlines. We will assume risk by committing 3rd Squad to ORP security rather than the assault. We will mitigate this risk by suppressing the enemy with 1st Squad's support by fire before the assault begins."
 
 ### COA Screening (SAFDC)
 
@@ -365,18 +365,18 @@ Before leaving for leader's recon, issue a **GOTWA** briefing to your PSG:
 
 | Letter | This Mission |
 |--------|-------------|
-| **G** — Going | To the high ground IVO MP 0610 1550 and the woodline east of OBJ HERRERA |
+| **G** — Going | To the woodline edge along Bradenton Avenue IVO MP 0601 1552 and the woodline west of OBJ HERRERA to confirm SBF position and assault route |
 | **O** — Others | RTO and 1st Squad Leader |
 | **T** — Time | Return NLT ____ (set a specific time) |
 | **W** — What if | If I don't return by ____, PSG assumes command and executes the plan as briefed |
 | **A** — Actions on contact | Break contact, return to ORP, report |
 
 **During recon, confirm or deny your assumptions:**
-- Is the enemy where the OPORD says they are? (Vicinity MP 0602 1565)
-- Are fighting positions oriented south as expected?
-- Does the woodline to the east actually provide a concealed approach?
-- Is the rise north of the objective suitable for a SBF position?
-- Are there obstacles or terrain features not shown on the map?
+- Is the enemy where the OPORD says they are? (North side of Jacksonville St at the Bradenton Ave junction, vic MP 0602 1565)
+- Are fighting positions oriented south along Bradenton Ave and along Jacksonville St as expected?
+- Does Bradenton Avenue south of the junction provide a clear lane of fire for the SBF?
+- Does the woodline west of the objective actually provide a concealed approach for the assault element moving north from the ORP?
+- Are there obstacles, structures, or terrain features not shown on the map — particularly between the ORP and the objective?
 
 **If recon changes the situation, modify your plan.** This is what makes TLPs a dynamic process, not a checklist.
 
@@ -393,14 +393,16 @@ Update your tentative plan based on what you found on recon. Prepare your briefi
 - North seeking arrow
 - Scale (1 pace = X meters)
 - Current location / Assembly Area
-- ORP location (vic MP 0607 1555)
-- OBJ HERRERA with grid (MP 0602 1565)
-- Enemy positions (oriented south at the junction)
+- ORP location (MP 0586 1552, in woodline west of Bradenton Ave)
+- OBJ HERRERA with grid (MP 0602 1565, north side of Jacksonville St / Bradenton Ave junction)
+- Jacksonville Street (east-west road) and Bradenton Avenue (north-south road)
+- Enemy positions (north side of junction, oriented south and along roads)
+- Dense woodlines surrounding the junction on all sides
 - Phase lines (if used)
-- Primary and alternate routes
-- SBF position (rise at MP 0610 1550)
-- Assault route (woodline from the east)
-- Danger areas
+- Primary and alternate routes through the woodline
+- SBF position (MP 0601 1552, Bradenton Ave south of OBJ, oriented north)
+- Assault route (north through woodline from ORP, then east into OBJ from the west)
+- Danger areas (road crossings — Jacksonville St and Bradenton Ave)
 - Rally points
 
 **Finalize your OPORD.** Fill in the details from your recon: exact positions, adjusted routes, specific coordination measures, and updated timeline.
