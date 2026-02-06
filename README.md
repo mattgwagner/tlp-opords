@@ -33,6 +33,7 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 - [Clear Dismount City](004-clear-dismount-city.md) - [PDF](004-clear-dismount-city.pdf)
 - [Base Defense](006-base-defense.md) - [PDF](006-base-defense.pdf)
 - [Forward Passage of Lines](007-forward-passage-of-lines.md) - [PDF](007-forward-passage-of-lines.pdf)
+- [Establish Combat Outpost](013-establish-cop.md) - Multi-phase clearing, occupation, and CP establishment. Designed as the opening operation for a capstone LFX — the COP becomes the base of operations for follow-on missions.
 
 ### Static Operations
 - [Patrol Base Operations](008-patrol-base-operations.md) - [PDF](008-patrol-base-operations.pdf)
