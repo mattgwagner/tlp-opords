@@ -308,7 +308,7 @@ This is the longest step. You conduct a detailed METT-TC analysis and develop yo
 **A — Analyze Relative Combat Power:**
 - Friendly: 3 squads (~27 personnel), small arms, automatic weapons. Advantage in numbers (roughly 5:1).
 - Enemy: 4-6 personnel, small arms, hasty positions. Advantage in prepared defense and knowledge of terrain.
-- *Exploit:* Numerical superiority, enemy blind spots to the east. *Mitigate:* Enemy prepared positions by suppressing with SBF.
+- *Exploit:* Numerical superiority, enemy blind spots into the woodlines — particularly to the west. *Mitigate:* Enemy prepared positions by suppressing with SBF from the south along Bradenton Ave.
 
 **G — Generate Options:**
 - The enemy is oriented south along Bradenton Ave and east-west along Jacksonville St, with limited observation into the woodlines. A flank attack from the west using the dense woods for concealment is the most suitable form of maneuver, with a support-by-fire position south on Bradenton Ave to fix the enemy in place.
