@@ -6,6 +6,7 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 
 - [Templates and References](#templates-and-references)
 - [Available Orders](#available-orders)
+  - [CRAWL Phase Training](#crawl-phase-training)
   - [Evaluated Missions (Wooded Terrain)](#evaluated-missions-wooded-terrain)
   - [MOUT Training Scenarios](#mout-training-scenarios)
   - [Static Operations](#static-operations)
@@ -21,6 +22,9 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 - [TLP Training Package](tlp-training-package.md) - Complete Crawl-Walk-Run training package for Troop Leading Procedures. Includes 4-hour CRAWL phase (conceptual), 15-hour WALK phase (guided practice), and 48-hour RUN phase (FTX evaluation). References CMP, ISAP, and OCSOP standards with FLER evaluation criteria.
 
 ## Available Orders
+
+### CRAWL Phase Training
+- [Deliberate Attack (TLP Practical Exercise)](014-deliberate-attack.md) - Simplified platoon deliberate attack with a step-by-step TLP walkthrough annotated with references to the [TLP Instructional Slides](POI/Slides-RevealJS.html). Designed for crawl-phase classroom instruction where the TAC briefs the order, then walks candidates through each TLP step as applied to the mission.
 
 ### Evaluated Missions (Wooded Terrain)
 - [Ambush at Crossroads](001-ambush.md) - [PDF](001-ambush.pdf)
