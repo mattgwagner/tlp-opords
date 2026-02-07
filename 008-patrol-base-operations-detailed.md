@@ -27,16 +27,18 @@
 > - Introduce a compromise scenario requiring displacement or defense.
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
+>
+> **Iteration Guidance:** This is the detailed version with specific patrol base vicinity grid. For evaluated iterations and later runs, use [008-patrol-base-operations.md](008-patrol-base-operations.md) instead.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
 **Task Organization:**
 
-1st Platoon, A Co. 4th BN-211th INF  
-Platoon Leader  
-Platoon Sergeant  
-1st Squad  
-2nd Squad  
+1st Platoon, A Co. 4th BN-211th INF
+Platoon Leader
+Platoon Sergeant
+1st Squad
+2nd Squad
 3rd Squad
 
 ---
@@ -107,7 +109,7 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
 
 **1. 1st Squad (Northern Sector):**
 
-- **TASK:** Occupy and defend the northern sector of PB THUNDER. Establish fighting positions with interlocking fields of fire covering the northern avenues of approach. Provide personnel for LP/OP duty on the elevated ground to the north. Conduct local security patrols as directed. Execute priorities of work within the sector.
+- **TASK:** Occupy and defend the northern sector of PB THUNDER (vicinity MP 058 152). Establish fighting positions with interlocking fields of fire covering the northern avenues of approach. Provide personnel for LP/OP duty on the elevated ground to the north. Conduct local security patrols as directed. Execute priorities of work within the sector.
 - **PURPOSE:** Secure the most likely avenue of REAPER approach and provide the earliest warning of enemy reconnaissance or assault, giving the platoon time to react.
 
 **2. 2nd Squad (Southeastern Sector):**
@@ -199,6 +201,3 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
    - Password: Secure
    - Running Password: Thunder
    - Combination: 8
-
-
-

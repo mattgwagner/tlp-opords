@@ -29,34 +29,17 @@
 >
 > **See Also:** [LTA Grid Reference](lta-grid-reference.md)
 >
-> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [005-area-zone-reconnaissance-detailed.md](005-area-zone-reconnaissance-detailed.md) instead.
-
-**Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
->
-> **1. 1st Squad (Reconnaissance — Northern Sector):**
->
-> - **TASK:** Conduct reconnaissance of the northern sector of AO COTTO, focusing on the area north and east of MP 0613 1532. Locate REAPER positions, assess activity, and identify defensive preparations, obstacles, and key terrain. Use covered and concealed routes, maintain noise and light discipline, and avoid detection. Report findings via SALUTE format. Return to ORP upon completion or if compromised.
-> - **PURPOSE:** Confirm or deny REAPER presence in the northern sector so the company can plan follow-on operations against a known enemy picture.
->
-> **2. 2nd Squad (Reconnaissance — Southern Sector):**
->
-> - **TASK:** Conduct reconnaissance of the southern sector of AO COTTO, focusing on the area south and west of MP 0613 1532 — including the suspected REAPER position. Locate REAPER positions, assess activity, and identify defensive preparations, obstacles, and key terrain. Use covered and concealed routes, maintain noise and light discipline, and avoid detection. Report findings via SALUTE format. Return to ORP upon completion or if compromised.
-> - **PURPOSE:** Develop the intelligence picture in the sector most likely to contain REAPER's main position, enabling the company to identify objectives for follow-on operations.
->
-> **3. 3rd Squad (ORP Security / QRF):**
->
-> - **TASK:** Establish and secure the ORP. Maintain 360-degree security during reconnaissance operations. Monitor radio traffic from reconnaissance elements. Be prepared to move to support a compromised squad or provide suppressive fire to enable extraction. Account for all personnel upon return.
-> - **PURPOSE:** Ensure the reconnaissance elements have a secure base to return to and a responsive QRF if compromised, preventing a tactical emergency from becoming a decisive engagement.
+> **Iteration Guidance:** This is the detailed version with specific sector grids. For evaluated iterations and later runs where squad leaders should plan independently, use [005-area-zone-reconnaissance.md](005-area-zone-reconnaissance.md) instead.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
 **Task Organization:**
 
-1st Platoon, A Co. 4th BN-211th INF  
-Platoon Leader  
-Platoon Sergeant  
-1st Squad  
-2nd Squad  
+1st Platoon, A Co. 4th BN-211th INF
+Platoon Leader
+Platoon Sergeant
+1st Squad
+2nd Squad
 3rd Squad
 
 ---
@@ -127,12 +110,12 @@ Fires are limited to self-defense only. Avoid engagement unless necessary to bre
 
 **1. 1st Squad (Reconnaissance — Northern Sector):**
 
-- **TASK:** Conduct reconnaissance of the northern sector of AO COTTO. Locate REAPER positions, assess activity, and identify defensive preparations, obstacles, and key terrain. Use covered and concealed routes, maintain noise and light discipline, and avoid detection. Report findings via SALUTE format. Return to ORP upon completion or if compromised.
+- **TASK:** Conduct reconnaissance of the northern sector of AO COTTO, focusing on the area north and east of MP 0613 1532. Locate REAPER positions, assess activity, and identify defensive preparations, obstacles, and key terrain. Use covered and concealed routes, maintain noise and light discipline, and avoid detection. Report findings via SALUTE format. Return to ORP upon completion or if compromised.
 - **PURPOSE:** Confirm or deny REAPER presence in the northern sector so the company can plan follow-on operations against a known enemy picture.
 
 **2. 2nd Squad (Reconnaissance — Southern Sector):**
 
-- **TASK:** Conduct reconnaissance of the southern sector of AO COTTO, including the suspected REAPER position. Locate REAPER positions, assess activity, and identify defensive preparations, obstacles, and key terrain. Use covered and concealed routes, maintain noise and light discipline, and avoid detection. Report findings via SALUTE format. Return to ORP upon completion or if compromised.
+- **TASK:** Conduct reconnaissance of the southern sector of AO COTTO, focusing on the area south and west of MP 0613 1532 — including the suspected REAPER position. Locate REAPER positions, assess activity, and identify defensive preparations, obstacles, and key terrain. Use covered and concealed routes, maintain noise and light discipline, and avoid detection. Report findings via SALUTE format. Return to ORP upon completion or if compromised.
 - **PURPOSE:** Develop the intelligence picture in the sector most likely to contain REAPER's main position, enabling the company to identify objectives for follow-on operations.
 
 **3. 3rd Squad (ORP Security / QRF):**

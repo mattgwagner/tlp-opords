@@ -28,6 +28,8 @@
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
+> **Iteration Guidance:** This is the detailed version with specific SP, checkpoint, and RP grids in squad tasks. For evaluated iterations and later runs, use [009-tactical-road-march.md](009-tactical-road-march.md) instead.
+>
 > **See Also:** [LTA Grid Reference](lta-grid-reference.md)
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
@@ -116,7 +118,7 @@ No planned fires. Priority of fires to element in contact if engagement occurs. 
 
 **1. 1st Squad (Lead / Point Security):**
 
-- **TASK:** Lead the march from the SP to RP THUNDER. Provide point security with a minimum two-man point team. Conduct route reconnaissance forward of the main body. Identify and report danger areas and obstacles. Halt and establish near-side security at each danger area before the main body crosses.
+- **TASK:** Lead the march from SP (MP 0598 1538) to RP THUNDER (MP 0615 1560). Provide point security with a minimum two-man point team. Conduct route reconnaissance forward of the main body. Identify and report danger areas (road crossing at CP1 MP 0605 1545, open area at CP2 MP 0608 1550, creek crossing at CP3 MP 0612 1555) and obstacles. Halt and establish near-side security at each danger area before the main body crosses.
 - **PURPOSE:** Provide the platoon early warning and ensure the route is clear, so the main body can move without halting unexpectedly at an unsecured position.
 
 **2. 2nd Squad (Main Body):**

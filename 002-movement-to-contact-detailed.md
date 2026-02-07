@@ -24,19 +24,19 @@
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
-> **See Also:** [LTA Grid Reference](lta-grid-reference.md)
+> **Iteration Guidance:** This is the detailed version with specific objective grids in squad tasks. For evaluated iterations and later runs, use [002-movement-to-contact.md](002-movement-to-contact.md) instead.
 >
-> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [002-movement-to-contact-detailed.md](002-movement-to-contact-detailed.md) instead.
+> **See Also:** [LTA Grid Reference](lta-grid-reference.md)
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
 **Task Organization:**
 
-1st Platoon, A Co. 4th BN-211th INF  
-Platoon Leader  
-Platoon Sergeant  
-1st Squad  
-2nd Squad  
+1st Platoon, A Co. 4th BN-211th INF
+Platoon Leader
+Platoon Sergeant
+1st Squad
+2nd Squad
 3rd Squad
 
 ---
@@ -107,7 +107,7 @@ None.
 
 **1. 1st Squad (Lead Element — Decisive Operation):**
 
-- **TASK:** Lead the movement to contact toward OBJ HERRERA using covered and concealed routes. Establish contact with REAPER forces, fix the enemy, and report size, activity, location, and weapons. Be prepared to assault through on order or support 2nd Squad's maneuver.
+- **TASK:** Lead the movement to contact toward OBJ HERRERA (MP 0612 1546) using covered and concealed routes. Establish contact with REAPER forces, fix the enemy, and report size, activity, location, and weapons. Be prepared to assault through on order or support 2nd Squad's maneuver.
 - **PURPOSE:** Make initial contact and fix REAPER so the platoon can develop the situation and maneuver against a known enemy position.
 
 **2. 2nd Squad (Trail/Overwatch Element — Shaping Operation):**

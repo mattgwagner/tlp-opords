@@ -28,17 +28,19 @@
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
+> **Iteration Guidance:** This is the detailed version with specific passage point and objective grids in squad tasks. For evaluated iterations and later runs, use [007-forward-passage-of-lines.md](007-forward-passage-of-lines.md) instead.
+>
 > **See Also:** [LTA Grid Reference](lta-grid-reference.md)
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
 **Task Organization:**
 
-1st Platoon, A Co. 4th BN-211th INF  
-Platoon Leader  
-Platoon Sergeant  
-1st Squad  
-2nd Squad  
+1st Platoon, A Co. 4th BN-211th INF
+Platoon Leader
+Platoon Sergeant
+1st Squad
+2nd Squad
 3rd Squad
 
 ---
@@ -115,7 +117,7 @@ Fires coordinated with 2nd Platoon to avoid fratricide. Priority of fires to squ
 
 **1. 1st Squad (Lead Element):**
 
-- **TASK:** Move as the lead element through the passage point. Link up with 2nd Platoon's guide at the passage lane entry. Pass through rapidly while maintaining security forward. Upon clearing the passage point, continue movement toward OBJ THUNDER using covered and concealed routes, prepared for enemy contact.
+- **TASK:** Move as the lead element through the passage point (MP 0607 1555). Link up with 2nd Platoon's guide at the passage lane entry. Pass through rapidly while maintaining security forward. Upon clearing the passage point, continue movement toward OBJ THUNDER (MP 0602 1565) using covered and concealed routes, prepared for enemy contact.
 - **PURPOSE:** Set the pace for the passage and establish security beyond 2nd Platoon's positions so the rest of the platoon can pass through without delay.
 
 **2. 2nd Squad (Follow-on Element):**

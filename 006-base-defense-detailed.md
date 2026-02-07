@@ -28,19 +28,19 @@
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
-> **See Also:** [LTA Grid Reference](lta-grid-reference.md)
+> **Iteration Guidance:** This is the detailed version with specific FOB grids in squad tasks. For evaluated iterations and later runs, use [006-base-defense.md](006-base-defense.md) instead.
 >
-> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [006-base-defense-detailed.md](006-base-defense-detailed.md) instead.
+> **See Also:** [LTA Grid Reference](lta-grid-reference.md)
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
 **Task Organization:**
 
-1st Platoon, A Co. 4th BN-211th INF  
-Platoon Leader  
-Platoon Sergeant  
-1st Squad  
-2nd Squad  
+1st Platoon, A Co. 4th BN-211th INF
+Platoon Leader
+Platoon Sergeant
+1st Squad
+2nd Squad
 3rd Squad
 
 ---
@@ -111,7 +111,7 @@ Defensive fires planned for likely enemy avenues of approach. Priority of fires 
 
 **1. 1st Squad (Northern Sector):**
 
-- **TASK:** Occupy and defend the northern sector of FOB THUNDER. Establish fighting positions with interlocking fields of fire covering the northern approach routes. Establish OPs to provide early warning. Conduct security patrols north of the perimeter as directed by the PL.
+- **TASK:** Occupy and defend the northern sector of FOB THUNDER (MP 0610 1550). Establish fighting positions with interlocking fields of fire covering the northern approach routes and adjacent buildings. Establish OPs at key locations to provide early warning. Conduct security patrols north of the perimeter as directed by the PL.
 - **PURPOSE:** Defeat REAPER infiltration or assault from the north — the most likely avenue of approach — and provide the earliest possible warning of enemy activity.
 
 **2. 2nd Squad (Southern Sector):**
