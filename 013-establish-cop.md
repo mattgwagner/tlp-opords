@@ -59,8 +59,17 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. CO
 
    - **Key Terrain:** The facility complex at COP Seggel (MP 0600 1550) is the decisive terrain. The intersection of Jacksonville Street and Bradenton Avenue (MP 0602 1565), approximately 150 meters north of the COP, is key terrain that controls north-south and east-west movement through the AO and represents the most likely avenue of approach for REAPER reinforcement. Bradenton Avenue south of the COP provides a cleared lane of observation and fire along the southern approach. Entrance points to the facility along Bradenton Avenue are critical for controlling access. The dense woodlines surrounding the facility on all sides, particularly to the north and west, offer concealment for REAPER reconnaissance elements or assault forces approaching the COP. Buildings within the complex that provide overhead cover are critical for CP operations and protection against indirect fire.
 
-**2. Weather.** ________ skies, temperature ____°F (heat cat ____), winds ____ at ____ mph. Chance of precipitation: ____%.
-BMNT ____; sunrise ____; sunset ____; EENT ____. Plan for sustained operations through day and night cycles.
+**2. Weather.**
+   - Skies: ________
+   - Temperature: ____°F (heat cat ____)
+   - Winds: ____ at ____ mph
+   - Chance of precipitation: ____%
+   - BMNT: ____
+   - Sunrise: ____
+   - Sunset: ____
+   - EENT: ____
+
+Plan for sustained operations through day and night cycles.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER forces are an irregular force operating throughout the AO. Following the host nation withdrawal from COP Seggel, REAPER may have moved forces to observe, occupy, or exploit the vacated facility. They are capable of conducting reconnaissance, small-unit attacks, indirect fire, and coordinated assaults. REAPER has demonstrated interest in controlling key infrastructure to stage their own operations. REAPER has previously operated in the vicinity of the Jacksonville Street and Bradenton Avenue junction and is familiar with the road network and surrounding woodlines.

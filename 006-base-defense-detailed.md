@@ -56,8 +56,15 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. FOB THUNDER is l
 
    - **Key Terrain:** FOB THUNDER itself is the decisive terrain. Adjacent buildings and intersections provide observation and fields of fire for defensive positions. Main roads and alleys are likely avenues of approach for enemy forces. High ground (rooftops) offers observation advantages.
 
-**2. Weather.** ________ skies, temperature ____°F (heat cat ____), winds ____ at ____ mph. Chance of precipitation: ____%.
-BMNT ____; sunrise ____; sunset ____; EENT ____.
+**2. Weather.**
+   - Skies: ________
+   - Temperature: ____°F (heat cat ____)
+   - Winds: ____ at ____ mph
+   - Chance of precipitation: ____%
+   - BMNT: ____
+   - Sunrise: ____
+   - Sunset: ____
+   - EENT: ____
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER forces are an irregular force capable of conducting reconnaissance, infiltration, and attacks against friendly positions. They are experienced in urban operations and may employ small arms, IEDs, and indirect fire. They are capable of blending with the local populace and using urban terrain for concealment and approach.

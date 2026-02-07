@@ -56,8 +56,15 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO HERRERA inclu
 
    - **Key Terrain:** The passage point at MP 0607 1555 is critical for safe passage. OBJ THUNDER (MP 0602 1565) is the objective for follow-on operations. Buildings along the route provide observation points and potential enemy positions.
 
-**2. Weather.** ________ skies, temperature ____°F (heat cat ____), winds ____ at ____ mph. Chance of precipitation: ____%.
-BMNT ____; sunrise ____; sunset ____; EENT ____.
+**2. Weather.**
+   - Skies: ________
+   - Temperature: ____°F (heat cat ____)
+   - Winds: ____ at ____ mph
+   - Chance of precipitation: ____%
+   - BMNT: ____
+   - Sunrise: ____
+   - Sunset: ____
+   - EENT: ____
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER forces are an irregular force operating in the urban area. They are capable of observing friendly movements and may attempt to engage friendly forces during or after passage. They employ small arms, possible support weapons, and may use IEDs.
