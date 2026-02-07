@@ -42,13 +42,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Starke and Highway 16.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO HERRERA encompasses the area along the Bradenton Avenue corridor between Arcadia Street to the south and Jacksonville Street to the north, bounded to the west by Clearwater Avenue and to the east by the FOB perimeter.
 
 ### b. Area of Operations
 
-**1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
+**1. Terrain.** The AO consists of flat terrain with sandy soils and dense pine and hardwood forests throughout. Thick vegetation and tree canopy severely limit observation and fields of fire except along improved roads and clearings. Bradenton Avenue runs north-south through the center of the AO. An unnamed improved road intersects Bradenton Avenue at the objective location, running east-west. These roads are the only locations offering extended fields of fire; visibility in the surrounding woods is under 50 meters in most areas. The terrain is uniformly flat with no significant elevation changes.
 
-   - **Key Terrain:** OBJ COTTO (bunker) near MP 0600 1538 is the decisive objective and dominates the surrounding area. Woodlines to the west and south provide covered approaches for the assault and support elements. A small knoll north of the bunker offers observation and a support-by-fire position. A concealed trail to the southwest enables a secure withdrawal after the raid.
+   - **Key Terrain:** OBJ COTTO (bunker) at MP 0600 1538, located at the intersection of Bradenton Avenue and the unnamed east-west road. The bunker position controls movement along both road corridors. Bradenton Avenue south of the intersection provides a cleared lane of fire into the objective from the south. The dense woodlines west and southwest of the intersection provide concealed avenues of approach for dismounted assault elements. Bradenton Avenue north of the intersection is the most likely reinforcement route for REAPER. The unnamed road east of the intersection is the most likely escape route.
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
@@ -57,11 +57,11 @@ REAPER forces are a determined irregular force, likely associated with a regiona
 
 **1. Composition.** 4-5 REAPER combatants, AK-47s, 1 HMG, possible IEDs.
 
-**2. Disposition.** REAPER forces are positioned in and around fortified defensive locations, utilizing prepared fighting positions and natural cover. They maintain vigilance for approaching threats and are capable of reinforcing their positions or launching counterattacks as needed.
+**2. Disposition.** REAPER forces occupy a fortified bunker position at the intersection of Bradenton Avenue and the unnamed east-west road (MP 0600 1538). Fighting positions are oriented south along Bradenton Avenue and east along the unnamed road. Dense woods to the west and north limit their observation in those directions. They maintain an OP along Bradenton Avenue south of the bunker and are capable of reinforcing from positions further north along the Bradenton Avenue corridor.
 
-**3. Most Probable Course of Action (MPCOA).** REAPER forces defend their position with small arms and prepared obstacles, but if the assault is effective, they withdraw through a pre-planned escape route, prioritizing survival over holding the objective. They may attempt to delay the platoon's advance but do not counterattack in strength.
+**3. Most Probable Course of Action (MPCOA).** REAPER forces defend from prepared positions using small arms and the HMG, oriented south and east along the road corridors. If the assault is effective, they withdraw east along the unnamed road or north into the dense woods along Bradenton Avenue, prioritizing survival over holding the position. They may employ obstacles or delay measures along approach routes.
 
-**4. Most Dangerous Course of Action (MDCOA).** REAPER forces launch a coordinated counterattack with reinforcements during or immediately after the raid, using pre-placed IEDs or booby traps to disrupt friendly movement. They attempt to encircle or cut off the assaulting platoon, inflicting maximum casualties and preventing withdrawal.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER forces have reinforcements positioned further north along Bradenton Avenue. Upon contact, they launch a counterattack from the north through the woodline while the main body defends in place. They employ pre-placed IEDs or booby traps along Bradenton Avenue south of the bunker to disrupt the support element and the withdrawal route.
 
 ### d. Friendly Forces
 
@@ -96,31 +96,38 @@ None.
 **3. End State.** REAPER bunker is destroyed, REAPER forces are eliminated, and friendly forces have freedom of movement in AO HERRERA.
 
 ### b. Concept of Operations
-1st Platoon conducts a raid by establishing an ORP, moving to the objective, and isolating the REAPER position. 1st Squad serves as the assault element, breaching and clearing the bunker. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective area. 3rd Squad serves as the security element, securing the flanks and rear, and interdicting REAPER reinforcements or escape. Upon completion of the raid, the platoon withdraws in an organized manner to the ORP.
+1st Platoon conducts a raid on OBJ COTTO by establishing an ORP vicinity MP 0586 1530 in the woodline southwest of the objective. The platoon leader conducts a leader's reconnaissance to confirm enemy positions at the bunker. 3rd Squad moves first to establish security, blocking the Bradenton Avenue corridor north of the objective and the unnamed road east of the objective to isolate the bunker. 2nd Squad establishes a support-by-fire position south of the objective on Bradenton Avenue (IVO MP 0600 1530), oriented north. On the PL's signal, 2nd Squad initiates suppressive fire north along the Bradenton Avenue corridor. 1st Squad, as the assault element, moves from the ORP north through the woodline and assaults the bunker from the west, breaching and clearing the position. Upon completion of the raid, the platoon withdraws west into the woodline and south to the ORP.
 
 ### c. Scheme of Movement and Maneuver
-- Squads SP from platoon ORP in squad column.
-- 1st Squad breaches bunker; 2nd Squad provides covering fire from elevation; 3rd Squad remains mobile to react to enemy movements.
+- Platoon moves to the ORP (MP 0586 1530) through the woodline west of Bradenton Avenue using a file formation and traveling overwatch.
+- PL conducts leader's reconnaissance to confirm enemy positions and finalize assault plan.
+- 3rd Squad departs ORP first and moves to establish blocking positions: one team north along Bradenton Avenue (IVO MP 0600 1545) to interdict reinforcements, one team east along the unnamed road (IVO MP 0608 1538) to block escape.
+- 2nd Squad moves east from the ORP to a support-by-fire position on Bradenton Avenue south of the bunker (IVO MP 0600 1530), oriented north.
+- 1st Squad moves north from the ORP through the dense woodline to an assault position west of the bunker.
+- On the PL's signal, 2nd Squad initiates suppressive fire north along Bradenton Avenue into the bunker.
+- On order, 1st Squad assaults east through the objective from the west, breaching and clearing the bunker position.
+- Upon completion, 1st Squad signals objective secured. Platoon withdraws by echelon: 1st Squad withdraws west into the woodline, 2nd Squad breaks contact south, 3rd Squad collapses security last. All elements consolidate at the ORP.
+- Platoon withdraws south from the ORP.
 
 ### d. Scheme of Fires
-1st Squad, as the decisive effort, has priority of indirect fires. Mortar support available through company on request.
+2nd Squad, as the support-by-fire element, has priority of fires during the assault phase. 1st Squad, as the decisive effort, has priority of indirect fires. Mortar support available through company on request.
 
 ### e. Tasks to Subordinate Units
 
-**1. 1st Squad:**
+**1. 1st Squad (Assault):**
 
-- **TASK:** Assault and breach OBJ COTTO at MP 0600 1538, neutralize REAPER combatants, and secure the objective.
+- **TASK:** Move north through the woodline from the ORP to an assault position west of OBJ COTTO. On order, assault east through the bunker position at MP 0600 1538, breach and clear the fortified position, and neutralize REAPER combatants.
 - **PURPOSE:** Destroy REAPER defensive positions and eliminate threats to enable freedom of movement for friendly forces.
 
-**2. 2nd Squad:**
+**2. 2nd Squad (Support by Fire):**
 
-- **TASK:** Provide suppressive fire and support 1st Squad's assault, then assist in clearing and securing the bunker and surrounding area.
-- **PURPOSE:** Enable the assault element to breach and clear the objective with minimal casualties.
+- **TASK:** Establish a support-by-fire position on Bradenton Avenue south of OBJ COTTO (IVO MP 0600 1530), oriented north. On the PL's signal, suppress REAPER positions at the bunker with fires north along the Bradenton Avenue corridor. Shift or cease fires on order as 1st Squad enters the objective.
+- **PURPOSE:** Fix REAPER forces in place and enable the assault element to breach and clear the objective with minimal casualties.
 
-**3. 3rd Squad:**
+**3. 3rd Squad (Security):**
 
-- **TASK:** Establish security around the bunker, observe for and engage REAPER reinforcements or flanking elements, and secure the area.
-- **PURPOSE:** Prevent REAPER interference with the raid and ensure the platoon can consolidate and reorganize after the assault.
+- **TASK:** Establish blocking positions to isolate OBJ COTTO. Alpha Team blocks north along Bradenton Avenue (IVO MP 0600 1545) to interdict REAPER reinforcements. Bravo Team blocks east along the unnamed road (IVO MP 0608 1538) to prevent REAPER escape. Maintain positions through the assault and withdraw last during platoon withdrawal.
+- **PURPOSE:** Isolate the objective, prevent REAPER reinforcement or escape, and ensure the platoon can conduct an organized withdrawal after the raid.
 
 ### f. Coordinating Instructions
 
@@ -131,10 +138,10 @@ None.
    4. Report civilian casualties immediately.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Identify additional REAPER forces in the area.
-   2. Confirm presence of IEDs or booby traps.
-   3. Assess civilian presence near the objective.
-   4. Monitor REAPER communications and movement.
+   1. Confirm REAPER positions and strength at OBJ COTTO, specifically their orientation along Bradenton Avenue and the unnamed east-west road.
+   2. Identify REAPER reinforcement positions north along Bradenton Avenue or along Avenue C.
+   3. Confirm presence of IEDs or obstacles along Bradenton Avenue south of the bunker and along approach routes.
+   4. Assess civilian presence near the objective, particularly along the unnamed east-west road.
 
 **3. Commander's Critical Information Requirements (CCIR):**
    1. Crew served weapons

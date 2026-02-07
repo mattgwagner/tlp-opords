@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>OPORD 003 - Raid on Bunker</name>
+  <description>OBJ COTTO - 1st PLT, A CO, 4-211 INF. FOR TRAINING USE ONLY.</description>
+
+  <Style id="style-enemy">
+    <IconStyle>
+      <color>ff0000ff</color>
+      <scale>1.3</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/target.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff0000ff</color><scale>1.0</scale></LabelStyle>
+  </Style>
+  <Style id="style-friendly">
+    <IconStyle>
+      <color>ffff6600</color>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ffff6600</color><scale>0.9</scale></LabelStyle>
+  </Style>
+  <Style id="style-security">
+    <IconStyle>
+      <color>ffff6600</color>
+      <scale>1.0</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ffff6600</color><scale>0.9</scale></LabelStyle>
+  </Style>
+
+  <Placemark>
+    <name>OBJ COTTO (Bunker)</name>
+    <description>MP 0600 1538 - REAPER bunker at Bradenton Ave / unnamed E-W road. 4-5 PAX, AK-47s, 1 HMG, possible IEDs. Oriented S and E.</description>
+    <styleUrl>#style-enemy</styleUrl>
+    <Point><coordinates>-81.9742627,29.9656653,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>ORP</name>
+    <description>MP 0586 1530 - Woodline SW of OBJ. PLT ORP.</description>
+    <styleUrl>#style-friendly</styleUrl>
+    <Point><coordinates>-81.9757065,29.9649326,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>SBF (2d SQD)</name>
+    <description>MP 0600 1530 - Bradenton Ave south of OBJ, oriented north.</description>
+    <styleUrl>#style-friendly</styleUrl>
+    <Point><coordinates>-81.9742557,29.9649434,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>SEC North (3d SQD-A)</name>
+    <description>MP 0600 1545 - Bradenton Ave north of OBJ. Blocking position, interdicts reinforcement.</description>
+    <styleUrl>#style-security</styleUrl>
+    <Point><coordinates>-81.9742689,29.9662969,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>SEC East (3d SQD-B)</name>
+    <description>MP 0608 1538 - Unnamed road east of OBJ. Blocking position, interdicts escape.</description>
+    <styleUrl>#style-security</styleUrl>
+    <Point><coordinates>-81.9734336,29.9656714,0</coordinates></Point>
+  </Placemark>
+
+</Document>
+</kml>
