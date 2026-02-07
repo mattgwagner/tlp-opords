@@ -58,6 +58,7 @@ Each tactical OPORD is available in two versions. Use **Detailed** for early ite
 | # | Mission | Complexity | Description | Mission Command | Detailed |
 |---|---------|-----------|-------------|-----------------|----------|
 | 008 | [Patrol Base Operations](008-patrol-base-operations-detailed.html) | Moderate | Establish and occupy a patrol base for sustained operations. Sector defense, LP/OPs, priorities of work, and QRF. | [html](008-patrol-base-operations.html) · [pdf](008-patrol-base-operations.pdf) | [html](008-patrol-base-operations-detailed.html) · [pdf](008-patrol-base-operations-detailed.pdf) |
+| 015 | [Patrol Base Operations (Company)](015-patrol-base-operations-company.html) | Higher | Company-level patrol base with screening element and reserve. CO issues tasks to three platoons: defense, screen, and QRF. | [html](015-patrol-base-operations-company.html) · [pdf](015-patrol-base-operations-company.pdf) | — |
 
 ### DSCA Operations (Hurricane Response)
 

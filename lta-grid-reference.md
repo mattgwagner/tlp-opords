@@ -51,7 +51,9 @@ The following grids are used in current OPORDs:
 | 006 - Base Defense | `MP 0610 1550` | FOB THUNDER | FOB center |
 | 007 - FPOL | `MP 0607 1555` | Passage Point | North entrance to FOB |
 | 007 - FPOL | `MP 0602 1565` | OBJ THUNDER | Bradenton/Jacksonville intersection |
+| 008 - Patrol Base Ops | `MP 0580 1520` | PB THUNDER | Wooded area south of FOB |
 | 013 - Establish COP | `MP 0600 1550` | COP Seggel | West of FOB, facility complex |
+| 015 - Patrol Base (Co) | `MP 0580 1520` | PB THUNDER (Company) | Same PB site, company-level operation |
 
 ---
 
