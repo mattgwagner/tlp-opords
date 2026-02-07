@@ -60,15 +60,15 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompa
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms. Limited visibility expected during nighttime operations; plan for EENT/BMNT stand-to procedures.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
-REAPER forces consist of irregular forces operating in the area who actively patrol and conduct reconnaissance to locate friendly positions. They are equipped with small arms, support weapons, and limited indirect fire capability. They are experienced in local terrain and employ reconnaissance teams ahead of their main body to locate and assess friendly positions before committing to an attack.
+REAPER forces consist of irregular forces operating in the area who actively patrol and conduct reconnaissance to locate friendly positions. They are equipped with small arms and support weapons. They are experienced in local terrain and employ reconnaissance teams ahead of their main body to locate and assess friendly positions before committing to an attack.
 
-**1. Composition.** Estimated platoon-sized element of 20-30 REAPER personnel organized into 3-4 squads, equipped with small arms, support weapons (PKM/RPK), possible 60mm mortar capability, and communications equipment. A reconnaissance element of 2-3 teams operates ahead of the main body.
+**1. Composition.** Estimated reinforced squad of 10-15 REAPER personnel organized into 2-3 fire teams, equipped with small arms, 1-2 support weapons (PKM/RPK), and communications equipment. A reconnaissance element of 2-3 personnel operates ahead of the main body.
 
 **2. Disposition.** REAPER reconnaissance teams are actively patrolling the area and maintaining observation of likely friendly positions. The REAPER main body is located to the north, with elements dispersed to avoid detection. They maintain a reserve capable of reinforcing any element in contact.
 
-**3. Most Probable Course of Action (MPCOA).** REAPER reconnaissance elements locate the patrol base and conduct sustained observation from multiple directions. They report findings to higher and continue surveillance while the main body prepares a deliberate attack. Probing attacks test the perimeter at 2-3 points simultaneously to identify weak sectors before committing the main body.
+**3. Most Probable Course of Action (MPCOA).** REAPER reconnaissance elements locate the patrol base or screening positions and conduct sustained observation. They report findings to higher and continue surveillance while avoiding decisive engagement. Limited probing attacks test the screen line or patrol base perimeter to gather intelligence on friendly strength and disposition.
 
-**4. Most Dangerous Course of Action (MDCOA).** REAPER conducts a coordinated multi-element attack. Reconnaissance elements fix the screening force while the main body bypasses or penetrates through a gap. The main body attacks the patrol base from the north and east simultaneously, using mortar fire to suppress fighting positions while assault elements close on the perimeter. A blocking element cuts off withdrawal routes to the south.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER conducts a coordinated two-element attack. The reconnaissance element fixes the screening force with harassing fire while the main body infiltrates through a gap or along a covered avenue of approach. The main body attacks the patrol base from an unexpected direction using fire and movement, attempting to penetrate the perimeter before the reserve can react. A small element attempts to cut off withdrawal routes or create confusion with fires from multiple directions.
 
 ### d. Friendly Forces
 
@@ -143,8 +143,7 @@ A Company establishes PB THUNDER through a deliberate occupation. The main effor
    3. Penetration of the screen line by enemy elements
    4. Loss of communication with any OP or with 2nd Platoon
    5. Friendly casualty or equipment failure degrading any platoon's ability to accomplish its mission
-   6. Enemy indirect fire impacting the patrol base or screen positions
-   7. Enemy force larger than squad-sized detected on any avenue of approach
+   6. Enemy force larger than a fire team (4+ personnel) detected on any avenue of approach
 
 **3. Reporting:**
    - **Report to higher when departing current location.**
