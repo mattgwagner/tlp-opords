@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>OPORD 012 - DSCA Point of Distribution</name>
+  <description>Hurricane DELTA POD Ops - A CO, 4-211 INF. Bay County. FOR TRAINING USE ONLY. DSCA - No enemy threat.</description>
+
+  <Style id="style-staging">
+    <IconStyle>
+      <color>ff00ff00</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/square.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff00ff00</color><scale>0.9</scale></LabelStyle>
+  </Style>
+  <Style id="style-pod">
+    <IconStyle>
+      <color>ffff6600</color>
+      <scale>1.3</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ffff6600</color><scale>1.0</scale></LabelStyle>
+  </Style>
+
+  <Placemark>
+    <name>Bay County Staging Area</name>
+    <description>Company TOC. 3rd PLT conducts resupply runs to POD sites and serves as QRF. Emergency fuel available.</description>
+    <styleUrl>#style-staging</styleUrl>
+    <Point><coordinates>-85.6602,30.1588,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>POD ALPHA - Panama City HS</name>
+    <description>1st PLT (Main Effort). Drive-through distribution. Single entry, 2+ distribution lanes, single exit. Expected 500-1000 households/day. Supplies: water, ice, MREs, tarps. Walk-up area for pedestrians. Resupply at 25% remaining.</description>
+    <styleUrl>#style-pod</styleUrl>
+    <Point><coordinates>-85.6510,30.1690,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>POD BRAVO - Lynn Haven CC</name>
+    <description>2nd PLT. Same procedures/distribution limits as POD ALPHA. Extends coverage to Lynn Haven population center.</description>
+    <styleUrl>#style-pod</styleUrl>
+    <Point><coordinates>-85.6361,30.2445,0</coordinates></Point>
+  </Placemark>
+
+</Document>
+</kml>

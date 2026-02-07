@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>OPORD 010 - DSCA Convoy Operations</name>
+  <description>Hurricane DELTA Relief Convoy - A CO, 4-211 INF. Camp Blanding to Bay County (~200 mi). FOR TRAINING USE ONLY. DSCA - No enemy threat.</description>
+
+  <Style id="style-sp">
+    <IconStyle>
+      <color>ffff6600</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ffff6600</color><scale>1.0</scale></LabelStyle>
+  </Style>
+  <Style id="style-rp">
+    <IconStyle>
+      <color>ff00ff00</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/square.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff00ff00</color><scale>1.0</scale></LabelStyle>
+  </Style>
+  <Style id="style-checkpoint">
+    <IconStyle>
+      <color>ff00ffff</color>
+      <scale>0.9</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff00ffff</color><scale>0.8</scale></LabelStyle>
+  </Style>
+  <Style id="style-route">
+    <LineStyle>
+      <color>ffff6600</color>
+      <width>3</width>
+    </LineStyle>
+  </Style>
+
+  <Placemark>
+    <name>SP: Camp Blanding JCTC</name>
+    <description>Camp Blanding Joint Training Center Assembly Area. Depart with full fuel tanks. PL HMMWV (lead), 3x LMTV (relief supplies), PSG HMMWV (trail). Convoy brief prior to SP.</description>
+    <styleUrl>#style-sp</styleUrl>
+    <Point><coordinates>-81.9732,29.9668,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Lake City Area</name>
+    <description>Potential fuel/rest halt. Intersection of I-10 and US-90. Last reliable fuel before affected area. ~60 mi from SP.</description>
+    <styleUrl>#style-checkpoint</styleUrl>
+    <Point><coordinates>-82.6393,30.1899,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Tallahassee Area</name>
+    <description>Potential checkpoint/fuel stop. I-10 corridor. ~130 mi from SP. Monitor infrastructure conditions beyond this point.</description>
+    <styleUrl>#style-checkpoint</styleUrl>
+    <Point><coordinates>-84.2807,30.4383,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>RP: Bay County Staging Area</name>
+    <description>Panama City vicinity. 3rd PLT secures staging area and prepares to receive convoy. Transfer supplies to staging area. ~200 mi from SP. Degraded infrastructure expected.</description>
+    <styleUrl>#style-rp</styleUrl>
+    <Point><coordinates>-85.6602,30.1588,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Convoy Route (Approximate)</name>
+    <description>Camp Blanding to Bay County via I-10 corridor. ~200 miles. PL selects primary/alternate routes with checkpoints, fuel stops, rest halts.</description>
+    <styleUrl>#style-route</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -81.9732,29.9668,0
+        -82.0500,30.0500,0
+        -82.6393,30.1899,0
+        -83.5000,30.3500,0
+        -84.2807,30.4383,0
+        -85.0000,30.3800,0
+        -85.6602,30.1588,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+
+</Document>
+</kml>

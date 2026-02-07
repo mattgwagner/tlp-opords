@@ -6,24 +6,26 @@
 
 > **CADRE / OPFOR NOTES**
 >
-> **Complexity:** Lower | **Recommended Phase:** CRAWL (Practical Exercise), WALK (Blocks 1-2)
+> **Complexity:** Moderate | **Recommended Phase:** CRAWL (Practical Exercise), WALK (Blocks 1-2), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon is tasked to attack to seize OBJ HERRERA to deny REAPER use of a key road junction.
+> **Mission Summary:** 1st Platoon is tasked to attack to destroy the REAPER forward command post at OBJ HERRERA and disrupt enemy command and control in AO COTTO.
 >
 > **Destination:** OBJ HERRERA at MP 0602 1565, AO COTTO.
 >
-> **Actions on Objective:** Platoon will establish an ORP, conduct leader's reconnaissance, move to assault positions, seize the objective, and consolidate.
+> **Actions on Objective:** Platoon will establish an ORP, conduct leader's reconnaissance, move to assault positions, seize the objective, conduct a hasty sensitive site exploitation (SSE), and consolidate.
 >
-> **Training Focus:** This is a simplified OPORD designed for CRAWL phase TLP instruction. The TAC briefs this order paragraph by paragraph, pausing at each section to explain what information the candidate should extract and how it feeds into their planning. The mission is a basic deliberate attack — the most fundamental infantry platoon offensive operation. Candidates should be able to identify: specified tasks, implied tasks, commander's intent, and key control measures.
+> **Training Focus:** This OPORD serves dual roles. For CRAWL phase, the TAC briefs this order paragraph by paragraph, pausing at each section to explain what information the candidate should extract and how it feeds into their planning. For WALK/RUN iterations, it is a standalone evaluated lane — a deliberate attack against an enemy command post. Candidates should be able to identify: specified tasks, implied tasks, commander's intent, and key control measures. The CP objective adds complexity beyond a simple terrain seizure: candidates must plan for intelligence collection (SSE) after assault.
 >
-> **Instructional Use:**
+> **Instructional Use (CRAWL Phase):**
 > - Brief this order to candidates with printed copies in hand
 > - Pause after each paragraph to discuss what information matters and why
 > - Have candidates identify the 5 W's from the mission statement
 > - Walk candidates through how each section feeds TLP Steps 1-3
 > - Use as the basis for a practice WARNO and terrain model exercise
 >
-> **OPFOR/Training Wrinkles:** Not applicable for CRAWL phase classroom use. If used for a WALK phase iteration, OPFOR should present a static defense with 4-6 personnel in hasty fighting positions.
+> **OPFOR/Training Wrinkles:** For CRAWL phase classroom use, not applicable. For WALK/RUN iterations, OPFOR should present 6-8 personnel: 2-3 acting as CP staff (seated at field desk with maps/radios) and 4-5 in fighting positions around the CP. Props recommended: field desk or table, antenna simulator (pole with wire), map boards, and a radio. CP staff should attempt to destroy documents if given time during the assault.
+>
+> **OP Variant:** For iterations requiring a "deliberate attack on enemy OP," replace the CP with a 2-4 person observation post. Remove the SSE task and CP staff from OPFOR. Emphasize stealth approach and speed of assault — the OP's value is early warning, so the enemy's priority is transmitting a report before being overrun. Adjust enemy composition to 2-4 REAPER with binoculars, radio, and a sketch of friendly positions.
 >
 > **See Also:** [LTA Grid Reference](lta-grid-reference.md) | [Tactical Overlay](014-deliberate-attack-overlay.html)
 >

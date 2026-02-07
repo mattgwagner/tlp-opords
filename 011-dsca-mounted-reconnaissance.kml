@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>OPORD 011 - DSCA Mounted Reconnaissance</name>
+  <description>Hurricane DELTA Route Recon - A CO, 4-211 INF. Bay County area. FOR TRAINING USE ONLY. DSCA - No enemy threat.</description>
+
+  <Style id="style-staging">
+    <IconStyle>
+      <color>ff00ff00</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/square.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff00ff00</color><scale>0.9</scale></LabelStyle>
+  </Style>
+  <Style id="style-recon">
+    <IconStyle>
+      <color>ff00ffff</color>
+      <scale>1.0</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff00ffff</color><scale>0.9</scale></LabelStyle>
+  </Style>
+  <Style id="style-critical">
+    <IconStyle>
+      <color>ffff6600</color>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ffff6600</color><scale>0.9</scale></LabelStyle>
+  </Style>
+  <Style id="style-route">
+    <LineStyle>
+      <color>ff00ffff</color>
+      <width>3</width>
+    </LineStyle>
+  </Style>
+
+  <Folder>
+    <name>Key Locations</name>
+
+    <Placemark>
+      <name>Bay County Staging Area</name>
+      <description>Company TOC and rally point. 3rd PLT provides security/QRF. All platoons consolidate here for debrief.</description>
+      <styleUrl>#style-staging</styleUrl>
+      <Point><coordinates>-85.6602,30.1588,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Bay County EOC</name>
+      <description>Emergency Operations Center. Coordinate with county emergency management. Critical infrastructure assessment.</description>
+      <styleUrl>#style-critical</styleUrl>
+      <Point><coordinates>-85.6820,30.1735,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Bay Medical Center</name>
+      <description>Hospital status and access assessment. Priority recon objective - medical infrastructure critical for relief ops.</description>
+      <styleUrl>#style-critical</styleUrl>
+      <Point><coordinates>-85.6658,30.1670,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>1st PLT - Sectors 1 &amp; 2 (Main Effort)</name>
+
+    <Placemark>
+      <name>Sector 1: US-231 Corridor</name>
+      <description>Primary N-S supply route. Assess trafficability for LMTV convoys. Check bridge conditions. Report OPEN/RESTRICTED/CLOSED. County line to Panama City.</description>
+      <styleUrl>#style-recon</styleUrl>
+      <Point><coordinates>-85.6600,30.3500,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sector 2: Panama City Urban</name>
+      <description>Panama City urban area including US-98 coastal segment. Assess downtown accessibility, locate POD sites (min 3), document flooding extent.</description>
+      <styleUrl>#style-recon</styleUrl>
+      <Point><coordinates>-85.6602,30.1588,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>US-231 Recon Route</name>
+      <description>Sector 1: US-231 corridor from county line to Panama City. Primary supply route assessment.</description>
+      <styleUrl>#style-route</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          -85.6600,30.4400,0
+          -85.6600,30.3500,0
+          -85.6600,30.2500,0
+          -85.6602,30.1588,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>2nd PLT - Sectors 3 &amp; 4</name>
+
+    <Placemark>
+      <name>Sector 3: SR-77 Corridor</name>
+      <description>Alternate inland route assessment. Assess trafficability as alternate supply route if US-231 impassable.</description>
+      <styleUrl>#style-recon</styleUrl>
+      <Point><coordinates>-85.6800,30.3000,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sector 4: Western Bay County</name>
+      <description>Western Bay County assessment. Alternate routes and potential staging/POD sites.</description>
+      <styleUrl>#style-recon</styleUrl>
+      <Point><coordinates>-85.7500,30.2000,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>
