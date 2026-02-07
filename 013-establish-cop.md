@@ -18,8 +18,6 @@
 >
 > **Training Focus:** This OPORD tests multi-phase planning (offense to defense transition), building clearing under uncertainty, CP establishment and operations, battle tracking, communications management, sustainment planning for extended operations, and defensive planning against indirect fire and counterattack threats. The CP establishment requirement evaluates whether candidates can stand up a functioning command post that supports company and platoon operations across the AO.
 >
-> **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes for initial clearing and occupation. CP operations and defensive posture are sustained for the duration of the LFX.
->
 > **OPFOR/Training Wrinkles:**
 > - Vary REAPER presence during clearing: empty facility, observation element only, or occupied and defended.
 > - Simulate indirect fire (mortar) attack after occupation to test overhead cover and dispersion planning.
