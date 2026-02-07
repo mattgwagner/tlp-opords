@@ -90,43 +90,34 @@ None.
 
 ### a. Commander's Intent
 
-**1. Commander's Intent.** 1st Platoon seizes OBJ HERRERA to deny REAPER control of the road junction and establish friendly force presence for follow-on operations.
+**Purpose:** Deny REAPER control of the key road junction at OBJ HERRERA to enable friendly freedom of movement through AO COTTO.
 
-**2. Purpose.** Deny REAPER freedom of movement through AO COTTO by seizing the key road junction at OBJ HERRERA.
+**Key Tasks:** (1) Seize OBJ HERRERA. (2) Destroy or displace REAPER forces at the junction. (3) Consolidate on the objective and prepare for follow-on operations.
 
-**3. End State.** OBJ HERRERA is seized, REAPER forces are destroyed or displaced, and the platoon is consolidated and prepared for follow-on operations.
+**End State:** OBJ HERRERA seized, REAPER forces destroyed or displaced, platoon consolidated on the objective with a hasty perimeter oriented north and east.
 
 ### b. Concept of Operations
-1st Platoon moves from the platoon assembly area to an ORP vicinity MP 0586 1552, in the woodline west of Bradenton Avenue. The platoon leader conducts a leader's reconnaissance of the objective. 1st Squad serves as the support-by-fire element, establishing a position south of the objective on Bradenton Avenue to suppress the enemy with fires north along the road corridor. 2nd Squad serves as the assault element, maneuvering north through the woods from the ORP and assaulting the objective from the west. 3rd Squad provides security at the ORP and serves as the platoon reserve. Upon seizure of the objective, the platoon consolidates and reports to higher.
+1st Platoon conducts a deliberate attack to seize OBJ HERRERA. The platoon establishes an ORP in the woodline west of Bradenton Avenue, and the PL conducts a leader's reconnaissance. The support element, as the shaping operation, fixes the enemy from the south along the Bradenton Avenue corridor. The assault element, as the main effort, maneuvers through the concealed woodline and attacks the objective from the west — exploiting the enemy's limited observation off the improved roads. The reserve provides ORP security and is prepared to reinforce on order. Upon seizure, the platoon consolidates and reports.
 
-### c. Scheme of Movement and Maneuver
-- Platoon moves from the assembly area to the ORP (MP 0586 1552) using a file formation and traveling overwatch through the woodline.
-- From the ORP, 1st Squad moves east through the woods to a support-by-fire position on Bradenton Avenue south of the objective (MP 0601 1552), oriented north.
-- 2nd Squad moves north from the ORP through the woodline, establishing an assault position west of the objective.
-- On the PL's signal, 1st Squad initiates suppressive fire north along the Bradenton Avenue corridor into enemy positions at the junction.
-- On order, 2nd Squad assaults through the objective from the west, crossing Jacksonville Street and clearing through the enemy positions on the north side of the junction.
-- 3rd Squad remains at the ORP to provide rear security and serve as reserve.
-- Upon seizure, the platoon consolidates on the objective and establishes a hasty perimeter oriented north and east.
-
-### d. Scheme of Fires
+### c. Scheme of Fires
 1st Squad, as the support-by-fire element, has priority of fires. Mortar support is available through company on request.
 
-### e. Tasks to Subordinate Units
+### d. Tasks to Subordinate Units
 
-**1. 1st Squad (Support by Fire):**
+**1. 1st Squad (Support by Fire — Shaping Operation):**
 
-- **TASK:** Establish a support-by-fire position on Bradenton Avenue south of OBJ HERRERA IVO MP 0601 1552, oriented north. Suppress REAPER positions at the Jacksonville Street junction.
-- **PURPOSE:** Fix REAPER forces in place and enable 2nd Squad to assault through the objective from the west.
+- **TASK:** From the ORP (MP 0586 1552), move east through the woodline to a support-by-fire position on Bradenton Avenue south of OBJ HERRERA (IVO MP 0601 1552), oriented north. On the PL's signal, initiate suppressive fire north along the Bradenton Avenue corridor into REAPER positions at the junction. Shift or cease fires on order as 2nd Squad enters the objective.
+- **PURPOSE:** Fix REAPER in their fighting positions so 2nd Squad can close on and assault through the objective without receiving aimed fire from the south-facing positions.
 
-**2. 2nd Squad (Assault):**
+**2. 2nd Squad (Assault — Decisive Operation):**
 
-- **TASK:** Move north through the woodline from the ORP to an assault position west of OBJ HERRERA. On order, assault east through OBJ HERRERA to destroy REAPER forces and seize the road junction at MP 0602 1565.
-- **PURPOSE:** Seize OBJ HERRERA to deny REAPER control of the road junction.
+- **TASK:** From the ORP, move north through the woodline to an assault position west of OBJ HERRERA. On order, assault east through the objective, crossing Jacksonville Street and clearing through REAPER positions on the north side of the junction (MP 0602 1565). Destroy REAPER forces and seize the road junction. Signal "objective secured" upon completion.
+- **PURPOSE:** Destroy the enemy force on the objective and seize the key terrain that controls movement through AO COTTO.
 
 **3. 3rd Squad (Security / Reserve):**
 
-- **TASK:** Secure the ORP and provide rear security. Be prepared to reinforce 1st or 2nd Squad on order.
-- **PURPOSE:** Maintain security of the ORP and provide a reserve capability to exploit success or respond to REAPER counterattack.
+- **TASK:** Secure the ORP (MP 0586 1552) and provide rear security during the assault. Be prepared to reinforce 1st or 2nd Squad on order, or establish a blocking position north of the objective to prevent REAPER reinforcement from the woodline.
+- **PURPOSE:** Provide the PL a reserve to exploit success or respond to REAPER counterattack without pulling the SBF or assault element off task.
 
 ### f. Coordinating Instructions
 

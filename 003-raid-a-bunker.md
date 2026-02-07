@@ -89,45 +89,34 @@ None.
 
 ### a. Commander's Intent
 
-**1. Commander's Intent.** 1st Platoon eliminates REAPER forces and destroys the bunker to deny REAPER a defensive position and enable friendly freedom of movement.
+**Purpose:** Deny REAPER a fortified defensive position and restore friendly freedom of movement along the Bradenton Avenue corridor in AO HERRERA.
 
-**2. Purpose.** The purpose of this operation is to eliminate REAPER forces and destroy the bunker to deny REAPER a base of operations and allow freedom of movement for friendly forces in AO HERRERA.
+**Key Tasks:** (1) Isolate OBJ COTTO to prevent REAPER reinforcement or escape. (2) Breach and destroy the bunker position. (3) Eliminate REAPER combatants at the objective.
 
-**3. End State.** REAPER bunker is destroyed, REAPER forces are eliminated, and friendly forces have freedom of movement in AO HERRERA.
+**End State:** OBJ COTTO destroyed, REAPER forces at the objective eliminated, friendly forces consolidated at ORP and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a raid on OBJ COTTO by establishing an ORP vicinity MP 0586 1530 in the woodline southwest of the objective. The platoon leader conducts a leader's reconnaissance to confirm enemy positions at the bunker. 3rd Squad moves first to establish security, blocking the Bradenton Avenue corridor north of the objective and the unnamed road east of the objective to isolate the bunker. 2nd Squad establishes a support-by-fire position south of the objective on Bradenton Avenue (IVO MP 0600 1530), oriented north. On the PL's signal, 2nd Squad initiates suppressive fire north along the Bradenton Avenue corridor. 1st Squad, as the assault element, moves from the ORP north through the woodline and assaults the bunker from the west, breaching and clearing the position. Upon completion of the raid, the platoon withdraws west into the woodline and south to the ORP.
+1st Platoon conducts a raid on OBJ COTTO in two phases. In **Phase 1 (Set)**, the platoon occupies an ORP in the woodline southwest of the objective. The PL conducts a leader's reconnaissance. The security element moves first to isolate the objective, then the support element occupies a position south of the objective to fix the enemy. In **Phase 2 (Strike)**, the support element initiates suppressive fire and the assault element, as the main effort, breaches and clears the bunker from the west. Upon seizure, the platoon withdraws by echelon to the ORP.
 
-### c. Scheme of Movement and Maneuver
-- Platoon moves to the ORP (MP 0586 1530) through the woodline west of Bradenton Avenue using a file formation and traveling overwatch.
-- PL conducts leader's reconnaissance to confirm enemy positions and finalize assault plan.
-- 3rd Squad departs ORP first and moves to establish blocking positions: one team north along Bradenton Avenue (IVO MP 0600 1545) to interdict reinforcements, one team east along the unnamed road (IVO MP 0608 1538) to block escape.
-- 2nd Squad moves east from the ORP to a support-by-fire position on Bradenton Avenue south of the bunker (IVO MP 0600 1530), oriented north.
-- 1st Squad moves north from the ORP through the dense woodline to an assault position west of the bunker.
-- On the PL's signal, 2nd Squad initiates suppressive fire north along Bradenton Avenue into the bunker.
-- On order, 1st Squad assaults east through the objective from the west, breaching and clearing the bunker position.
-- Upon completion, 1st Squad signals objective secured. Platoon withdraws by echelon: 1st Squad withdraws west into the woodline, 2nd Squad breaks contact south, 3rd Squad collapses security last. All elements consolidate at the ORP.
-- Platoon withdraws south from the ORP.
-
-### d. Scheme of Fires
+### c. Scheme of Fires
 2nd Squad, as the support-by-fire element, has priority of fires during the assault phase. 1st Squad, as the decisive effort, has priority of indirect fires. Mortar support available through company on request.
 
-### e. Tasks to Subordinate Units
+### d. Tasks to Subordinate Units
 
-**1. 1st Squad (Assault):**
+**1. 1st Squad (Assault — Decisive Operation):**
 
-- **TASK:** Move north through the woodline from the ORP to an assault position west of OBJ COTTO. On order, assault east through the bunker position at MP 0600 1538, breach and clear the fortified position, and neutralize REAPER combatants.
-- **PURPOSE:** Destroy REAPER defensive positions and eliminate threats to enable freedom of movement for friendly forces.
+- **TASK:** From the ORP (vic MP 0586 1530), move north through the woodline to an assault position west of OBJ COTTO. On the PL's signal, assault east through the bunker position (MP 0600 1538), breach and clear the fortified position, and eliminate REAPER combatants. Signal "objective secured" upon completion. Withdraw west into the woodline to the ORP on order.
+- **PURPOSE:** Destroy the bunker and eliminate the defending force so the platoon can complete the raid and withdraw before REAPER reinforcement.
 
-**2. 2nd Squad (Support by Fire):**
+**2. 2nd Squad (Support by Fire — Shaping Operation):**
 
-- **TASK:** Establish a support-by-fire position on Bradenton Avenue south of OBJ COTTO (IVO MP 0600 1530), oriented north. On the PL's signal, suppress REAPER positions at the bunker with fires north along the Bradenton Avenue corridor. Shift or cease fires on order as 1st Squad enters the objective.
-- **PURPOSE:** Fix REAPER forces in place and enable the assault element to breach and clear the objective with minimal casualties.
+- **TASK:** From the ORP, move east to a support-by-fire position on Bradenton Avenue south of OBJ COTTO (IVO MP 0600 1530), oriented north. On the PL's signal, suppress REAPER positions along Bradenton Avenue. Shift or cease fires on order as 1st Squad enters the objective. Break contact south on order during withdrawal.
+- **PURPOSE:** Fix REAPER in their fighting positions so 1st Squad can close on and breach the bunker without receiving aimed fire.
 
-**3. 3rd Squad (Security):**
+**3. 3rd Squad (Security — Shaping Operation):**
 
-- **TASK:** Establish blocking positions to isolate OBJ COTTO. Alpha Team blocks north along Bradenton Avenue (IVO MP 0600 1545) to interdict REAPER reinforcements. Bravo Team blocks east along the unnamed road (IVO MP 0608 1538) to prevent REAPER escape. Maintain positions through the assault and withdraw last during platoon withdrawal.
-- **PURPOSE:** Isolate the objective, prevent REAPER reinforcement or escape, and ensure the platoon can conduct an organized withdrawal after the raid.
+- **TASK:** Depart the ORP first. Alpha Team establishes a blocking position north along Bradenton Avenue (IVO MP 0600 1545) to interdict REAPER reinforcements. Bravo Team blocks east along the unnamed road (IVO MP 0608 1538) to prevent REAPER escape. Maintain positions through the assault. Collapse security last during platoon withdrawal and consolidate at the ORP.
+- **PURPOSE:** Isolate the objective so REAPER cannot reinforce or escape during the assault, ensuring 1st Squad fights only the force currently at the bunker.
 
 ### f. Coordinating Instructions
 

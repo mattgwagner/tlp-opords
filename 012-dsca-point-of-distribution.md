@@ -110,38 +110,24 @@ A Company establishes and operates Points of Distribution at designated location
 
 ### a. Commander's Intent
 
-**1. Commander's Intent.** A Company operates fair, efficient PODs that maximize the number of households served while treating all civilians with dignity and respect. We will maintain supply accountability and coordinate with other agencies to ensure comprehensive relief coverage.
+**Purpose:** Distribute emergency relief supplies to civilians affected by Hurricane DELTA, providing immediate assistance and demonstrating effective military support to civil authorities.
 
-**2. Purpose.** Distribute emergency relief supplies to civilians affected by Hurricane DELTA, providing immediate assistance and demonstrating effective military support to civil authorities.
+**Key Tasks:** (1) Establish POD sites at designated locations. (2) Distribute supplies fairly and efficiently using drive-through method. (3) Maintain supply accountability. (4) Treat all civilians with dignity and respect.
 
-**3. End State.** POD sites operational, supplies distributed fairly and efficiently, supply accountability maintained, civilians treated with dignity, company prepared for sustained operations.
-
-**4. Key Tasks:**
-   - Establish POD sites at designated locations
-   - Distribute supplies using drive-through method
-   - Maintain supply accountability
-   - Coordinate resupply as needed
-   - Treat all civilians professionally
+**End State:** POD sites operational, maximum number of households served, supply accountability maintained, company prepared for sustained operations.
 
 ### b. Concept of Operations
-A Company operates two POD sites in Bay County. 1st Platoon operates POD Site ALPHA at Panama City High School. 2nd Platoon operates POD Site BRAVO at Lynn Haven Community Center. 3rd Platoon conducts resupply runs from the staging area and serves as QRF. Each POD uses the drive-through distribution method with traffic control at entry, multiple distribution lanes, and controlled exit. PODs operate during designated hours or until supplies are depleted. Resupply is coordinated through the Company TOC.
+A Company operates two POD sites in Bay County. 1st Platoon operates POD Site ALPHA at Panama City High School as the main effort. 2nd Platoon operates POD Site BRAVO at Lynn Haven Community Center. 3rd Platoon conducts resupply runs from the staging area and serves as QRF. Each POD uses the drive-through distribution method with traffic control at entry, multiple distribution lanes, and controlled exit. PODs operate during designated hours or until supplies are depleted. Resupply is coordinated through the Company TOC when supplies reach 25% remaining.
 
-### c. Scheme of Movement and Maneuver
-- Platoons move from staging area to assigned POD sites
-- Establish POD layout per SOP
-- Conduct distribution operations
-- Transition or close POD on order
-
-### d. Scheme of Fires
+### c. Scheme of Fires
 Not applicable (DSCA operation).
 
-### e. Tasks to Subordinate Units
+### d. Tasks to Subordinate Units
 
-**1st Platoon (POD Site ALPHA - Main Effort):**
+**1st Platoon (POD Site ALPHA — Main Effort):**
 
-- **TASK:** Establish and operate POD Site ALPHA at Panama City High School. Set up traffic flow pattern, distribute emergency supplies (water, ice, MREs, tarps) to affected civilians, maintain supply accountability, coordinate resupply through Company TOC, and transition or close POD on order.
-- **PURPOSE:** Distribute relief supplies to civilians in the Panama City area, providing immediate humanitarian assistance.
-- **END STATE:** POD Site ALPHA operational, supplies distributed fairly and efficiently, accountability maintained, site secured or transitioned on order.
+- **TASK:** Establish and operate POD Site ALPHA at Panama City High School. Set up traffic flow with a single entry control point, minimum two distribution lanes, and a single exit to prevent return traffic. Distribute emergency supplies (water, ice, MREs, tarps) per household limits. Maintain supply accountability using tally sheets with hourly reports to Company TOC. Request resupply when at 25% remaining. Establish a walk-up area for civilians without vehicles. Transition or close POD on order.
+- **PURPOSE:** Serve the maximum number of affected households in the Panama City area while maintaining accountability and order.
 
 **Distribution Limits (per household):**
 - Water: 1 case (24 bottles)
@@ -160,13 +146,13 @@ Not applicable (DSCA operation).
 
 **2nd Platoon (POD Site BRAVO):**
 
-- **TASK:** Establish and operate POD Site BRAVO at Lynn Haven Community Center using same procedures as POD Site ALPHA.
-- **PURPOSE:** Distribute relief supplies to civilians in the Lynn Haven area.
+- **TASK:** Establish and operate POD Site BRAVO at Lynn Haven Community Center using same procedures and distribution limits as POD Site ALPHA.
+- **PURPOSE:** Extend distribution coverage to the Lynn Haven area so the company serves both major population centers.
 
-**3rd Platoon (Resupply/QRF):**
+**3rd Platoon (Resupply / QRF):**
 
-- **TASK:** Conduct resupply runs from Bay County Staging Area to POD sites as requested. Serve as Quick Reaction Force to support POD operations if required.
-- **PURPOSE:** Maintain continuous supply flow to PODs and provide emergency response capability.
+- **TASK:** Conduct resupply runs from Bay County Staging Area to POD sites as requested. Serve as Quick Reaction Force to support POD operations (crowd control, medical emergency, vehicle recovery).
+- **PURPOSE:** Keep distribution lanes supplied so neither POD runs out, and provide emergency response so POD personnel can stay focused on distribution.
 
 ### f. Coordinating Instructions
 

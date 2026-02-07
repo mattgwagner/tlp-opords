@@ -113,38 +113,24 @@ A Company conducts mounted area reconnaissance of designated sectors in Bay Coun
 
 ### a. Commander's Intent
 
-**1. Commander's Intent.** A Company conducts thorough reconnaissance of assigned sectors to provide accurate, timely information that enables effective relief operations. We will document conditions systematically and report findings promptly.
+**Purpose:** Provide accurate, timely reconnaissance of Bay County to enable the battalion and civil authorities to plan effective relief operations.
 
-**2. Purpose.** Gather critical information on route conditions, infrastructure status, and potential distribution sites to enable humanitarian assistance operations.
+**Key Tasks:** (1) Reconnoiter assigned sectors systematically. (2) Assess route trafficability for supply convoys. (3) Identify and report hazards. (4) Locate and assess potential POD sites. (5) Document findings with photos/video.
 
-**3. End State.** All assigned sectors reconnoitered, route conditions and infrastructure status reported, potential POD sites identified, company consolidated and prepared for follow-on operations.
-
-**4. Key Tasks:**
-   - Reconnoiter assigned sectors systematically
-   - Assess route trafficability for supply convoys
-   - Identify and report hazards
-   - Locate and assess potential POD sites
-   - Document findings with photos/video
+**End State:** All assigned sectors reconnoitered, route conditions and infrastructure status reported, potential POD sites identified, company consolidated and prepared for follow-on operations.
 
 ### b. Concept of Operations
-A Company conducts mounted reconnaissance of Bay County in four sectors. 1st Platoon reconnoiters Sectors 1 and 2 (US-231 corridor and Panama City urban area). 2nd Platoon reconnoiters Sectors 3 and 4 (SR-77 and western Bay County). 3rd Platoon maintains security of the staging area and serves as QRF. Platoons conduct systematic reconnaissance, document findings, and report to the Company TOC. Upon completion, platoons consolidate at the staging area for debrief.
+A Company conducts mounted reconnaissance of Bay County in four sectors. 1st Platoon reconnoiters Sectors 1 and 2 (US-231 corridor and Panama City urban area) as the main effort — this covers the primary supply corridor. 2nd Platoon reconnoiters Sectors 3 and 4 (SR-77 and western Bay County) for alternate routes. 3rd Platoon maintains security of the staging area and serves as QRF. Squads may operate independently within sectors at PL discretion based on communications. Upon completion, platoons consolidate at the staging area for debrief.
 
-### c. Scheme of Movement and Maneuver
-- Platoons depart staging area and move to assigned sectors
-- Squads may operate independently within sectors (PL discretion based on communications)
-- Systematic reconnaissance of routes, infrastructure, and potential sites
-- Consolidation at staging area upon completion or on order
-
-### d. Scheme of Fires
+### c. Scheme of Fires
 Not applicable (DSCA operation).
 
-### e. Tasks to Subordinate Units
+### d. Tasks to Subordinate Units
 
-**1st Platoon (MAIN EFFORT - Sectors 1 & 2):**
+**1st Platoon (Sectors 1 & 2 — Main Effort):**
 
-- **TASK:** Conduct mounted reconnaissance of Sector 1 (US-231 corridor from county line to Panama City) and Sector 2 (Panama City urban area including US-98 coastal segment). Assess route trafficability, document infrastructure damage, identify hazards, and locate potential POD sites.
-- **PURPOSE:** Provide route assessment for the primary supply corridor and urban area conditions to enable relief operation planning.
-- **END STATE:** Sectors 1 and 2 reconnoitered, all significant findings documented and reported, potential POD sites identified with assessments, platoon consolidated at staging area.
+- **TASK:** Conduct mounted reconnaissance of Sector 1 (US-231 corridor from county line to Panama City) and Sector 2 (Panama City urban area including US-98 coastal segment). Assess route trafficability for LMTV convoys, document infrastructure damage, identify hazards (downed lines, flooding, structural collapse), and locate potential POD sites (minimum 3). Document all findings with photos/video and grid coordinates. Report immediately upon finding routes CLOSED, bridges DAMAGED, or immediate hazards. Consolidate at the staging area upon completion.
+- **PURPOSE:** Provide the route assessment for the primary supply corridor so the battalion can determine whether convoys can reach Bay County and where to establish distribution points.
 
 **Priority Reconnaissance Objectives:**
 1. US-231 trafficability (can LMTV convoys pass?)
@@ -157,12 +143,12 @@ Not applicable (DSCA operation).
 **2nd Platoon (Sectors 3 & 4):**
 
 - **TASK:** Conduct mounted reconnaissance of Sector 3 (SR-77 corridor) and Sector 4 (western Bay County). Assess alternate route trafficability, document damage, and identify potential POD sites.
-- **PURPOSE:** Provide assessment of alternate routes and western area conditions.
+- **PURPOSE:** Provide assessment of alternate routes in case the primary corridor is impassable.
 
-**3rd Platoon:**
+**3rd Platoon (Staging Area Security / QRF):**
 
-- **TASK:** Maintain security of Bay County Staging Area. Serve as Quick Reaction Force to support reconnaissance elements if required.
-- **PURPOSE:** Secure staging area and provide emergency support to reconnaissance platoons.
+- **TASK:** Maintain security of Bay County Staging Area. Serve as Quick Reaction Force to support reconnaissance elements if required (vehicle recovery, medical emergency).
+- **PURPOSE:** Secure the staging area and provide emergency support so reconnaissance platoons can focus on their sectors.
 
 ### f. Coordinating Instructions
 

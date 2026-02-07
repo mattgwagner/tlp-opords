@@ -93,40 +93,34 @@ None.
 
 ### a. Commander's Intent
 
-**1. Commander's Intent.** 1st Platoon establishes and maintains a secure defensive perimeter around FOB THUNDER to prevent REAPER infiltration and protect critical assets.
+**Purpose:** Protect critical assets at FOB THUNDER and deny REAPER the ability to disrupt operations in AO HERRERA.
 
-**2. Purpose.** The purpose of this operation is to establish and maintain security of FOB THUNDER to protect critical assets and enable continued operations in AO HERRERA.
+**Key Tasks:** (1) Establish a secure defensive perimeter around FOB THUNDER. (2) Maintain early warning and security patrol coverage. (3) Retain the ability to reinforce any threatened sector.
 
-**3. End State.** FOB THUNDER has a secure defensive perimeter, REAPER infiltration is prevented, critical assets are protected, and the forward operating base remains operational and secure.
+**End State:** FOB THUNDER has a secure perimeter, REAPER infiltration is prevented, critical assets are protected, and the FOB remains operational.
 
 ### b. Concept of Operations
-1st Platoon establishes a defensive perimeter around FOB THUNDER, assigning sectors of fire to each squad. Defensive positions include fighting positions, observation posts, and early warning systems. The platoon conducts security patrols, maintains observation, and responds to enemy threats. The platoon maintains the capability to reinforce threatened sectors and coordinate with higher headquarters for additional support if needed.
+1st Platoon establishes a perimeter defense of FOB THUNDER. Two squads occupy defensive sectors covering the primary avenues of approach, with fighting positions, observation posts, and assigned sectors of fire providing interlocking coverage. A reserve element provides observation of secondary approaches and serves as the QRF to reinforce any threatened sector. The platoon conducts security patrols to extend early warning beyond the perimeter. The defense is organized to defeat REAPER reconnaissance, infiltration, and direct assault in that priority.
 
-### c. Scheme of Movement and Maneuver
-- Squads occupy assigned defensive sectors and establish fighting positions.
-- Observation posts established at key locations to provide early warning.
-- Security patrols conducted along the perimeter and in adjacent areas.
-- Reserve element prepared to reinforce threatened sectors or respond to REAPER activity.
-
-### d. Scheme of Fires
+### c. Scheme of Fires
 Defensive fires planned for likely enemy avenues of approach. Priority of fires to squad in contact. Indirect fire support available on request. Fires coordinated to avoid fratricide and minimize collateral damage.
 
-### e. Tasks to Subordinate Units
+### d. Tasks to Subordinate Units
 
-**1. 1st Squad:**
+**1. 1st Squad (Northern Sector):**
 
-- **TASK:** Establish and maintain defensive positions in the northern sector of FOB THUNDER, covering the northern approach routes and adjacent buildings, and conduct security patrols as directed.
-- **PURPOSE:** Prevent enemy infiltration from the north and maintain security of the northern perimeter.
+- **TASK:** Occupy and defend the northern sector of FOB THUNDER (MP 0610 1550). Establish fighting positions with interlocking fields of fire covering the northern approach routes and adjacent buildings. Establish OPs at key locations to provide early warning. Conduct security patrols north of the perimeter as directed by the PL.
+- **PURPOSE:** Defeat REAPER infiltration or assault from the north — the most likely avenue of approach — and provide the earliest possible warning of enemy activity.
 
-**2. 2nd Squad:**
+**2. 2nd Squad (Southern Sector):**
 
-- **TASK:** Establish and maintain defensive positions in the southern sector of FOB THUNDER, covering the southern approach routes and adjacent buildings, and conduct security patrols as directed.
-- **PURPOSE:** Prevent enemy infiltration from the south and maintain security of the southern perimeter.
+- **TASK:** Occupy and defend the southern sector of FOB THUNDER. Establish fighting positions with interlocking fields of fire covering the southern approach routes and adjacent buildings. Establish OPs covering the southern avenues of approach. Conduct security patrols south of the perimeter as directed.
+- **PURPOSE:** Prevent REAPER from bypassing the northern defenses and attacking from the south, ensuring the perimeter has no undefended approach.
 
-**3. 3rd Squad:**
+**3. 3rd Squad (Reserve / QRF):**
 
-- **TASK:** Serve as platoon reserve and quick reaction force, maintain observation of the eastern and western approaches, and be prepared to reinforce threatened sectors or respond to enemy activity.
-- **PURPOSE:** Provide flexibility to respond to enemy threats and maintain security of additional approach routes.
+- **TASK:** Maintain observation of the eastern and western approaches from positions within the FOB. Serve as the platoon QRF, prepared to reinforce 1st or 2nd Squad's sector within 5 minutes of contact. Conduct rehearsals for reinforcement of each sector. Be prepared to man a supplementary position on the eastern or western perimeter on order.
+- **PURPOSE:** Provide the PL flexibility to mass combat power at any threatened point without pulling defenders from their primary sectors.
 
 ### f. Coordinating Instructions
 

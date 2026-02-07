@@ -91,39 +91,34 @@ None.
 
 ### a. Commander's Intent
 
-**1. Commander's Intent.** 1st Platoon clears, seizes, and secures OBJ FLUNKER to eliminate REAPER presence and establish a defensive posture to prevent REAPER re-infiltration.
+**Purpose:** Deny REAPER a base of operations in OBJ FLUNKER and enable friendly occupation of the urban area for follow-on operations in AO HERRERA.
 
-**2. Purpose.** The purpose of this operation is to clear and secure OBJ FLUNKER to deny REAPER a base of operations and enable follow-on operations in AO HERRERA.
+**Key Tasks:** (1) Clear all buildings and key terrain in OBJ FLUNKER. (2) Eliminate REAPER combatants. (3) Establish defensive positions to prevent REAPER re-infiltration.
 
-**3. End State.** OBJ FLUNKER is cleared and secured, REAPER forces are eliminated, and friendly forces occupy the city with a defensive posture preventing REAPER re-infiltration.
+**End State:** OBJ FLUNKER cleared, REAPER forces eliminated, friendly forces occupying the city in a defensive posture.
 
 ### b. Concept of Operations
-1st Platoon establishes an ORP, moves to OBJ FLUNKER, and isolates the objective. 1st Squad serves as the assault element, clearing buildings and key terrain. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective area. 3rd Squad serves as the security element, securing flanks, rear, and preventing REAPER reinforcement or escape. Upon completion, the platoon consolidates and establishes defensive positions to hold the city.
+1st Platoon conducts a deliberate clearing operation of OBJ FLUNKER in two phases. In **Phase 1 (Isolate and Clear)**, the platoon moves from the ORP to isolate the objective. The assault element, as the main effort, clears buildings along the main axis while the support element provides overwatch from key intersections. The security element blocks REAPER withdrawal and reinforcement routes. The platoon advances by phase lines, clearing and securing each sector before moving forward. In **Phase 2 (Consolidate)**, the platoon establishes defensive positions to hold the city and prevent re-infiltration.
 
-### c. Scheme of Movement and Maneuver
-- Squads SP from platoon ORP in squad column.
-- 1st Squad clears buildings along the main axis; 2nd Squad provides overwatch and suppressive fire from key intersections and rooftops; 3rd Squad secures flanks, rear, and blocks likely enemy withdrawal or reinforcement routes.
-- Platoon advances by phase lines, clearing and securing each sector before moving forward.
-
-### d. Scheme of Fires
+### c. Scheme of Fires
 1st Squad, as the decisive effort, has priority of indirect fires. Mortar support and smoke available through company on request.
 
-### e. Tasks to Subordinate Units
+### d. Tasks to Subordinate Units
 
-**1. 1st Squad:**
+**1. 1st Squad (Assault — Decisive Operation):**
 
-- **TASK:** Clear and secure assigned buildings and key terrain in OBJ FLUNKER, neutralize REAPER combatants, and report cleared sectors.
-- **PURPOSE:** Eliminate REAPER presence and enable occupation by friendly forces.
+- **TASK:** SP from ORP in squad column. Clear and secure buildings along the main axis of advance through OBJ FLUNKER, beginning at the eastern approach (vic MP 0611 1530). Neutralize REAPER combatants in each structure. Report sectors clear by phase line. Upon consolidation, establish defensive positions in the central plaza area.
+- **PURPOSE:** Systematically eliminate REAPER's foothold in the urban area so the platoon can occupy and hold OBJ FLUNKER.
 
-**2. 2nd Squad:**
+**2. 2nd Squad (Support — Shaping Operation):**
 
-- **TASK:** Provide suppressive fire, isolate the objective area, and support 1st Squad's clearing operations. Be prepared to reinforce or assist in clearing as needed.
-- **PURPOSE:** Enable the assault element to clear the city with minimal casualties and prevent REAPER escape or reinforcement.
+- **TASK:** Provide overwatch and suppressive fire from key intersections and rooftops as 1st Squad advances. Shift positions forward as phase lines are cleared. Be prepared to reinforce 1st Squad's clearing effort on order. During consolidation, establish defensive positions covering southern approaches.
+- **PURPOSE:** Suppress REAPER fighters in depth so 1st Squad can close on and clear buildings without receiving flanking fire.
 
-**3. 3rd Squad:**
+**3. 3rd Squad (Security — Shaping Operation):**
 
-- **TASK:** Secure flanks and rear, block REAPER withdrawal or reinforcement routes, and maintain security of cleared sectors. Monitor for civilian movement and report as required.
-- **PURPOSE:** Prevent REAPER interference, ensure security of the objective, and maintain control of the urban area.
+- **TASK:** Secure the flanks and rear of the clearing operation. Block likely REAPER withdrawal routes to the north and reinforcement routes from outside the city. Maintain security of cleared sectors as the platoon advances. Monitor for civilian movement and report. During consolidation, establish defensive positions covering northern and western approaches.
+- **PURPOSE:** Prevent REAPER from escaping, reinforcing, or re-infiltrating cleared sectors behind the assault element.
 
 ### f. Coordinating Instructions
 

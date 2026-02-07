@@ -98,52 +98,40 @@ A Company conducts logistics convoy operations from Camp Blanding Joint Training
 
 ### a. Commander's Intent
 
-**1. Commander's Intent.** A Company delivers relief supplies to Bay County safely and efficiently while maintaining accountability of personnel and equipment. We will assist civilians when feasible without compromising the primary mission.
+**Purpose:** Deliver emergency relief supplies to Bay County to enable humanitarian assistance operations for civilians affected by Hurricane DELTA.
 
-**2. Purpose.** Deliver emergency relief supplies to enable humanitarian assistance operations for citizens affected by Hurricane DELTA.
+**Key Tasks:** (1) Conduct convoy from Camp Blanding to Bay County safely and efficiently. (2) Maintain convoy discipline and accountability of personnel and equipment. (3) Navigate obstacles and degraded infrastructure. (4) Deliver supplies to the staging area.
 
-**3. End State.** Relief supplies delivered to Bay County Staging Area, all personnel and equipment accounted for, company prepared for follow-on missions.
-
-**4. Key Tasks:**
-   - Conduct convoy from Camp Blanding to Bay County
-   - Maintain convoy discipline and accountability throughout movement
-   - Navigate around obstacles and degraded infrastructure
-   - Deliver supplies to staging area
+**End State:** Relief supplies delivered to Bay County Staging Area, all personnel and equipment accounted for, company prepared for follow-on missions.
 
 ### b. Concept of Operations
 A Company conducts a logistics convoy from Camp Blanding to Bay County. 1st Platoon executes the convoy as the main effort, transporting relief supplies via three LMTVs with HMMWV escort. 2nd Platoon maintains security of the Camp Blanding assembly area. 3rd Platoon secures the Bay County Staging Area and prepares to receive the convoy. Upon arrival, 1st Platoon transfers supplies to the staging area and prepares for return convoy or follow-on operations as directed.
 
-### c. Scheme of Movement and Maneuver
-- 1st Platoon plans and executes convoy from Camp Blanding to Bay County Staging Area
-- Platoon Leader selects primary and alternate routes
-- Platoon Leader designates checkpoints, fuel stops, and rest halts
-- Convoy maintains 50-100 meter intervals; adjust for traffic conditions
+### c. Scheme of Movement
+- Convoy composition: PL HMMWV (lead), LMTV #1 (1st Squad), LMTV #2 (2nd Squad), LMTV #3 (3rd Squad), PSG HMMWV (trail).
+- Platoon Leader selects primary and alternate routes with designated checkpoints, fuel stops, and rest halts.
+- Convoy maintains 50-100 meter intervals; adjust for traffic conditions.
+- Actions at non-functioning traffic signals: treat as four-way stop; lead vehicle establishes right-of-way, convoy follows as single unit.
 
 ### d. Scheme of Fires
 Not applicable (DSCA operation).
 
 ### e. Tasks to Subordinate Units
 
-**1st Platoon (MAIN EFFORT):**
+**1st Platoon (Convoy Element — Main Effort):**
 
-- **TASK:** Conduct logistics convoy from Camp Blanding to Bay County Staging Area, maintain convoy integrity and accountability, navigate obstacles and degraded infrastructure, and deliver relief supplies to the staging area.
-- **PURPOSE:** Transport relief supplies to enable humanitarian assistance operations in Bay County.
-- **END STATE:** Supplies delivered, personnel and equipment accounted for, platoon prepared for follow-on operations.
-
-**Convoy Composition:**
-- Lead Vehicle: PL HMMWV
-- Main Body: LMTV #1 (1st Squad), LMTV #2 (2nd Squad), LMTV #3 (3rd Squad)
-- Trail Vehicle: PSG HMMWV
+- **TASK:** Plan and execute the logistics convoy from Camp Blanding to Bay County Staging Area. PL leads in HMMWV, navigates the primary route, and makes rerouting decisions at obstacles. PSG trails in HMMWV, monitors convoy integrity, and manages recovery if a vehicle breaks down. Maintain accountability of all personnel and supplies throughout movement. Deliver supplies to the staging area and prepare for follow-on operations.
+- **PURPOSE:** Transport relief supplies along the 200-mile route so humanitarian assistance operations can begin in Bay County.
 
 **2nd Platoon:**
 
 - **TASK:** Maintain security of Camp Blanding assembly area and be prepared to dispatch recovery assets if required.
-- **PURPOSE:** Secure rear area and provide support to convoy element.
+- **PURPOSE:** Secure the rear area and provide support if the convoy requires recovery or resupply.
 
 **3rd Platoon:**
 
-- **TASK:** Secure Bay County Staging Area, prepare to receive convoy, and coordinate with county emergency management.
-- **PURPOSE:** Ensure secure delivery point and facilitate supply transfer.
+- **TASK:** Secure Bay County Staging Area, prepare to receive the convoy, and coordinate with county emergency management for supply transfer procedures.
+- **PURPOSE:** Ensure the delivery point is secure and ready so supplies can be offloaded and distributed without delay.
 
 ### f. Coordinating Instructions
 

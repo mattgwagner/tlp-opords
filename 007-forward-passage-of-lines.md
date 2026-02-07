@@ -93,40 +93,40 @@ None.
 
 ### a. Commander's Intent
 
-**1. Commander's Intent.** 1st Platoon safely passes through 2nd Platoon's positions and continues movement to OBJ THUNDER to maintain operational tempo and pressure on REAPER forces.
+**Purpose:** Maintain operational tempo and pressure on REAPER by passing through friendly lines and continuing the attack toward OBJ THUNDER without a break in contact.
 
-**2. Purpose.** The purpose of this operation is to conduct a forward passage of lines to continue offensive operations and seize OBJ THUNDER, maintaining pressure on REAPER forces.
+**Key Tasks:** (1) Coordinate passage with 2nd Platoon to prevent fratricide. (2) Complete passage rapidly and in good order. (3) Continue movement to OBJ THUNDER prepared for enemy contact.
 
-**3. End State.** 1st Platoon successfully passes through 2nd Platoon's positions, continues movement to OBJ THUNDER, and maintains operational tempo to continue offensive operations against REAPER forces.
+**End State:** 1st Platoon passed through 2nd Platoon's positions, moving toward OBJ THUNDER with full combat power, operational tempo maintained.
 
 ### b. Concept of Operations
-1st Platoon coordinates with 2nd Platoon to conduct a forward passage of lines. The platoon moves to the passage point, coordinates passage procedures, and moves through 2nd Platoon's positions while maintaining security and formation. Upon completion of passage, the platoon continues movement to OBJ THUNDER, maintaining security and operational tempo. The platoon is prepared to respond to enemy contact during or after passage.
+1st Platoon conducts a forward passage of lines through 2nd Platoon's defensive positions at the designated passage point, then continues movement to seize OBJ THUNDER. The passage has two critical phases: **Coordination** — the PL links up with 2nd Platoon to confirm passage lanes, recognition signals, and fire coordination measures prior to movement; and **Execution** — the platoon passes through in a designated order of march, maintaining formation and security, with 2nd Platoon providing overwatch. Upon clearing the passage point, the platoon transitions to tactical movement toward the objective. The lead element is the main effort during passage; rear security ensures no REAPER elements exploit the transition between units.
 
-### c. Scheme of Movement and Maneuver
-- Squads move from assembly area to passage point using covered and concealed routes.
-- Passage conducted in designated order with coordination between units.
-- Security maintained during passage to prevent enemy interference.
-- Upon completion of passage, platoon continues movement to objective maintaining formation and security.
+### c. Scheme of Movement
+- Order of march through passage: 1st Squad (lead), PLT HQ, 2nd Squad, 3rd Squad (trail).
+- Movement technique: Traveling overwatch to the passage point; bounding overwatch beyond the passage point as contact likelihood increases.
+- Passage point: MP 0607 1555. Use designated passage lanes only.
+- Route to OBJ THUNDER (MP 0602 1565): Continue west along designated route from passage point.
 
 ### d. Scheme of Fires
-Fires coordinated with 2nd Platoon to avoid fratricide. Priority of fires to squad in contact if engagement occurs. Indirect fire support available on request.
+Fires coordinated with 2nd Platoon to avoid fratricide. Priority of fires to squad in contact if engagement occurs. Indirect fire support available on request. Fire support responsibility transfers from 2nd Platoon to 1st Platoon upon passage complete.
 
 ### e. Tasks to Subordinate Units
 
-**1. 1st Squad:**
+**1. 1st Squad (Lead Element):**
 
-- **TASK:** Conduct forward passage of lines as the lead element, maintain security during passage, and continue movement to OBJ THUNDER as part of the main effort.
-- **PURPOSE:** Lead the passage and maintain operational tempo toward the objective.
+- **TASK:** Move as the lead element through the passage point (MP 0607 1555). Link up with 2nd Platoon's guide at the passage lane entry. Pass through rapidly while maintaining security forward. Upon clearing the passage point, continue movement toward OBJ THUNDER (MP 0602 1565) using covered and concealed routes, prepared for enemy contact.
+- **PURPOSE:** Set the pace for the passage and establish security beyond 2nd Platoon's positions so the rest of the platoon can pass through without delay.
 
-**2. 2nd Squad:**
+**2. 2nd Squad (Follow-on Element):**
 
-- **TASK:** Conduct forward passage of lines as the follow-on element, maintain security and support 1st Squad, and continue movement to OBJ THUNDER.
-- **PURPOSE:** Support the main effort and maintain platoon security during passage and movement.
+- **TASK:** Pass through the passage point behind PLT HQ. Maintain visual contact with the lead element and the trail element. Upon clearing the passage point, be prepared to assume the support-by-fire or assault role as directed by the PL for actions on OBJ THUNDER.
+- **PURPOSE:** Maintain platoon cohesion during passage and provide the PL combat power immediately available for the attack on OBJ THUNDER.
 
-**3. 3rd Squad:**
+**3. 3rd Squad (Trail Element / Rear Security):**
 
-- **TASK:** Conduct forward passage of lines as the trail element, maintain rear security, and be prepared to respond to enemy contact or support other squads during movement to OBJ THUNDER.
-- **PURPOSE:** Maintain rear security and provide flexibility to respond to enemy threats.
+- **TASK:** Pass through the passage point last. Maintain rear security throughout the passage. Confirm with 2nd Platoon that all 1st Platoon personnel have cleared their positions. Report "passage complete" to the PL. During movement to OBJ THUNDER, maintain rear security and be prepared to reinforce the lead or support element on order.
+- **PURPOSE:** Ensure no friendly elements are left in the passage lane, prevent REAPER from exploiting the seam between the two platoons, and provide the PL a reserve during movement to contact.
 
 ### f. Coordinating Instructions
 

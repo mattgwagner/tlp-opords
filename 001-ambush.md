@@ -89,38 +89,34 @@ None.
 
 ### a. Commander's Intent
 
-**1. Commander's Intent.** 1st Platoon destroys REAPER convoy and seizes supplies to disrupt REAPER logistics and ensure safe passage for friendly forces.
+**Purpose:** Disrupt REAPER logistics and deny REAPER resupply capability along the supply route through AO COTTO.
 
-**2. Purpose.** The purpose of this operation is to destroy REAPER forces and disrupt REAPER supply lines to prevent REAPER resupply and maintain friendly freedom of movement in AO COTTO.
+**Key Tasks:** (1) Destroy the REAPER convoy. (2) Seize REAPER supplies and materiel. (3) Withdraw without decisive engagement by REAPER reinforcements.
 
-**3. End State.** REAPER convoy is destroyed, supplies are seized, REAPER supply route is disrupted, and friendly forces maintain freedom of movement through AO COTTO.
+**End State:** REAPER convoy destroyed, supplies seized, friendly forces consolidated at ORP and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon establishes an objective rally point (ORP), moves to the ambush site, and sets up a linear ambush along REAPER's expected route of movement. 1st Squad serves as the assault element, initiating the ambush and destroying REAPER forces. 2nd Squad acts as the support element, providing suppressive fire and isolating the objective. 3rd Squad serves as the security element, securing the flanks and rear, and preventing REAPER reinforcement or escape. Upon completion, the platoon withdraws in an organized manner to the ORP.
+1st Platoon conducts a linear ambush at OBJ FLUNKER. The platoon occupies an ORP, then moves to establish the ambush site along REAPER's expected route of movement. The assault element, as the main effort, initiates the ambush and destroys the convoy. The support element provides flanking suppressive fire to fix the enemy in the kill zone. The security element isolates the ambush site against reinforcement or escape. Upon completion, the platoon withdraws by echelon to the ORP.
 
-### c. Scheme of Movement and Maneuver
-- Squads move rapidly to set up the ambush position before REAPER arrival.
-- Ambush executed in linear formation: 1st Squad leads assault, 2nd Squad provides flanking support, 3rd Squad maintains observation and security against reinforcements.
-
-### d. Scheme of Fires
+### c. Scheme of Fires
 1st Squad, as the decisive effort, has priority of indirect fires. Mortar support available through company on request.
 
-### e. Tasks to Subordinate Units
+### d. Tasks to Subordinate Units
 
-**1. 1st Squad:**
+**1. 1st Squad (Assault — Decisive Operation):**
 
-- **TASK:** Establish and execute a deliberate ambush on the REAPER convoy at MP 0601 1538 from a concealed position, initiate fires, and destroy REAPER vehicles and personnel.
-- **PURPOSE:** Disrupt REAPER supply lines, seize REAPER materiel, and prevent REAPER resupply in AO Starke.
+- **TASK:** Occupy concealed assault positions along the kill zone at OBJ FLUNKER (MP 0601 1538). Initiate the ambush on the PL's signal, destroy REAPER vehicles and personnel with concentrated fires, and seize enemy materiel. Withdraw west to the ORP on order.
+- **PURPOSE:** Destroy the convoy before REAPER can organize a response, creating the conditions for the platoon to seize supplies and withdraw.
 
-**2. 2nd Squad:**
+**2. 2nd Squad (Support — Shaping Operation):**
 
-- **TASK:** Provide flanking and suppressive fire during the ambush, and be prepared to maneuver to block or destroy REAPER reinforcements.
-- **PURPOSE:** Enable 1st Squad to destroy the convoy and prevent REAPER escape or reinforcement.
+- **TASK:** Occupy a support-by-fire position on the flank of the kill zone. On initiation, deliver suppressive fire to fix REAPER forces in the kill zone. Be prepared to shift fires to block REAPER reinforcements approaching from the north. Withdraw to ORP on order.
+- **PURPOSE:** Prevent REAPER from maneuvering out of the kill zone so 1st Squad can destroy the convoy decisively.
 
-**3. 3rd Squad:**
+**3. 3rd Squad (Security — Shaping Operation):**
 
-- **TASK:** Establish a security perimeter at MP 0610 1550, observe for REAPER reinforcements, and interdict any REAPER forces attempting to reinforce or withdraw.
-- **PURPOSE:** Secure the ambush site, prevent REAPER counterattack, and ensure safe withdrawal of friendly forces.
+- **TASK:** Establish a security perimeter vicinity MP 0610 1550 to observe for REAPER reinforcements and cover the flanks and rear of the ambush site. Interdict any REAPER forces attempting to reinforce or withdraw. Collapse security last during platoon withdrawal and consolidate at the ORP.
+- **PURPOSE:** Ensure the ambush force is not surprised by REAPER reinforcements, and secure the withdrawal route so the platoon can break contact cleanly.
 
 ### f. Coordinating Instructions
 

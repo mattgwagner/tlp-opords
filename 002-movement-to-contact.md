@@ -89,40 +89,34 @@ None.
 
 ### a. Commander's Intent
 
-**1. Commander's Intent.** 1st Platoon locates and engages REAPER forces to develop the situation and establish tactical advantage for follow-on operations.
+**Purpose:** Develop the situation with REAPER forces in AO FLUNKER to enable the company commander to make informed decisions for follow-on operations.
 
-**2. Purpose.** The purpose of this operation is to locate and engage REAPER forces to assess their strength and disposition, enabling the company to make informed decisions for future operations in AO FLUNKER.
+**Key Tasks:** (1) Locate REAPER forces and determine their strength and disposition. (2) Fix or destroy REAPER forces upon contact. (3) Maintain freedom to maneuver throughout the engagement.
 
-**3. End State.** REAPER forces are located and engaged, their strength and disposition are assessed, and friendly forces have established tactical advantage for follow-on operations in AO FLUNKER.
+**End State:** REAPER forces located and engaged, their strength and disposition assessed and reported, friendly forces maintaining tactical advantage and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a movement to contact using bounding overwatch to locate, engage, and develop the situation with REAPER forces. 1st and 2nd Squads advance as the main effort, alternating bounds to maintain security and flexibility. 3rd Squad serves as the platoon reserve, prepared to reinforce, exploit success, or respond to REAPER counterattack as needed. The platoon maintains contact with higher headquarters and adjusts its maneuver based on REAPER contact or intelligence.
+1st Platoon conducts a movement to contact toward OBJ HERRERA using bounding overwatch. Two squads advance as the main body, alternating bounds to maintain security. The reserve element trails, prepared to reinforce the squad in contact, exploit success, or respond to counterattack. Upon contact, the platoon develops the situation — fixing the enemy with the element in contact while maneuvering the uncommitted element to a position of advantage.
 
-### c. Scheme of Movement and Maneuver
-- Squads move from the assembly area toward the last known or suspected REAPER location, utilizing covered and concealed routes to maximize security and surprise.
-- The platoon employs bounding overwatch, with one squad moving while the other provides overwatch, to maintain security and flexibility.
-- Reconnaissance elements are used to identify REAPER positions and develop the situation before committing the main body.
-- Upon establishing contact, the platoon maneuvers to fix and engage REAPER forces, with the reserve squad prepared to reinforce or exploit success as needed.
+### c. Scheme of Fires
+1st Squad has priority of indirect fires. Mortar support available through company on request.
 
-### d. Scheme of Fires
-First Squad has priority of indirect fires. Mortar support available through company on request.
+### d. Tasks to Subordinate Units
 
-### e. Tasks to Subordinate Units
+**1. 1st Squad (Lead Element — Decisive Operation):**
 
-**1. 1st Squad:**
+- **TASK:** Lead the movement to contact toward OBJ HERRERA (MP 0612 1546) using covered and concealed routes. Establish contact with REAPER forces, fix the enemy, and report size, activity, location, and weapons. Be prepared to assault through on order or support 2nd Squad's maneuver.
+- **PURPOSE:** Make initial contact and fix REAPER so the platoon can develop the situation and maneuver against a known enemy position.
 
-- **TASK:** Conduct movement to contact to last known REAPER position IVO OBJ HERRERA (MP 0612 1546), establish contact, and fix or destroy REAPER forces encountered.
-- **PURPOSE:** Locate, engage, and assess the strength and disposition of REAPER forces to set conditions for follow-on operations.
+**2. 2nd Squad (Trail/Overwatch Element — Shaping Operation):**
 
-**2. 2nd Squad:**
+- **TASK:** Provide overwatch during 1st Squad's bounds. Upon 1st Squad's contact, maneuver to a position of advantage to support by fire or assault through as directed by the PL. Report REAPER activity and positions observed during overwatch.
+- **PURPOSE:** Enable the platoon to gain and maintain contact from a position of advantage, preventing REAPER from isolating or overwhelming the lead element.
 
-- **TASK:** Conduct a reconnaissance sweep of the designated area, identify REAPER positions, and report REAPER activity prior to main engagement.
-- **PURPOSE:** Provide early warning, confirm REAPER presence, and enable the platoon to maneuver effectively against REAPER forces.
+**3. 3rd Squad (Reserve):**
 
-**3. 3rd Squad:**
-
-- **TASK:** Serve as platoon reserve and quick reaction force at the assembly area, prepared to reinforce engaged squads or respond to REAPER counterattack.
-- **PURPOSE:** Provide immediate support, exploit success, or contain REAPER breakthroughs as the tactical situation develops.
+- **TASK:** Trail the main body at a distance that allows rapid commitment. Be prepared to reinforce the squad in contact, exploit a penetration, or establish a blocking position to prevent REAPER withdrawal. Commit only on the PL's order.
+- **PURPOSE:** Provide the PL flexibility to exploit success or respond to unexpected REAPER action without committing the overwatch element.
 
 ### f. Coordinating Instructions
 

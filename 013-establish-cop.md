@@ -98,51 +98,39 @@ None.
 
 ### a. Commander's Intent
 
-**1. Commander's Intent.** 1st Platoon secures COP Seggel through deliberate clearing of all facilities, establishes a defensible perimeter with entrance control along Bradenton Avenue, and stands up a functioning company command post capable of supporting operations throughout the AO.
+**Purpose:** Establish a persistent forward operating base at COP Seggel to enable company-level command and control and provide a secure base for follow-on operations throughout AO HERRERA.
 
-**2. Purpose.** The purpose of this operation is to establish a persistent forward operating base at COP Seggel to enable company-level command and control, provide a secure base for follow-on operations, and deny REAPER use of the facility.
+**Key Tasks:** (1) Clear all facilities at COP Seggel. (2) Establish entrance control and perimeter security. (3) Stand up the company command post with battle tracking and dual-net communications. (4) Prepare to sustain operations for a minimum of 48 hours.
 
-**3. End State.** All facilities at COP Seggel are cleared and secured, entrance and perimeter security are established with the primary ECP controlling the Bradenton Avenue approach, the company command post is operational with battle tracking and radio communications on company and platoon nets, defensive positions are prepared to withstand indirect fire and ground attack with particular attention to the northern and western approaches, and the platoon is postured to sustain operations for a minimum of 48 hours and support follow-on missions from the COP.
+**End State:** Facilities cleared, perimeter secured with ECP controlling Bradenton Avenue approach, company CP operational on company and platoon nets, defensive positions prepared against indirect fire and ground attack from the northern and western approaches, platoon postured for sustained operations and follow-on missions.
 
 ### b. Concept of Operations
-1st Platoon conducts a three-phase operation to establish COP Seggel. In **Phase 1 (Approach)**, the platoon moves north along the woodline west of Bradenton Avenue to the vicinity of COP Seggel, establishes a security halt south of the facility, and the PL conducts a leader's reconnaissance to assess enemy presence and confirm the scheme of maneuver. In **Phase 2 (Clear)**, the platoon systematically clears all facilities within COP Seggel, with one squad as the assault element, one squad in support by fire oriented north along the Bradenton Avenue corridor, and one squad providing outer security in the woodlines to prevent REAPER reinforcement from the north or west. In **Phase 3 (Occupy and Establish)**, the platoon transitions to defensive operations, establishing entrance control along Bradenton Avenue, perimeter security with fighting positions oriented toward the most dangerous avenues of approach (north along Bradenton Avenue toward the Jacksonville Street junction and west through the woodlines), the company command post with battle tracking and communications, and priorities of work for sustained operations. The platoon maintains a quick reaction force capability to respond to REAPER probes or counterattack throughout.
+1st Platoon conducts a three-phase operation to establish COP Seggel. In **Phase 1 (Approach)**, the platoon moves to the vicinity of the facility using concealed routes and establishes a security halt. The PL conducts a leader's reconnaissance to assess enemy presence and confirm the scheme of maneuver. In **Phase 2 (Clear)**, the assault element clears all facilities while the support element fixes any enemy resistance and the security element cordons the objective against reinforcement. In **Phase 3 (Occupy and Establish)**, the platoon transitions to defense — establishing entrance control, perimeter security oriented toward the most dangerous avenues of approach, and the company command post. Main effort shifts from the assault element (Phase 2) to the PSG and CP operations (Phase 3). A QRF capability is maintained throughout.
 
-### c. Scheme of Movement and Maneuver
-- Platoon moves to COP Seggel from the south, using the woodline west of Bradenton Avenue for concealment, maintaining tactical movement techniques.
-- Platoon halts short of the facility south of MP 0600 1550; PL conducts leader's reconnaissance with a small security element to assess enemy presence, confirm entry points along Bradenton Avenue, and evaluate the facility for clearing.
-- Upon PL order, assault element moves to clear facilities systematically while support element provides overwatch from a position south of the facility covering the Bradenton Avenue corridor and likely enemy positions to the north.
-- Security element maintains outer cordon in the woodlines north and west of the facility to prevent enemy reinforcement from the Jacksonville Street area or escape into the dense forest.
-- Upon confirmation that facilities are clear, squads transition to assigned defensive sectors and begin establishing fighting positions.
-- Entrance control point established at the Bradenton Avenue entrance to the facility with positive identification procedures.
-
-### d. Scheme of Fires
+### c. Scheme of Fires
 Support element has priority of fires during Phase 2 (Clear), oriented north along the Bradenton Avenue corridor. Upon transition to Phase 3 (Occupy), priority of fires shifts to the northern approach along Bradenton Avenue toward the Jacksonville Street junction, as the most dangerous avenue of approach for REAPER reinforcement. Indirect fire support available through company on request. Defensive fires planned for the Bradenton Avenue corridor (north and south) and the woodlines to the west, with particular attention to positions north of Jacksonville Street that could support REAPER indirect fire against the COP.
 
-### e. Tasks to Subordinate Units
+### d. Tasks to Subordinate Units
 
-**1. 1st Squad:**
+**1. 1st Squad (Assault — Decisive Operation, Phase 2):**
 
-- **TASK:** Serve as the assault element during Phase 2 to systematically clear all buildings and facilities within COP Seggel. Upon completion of clearing, transition to defend the northern sector of the COP perimeter, establishing fighting positions with overhead cover and interlocking fields of fire oriented north along Bradenton Avenue toward the Jacksonville Street junction (MP 0602 1565) and into the woodlines northeast of the facility.
-- **PURPOSE:** Ensure all facilities are clear of enemy forces to enable safe occupation, then provide security of the northern perimeter against REAPER approach along the primary avenue of approach from Jacksonville Street.
-- **END STATE:** All assigned buildings are cleared, northern defensive sector is established with fighting positions providing overhead cover and fields of fire covering the Bradenton Avenue corridor north to the Jacksonville Street junction, and squad is prepared for sustained defensive operations.
+- **TASK:** During Phase 2, systematically clear all buildings and facilities within COP Seggel. Upon completion, transition to defend the northern sector of the COP perimeter. Establish fighting positions with overhead cover and interlocking fields of fire oriented north along Bradenton Avenue toward the Jacksonville Street junction (MP 0602 1565) and into the woodlines northeast of the facility.
+- **PURPOSE:** Eliminate any enemy presence in the facility to enable safe occupation, then secure the most dangerous avenue of approach — the Bradenton Avenue corridor from Jacksonville Street — against REAPER counterattack.
 
-**2. 2nd Squad:**
+**2. 2nd Squad (Support by Fire, Phase 2 / ECP, Phase 3):**
 
-- **TASK:** Provide support by fire during Phase 2 from a position south of the facility oriented north along the Bradenton Avenue corridor to suppress enemy resistance within the COP. Upon completion of clearing, establish and man the entrance control point at the Bradenton Avenue entrance to COP Seggel, conduct positive identification of all personnel entering the facility, and provide observation of the eastern approach along the access roads east of the COP and the western approach from the direction of Clearwater Avenue.
-- **PURPOSE:** Suppress enemy resistance during clearing operations, then control access to the COP along Bradenton Avenue and provide early warning of REAPER activity along the eastern and western avenues of approach.
-- **END STATE:** Entrance control point is established on Bradenton Avenue with positive identification procedures, eastern and western approaches are under observation, and squad is prepared to deny unauthorized entry.
+- **TASK:** During Phase 2, occupy a support-by-fire position south of the facility (vic MP 0600 1540) oriented north along the Bradenton Avenue corridor to suppress enemy resistance. Upon completion of clearing, establish and man the entrance control point at the Bradenton Avenue entrance to COP Seggel with positive identification procedures. Provide observation of the eastern approach along the access roads and the western approach from the direction of Clearwater Avenue.
+- **PURPOSE:** Fix any enemy during clearing so 1st Squad can maneuver through the facility, then control all access to the COP and provide early warning of REAPER activity on the eastern and western approaches.
 
-**3. 3rd Squad:**
+**3. 3rd Squad (Security, Phase 2 / Southern Defense & QRF, Phase 3):**
 
-- **TASK:** Provide outer security during Phase 2, establishing a cordon in the woodlines north and west of COP Seggel to prevent enemy reinforcement from the Jacksonville Street area or escape into the dense forest. Upon completion of clearing, defend the southern sector of the COP perimeter along Bradenton Avenue south of the facility and serve as the platoon quick reaction force, prepared to reinforce any sector under attack or respond to REAPER activity.
-- **PURPOSE:** Isolate the objective during clearing by blocking REAPER reinforcement routes from the north and west, then provide security of the southern perimeter along Bradenton Avenue and immediate response capability to reinforce threatened sectors.
-- **END STATE:** Southern defensive sector is established with fighting positions covering Bradenton Avenue south and the woodlines to the southwest, squad is prepared to deploy as QRF on order, and withdrawal routes south along Bradenton Avenue are identified and briefed.
+- **TASK:** During Phase 2, establish a cordon in the woodlines north and west of COP Seggel to isolate the objective. Block REAPER reinforcement from the Jacksonville Street area (vic MP 0602 1565) and prevent escape into the dense forest west of the facility. Upon completion of clearing, transition to defend the southern sector of the COP perimeter along Bradenton Avenue south of the facility. Serve as the platoon QRF, prepared to reinforce any sector under attack. Identify and brief withdrawal routes south along Bradenton Avenue.
+- **PURPOSE:** Prevent REAPER from reinforcing or escaping during clearing, then secure the southern perimeter and provide the PL a responsive reserve against REAPER probes or counterattack.
 
-**4. Platoon Sergeant:**
+**4. Platoon Sergeant (CP Operations, Phase 3):**
 
-- **TASK:** Upon completion of Phase 2, designate and establish the company command post within a hardened building at COP Seggel. Establish battle tracking, maintain radio communications on both company net (FH NET ID 600) and platoon net (FH NET ID 601), coordinate logistics and sustainment for the platoon, and manage the rest and security plan for sustained 48-hour operations.
+- **TASK:** Upon completion of Phase 2, designate and establish the company command post within a hardened building at COP Seggel. Establish battle tracking, maintain radio communications on both company net (FH NET ID 600) and platoon net (FH NET ID 601), coordinate logistics and sustainment, and manage the rest and security plan for sustained 48-hour operations.
 - **PURPOSE:** Enable company-level command and control from COP Seggel and sustain platoon operations for the duration of the mission.
-- **END STATE:** Company CP is operational with functioning communications on company and platoon nets, battle tracking is established and maintained, and a sustainment plan supports a minimum 48 hours of continuous operations.
 
 ### f. Coordinating Instructions
 

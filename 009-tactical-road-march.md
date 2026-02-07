@@ -93,16 +93,16 @@ None.
 
 ### a. Commander's Intent
 
-**1. Commander's Intent.** 1st Platoon moves to RP THUNDER safely and efficiently, maintaining security and combat readiness throughout movement to prepare for follow-on operations.
+**Purpose:** Reposition the platoon to RP THUNDER to set conditions for follow-on offensive operations in AO COTTO.
 
-**2. Purpose.** The purpose of this operation is to reposition the platoon to RP THUNDER to enable follow-on operations and maintain friendly freedom of movement in AO COTTO.
+**Key Tasks:** (1) Move the platoon from the assembly area to RP THUNDER without decisive engagement. (2) Maintain security and combat readiness throughout movement. (3) Arrive with full accountability of personnel and equipment.
 
-**3. End State.** The platoon arrives at RP THUNDER with full accountability, maintains security, and is prepared for follow-on operations in AO COTTO.
+**End State:** Platoon at RP THUNDER, all personnel and equipment accounted for, prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a tactical road march from the assembly area to RP THUNDER using traveling overwatch or bounding overwatch as the situation dictates. The platoon moves in a column formation with squads maintaining proper intervals. Security is maintained throughout movement with point, flank, and rear security elements. The platoon conducts security halts at designated checkpoints and at all danger areas. Upon arrival at RP THUNDER, the platoon establishes a short security halt, confirms accountability, and prepares for follow-on operations.
+1st Platoon conducts a tactical road march from the assembly area to RP THUNDER. The platoon moves in column with a lead security element, main body, and trail security. Movement technique is traveling overwatch, shifting to bounding overwatch at danger areas or when contact is likely. The platoon conducts security halts at designated checkpoints and all danger areas. Upon arrival at RP THUNDER, the platoon establishes a security halt, confirms accountability, and prepares for follow-on operations.
 
-### c. Scheme of Movement and Maneuver
+### c. Scheme of Movement
 - Order of march: 1st Squad (point/lead), Platoon Headquarters, 2nd Squad, 3rd Squad (trail/rear security).
 - Movement technique: Traveling overwatch; shift to bounding overwatch if contact is likely or at danger areas.
 - Maintain 50-meter intervals between squads; adjust based on terrain and visibility.
@@ -114,20 +114,20 @@ No planned fires. Priority of fires to element in contact if engagement occurs. 
 
 ### e. Tasks to Subordinate Units
 
-**1. 1st Squad:**
+**1. 1st Squad (Lead / Point Security):**
 
-- **TASK:** Serve as lead element, provide point security, conduct route reconnaissance, and identify danger areas and obstacles along the route of march.
-- **PURPOSE:** Provide early warning, ensure route is clear, and enable the platoon to move safely to RP THUNDER.
+- **TASK:** Lead the march from SP (MP 0598 1538) to RP THUNDER (MP 0615 1560). Provide point security with a minimum two-man point team. Conduct route reconnaissance forward of the main body. Identify and report danger areas (road crossing at CP1 MP 0605 1545, open area at CP2 MP 0608 1550, creek crossing at CP3 MP 0612 1555) and obstacles. Halt and establish near-side security at each danger area before the main body crosses.
+- **PURPOSE:** Provide the platoon early warning and ensure the route is clear, so the main body can move without halting unexpectedly at an unsecured position.
 
-**2. 2nd Squad:**
+**2. 2nd Squad (Main Body):**
 
-- **TASK:** Move as the main body behind platoon headquarters, maintain visual contact with lead and trail elements, and be prepared to reinforce point or rear security as needed.
-- **PURPOSE:** Maintain platoon integrity and provide immediate support to security elements.
+- **TASK:** Move behind platoon headquarters in the order of march. Maintain visual contact with the lead and trail elements. Be prepared to reinforce point security at danger areas or rear security on contact. During security halts, provide local security of the main body's position.
+- **PURPOSE:** Maintain platoon cohesion and provide the PL immediately available combat power to reinforce whichever security element makes contact.
 
-**3. 3rd Squad:**
+**3. 3rd Squad (Trail / Rear Security):**
 
-- **TASK:** Serve as trail element, provide rear security, maintain accountability of personnel and equipment, and report any enemy activity or stragglers.
-- **PURPOSE:** Secure the rear of the formation and ensure no personnel or equipment are left behind during movement.
+- **TASK:** Move as the trail element. Provide rear security throughout the march. Maintain accountability of all personnel and equipment — no one falls behind without report. Report any enemy activity, tracking, or stragglers immediately. Upon arrival at RP THUNDER, confirm to PSG that all personnel have closed on the position.
+- **PURPOSE:** Prevent REAPER from trailing or flanking the formation from the rear, and ensure the platoon arrives at RP THUNDER at full strength.
 
 ### f. Coordinating Instructions
 
