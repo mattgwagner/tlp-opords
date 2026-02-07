@@ -200,4 +200,4 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
    - Challenge: Base
    - Password: Secure
    - Running Password: Thunder
-   - Combination: 8
+   - Combination: 11

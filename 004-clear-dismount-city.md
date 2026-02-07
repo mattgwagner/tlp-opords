@@ -196,4 +196,4 @@ None.
    - Challenge: City
    - Password: Secure
    - Running Password: Hold
-   - Combination: 7
+   - Combination: 11

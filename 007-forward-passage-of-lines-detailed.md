@@ -212,7 +212,7 @@ Fires coordinated with 2nd Platoon to avoid fratricide. 1st Squad, as the lead e
    - Challenge: Passage
    - Password: Forward
    - Running Password: Secure
-   - Combination: 7
+   - Combination: 11
 
 ---
 

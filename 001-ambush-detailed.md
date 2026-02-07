@@ -190,4 +190,4 @@ None.
    - Challenge: Bridge
    - Password: Falcon
    - Running Password: Secure
-   - Combination: 8
+   - Combination: 11

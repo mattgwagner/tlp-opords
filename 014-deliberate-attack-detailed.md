@@ -194,7 +194,7 @@ None.
    - Challenge: Gator
    - Password: Swamp
    - Running Password: Blanding
-   - Combination: 7
+   - Combination: 11
 
 ---
 ---
