@@ -8,19 +8,25 @@
 >
 > **Complexity:** Moderate | **Recommended Phase:** WALK (Blocks 3-4), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon is tasked to conduct a movement to contact in AO FLUNKER to locate, engage, and assess REAPER forces.
+> **Mission Summary:** 1st Platoon conducts a movement to contact in AO FLUNKER with squads operating independently in assigned zones to locate, engage, and assess REAPER forces. Each squad has its own objective and operates at its own pace.
 >
-> **Destination:** AO FLUNKER, with movement focused toward REAPER's last known location near OBJ HERRERA (MP 0612 1546).
+> **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making**. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — analyzing terrain, selecting movement techniques, choosing formations, planning actions on contact, and issuing a squad OPORD. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
-> **Actions on Objective:** Platoon will use bounding overwatch to advance, maintain security, and develop the situation upon enemy contact. 3rd Squad serves as reserve, ready to reinforce or exploit success.
+> **Destinations:**
+> - 1st Squad → OBJ RIVERA (vic MP 0600 1538)
+> - 2nd Squad → OBJ HERRERA (vic MP 0612 1546)
+> - 3rd Squad → OBJ SANTOS (vic MP 0613 1532)
+>
+> **Actions on Objective:** Each squad independently locates and engages REAPER in its zone, secures its objective, and reports. Squads do not depend on or wait for adjacent squads.
 >
 > **Evaluation Timeline:** For evaluated iterations, candidates will receive this OPORD and have 75 minutes to complete TLP Steps 1-8 before SP. Execution window is 60 minutes. AAR is 15 minutes.
 >
 > **OPFOR/Training Wrinkles:**
-> - Use concealment and hit-and-run tactics.
-> - Introduce a civilian or non-combatant scenario to test ROE.
-> - OPFOR may break contact, regroup, or set up a hasty ambush.
-> - Cadre can inject intelligence updates, obstacles, or simulate equipment malfunctions.
+> - Deploy one OPFOR team (2-3 personnel) per zone, positioned near each squad's objective.
+> - Each OPFOR team operates independently — do not coordinate across zones unless running MDCOA.
+> - Introduce a civilian or non-combatant scenario in one zone to test ROE.
+> - Cadre can inject intelligence updates, obstacles, or simulate equipment malfunctions per zone.
+> - Vary OPFOR tactics across zones (one team delays, one ambushes, one defends) to create distinct planning problems for each SL.
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
@@ -32,11 +38,11 @@
 
 **Task Organization:**
 
-1st Platoon, A Co. 4th BN-211th INF  
-Platoon Leader  
-Platoon Sergeant  
-1st Squad  
-2nd Squad  
+1st Platoon, A Co. 4th BN-211th INF
+Platoon Leader
+Platoon Sergeant
+1st Squad
+2nd Squad
 3rd Squad
 
 ---
@@ -50,20 +56,20 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO FLUNKER inclu
 
 **1. Terrain.** Camp Blanding features flat to gently rolling terrain with sandy soils, low-lying areas, and extensive pine and hardwood forests. The area includes open fields, dense underbrush, ponds, marshes, and wetlands. Vegetation provides concealment and limits long-range observation. Roads and trails serve as likely avenues of approach for both friendly and enemy forces. Terrain and soil conditions may restrict vehicle movement, especially in wet areas.
 
-   - **Key Terrain:** The road junction near OBJ HERRERA (MP 0612 1546) is critical for controlling access to the area and is a likely point of enemy contact. Woodlines along the approach routes provide covered and concealed movement for the platoon. A small rise east of the objective offers observation and a potential support-by-fire position. A concealed route to the south enables maneuver or withdrawal if needed.
+   - **Key Terrain:** The road junction near OBJ HERRERA (MP 0612 1546) controls access to the eastern sector. The Bradenton Ave corridor in the western sector provides a north-south avenue of approach. Conex City (vic MP 0613 1532) offers concealment and defensive positions in the eastern sector. Woodlines throughout the AO provide covered and concealed movement. Dense vegetation limits observation to under 50 meters off road corridors.
 
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER forces are a small, organized group of irregular fighters, likely part of a local militia or insurgent cell. They are familiar with the terrain, use small arms and support weapons, and employ ambush and hit-and-run tactics. They are capable of blending into the local populace and adapting quickly to changing situations.
 
-**1. Composition.** 6-8 REAPER combatants, small arms, possible HMG/RPG, in concealment.
+**1. Composition.** Three independent REAPER teams, each 2-3 combatants with small arms and a possible crew-served weapon. Total 6-9 combatants distributed across AO FLUNKER.
 
-**2. Disposition.** REAPER forces are generally dispersed in concealed positions throughout the area, using terrain and vegetation for cover. They maintain flexibility to regroup or withdraw and are likely to observe friendly movements from hidden vantage points.
+**2. Disposition.** REAPER teams are dispersed across the AO, with one team operating in each sector — western, central, and eastern. Each team uses terrain and vegetation for concealment near its respective area. Teams operate independently with limited lateral coordination.
 
-**3. Most Probable Course of Action (MPCOA).** Upon contact, REAPER forces initiate harassing fire from covered positions, then quickly break contact to avoid being fixed or destroyed. They may leave behind simple obstacles or IEDs to slow pursuit, but do not attempt to decisively engage or encircle the platoon.
+**3. Most Probable Course of Action (MPCOA).** Each REAPER team initiates harassing fire from concealed positions when friendly forces enter its area, then breaks contact to avoid being fixed. Teams may leave behind simple obstacles or early warning devices but do not attempt to decisively engage. Each team fights independently without reinforcement from adjacent teams.
 
-**4. Most Dangerous Course of Action (MDCOA).** REAPER forces initiate a complex ambush using multiple firing positions and IEDs, attempting to fix the platoon in a kill zone. They coordinate with additional elements to reinforce the engagement, seeking to encircle and destroy the platoon or inflict heavy casualties before friendly forces can maneuver out of the ambush.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER teams coordinate across sectors to mass against one friendly squad, concentrating fires from multiple directions. The isolated squad faces a coordinated ambush while adjacent squads are unaware or too distant to provide immediate support.
 
 ### d. Friendly Forces
 
@@ -83,7 +89,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon conducts a movement to contact in AO FLUNKER NLT ____ to locate and engage REAPER forces and assess their strength and disposition.
+1st Platoon conducts a movement to contact in AO FLUNKER NLT ____ to locate and engage REAPER forces in assigned squad zones and assess their strength and disposition.
 
 ---
 
@@ -91,34 +97,44 @@ None.
 
 ### a. Commander's Intent
 
-**Purpose:** Develop the situation with REAPER forces in AO FLUNKER to enable the company commander to make informed decisions for follow-on operations.
+**Purpose:** Develop the situation with REAPER forces across AO FLUNKER to enable the company commander to make informed decisions for follow-on operations.
 
-**Key Tasks:** (1) Locate REAPER forces and determine their strength and disposition. (2) Fix or destroy REAPER forces upon contact. (3) Maintain freedom to maneuver throughout the engagement.
+**Key Tasks:** (1) Each squad locates REAPER forces in its assigned zone and reports their strength and disposition. (2) Fix or destroy REAPER forces upon contact. (3) Squads maintain freedom to maneuver independently throughout the engagement.
 
-**End State:** REAPER forces located and engaged, their strength and disposition assessed and reported, friendly forces maintaining tactical advantage and prepared for follow-on operations.
+**End State:** REAPER forces located and assessed in all three zones, squad objectives secured, friendly forces maintaining tactical advantage and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a movement to contact toward OBJ HERRERA using bounding overwatch. Two squads advance as the main body, alternating bounds to maintain security. The reserve element trails, prepared to reinforce the squad in contact, exploit success, or respond to counterattack. Upon contact, the platoon develops the situation — fixing the enemy with the element in contact while maneuvering the uncommitted element to a position of advantage.
+1st Platoon conducts a movement to contact across three independent squad zones in AO FLUNKER. Each squad advances toward its own objective at its own pace, locating and engaging REAPER forces within its assigned zone. No main effort is designated — all squads operate with equal priority. Squad leaders select their own movement techniques, formations, and routes based on their analysis of terrain and enemy situation. The PL monitors all squads and coordinates as needed. The PSG trails, prepared to support any squad requiring reinforcement or casualty evacuation.
 
 ### c. Scheme of Fires
-1st Squad has priority of indirect fires. Mortar support available through company on request.
+No priority of indirect fires designated. Mortar support available through company on request; any squad may request fires through the PL.
 
 ### d. Tasks to Subordinate Units
 
-**1. 1st Squad (Lead Element — Decisive Operation):**
+**1. 1st Squad (Western Zone):**
 
-- **TASK:** Lead the movement to contact toward OBJ HERRERA using covered and concealed routes. Establish contact with REAPER forces, fix the enemy, and report size, activity, location, and weapons. Be prepared to assault through on order or support 2nd Squad's maneuver.
-- **PURPOSE:** Make initial contact and fix REAPER so the platoon can develop the situation and maneuver against a known enemy position.
+- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER toward OBJ RIVERA. Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
+- **PURPOSE:** Clear the western approaches to deny REAPER use of the Bradenton Ave corridor for reinforcement or withdrawal.
 
-**2. 2nd Squad (Trail/Overwatch Element — Shaping Operation):**
+**2. 2nd Squad (Central Zone):**
 
-- **TASK:** Provide overwatch during 1st Squad's bounds. Upon 1st Squad's contact, maneuver to a position of advantage to support by fire or assault through as directed by the PL. Report REAPER activity and positions observed during overwatch.
-- **PURPOSE:** Enable the platoon to gain and maintain contact from a position of advantage, preventing REAPER from isolating or overwhelming the lead element.
+- **TASK:** Conduct a movement to contact in the central zone of AO FLUNKER toward OBJ HERRERA. Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
+- **PURPOSE:** Develop the situation at the road junction to enable the company commander to control the central avenue of approach for follow-on operations.
 
-**3. 3rd Squad (Reserve):**
+**3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Trail the main body at a distance that allows rapid commitment. Be prepared to reinforce the squad in contact, exploit a penetration, or establish a blocking position to prevent REAPER withdrawal. Commit only on the PL's order.
-- **PURPOSE:** Provide the PL flexibility to exploit success or respond to unexpected REAPER action without committing the overwatch element.
+- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER toward OBJ SANTOS. Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
+- **PURPOSE:** Clear the eastern sector to prevent REAPER from using the built-up area as a defensive strongpoint or staging area.
+
+**4. Platoon Leader:**
+
+- **TASK:** Monitor and coordinate all three squads during independent zone operations. Position to maintain communications with all elements. Provide guidance and allocate supporting fires as the situation develops.
+- **PURPOSE:** Maintain situational awareness across the AO and enable squad leaders to make timely tactical decisions within their zones.
+
+**5. Platoon Sergeant:**
+
+- **TASK:** Trail the platoon movement. Be prepared to move to any squad requiring reinforcement or casualty evacuation. Maintain platoon accountability.
+- **PURPOSE:** Provide the PL flexibility to support any squad without pulling an adjacent squad off its mission.
 
 ### f. Coordinating Instructions
 
@@ -129,24 +145,29 @@ None.
    4. Report civilian casualties immediately.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Confirm REAPER personnel and weapons.
+   1. Confirm REAPER personnel and weapons in each zone.
    2. Identify fortifications and defensive positions.
-   3. Monitor REAPER patrols and movement.
-   4. Assess civilian presence in the area of operations.
+   3. Monitor REAPER movement between zones.
+   4. Assess civilian presence in each zone.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Initial contact with REAPER forces — report size, activity, location, and weapons immediately
+   1. Initial contact with REAPER forces in any zone — report size, activity, location, and weapons immediately
    2. Loss of communication with any squad for more than 10 minutes during movement
    3. Friendly casualty rendering any squad combat ineffective
-   4. Unexpected obstacle or IED blocking the primary avenue of approach
+   4. REAPER forces massing against a single squad from multiple zones
 
 **4. Reporting:**
-   - **Report to higher when SP'ing or crossing the line of departure.**
-   - **In Position Report:** Upon occupying the ORP or objective.
-   - **LACE Report:** At end of each movement phase.
+   - **Report to higher when crossing the line of departure.**
    - **SALUTE Report:** Upon contact with enemy or relevant activity.
+   - **Objective Report:** Upon securing squad objective — report status, enemy situation, and disposition.
+   - **LACE Report:** Upon reaching objective.
 
-**5.** This OPORD is effective immediately upon distribution.
+**5. Coordination Between Squads:**
+   - Squads operate independently within their zones. Lateral coordination at zone boundaries is the responsibility of adjacent squad leaders.
+   - Squads report contact via SALUTE on the platoon net; adjacent squads monitor but continue their own missions unless directed otherwise by the PL.
+   - Squads requiring support request it through the PL.
+
+**6.** This OPORD is effective immediately upon distribution.
 
 ---
 
@@ -167,7 +188,7 @@ None.
 ## 5. COMMAND AND SIGNAL
 
 ### a. Command
-1. Platoon Leader at PLT CP.
+1. Platoon Leader monitors from a position that maintains communications with all squads.
 2. Succession of Command: PL, PSG, 1st SL, 2nd SL, 3rd SL.
 
 ### b. Control

@@ -59,7 +59,7 @@ REAPER forces consist of a lightly armed irregular force, likely affiliated with
 
 **1. Composition.** 2 vehicles, 6-8 REAPER personnel, AK-47s, possible support weapons (e.g., HMG).
 
-**2. Disposition.** REAPER forces are typically dispersed in small groups along key supply routes and maintain a low profile to avoid detection. They are prepared to consolidate quickly at critical points if threatened and may use scouts or lookouts to monitor friendly movement.
+**2. Disposition.** REAPER forces are typically dispersed in small groups along key supply routes and maintain a low profile to avoid detection. The convoy travels south to north along Bradenton Ave through AO COTTO. They are prepared to consolidate quickly at critical points if threatened and may use scouts or lookouts to monitor friendly movement.
 
 **3. Most Probable Course of Action (MPCOA).** Upon initiation of the ambush, REAPER forces return limited, inaccurate fire, then rapidly withdraw along a secondary route to avoid further engagement. They may abandon vehicles or wounded, and attempt to regroup at a safe distance. Reinforcements are unlikely to arrive in time to decisively affect the engagement.
 
@@ -98,7 +98,7 @@ None.
 **End State:** REAPER convoy destroyed, supplies seized, friendly forces consolidated at ORP and prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon conducts a linear ambush at OBJ FLUNKER. The platoon occupies an ORP, then moves to establish the ambush site along REAPER's expected route of movement. The assault element, as the main effort, initiates the ambush and destroys the convoy. The support element provides flanking suppressive fire to fix the enemy in the kill zone. The security element isolates the ambush site against reinforcement or escape. Upon completion, the platoon withdraws by echelon to the ORP.
+1st Platoon conducts a linear ambush at OBJ FLUNKER. The platoon occupies an ORP, then moves to establish the ambush site along REAPER's expected south-to-north route of movement. The assault element, as the main effort, initiates the ambush and destroys the convoy. The support element provides flanking suppressive fire to fix the enemy in the kill zone. The security element isolates the ambush site against reinforcement or escape. Upon completion, the platoon withdraws by echelon to the ORP.
 
 ### c. Scheme of Fires
 1st Squad, as the decisive effort, has priority of indirect fires. Mortar support available through company on request.
@@ -107,12 +107,12 @@ None.
 
 **1. 1st Squad (Assault — Decisive Operation):**
 
-- **TASK:** Occupy concealed assault positions along the kill zone at OBJ FLUNKER (MP 0601 1538). Initiate the ambush on the PL's signal, destroy REAPER vehicles and personnel with concentrated fires, and seize enemy materiel. Withdraw west to the ORP on order.
+- **TASK:** Occupy concealed assault positions along the kill zone at OBJ FLUNKER (MP 0601 1538). Initiate the ambush when the convoy is fully in the kill zone, destroy REAPER vehicles and personnel with concentrated fires, and seize enemy materiel. Withdraw west to the ORP on order.
 - **PURPOSE:** Destroy the convoy before REAPER can organize a response, creating the conditions for the platoon to seize supplies and withdraw.
 
 **2. 2nd Squad (Support — Shaping Operation):**
 
-- **TASK:** Occupy a support-by-fire position on the flank of the kill zone. On initiation, deliver suppressive fire to fix REAPER forces in the kill zone. Be prepared to shift fires to block REAPER reinforcements approaching from the north. Withdraw to ORP on order.
+- **TASK:** Occupy a support-by-fire position at MP 0601 1542, on the north end of the kill zone. On initiation, deliver suppressive fire to fix REAPER forces in the kill zone. Be prepared to shift fires to block REAPER reinforcements approaching from the north. Withdraw to ORP on order.
 - **PURPOSE:** Prevent REAPER from maneuvering out of the kill zone so 1st Squad can destroy the convoy decisively.
 
 **3. 3rd Squad (Security — Shaping Operation):**
