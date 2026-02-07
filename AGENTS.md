@@ -47,11 +47,34 @@ For all other operation types (raids, ambushes, defense, recon, etc.), there is 
 
 ### Tasks to Subordinate Units
 
-This is the **single source** of squad-level detail. Each squad gets:
+This is the **single source** of squad-level detail in the OPORD body. Each squad gets:
 
 - **Header:** Squad designation, functional role, and operation type (e.g., "1st Squad (Assault Element — Decisive Operation)")
-- **TASK:** Complete, specific instructions — where to go (with grids), what to do, triggers/signals, actions on contact. This is the ONLY place this detail appears.
+- **TASK:** Outcome-focused instructions — what to accomplish and the squad's general area of responsibility. The OPORD body version omits specific positioning grids, directional movement, team-level assignments, and movement sequences. See "Tiered Task Detail" below for the detailed version that lives in Cadre Notes.
 - **PURPOSE:** Why THIS SQUAD'S task matters to the platoon plan. Not a restatement of Commander's Intent. Test: "If this squad fails, what specifically breaks?"
+
+### Tiered Task Detail
+
+Each OPORD maintains two versions of the Tasks to Subordinate Units. Candidates cycle through the same OPORDs multiple times, so early iterations provide scaffolded detail and later iterations require squad leaders to develop their own schemes of maneuver.
+
+**OPORD body (Lean / Mission Command version):**
+- Squad designation, functional role, and operation type in the header
+- TASK states the outcome and general area — what to accomplish, not how to position or move
+- References the objective grid from the Mission paragraph but does NOT add positioning grids for SBF, blocking, or ORP positions
+- Does NOT include: specific positioning grids, directional movement (e.g., "assault east"), team-level assignments (Alpha/Bravo), movement sequencing (e.g., "depart the ORP first"), or named terrain features for squad positioning
+- PURPOSE is always complete and unchanged between tiers
+
+**Cadre Notes (Detailed / Early Iterations version):**
+- Lives inside the Cadre/OPFOR Notes blockquote under **"Detailed Squad Tasks (Early Iterations)"**
+- Contains the full version of each squad's TASK with: specific grid coordinates for every position, directional movement and approach routes, team-level assignments where applicable, movement sequencing and departure order, named terrain features for positioning
+- PURPOSE is identical to the OPORD body version
+- Prefaced with iteration guidance for cadre
+
+**Writing rules:**
+1. Write the lean version first. It must make tactical sense on its own — a competent squad leader with a map should be able to derive a workable scheme of maneuver from it.
+2. The detailed version adds specificity but does not change the tactical concept.
+3. The PURPOSE line is identical in both versions.
+4. The squad header (designation, role, operation type) is identical in both versions.
 
 ### Coordinating Instructions
 

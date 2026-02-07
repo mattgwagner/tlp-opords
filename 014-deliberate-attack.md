@@ -26,6 +26,27 @@
 > **OPFOR/Training Wrinkles:** Not applicable for CRAWL phase classroom use. If used for a WALK phase iteration, OPFOR should present a static defense with 4-6 personnel in hasty fighting positions.
 >
 > **See Also:** [LTA Grid Reference](lta-grid-reference.md) | [Tactical Overlay](014-deliberate-attack-overlay.html)
+>
+> ---
+>
+> **Iteration Guidance:** For CRAWL phase classroom instruction, use the Detailed Squad Tasks below along with the Practical Exercise section to walk candidates through the full planning process. For WALK phase field iterations and later runs, use the OPORD body (Section 3.d) as written — squad leaders must derive their own positioning and movement from the terrain and Concept of Operations.
+>
+> **Detailed Squad Tasks (Early Iterations)**
+>
+> **1. 1st Squad (Support by Fire — Shaping Operation):**
+>
+> - **TASK:** From the ORP (MP 0586 1552), move east through the woodline to a support-by-fire position on Bradenton Avenue south of OBJ HERRERA (IVO MP 0601 1552), oriented north. On the PL's signal, initiate suppressive fire north along the Bradenton Avenue corridor into REAPER positions at the junction. Shift or cease fires on order as 2nd Squad enters the objective.
+> - **PURPOSE:** Fix REAPER in their fighting positions so 2nd Squad can close on and assault through the objective without receiving aimed fire from the south-facing positions.
+>
+> **2. 2nd Squad (Assault — Decisive Operation):**
+>
+> - **TASK:** From the ORP, move north through the woodline to an assault position west of OBJ HERRERA. On order, assault east through the objective, crossing Jacksonville Street and clearing through REAPER positions on the north side of the junction (MP 0602 1565). Destroy REAPER forces and seize the road junction. Signal "objective secured" upon completion.
+> - **PURPOSE:** Destroy the enemy force on the objective and seize the key terrain that controls movement through AO COTTO.
+>
+> **3. 3rd Squad (Security / Reserve):**
+>
+> - **TASK:** Secure the ORP (MP 0586 1552) and provide rear security during the assault. Be prepared to reinforce 1st or 2nd Squad on order, or establish a blocking position north of the objective to prevent REAPER reinforcement from the woodline.
+> - **PURPOSE:** Provide the PL a reserve to exploit success or respond to REAPER counterattack without pulling the SBF or assault element off task.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -106,17 +127,17 @@ None.
 
 **1. 1st Squad (Support by Fire — Shaping Operation):**
 
-- **TASK:** From the ORP (MP 0586 1552), move east through the woodline to a support-by-fire position on Bradenton Avenue south of OBJ HERRERA (IVO MP 0601 1552), oriented north. On the PL's signal, initiate suppressive fire north along the Bradenton Avenue corridor into REAPER positions at the junction. Shift or cease fires on order as 2nd Squad enters the objective.
+- **TASK:** Occupy a support-by-fire position with observation of OBJ HERRERA. On the PL's signal, initiate suppressive fire into REAPER positions at the junction. Shift or cease fires on order as 2nd Squad enters the objective.
 - **PURPOSE:** Fix REAPER in their fighting positions so 2nd Squad can close on and assault through the objective without receiving aimed fire from the south-facing positions.
 
 **2. 2nd Squad (Assault — Decisive Operation):**
 
-- **TASK:** From the ORP, move north through the woodline to an assault position west of OBJ HERRERA. On order, assault east through the objective, crossing Jacksonville Street and clearing through REAPER positions on the north side of the junction (MP 0602 1565). Destroy REAPER forces and seize the road junction. Signal "objective secured" upon completion.
+- **TASK:** Move to an assault position near OBJ HERRERA. On order, assault through the objective, clearing through REAPER positions at the junction. Destroy REAPER forces and seize the road junction. Signal "objective secured" upon completion.
 - **PURPOSE:** Destroy the enemy force on the objective and seize the key terrain that controls movement through AO COTTO.
 
 **3. 3rd Squad (Security / Reserve):**
 
-- **TASK:** Secure the ORP (MP 0586 1552) and provide rear security during the assault. Be prepared to reinforce 1st or 2nd Squad on order, or establish a blocking position north of the objective to prevent REAPER reinforcement from the woodline.
+- **TASK:** Secure the ORP and provide rear security during the assault. Be prepared to reinforce 1st or 2nd Squad on order, or establish a blocking position to prevent REAPER reinforcement.
 - **PURPOSE:** Provide the PL a reserve to exploit success or respond to REAPER counterattack without pulling the SBF or assault element off task.
 
 ### f. Coordinating Instructions

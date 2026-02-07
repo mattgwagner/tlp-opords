@@ -102,8 +102,8 @@ e.  (U) Coordinating Instructions.
 **c. Scheme of Fires** — Priority of fires, fire support assets, restrictions. Unique information only.
 
 **d. Tasks to Subordinate Units** — The ONE place with squad-specific detail.
-- **TASK:** The squad's complete instructions — where to go (with grid coordinates), what to do, triggers/signals, on-order actions, and actions on contact. This is the only place in the OPORD where this detail appears.
-- **PURPOSE:** Why THIS SQUAD's task matters to the platoon plan specifically. Test: "If this squad fails, what specifically breaks?" Do not restate the Commander's Intent. A good purpose connects the squad's task to the next phase or another element's success.
+- **TASK:** The squad's outcome-focused instructions — what to accomplish, general area of responsibility, and key coordination (triggers, on-order actions). The OPORD body states tasks at a mission-command level, omitting specific positioning grids, directional movement, and team-level assignments. The detailed version with specific grids, routes, and team assignments lives in the Cadre Notes under "Detailed Squad Tasks (Early Iterations)" for use during initial training iterations.
+- **PURPOSE:** Why THIS SQUAD's task matters to the platoon plan specifically. Test: "If this squad fails, what specifically breaks?" Do not restate the Commander's Intent. A good purpose connects the squad's task to the next phase or another element's success. Identical between lean and detailed versions.
 - Include the element's role (Assault, Support, Security, Reserve) and whether it is the decisive or shaping operation in the header.
 
 **e. Coordinating Instructions** — Cross-cutting guidance that applies to two or more units. ROE, PIR, CCIR, reporting requirements, time hacks, restrictions.

@@ -29,6 +29,27 @@
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
 > **See Also:** [LTA Grid Reference](lta-grid-reference.md)
+>
+> ---
+>
+> **Iteration Guidance:** Use the OPORD body (Section 3.d) as written for evaluated iterations and later runs. For the first iteration with a new class or candidates who need additional scaffolding, substitute the Detailed Squad Tasks below for Section 3.d.
+>
+> **Detailed Squad Tasks (Early Iterations)**
+>
+> **1. 1st Squad (Northern Sector):**
+>
+> - **TASK:** Occupy and defend the northern sector of FOB THUNDER (MP 0610 1550). Establish fighting positions with interlocking fields of fire covering the northern approach routes and adjacent buildings. Establish OPs at key locations to provide early warning. Conduct security patrols north of the perimeter as directed by the PL.
+> - **PURPOSE:** Defeat REAPER infiltration or assault from the north — the most likely avenue of approach — and provide the earliest possible warning of enemy activity.
+>
+> **2. 2nd Squad (Southern Sector):**
+>
+> - **TASK:** Occupy and defend the southern sector of FOB THUNDER. Establish fighting positions with interlocking fields of fire covering the southern approach routes and adjacent buildings. Establish OPs covering the southern avenues of approach. Conduct security patrols south of the perimeter as directed.
+> - **PURPOSE:** Prevent REAPER from bypassing the northern defenses and attacking from the south, ensuring the perimeter has no undefended approach.
+>
+> **3. 3rd Squad (Reserve / QRF):**
+>
+> - **TASK:** Maintain observation of the eastern and western approaches from positions within the FOB. Serve as the platoon QRF, prepared to reinforce 1st or 2nd Squad's sector within 5 minutes of contact. Conduct rehearsals for reinforcement of each sector. Be prepared to man a supplementary position on the eastern or western perimeter on order.
+> - **PURPOSE:** Provide the PL flexibility to mass combat power at any threatened point without pulling defenders from their primary sectors.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -109,7 +130,7 @@ Defensive fires planned for likely enemy avenues of approach. Priority of fires 
 
 **1. 1st Squad (Northern Sector):**
 
-- **TASK:** Occupy and defend the northern sector of FOB THUNDER (MP 0610 1550). Establish fighting positions with interlocking fields of fire covering the northern approach routes and adjacent buildings. Establish OPs at key locations to provide early warning. Conduct security patrols north of the perimeter as directed by the PL.
+- **TASK:** Occupy and defend the northern sector of FOB THUNDER. Establish fighting positions with interlocking fields of fire covering the northern approach routes. Establish OPs to provide early warning. Conduct security patrols north of the perimeter as directed by the PL.
 - **PURPOSE:** Defeat REAPER infiltration or assault from the north — the most likely avenue of approach — and provide the earliest possible warning of enemy activity.
 
 **2. 2nd Squad (Southern Sector):**

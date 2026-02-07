@@ -25,6 +25,27 @@
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
 > **See Also:** [LTA Grid Reference](lta-grid-reference.md)
+>
+> ---
+>
+> **Iteration Guidance:** Use the OPORD body (Section 3.d) as written for evaluated iterations and later runs. For the first iteration with a new class or candidates who need additional scaffolding, substitute the Detailed Squad Tasks below for Section 3.d.
+>
+> **Detailed Squad Tasks (Early Iterations)**
+>
+> **1. 1st Squad (Assault — Decisive Operation):**
+>
+> - **TASK:** Occupy concealed assault positions along the kill zone at OBJ FLUNKER (MP 0601 1538). Initiate the ambush on the PL's signal, destroy REAPER vehicles and personnel with concentrated fires, and seize enemy materiel. Withdraw west to the ORP on order.
+> - **PURPOSE:** Destroy the convoy before REAPER can organize a response, creating the conditions for the platoon to seize supplies and withdraw.
+>
+> **2. 2nd Squad (Support — Shaping Operation):**
+>
+> - **TASK:** Occupy a support-by-fire position on the flank of the kill zone. On initiation, deliver suppressive fire to fix REAPER forces in the kill zone. Be prepared to shift fires to block REAPER reinforcements approaching from the north. Withdraw to ORP on order.
+> - **PURPOSE:** Prevent REAPER from maneuvering out of the kill zone so 1st Squad can destroy the convoy decisively.
+>
+> **3. 3rd Squad (Security — Shaping Operation):**
+>
+> - **TASK:** Establish a security perimeter vicinity MP 0610 1550 to observe for REAPER reinforcements and cover the flanks and rear of the ambush site. Interdict any REAPER forces attempting to reinforce or withdraw. Collapse security last during platoon withdrawal and consolidate at the ORP.
+> - **PURPOSE:** Ensure the ambush force is not surprised by REAPER reinforcements, and secure the withdrawal route so the platoon can break contact cleanly.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -105,17 +126,17 @@ None.
 
 **1. 1st Squad (Assault — Decisive Operation):**
 
-- **TASK:** Occupy concealed assault positions along the kill zone at OBJ FLUNKER (MP 0601 1538). Initiate the ambush on the PL's signal, destroy REAPER vehicles and personnel with concentrated fires, and seize enemy materiel. Withdraw west to the ORP on order.
+- **TASK:** Occupy concealed assault positions along the kill zone at OBJ FLUNKER. Initiate the ambush on the PL's signal, destroy REAPER vehicles and personnel, and seize enemy materiel. Withdraw to the ORP on order.
 - **PURPOSE:** Destroy the convoy before REAPER can organize a response, creating the conditions for the platoon to seize supplies and withdraw.
 
 **2. 2nd Squad (Support — Shaping Operation):**
 
-- **TASK:** Occupy a support-by-fire position on the flank of the kill zone. On initiation, deliver suppressive fire to fix REAPER forces in the kill zone. Be prepared to shift fires to block REAPER reinforcements approaching from the north. Withdraw to ORP on order.
+- **TASK:** Occupy a support-by-fire position on the flank of the kill zone. On initiation, deliver suppressive fire to fix REAPER forces in the kill zone. Be prepared to shift fires to block REAPER reinforcements. Withdraw to ORP on order.
 - **PURPOSE:** Prevent REAPER from maneuvering out of the kill zone so 1st Squad can destroy the convoy decisively.
 
 **3. 3rd Squad (Security — Shaping Operation):**
 
-- **TASK:** Establish a security perimeter vicinity MP 0610 1550 to observe for REAPER reinforcements and cover the flanks and rear of the ambush site. Interdict any REAPER forces attempting to reinforce or withdraw. Collapse security last during platoon withdrawal and consolidate at the ORP.
+- **TASK:** Establish a security perimeter to observe for REAPER reinforcements and cover the flanks and rear of the ambush site. Interdict any REAPER forces attempting to reinforce or withdraw. Collapse security last during platoon withdrawal and consolidate at the ORP.
 - **PURPOSE:** Ensure the ambush force is not surprised by REAPER reinforcements, and secure the withdrawal route so the platoon can break contact cleanly.
 
 ### f. Coordinating Instructions

@@ -25,6 +25,27 @@
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
 > **See Also:** [LTA Grid Reference](lta-grid-reference.md)
+>
+> ---
+>
+> **Iteration Guidance:** Use the OPORD body (Section 3.d) as written for evaluated iterations and later runs. For the first iteration with a new class or candidates who need additional scaffolding, substitute the Detailed Squad Tasks below for Section 3.d.
+>
+> **Detailed Squad Tasks (Early Iterations)**
+>
+> **1. 1st Squad (Lead Element — Decisive Operation):**
+>
+> - **TASK:** Lead the movement to contact toward OBJ HERRERA (MP 0612 1546) using covered and concealed routes. Establish contact with REAPER forces, fix the enemy, and report size, activity, location, and weapons. Be prepared to assault through on order or support 2nd Squad's maneuver.
+> - **PURPOSE:** Make initial contact and fix REAPER so the platoon can develop the situation and maneuver against a known enemy position.
+>
+> **2. 2nd Squad (Trail/Overwatch Element — Shaping Operation):**
+>
+> - **TASK:** Provide overwatch during 1st Squad's bounds. Upon 1st Squad's contact, maneuver to a position of advantage to support by fire or assault through as directed by the PL. Report REAPER activity and positions observed during overwatch.
+> - **PURPOSE:** Enable the platoon to gain and maintain contact from a position of advantage, preventing REAPER from isolating or overwhelming the lead element.
+>
+> **3. 3rd Squad (Reserve):**
+>
+> - **TASK:** Trail the main body at a distance that allows rapid commitment. Be prepared to reinforce the squad in contact, exploit a penetration, or establish a blocking position to prevent REAPER withdrawal. Commit only on the PL's order.
+> - **PURPOSE:** Provide the PL flexibility to exploit success or respond to unexpected REAPER action without committing the overwatch element.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -105,7 +126,7 @@ None.
 
 **1. 1st Squad (Lead Element — Decisive Operation):**
 
-- **TASK:** Lead the movement to contact toward OBJ HERRERA (MP 0612 1546) using covered and concealed routes. Establish contact with REAPER forces, fix the enemy, and report size, activity, location, and weapons. Be prepared to assault through on order or support 2nd Squad's maneuver.
+- **TASK:** Lead the movement to contact toward OBJ HERRERA using covered and concealed routes. Establish contact with REAPER forces, fix the enemy, and report size, activity, location, and weapons. Be prepared to assault through on order or support 2nd Squad's maneuver.
 - **PURPOSE:** Make initial contact and fix REAPER so the platoon can develop the situation and maneuver against a known enemy position.
 
 **2. 2nd Squad (Trail/Overwatch Element — Shaping Operation):**
