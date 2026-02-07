@@ -199,4 +199,4 @@ Defensive fires planned for likely enemy avenues of approach. 1st Squad, coverin
    - Challenge: Guard
    - Password: Post
    - Running Password: Secure
-   - Combination: 6
+   - Combination: 11

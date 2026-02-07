@@ -197,4 +197,4 @@ Fires are limited to self-defense only. Avoid engagement unless necessary to bre
    - Challenge: Scout
    - Password: Eagle
    - Running Password: Secure
-   - Combination: 5
+   - Combination: 11

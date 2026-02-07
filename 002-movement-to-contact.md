@@ -192,4 +192,4 @@ None.
    - Challenge: Eagle
    - Password: Fly
    - Running Password: Secure
-   - Combination: 4
+   - Combination: 11
