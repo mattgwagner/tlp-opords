@@ -5,6 +5,7 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 ## Contents
 
 - [Templates and References](#templates-and-references)
+- [OPORD Detail Levels](#opord-detail-levels)
 - [Available Orders](#available-orders)
   - [CRAWL Phase Training](#crawl-phase-training)
   - [Evaluated Missions (Wooded Terrain)](#evaluated-missions-wooded-terrain)
@@ -20,6 +21,30 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 - [Patrol Base Operations](patrol-base-ops.html) - A crawl phase training package covering patrol base operations, including cadre refresher material, inspection checklists, scenario injects, and implementation notes. Reference for establishing and operating patrol bases per ATP 3-21.8.
 - [Troop Leading Procedures](POI/Slides-RevealJS.html) - Interactive instructional slides covering the 8-step TLP framework, mission analysis (METT-TC), terrain analysis (OAKOC), and COA development (AGADAP) per ATP 3-21.8 and FM 6-0.
 - [TLP Training Package](tlp-training-package.md) - Complete Crawl-Walk-Run training package for Troop Leading Procedures. Includes 4-hour CRAWL phase (conceptual), 15-hour WALK phase (guided practice), and 48-hour RUN phase (FTX evaluation). References CMP, ISAP, and OCSOP standards with FLER evaluation criteria.
+
+## OPORD Detail Levels
+
+Each tactical OPORD is available in two versions to support the Crawl-Walk-Run training progression. Use the **Detailed** version for early iterations and candidates who need scaffolding. Use the **Mission Command** version for later iterations where squad leaders must develop their own schemes of maneuver.
+
+| # | Mission | Complexity | Mission Command | Detailed |
+|---|---------|-----------|-----------------|----------|
+| 001 | Ambush at Crossroads | Moderate | [Mission Command](001-ambush.md) | [Detailed](001-ambush-detailed.md) |
+| 002 | Movement to Contact | Moderate | [Mission Command](002-movement-to-contact.md) | [Detailed](002-movement-to-contact-detailed.md) |
+| 003 | Raid on Bunker | Higher | [Mission Command](003-raid-a-bunker.md) | [Detailed](003-raid-a-bunker-detailed.md) |
+| 004 | Clear Dismount City | Highest | [Mission Command](004-clear-dismount-city.md) | [Detailed](004-clear-dismount-city-detailed.md) |
+| 005 | Area/Zone Reconnaissance | Lower | [Mission Command](005-area-zone-reconnaissance.md) | [Detailed](005-area-zone-reconnaissance-detailed.md) |
+| 006 | Base Defense | Moderate | [Mission Command](006-base-defense.md) | [Detailed](006-base-defense-detailed.md) |
+| 007 | Forward Passage of Lines | Highest | [Mission Command](007-forward-passage-of-lines.md) | [Detailed](007-forward-passage-of-lines-detailed.md) |
+| 008 | Patrol Base Operations | Moderate | [Mission Command](008-patrol-base-operations.md) | [Detailed](008-patrol-base-operations-detailed.md) |
+| 009 | Tactical Road March | Lower | [Mission Command](009-tactical-road-march.md) | [Detailed](009-tactical-road-march-detailed.md) |
+| 013 | Establish Combat Outpost | Highest | [Mission Command](013-establish-cop.md) | [Detailed](013-establish-cop-detailed.md) |
+| 014 | Deliberate Attack (CRAWL) | Moderate | [Mission Command](014-deliberate-attack.md) | [Detailed](014-deliberate-attack-detailed.md) |
+
+**Mission Command version:** Tasks state outcomes and general areas — squad leaders must develop their own positioning, routes, and fire plans.
+
+**Detailed version:** Tasks include specific grids, movement directions, team-level assignments, and sequencing — cadre walks candidates through a school solution.
+
+DSCA OPORDs (010-012) are planning exercises only and do not use the tiered system.
 
 ## Available Orders
 
