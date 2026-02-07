@@ -112,7 +112,7 @@ None.
 - Actions at danger areas per SOP: halt, establish security, recon, cross, and continue movement.
 
 ### d. Scheme of Fires
-No planned fires. Priority of fires to element in contact if engagement occurs. Indirect fire support available through company on request.
+No planned fires. 1st Squad, as the lead element, has priority of indirect fires. Indirect fire support available through company on request.
 
 ### e. Tasks to Subordinate Units
 

@@ -104,7 +104,7 @@ None.
 1st Platoon conducts an area reconnaissance of AO COTTO from a secure ORP. Two reconnaissance elements move to assigned sectors using covered and concealed routes, collecting intelligence on REAPER positions, activities, and terrain. A security element remains at the ORP to provide a rally point and QRF capability. The platoon avoids decisive engagement — the mission is intelligence collection, not destruction. Upon completion or compromise, elements return to the ORP for consolidation and reporting.
 
 ### c. Scheme of Fires
-Fires are limited to self-defense only. Avoid engagement unless necessary to break contact. Priority of fires to squad in contact if engagement occurs.
+Fires are limited to self-defense only. Avoid engagement unless necessary to break contact. Indirect fire support available through company on request to support disengagement.
 
 ### d. Tasks to Subordinate Units
 

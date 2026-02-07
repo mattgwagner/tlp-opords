@@ -105,7 +105,7 @@ None.
 1st Platoon establishes a perimeter defense of FOB THUNDER. Two squads occupy defensive sectors covering the primary avenues of approach, with fighting positions, observation posts, and assigned sectors of fire providing interlocking coverage. A reserve element provides observation of secondary approaches and serves as the QRF to reinforce any threatened sector. The platoon conducts security patrols to extend early warning beyond the perimeter. The defense is organized to defeat REAPER reconnaissance, infiltration, and direct assault in that priority.
 
 ### c. Scheme of Fires
-Defensive fires planned for likely enemy avenues of approach. Priority of fires to squad in contact. Indirect fire support available on request. Fires coordinated to avoid fratricide and minimize collateral damage.
+Defensive fires planned for likely enemy avenues of approach. 1st Squad, covering the most likely avenue of approach, has priority of indirect fires. Indirect fire support available on request. Fires coordinated to avoid fratricide and minimize collateral damage.
 
 ### d. Tasks to Subordinate Units
 

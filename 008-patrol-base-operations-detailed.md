@@ -103,7 +103,7 @@ None.
 1st Platoon occupies PB THUNDER using a deliberate occupation technique (triangle or cigar-shaped based on terrain). The PL conducts a leader's reconnaissance to confirm site suitability before committing the platoon. Three squads occupy assigned perimeter sectors with interlocking fields of fire. LP/OPs extend early warning onto likely enemy avenues of approach. The platoon executes priorities of work — security, weapons maintenance, rest rotation — while maintaining the ability to defend in place or displace. Stand-to at BMNT and EENT. One squad serves as QRF throughout.
 
 ### c. Scheme of Fires
-Defensive fires planned for likely REAPER avenues of approach. Each squad responsible for fires within assigned sector. Priority of fires to the most likely avenue of approach (determined during leader's reconnaissance). Final protective fires (FPF) designated and briefed.
+Defensive fires planned for likely REAPER avenues of approach. Each squad responsible for direct fires within assigned sector. 1st Squad, covering the most likely avenue of approach, has priority of indirect fires. Final protective fires (FPF) designated and briefed.
 
 ### d. Tasks to Subordinate Units
 

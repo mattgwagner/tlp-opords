@@ -101,7 +101,7 @@ None.
 1st Platoon conducts a raid on OBJ COTTO in two phases. In **Phase 1 (Set)**, the platoon occupies an ORP in the woodline southwest of the objective. The PL conducts a leader's reconnaissance. The security element moves first to isolate the objective, then the support element occupies a position south of the objective to fix the enemy. In **Phase 2 (Strike)**, the support element initiates suppressive fire and the assault element, as the main effort, breaches and clears the bunker from the west. Upon seizure, the platoon withdraws by echelon to the ORP.
 
 ### c. Scheme of Fires
-2nd Squad, as the support-by-fire element, has priority of fires during the assault phase. 1st Squad, as the decisive effort, has priority of indirect fires. Mortar support available through company on request.
+1st Squad, as the decisive effort, has priority of indirect fires. Mortar support available through company on request.
 
 ### d. Tasks to Subordinate Units
 

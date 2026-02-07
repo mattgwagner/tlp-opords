@@ -102,7 +102,7 @@ None.
 1st Platoon conducts a deliberate attack to seize OBJ HERRERA. The platoon establishes an ORP in the woodline west of Bradenton Avenue, and the PL conducts a leader's reconnaissance. The support element, as the shaping operation, fixes the enemy from the south along the Bradenton Avenue corridor. The assault element, as the main effort, maneuvers through the concealed woodline and attacks the objective from the west — exploiting the enemy's limited observation off the improved roads. The reserve provides ORP security and is prepared to reinforce on order. Upon seizure, the platoon consolidates and reports.
 
 ### c. Scheme of Fires
-1st Squad, as the support-by-fire element, has priority of fires. Mortar support is available through company on request.
+2nd Squad, as the decisive effort, has priority of indirect fires. Mortar support is available through company on request.
 
 ### d. Tasks to Subordinate Units
 

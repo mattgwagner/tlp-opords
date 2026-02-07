@@ -111,7 +111,7 @@ None.
 - Route to OBJ THUNDER (MP 0602 1565): Continue west along designated route from passage point.
 
 ### d. Scheme of Fires
-Fires coordinated with 2nd Platoon to avoid fratricide. Priority of fires to squad in contact if engagement occurs. Indirect fire support available on request. Fire support responsibility transfers from 2nd Platoon to 1st Platoon upon passage complete.
+Fires coordinated with 2nd Platoon to avoid fratricide. 1st Squad, as the lead element, has priority of indirect fires. Indirect fire support available on request. Fire support responsibility transfers from 2nd Platoon to 1st Platoon upon passage complete.
 
 ### e. Tasks to Subordinate Units
 

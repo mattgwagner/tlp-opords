@@ -99,7 +99,7 @@ e.  (U) Coordinating Instructions.
 - Keep to 75-100 words. If it exceeds that, detail is leaking in that belongs in Tasks.
 - **Does NOT contain:** grid coordinates, squad-by-squad movement sequences, or specific positions. Those belong in Tasks to Subordinate Units.
 
-**c. Scheme of Fires** — Priority of fires, fire support assets, restrictions. Unique information only.
+**c. Scheme of Fires** — Priority of indirect fires (which subordinate unit gets first call on indirect fire assets), fire support assets available, and restrictions. Unique information only.
 
 **d. Tasks to Subordinate Units** — The ONE place with squad-specific detail.
 - **TASK:** The squad's outcome-focused instructions — what to accomplish, general area of responsibility, and key coordination (triggers, on-order actions). The OPORD body states tasks at a mission-command level, omitting specific positioning grids, directional movement, and team-level assignments. The detailed version with specific grids, routes, and team assignments lives in the Cadre Notes under "Detailed Squad Tasks (Early Iterations)" for use during initial training iterations.
