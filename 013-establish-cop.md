@@ -230,27 +230,3 @@ Support element has priority of fires during Phase 2 (Clear), oriented north alo
 ![COP Seggel Area — MilGPS Overhead Imagery with MGRS Grid Overlay](cbjtc-lta-milgps.png)
 
 *Source: MilGPS application, satellite imagery with 17R MP MGRS grid overlay. Grid lines at 100m intervals.*
-
-### Key Locations
-
-| Grid (17R MP) | Location | Significance |
-|----------------|----------|-------------|
-| MP 0600 1550 | COP Seggel | Facility complex — objective for clearing and occupation |
-| MP 0602 1565 | Jacksonville St / Bradenton Ave junction | Key terrain — controls northern approach, REAPER activity area |
-| MP 0600 1560 | Bradenton Ave, 100m north of COP | Northern approach corridor along Bradenton Ave |
-| MP 0575 1550 | Clearwater Ave, west of COP | Secondary avenue of approach from the west |
-| MP 0600 1540 | Bradenton Ave, south of COP | Southern approach; security halt and SBF position area |
-
-### Avenues of Approach
-
-**1. Primary (NORTH — Most Dangerous):** South along Bradenton Avenue from the Jacksonville Street junction (MP 0602 1565). This is the primary improved road through the AO and provides a direct avenue of approach for REAPER reinforcement from the north. The road corridor provides fields of fire for defenders at the COP but also exposes the northern perimeter.
-
-**2. Secondary (WEST):** East through the dense woodlines from the direction of Clearwater Avenue. Thick pine and hardwood forest provides excellent concealment for dismounted approach but limits movement speed. Observation from the COP into the western woodline is restricted to under 50 meters.
-
-**3. Secondary (SOUTH):** North along Bradenton Avenue from the south. This is the friendly force approach route and also a potential avenue for REAPER flanking movement. The road corridor provides observation for the southern defensive sector.
-
-**4. Secondary (EAST):** West along east-west access roads from the east (vicinity MP 0610 1550). Dense woodlines east of the COP restrict observation but improved roads provide a direct approach.
-
-### Terrain Analysis Notes
-
-The overhead imagery confirms flat terrain throughout the AO with dense tree canopy providing concealment from aerial observation. Improved roads (Bradenton Avenue, Jacksonville Street, Clearwater Avenue) are clearly visible as the only locations offering extended observation and fields of fire. The facility complex at COP Seggel is situated along Bradenton Avenue with dense woodlines on all sides, consistent with the terrain description in the OPORD. Candidates should note that the dense canopy will limit observation to under 50 meters in the woodlines, making the road corridors critical for both fields of fire and early warning.
