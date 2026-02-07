@@ -5,7 +5,6 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 ## Contents
 
 - [Templates and References](#templates-and-references)
-- [OPORD Detail Levels](#opord-detail-levels)
 - [Available Orders](#available-orders)
   - [CRAWL Phase Training](#crawl-phase-training)
   - [Evaluated Missions (Wooded Terrain)](#evaluated-missions-wooded-terrain)
@@ -22,58 +21,53 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 - [Troop Leading Procedures](POI/Slides-RevealJS.html) - Interactive instructional slides covering the 8-step TLP framework, mission analysis (METT-TC), terrain analysis (OAKOC), and COA development (AGADAP) per ATP 3-21.8 and FM 6-0.
 - [TLP Training Package](tlp-training-package.md) - Complete Crawl-Walk-Run training package for Troop Leading Procedures. Includes 4-hour CRAWL phase (conceptual), 15-hour WALK phase (guided practice), and 48-hour RUN phase (FTX evaluation). References CMP, ISAP, and OCSOP standards with FLER evaluation criteria.
 
-## OPORD Detail Levels
-
-Each tactical OPORD is available in two versions to support the Crawl-Walk-Run training progression. Use the **Detailed** version for early iterations and candidates who need scaffolding. Use the **Mission Command** version for later iterations where squad leaders must develop their own schemes of maneuver.
-
-| # | Mission | Complexity | Mission Command | Detailed |
-|---|---------|-----------|-----------------|----------|
-| 001 | Ambush at Crossroads | Moderate | [Mission Command](001-ambush.md) | [Detailed](001-ambush-detailed.md) |
-| 002 | Movement to Contact | Moderate | [Mission Command](002-movement-to-contact.md) | [Detailed](002-movement-to-contact-detailed.md) |
-| 003 | Raid on Bunker | Higher | [Mission Command](003-raid-a-bunker.md) | [Detailed](003-raid-a-bunker-detailed.md) |
-| 004 | Clear Dismount City | Highest | [Mission Command](004-clear-dismount-city.md) | [Detailed](004-clear-dismount-city-detailed.md) |
-| 005 | Area/Zone Reconnaissance | Lower | [Mission Command](005-area-zone-reconnaissance.md) | [Detailed](005-area-zone-reconnaissance-detailed.md) |
-| 006 | Base Defense | Moderate | [Mission Command](006-base-defense.md) | [Detailed](006-base-defense-detailed.md) |
-| 007 | Forward Passage of Lines | Highest | [Mission Command](007-forward-passage-of-lines.md) | [Detailed](007-forward-passage-of-lines-detailed.md) |
-| 008 | Patrol Base Operations | Moderate | [Mission Command](008-patrol-base-operations.md) | [Detailed](008-patrol-base-operations-detailed.md) |
-| 009 | Tactical Road March | Lower | [Mission Command](009-tactical-road-march.md) | [Detailed](009-tactical-road-march-detailed.md) |
-| 013 | Establish Combat Outpost | Highest | [Mission Command](013-establish-cop.md) | [Detailed](013-establish-cop-detailed.md) |
-| 014 | Deliberate Attack (CRAWL) | Moderate | [Mission Command](014-deliberate-attack.md) | [Detailed](014-deliberate-attack-detailed.md) |
-
-**Mission Command version:** Tasks state outcomes and general areas — squad leaders must develop their own positioning, routes, and fire plans.
-
-**Detailed version:** Tasks include specific grids, movement directions, team-level assignments, and sequencing — cadre walks candidates through a school solution.
-
-DSCA OPORDs (010-012) are planning exercises only and do not use the tiered system.
-
 ## Available Orders
 
+Each tactical OPORD is available in two versions. Use **Detailed** for early iterations and candidates who need scaffolding. Use **Mission Command** for later iterations where squad leaders must develop their own schemes of maneuver.
+
+- **Mission Command:** Tasks state outcomes and general areas — squad leaders develop their own positioning, routes, and fire plans.
+- **Detailed:** Tasks include specific grids, movement directions, team-level assignments, and sequencing — cadre walks candidates through a school solution.
+
 ### CRAWL Phase Training
-- [Deliberate Attack (TLP Practical Exercise)](014-deliberate-attack.md) - Simplified platoon deliberate attack with a step-by-step TLP walkthrough annotated with references to the [TLP Instructional Slides](POI/Slides-RevealJS.html). Designed for crawl-phase classroom instruction where the TAC briefs the order, then walks candidates through each TLP step as applied to the mission.
+
+| # | Mission | Description | Mission Command | Detailed |
+|---|---------|-------------|-----------------|----------|
+| 014 | Deliberate Attack | TLP practical exercise with step-by-step walkthrough. Designed for classroom instruction where the TAC briefs the order, then walks candidates through each TLP step. See also [TLP Slides](POI/Slides-RevealJS.html). | [md](014-deliberate-attack.md) · [html](014-deliberate-attack.html) · [pdf](014-deliberate-attack.pdf) | [md](014-deliberate-attack-detailed.md) · [html](014-deliberate-attack-detailed.html) · [pdf](014-deliberate-attack-detailed.pdf) |
 
 ### Evaluated Missions (Wooded Terrain)
-- [Ambush at Crossroads](001-ambush.md) - [PDF](001-ambush.pdf)
-- [Movement to Contact](002-movement-to-contact.md) - [PDF](002-movement-to-contact.pdf)
-- [Raid on Bunker](003-raid-a-bunker.md) - [PDF](003-raid-a-bunker.pdf)
-- [Area/Zone Reconnaissance](005-area-zone-reconnaissance.md) - [PDF](005-area-zone-reconnaissance.pdf)
-- [Tactical Road March](009-tactical-road-march.md) - [PDF](009-tactical-road-march.pdf)
+
+| # | Mission | Complexity | Description | Mission Command | Detailed |
+|---|---------|-----------|-------------|-----------------|----------|
+| 001 | Ambush at Crossroads | Moderate | Hasty ambush on a REAPER convoy at a road junction. Assault, support-by-fire, and security elements. | [md](001-ambush.md) · [html](001-ambush.html) · [pdf](001-ambush.pdf) | [md](001-ambush-detailed.md) · [html](001-ambush-detailed.html) · [pdf](001-ambush-detailed.pdf) |
+| 002 | Movement to Contact | Moderate | Advance to locate and engage REAPER forces. Lead, overwatch, and reserve elements with progressive commitment. | [md](002-movement-to-contact.md) · [html](002-movement-to-contact.html) · [pdf](002-movement-to-contact.pdf) | [md](002-movement-to-contact-detailed.md) · [html](002-movement-to-contact-detailed.html) · [pdf](002-movement-to-contact-detailed.pdf) |
+| 003 | Raid on Bunker | Higher | Raid a fortified REAPER bunker position. Assault, SBF, and security with breach and withdrawal. | [md](003-raid-a-bunker.md) · [html](003-raid-a-bunker.html) · [pdf](003-raid-a-bunker.pdf) | [md](003-raid-a-bunker-detailed.md) · [html](003-raid-a-bunker-detailed.html) · [pdf](003-raid-a-bunker-detailed.pdf) |
+| 005 | Area/Zone Reconnaissance | Lower | Locate and assess REAPER positions without decisive engagement. Two recon elements plus ORP security/QRF. | [md](005-area-zone-reconnaissance.md) · [html](005-area-zone-reconnaissance.html) · [pdf](005-area-zone-reconnaissance.pdf) | [md](005-area-zone-reconnaissance-detailed.md) · [html](005-area-zone-reconnaissance-detailed.html) · [pdf](005-area-zone-reconnaissance-detailed.pdf) |
+| 009 | Tactical Road March | Lower | Tactical movement from assembly area to release point. Point security, main body, and rear security. | [md](009-tactical-road-march.md) · [html](009-tactical-road-march.html) · [pdf](009-tactical-road-march.pdf) | [md](009-tactical-road-march-detailed.md) · [html](009-tactical-road-march-detailed.html) · [pdf](009-tactical-road-march-detailed.pdf) |
 
 ### MOUT Training Scenarios
-- [Clear Dismount City](004-clear-dismount-city.md) - [PDF](004-clear-dismount-city.pdf)
-- [Base Defense](006-base-defense.md) - [PDF](006-base-defense.pdf)
-- [Forward Passage of Lines](007-forward-passage-of-lines.md) - [PDF](007-forward-passage-of-lines.pdf)
-- [Establish Combat Outpost](013-establish-cop.md) - Multi-phase clearing, occupation, and CP establishment. Designed as the opening operation for a capstone LFX — the COP becomes the base of operations for follow-on missions.
+
+| # | Mission | Complexity | Description | Mission Command | Detailed |
+|---|---------|-----------|-------------|-----------------|----------|
+| 004 | Clear Dismount City | Highest | Clear, seize, and secure urban terrain (OBJ FLUNKER). Building-by-building clearing with assault, support, and security elements. | [md](004-clear-dismount-city.md) · [html](004-clear-dismount-city.html) · [pdf](004-clear-dismount-city.pdf) | [md](004-clear-dismount-city-detailed.md) · [html](004-clear-dismount-city-detailed.html) · [pdf](004-clear-dismount-city-detailed.pdf) |
+| 006 | Base Defense | Moderate | Defend FOB THUNDER against REAPER attack. Sector defense with reserve/QRF. | [md](006-base-defense.md) · [html](006-base-defense.html) · [pdf](006-base-defense.pdf) | [md](006-base-defense-detailed.md) · [html](006-base-defense-detailed.html) · [pdf](006-base-defense-detailed.pdf) |
+| 007 | Forward Passage of Lines | Highest | Pass through friendly defensive positions to continue offensive operations. Inter-unit coordination and fratricide prevention. | [md](007-forward-passage-of-lines.md) · [html](007-forward-passage-of-lines.html) · [pdf](007-forward-passage-of-lines.pdf) | [md](007-forward-passage-of-lines-detailed.md) · [html](007-forward-passage-of-lines-detailed.html) · [pdf](007-forward-passage-of-lines-detailed.pdf) |
+| 013 | Establish Combat Outpost | Highest | Multi-phase clearing, occupation, and CP establishment. Capstone LFX — the COP becomes the base of operations for follow-on missions. | [md](013-establish-cop.md) · [html](013-establish-cop.html) · [pdf](013-establish-cop.pdf) | [md](013-establish-cop-detailed.md) · [html](013-establish-cop-detailed.html) · [pdf](013-establish-cop-detailed.pdf) |
 
 ### Static Operations
-- [Patrol Base Operations](008-patrol-base-operations.md) - [PDF](008-patrol-base-operations.pdf)
+
+| # | Mission | Complexity | Description | Mission Command | Detailed |
+|---|---------|-----------|-------------|-----------------|----------|
+| 008 | Patrol Base Operations | Moderate | Establish and occupy a patrol base for sustained operations. Sector defense, LP/OPs, priorities of work, and QRF. | [md](008-patrol-base-operations.md) · [html](008-patrol-base-operations.html) · [pdf](008-patrol-base-operations.pdf) | [md](008-patrol-base-operations-detailed.md) · [html](008-patrol-base-operations-detailed.html) · [pdf](008-patrol-base-operations-detailed.pdf) |
 
 ### DSCA Operations (Hurricane Response)
 
-These OPORDs support TLP planning exercises focused on Defense Support of Civil Authorities (DSCA) operations. Set during a fictional Hurricane DELTA response in Florida, they introduce candidates to real-world National Guard domestic operations including convoy movements, reconnaissance, and humanitarian assistance. These are planning exercises only—candidates develop orders but do not execute.
+These OPORDs support TLP planning exercises focused on Defense Support of Civil Authorities (DSCA) operations. Set during a fictional Hurricane DELTA response in Florida, they introduce candidates to real-world National Guard domestic operations including convoy movements, reconnaissance, and humanitarian assistance. These are planning exercises only — candidates develop orders but do not execute.
 
-- [Hurricane Relief Convoy](010-dsca-convoy-operations.md) - [PDF](010-dsca-convoy-operations.pdf)
-- [Mounted Area Reconnaissance](011-dsca-mounted-reconnaissance.md) - [PDF](011-dsca-mounted-reconnaissance.pdf)
-- [Point of Distribution Operations](012-dsca-point-of-distribution.md) - [PDF](012-dsca-point-of-distribution.pdf)
+| # | Mission | Description | Formats |
+|---|---------|-------------|---------|
+| 010 | Hurricane Relief Convoy | DSCA convoy operations through damaged infrastructure to deliver relief supplies. | [md](010-dsca-convoy-operations.md) · [html](010-dsca-convoy-operations.html) · [pdf](010-dsca-convoy-operations.pdf) |
+| 011 | Mounted Area Reconnaissance | DSCA mounted reconnaissance to assess infrastructure damage and route conditions. | [md](011-dsca-mounted-reconnaissance.md) · [html](011-dsca-mounted-reconnaissance.html) · [pdf](011-dsca-mounted-reconnaissance.pdf) |
+| 012 | Point of Distribution Operations | DSCA humanitarian distribution operations with civilian interface management. | [md](012-dsca-point-of-distribution.md) · [html](012-dsca-point-of-distribution.html) · [pdf](012-dsca-point-of-distribution.pdf) |
 
 ## FLX Variation System
 
