@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>OPORD 009 - Tactical Road March</name>
+  <description>SP to RP THUNDER - 1st PLT, A CO, 4-211 INF. Tactical movement with checkpoints. FOR TRAINING USE ONLY.</description>
+
+  <Style id="style-checkpoint">
+    <IconStyle>
+      <color>ff00ffff</color>
+      <scale>1.0</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff00ffff</color><scale>0.9</scale></LabelStyle>
+  </Style>
+  <Style id="style-sp">
+    <IconStyle>
+      <color>ffff6600</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ffff6600</color><scale>1.0</scale></LabelStyle>
+  </Style>
+  <Style id="style-rp">
+    <IconStyle>
+      <color>ff00ff00</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/square.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff00ff00</color><scale>1.0</scale></LabelStyle>
+  </Style>
+  <Style id="style-route">
+    <LineStyle>
+      <color>ffff6600</color>
+      <width>3</width>
+    </LineStyle>
+  </Style>
+  <Style id="style-danger">
+    <IconStyle>
+      <color>ff0088ff</color>
+      <scale>1.0</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff0088ff</color><scale>0.8</scale></LabelStyle>
+  </Style>
+
+  <Placemark>
+    <name>SP (Assembly Area)</name>
+    <description>MP 0598 1538 - Start Point. 1st SQD leads, PLT HQ, 2nd SQD, 3rd SQD trail. Traveling overwatch.</description>
+    <styleUrl>#style-sp</styleUrl>
+    <Point><coordinates>-81.974478,29.965688,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>CP1 - Road Crossing</name>
+    <description>MP 0605 1545 - Danger area. Halt, establish security, recon, cross. 1st SQD near-side security.</description>
+    <styleUrl>#style-danger</styleUrl>
+    <Point><coordinates>-81.973760,29.966296,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>CP2 - Open Area</name>
+    <description>MP 0608 1550 - Danger area. Open terrain, limited concealment. Bounding overwatch through open area.</description>
+    <styleUrl>#style-danger</styleUrl>
+    <Point><coordinates>-81.973453,29.966748,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>CP3 - Creek Crossing</name>
+    <description>MP 0612 1555 - Danger area. Water obstacle. Near-side security, cross rapidly.</description>
+    <styleUrl>#style-danger</styleUrl>
+    <Point><coordinates>-81.973042,29.967201,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>RP THUNDER</name>
+    <description>MP 0615 1560 - Release Point. Good concealment and defensible terrain. Security halt, confirm accountability, prepare for follow-on operations.</description>
+    <styleUrl>#style-rp</styleUrl>
+    <Point><coordinates>-81.972734,29.967653,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Route of March</name>
+    <description>SP to RP THUNDER via checkpoints. Traveling overwatch; bounding overwatch at danger areas.</description>
+    <styleUrl>#style-route</styleUrl>
+    <LineString>
+      <coordinates>
+        -81.974478,29.965688,0
+        -81.973760,29.966296,0
+        -81.973453,29.966748,0
+        -81.973042,29.967201,0
+        -81.972734,29.967653,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+
+</Document>
+</kml>

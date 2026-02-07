@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>OPORD 002 - Movement to Contact</name>
+  <description>AO FLUNKER - 1st PLT, A CO, 4-211 INF. Three independent squad zones. FOR TRAINING USE ONLY.</description>
+
+  <Style id="style-enemy">
+    <IconStyle>
+      <color>ff0000ff</color>
+      <scale>1.3</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/target.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff0000ff</color><scale>1.0</scale></LabelStyle>
+  </Style>
+  <Style id="style-friendly">
+    <IconStyle>
+      <color>ffff6600</color>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ffff6600</color><scale>0.9</scale></LabelStyle>
+  </Style>
+
+  <Folder>
+    <name>Enemy Objectives</name>
+
+    <Placemark>
+      <name>OBJ BAINTON (1st SQD)</name>
+      <description>MP 0600 1538 - Western zone. REAPER team 2-3 PAX at Bradenton Ave intersection. Small arms, concealed positions.</description>
+      <styleUrl>#style-enemy</styleUrl>
+      <Point><coordinates>-81.9742627,29.9656653,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>OBJ HERRERA (2nd SQD)</name>
+      <description>MP 0612 1546 - Central zone. REAPER team 2-3 PAX at road junction south of FOB. Small arms, defensive positions.</description>
+      <styleUrl>#style-enemy</styleUrl>
+      <Point><coordinates>-81.9730262,29.9663963,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>OBJ BARLOW (3rd SQD)</name>
+      <description>MP 0613 1532 - Eastern zone. REAPER team 2-3 PAX in/around Conex City structures. Small arms, concealed positions.</description>
+      <styleUrl>#style-enemy</styleUrl>
+      <Point><coordinates>-81.9729102,29.9651338,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>Squad Zones</name>
+
+    <Placemark>
+      <name>1st SQD Zone (Western)</name>
+      <description>MTC toward OBJ BAINTON. Move N along/west of Bradenton Ave corridor. Secure objective, hasty defense oriented N and W.</description>
+      <styleUrl>#style-friendly</styleUrl>
+      <Point><coordinates>-81.9742627,29.9656653,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>2nd SQD Zone (Central)</name>
+      <description>MTC toward OBJ HERRERA. Move N through wooded area between Bradenton corridor and Conex City. Secure road junction.</description>
+      <styleUrl>#style-friendly</styleUrl>
+      <Point><coordinates>-81.9730262,29.9663963,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>3rd SQD Zone (Eastern)</name>
+      <description>MTC toward OBJ BARLOW. Move N toward Conex City. Clear structures, hasty defense oriented N and E.</description>
+      <styleUrl>#style-friendly</styleUrl>
+      <Point><coordinates>-81.9729102,29.9651338,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>

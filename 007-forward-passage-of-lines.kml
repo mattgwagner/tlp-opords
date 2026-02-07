@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>OPORD 007 - Forward Passage of Lines</name>
+  <description>Passage through 2nd PLT to OBJ THUNDER - 1st PLT, A CO, 4-211 INF. FOR TRAINING USE ONLY.</description>
+
+  <Style id="style-enemy">
+    <IconStyle>
+      <color>ff0000ff</color>
+      <scale>1.3</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/target.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff0000ff</color><scale>1.0</scale></LabelStyle>
+  </Style>
+  <Style id="style-friendly">
+    <IconStyle>
+      <color>ffff6600</color>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ffff6600</color><scale>0.9</scale></LabelStyle>
+  </Style>
+  <Style id="style-passage">
+    <IconStyle>
+      <color>ff00ffff</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff00ffff</color><scale>1.0</scale></LabelStyle>
+  </Style>
+  <Style id="style-route">
+    <LineStyle>
+      <color>ffff6600</color>
+      <width>3</width>
+    </LineStyle>
+  </Style>
+
+  <Placemark>
+    <name>Passage Point</name>
+    <description>MP 0607 1555 - 2nd PLT defensive positions. Link up with 2nd PLT guide. Use designated passage lanes only. Coordinate recognition signals.</description>
+    <styleUrl>#style-passage</styleUrl>
+    <Point><coordinates>-81.9735522,29.9672046,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>OBJ THUNDER</name>
+    <description>MP 0602 1565 - Jacksonville St / Bradenton Ave junction. REAPER 4-6 PAX, small arms, possible RPG/HMG, IEDs. Defensive/observation positions along route.</description>
+    <styleUrl>#style-enemy</styleUrl>
+    <Point><coordinates>-81.9740792,29.9681031,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>1st SQD (Lead Element)</name>
+    <description>Lead through passage point. Link up with 2nd PLT guide. Pass through rapidly, security forward. Continue toward OBJ THUNDER using covered/concealed routes.</description>
+    <styleUrl>#style-friendly</styleUrl>
+    <Point><coordinates>-81.9737522,29.9674046,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>3rd SQD (Trail / Rear Security)</name>
+    <description>Last through passage point. Rear security throughout. Confirm all 1st PLT cleared 2nd PLT positions. Report "passage complete."</description>
+    <styleUrl>#style-friendly</styleUrl>
+    <Point><coordinates>-81.9735522,29.9670046,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Route: Passage to OBJ</name>
+    <description>Route of advance from passage point west to OBJ THUNDER.</description>
+    <styleUrl>#style-route</styleUrl>
+    <LineString>
+      <coordinates>
+        -81.9735522,29.9672046,0
+        -81.9738000,29.9676000,0
+        -81.9740792,29.9681031,0
+      </coordinates>
+    </LineString>
+  </Placemark>
+
+</Document>
+</kml>

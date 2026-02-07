@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>OPORD 008 - Patrol Base Operations</name>
+  <description>PB THUNDER - 1st PLT, A CO, 4-211 INF. Patrol base occupation and security. FOR TRAINING USE ONLY.</description>
+
+  <Style id="style-friendly">
+    <IconStyle>
+      <color>ffff6600</color>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ffff6600</color><scale>0.9</scale></LabelStyle>
+  </Style>
+  <Style id="style-fob">
+    <IconStyle>
+      <color>ff00ff00</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/square.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff00ff00</color><scale>0.9</scale></LabelStyle>
+  </Style>
+  <Style id="style-security">
+    <IconStyle>
+      <color>ffff6600</color>
+      <scale>1.0</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ffff6600</color><scale>0.9</scale></LabelStyle>
+  </Style>
+
+  <Placemark>
+    <name>PB THUNDER</name>
+    <description>MP 0580 1520 - Patrol Base THUNDER. Wooded area south of FOB. Good concealment, defensible terrain, covered withdrawal routes. Creek to south (water source, canalizes EN approach). Elevated ground to N for observation.</description>
+    <styleUrl>#style-fob</styleUrl>
+    <Point><coordinates>-81.976325,29.964033,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>1st SQD (Northern Sector)</name>
+    <description>Defend N sector. Fighting positions with interlocking fires covering N avenues of approach. LP/OP on elevated ground to N. Local security patrols. Most likely REAPER approach.</description>
+    <styleUrl>#style-friendly</styleUrl>
+    <Point><coordinates>-81.976325,29.964333,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>2nd SQD (Southeastern Sector)</name>
+    <description>Defend SE sector. Fighting positions covering creek line approach and SE avenues. LP/OP oriented toward creek line. Deny REAPER use of creek as covered avenue of approach.</description>
+    <styleUrl>#style-friendly</styleUrl>
+    <Point><coordinates>-81.975925,29.963733,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>3rd SQD (Southwestern / QRF)</name>
+    <description>Defend SW sector. PLT QRF prepared to reinforce any sector. Rehearse reinforcement routes to 1st and 2nd SQD. Identify and brief withdrawal routes.</description>
+    <styleUrl>#style-security</styleUrl>
+    <Point><coordinates>-81.976725,29.963733,0</coordinates></Point>
+  </Placemark>
+
+</Document>
+</kml>
