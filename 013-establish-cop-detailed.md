@@ -69,7 +69,9 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. CO
    - BMNT: ____
    - Sunrise: ____
    - Sunset: ____
-   - EENT: ____ Plan for sustained operations through day and night cycles.
+   - EENT: ____
+
+Plan for sustained operations through day and night cycles.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER forces are an irregular force operating throughout the AO. Following the host nation withdrawal from COP Seggel, REAPER may have moved forces to observe, occupy, or exploit the vacated facility. They are capable of conducting reconnaissance, small-unit attacks, indirect fire, and coordinated assaults. REAPER has demonstrated interest in controlling key infrastructure to stage their own operations. REAPER has previously operated in the vicinity of the Jacksonville Street and Bradenton Avenue junction and is familiar with the road network and surrounding woodlines.
