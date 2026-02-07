@@ -78,7 +78,8 @@ Bay County, Florida, and surrounding areas. Hurricane DELTA made landfall 48 hou
    - Sunrise: ____
    - Sunset: ____
    - EENT: ____
-   - Standing water in low-lying areas. Debris throughout.
+
+Standing water in low-lying areas. Debris throughout.
 
 ### c. Civil Considerations
 Hurricane DELTA caused catastrophic damage. Civilian population is in crisis—many without power, water, or communications. Civilians will approach military vehicles seeking help or information. Emergency services are overwhelmed. Other agencies (FEMA, Red Cross) are conducting concurrent operations.

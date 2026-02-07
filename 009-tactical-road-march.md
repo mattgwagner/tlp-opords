@@ -64,7 +64,9 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. The route of mar
    - BMNT: ____
    - Sunrise: ____
    - Sunset: ____
-   - EENT: ____ Heat casualties are a concern; ensure adequate hydration.
+   - EENT: ____
+
+Heat casualties are a concern; ensure adequate hydration.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER forces consist of small reconnaissance elements operating throughout AO COTTO. They are equipped with small arms and communications equipment, capable of observing and reporting friendly movement. They may attempt to interdict or delay friendly forces if opportunity presents.

@@ -77,7 +77,8 @@ Bay County, Florida. Hurricane DELTA made landfall 72-96 hours ago. Emergency su
    - Sunrise: ____
    - Sunset: ____
    - EENT: ____
-   - Heat casualties are a concern for both Soldiers and civilians.
+
+Heat casualties are a concern for both Soldiers and civilians.
 
 ### c. Civil Considerations
 Civilians in Bay County are stressed—many have been without adequate food, water, or ice for 3-4 days. Expect high demand and emotional civilians. Media may be present. Other relief organizations may be operating nearby.

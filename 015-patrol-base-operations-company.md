@@ -65,7 +65,9 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompa
    - BMNT: ____
    - Sunrise: ____
    - Sunset: ____
-   - EENT: ____ Limited visibility expected during nighttime operations; plan for EENT/BMNT stand-to procedures.
+   - EENT: ____
+
+Limited visibility expected during nighttime operations; plan for EENT/BMNT stand-to procedures.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER forces consist of irregular forces operating in the area who actively patrol and conduct reconnaissance to locate friendly positions. They are equipped with small arms and support weapons. They are experienced in local terrain and employ reconnaissance teams ahead of their main body to locate and assess friendly positions before committing to an attack.

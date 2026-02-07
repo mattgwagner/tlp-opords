@@ -70,7 +70,8 @@ State of Florida, from Camp Blanding Joint Training Center (Clay County) to Bay 
    - Sunrise: ____
    - Sunset: ____
    - EENT: ____
-   - Roads may have standing water in low-lying areas. Debris fields throughout Bay County.
+
+Roads may have standing water in low-lying areas. Debris fields throughout Bay County.
 
 ### c. Civil Considerations
 Hurricane DELTA caused significant damage to Bay County and surrounding areas. Power outages are widespread—expect non-functional traffic signals. Fuel availability is limited. Emergency services are overwhelmed. Civilian population is stressed and may approach military convoys seeking assistance.
