@@ -144,16 +144,10 @@ Fires coordinated with 2nd Platoon to avoid fratricide. Priority of fires to squ
    4. Assess civilian presence along the route.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Crew served weapons
-   2. Signs of NBC capabilities
-   3. A Soldier suffered an injury during movement
-   4. Potable water resources on site reduced materially
-   5. A Soldier missing
-   6. Loss of equipment
-   7. Use of a nine Line
-   8. KIA
-   9. Immediate reporting of any REAPER contact or significant changes in REAPER posture
-   10. Status of passage coordination and completion
+   1. Loss of communication with the stationary unit at the passage point
+   2. Enemy contact during the passage that risks fratricide between passing and stationary units
+   3. Passage lane compromised, blocked, or under enemy observation
+   4. Any element arriving at the passage point out of sequence or off timeline
 
 **4. Reporting:**
    - **Report to higher when SP'ing or approaching passage point.**

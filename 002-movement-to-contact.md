@@ -139,16 +139,10 @@ First Squad has priority of indirect fires. Mortar support available through com
    4. Assess civilian presence in the area of operations.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Crew served weapons
-   2. Signs of NBC capabilities
-   3. A Soldier suffered an injury during movement
-   4. Potable water resources on site reduced materially
-   5. A Soldier missing
-   6. Loss of equipment
-   7. Use of a nine Line
-   8. KIA
-   9. Immediate reporting of any REAPER contact or significant changes in REAPER posture
-   10. Status of civilian interactions or casualties in the area
+   1. Initial contact with REAPER forces — report size, activity, location, and weapons immediately
+   2. Loss of communication with any squad for more than 10 minutes during movement
+   3. Friendly casualty rendering any squad combat ineffective
+   4. Unexpected obstacle or IED blocking the primary avenue of approach
 
 **4. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**

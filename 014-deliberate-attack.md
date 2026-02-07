@@ -142,14 +142,11 @@ None.
    3. Assess civilian presence in the area, particularly along Jacksonville Street and in the vicinity of structures east of the objective.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Crew served weapons
-   2. Signs of NBC capabilities
-   3. A Soldier suffered an injury during movement
-   4. Potable water resources on site reduced materially
-   5. A Soldier missing
-   6. Loss of equipment
-   7. Use of a nine Line
-   8. KIA
+   1. Enemy strength or disposition at OBJ HERRERA significantly different from the intelligence estimate
+   2. Loss of the support-by-fire position or inability to achieve fire superiority
+   3. REAPER reinforcements approaching from the north along Avenue C or through the woodline
+   4. Friendly casualty in the assault element requiring immediate MEDEVAC
+   5. Civilian presence on or near the objective preventing planned fires
 
 **4. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**

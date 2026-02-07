@@ -162,18 +162,11 @@ Support element has priority of fires during Phase 2 (Clear), oriented north alo
    5. Identify host nation materials, equipment, or intelligence value items at the facility.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Crew served weapons
-   2. Signs of NBC capabilities
-   3. A Soldier suffered an injury during movement
-   4. Potable water resources on site reduced materially
-   5. A Soldier missing
-   6. Loss of equipment
-   7. Use of a nine Line
-   8. KIA
-   9. Immediate reporting of any REAPER contact, indirect fire, or counterattack indicators
-   10. Status of civilian interactions or casualties in the area
-   11. Status of facility clearing (buildings cleared / remaining)
-   12. Company CP operational status
+   1. REAPER forces occupying or actively defending any portion of the COP facility
+   2. Indirect fire or indicators of REAPER counterattack during occupation
+   3. Building clearing reveals NBC materials or significant intelligence value items
+   4. Friendly casualties during clearing that prevent simultaneous multi-building operations
+   5. Company CP unable to establish communications from the designated location
 
 **4. Reporting:**
    - **Report to higher when SP'ing from assembly area.**

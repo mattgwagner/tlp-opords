@@ -144,16 +144,10 @@ No planned fires. Priority of fires to element in contact if engagement occurs. 
    4. Monitor for changes in enemy activity or posture.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Crew served weapons
-   2. Signs of NBC capabilities
-   3. A Soldier suffered an injury during movement
-   4. Potable water resources on site reduced materially
-   5. A Soldier missing
-   6. Loss of equipment
-   7. Use of a nine Line
-   8. KIA
-   9. Immediate reporting of any REAPER contact or obstacles
-   10. Status of route conditions or required detours
+   1. Obstacle or IED blocking the primary route of march
+   2. Loss of contact with any element in the march order
+   3. Enemy contact that halts movement for more than 15 minutes
+   4. Route conditions requiring deviation from the planned route
 
 **4. Reporting:**
    - **Report to higher when SP'ing from the assembly area.**

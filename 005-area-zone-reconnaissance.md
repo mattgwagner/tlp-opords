@@ -143,16 +143,10 @@ Fires are limited to self-defense only. Avoid engagement unless necessary to bre
    5. Monitor for REAPER patrols or movement.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Crew served weapons
-   2. Signs of NBC capabilities
-   3. A Soldier suffered an injury during movement
-   4. Potable water resources on site reduced materially
-   5. A Soldier missing
-   6. Loss of equipment
-   7. Use of a nine Line
-   8. KIA
-   9. Immediate reporting of REAPER contact or compromise of reconnaissance
-   10. Status of civilian interactions or presence in the area
+   1. Compromise of any reconnaissance element
+   2. Enemy force size or disposition significantly different from the intelligence estimate
+   3. Discovery of prepared defensive positions, obstacles, or IEDs on likely avenues of approach
+   4. Loss of communication with any reconnaissance element
 
 **4. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**

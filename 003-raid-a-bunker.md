@@ -144,16 +144,11 @@ None.
    4. Assess civilian presence near the objective, particularly along the unnamed east-west road.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Crew served weapons
-   2. Signs of NBC capabilities
-   3. A Soldier suffered an injury during movement
-   4. Potable water resources on site reduced materially
-   5. A Soldier missing
-   6. Loss of equipment
-   7. Use of a nine Line
-   8. KIA
-   9. Immediate reporting of any REAPER contact or significant changes in REAPER posture
-   10. Status of civilian interactions or casualties in the area
+   1. Enemy strength at OBJ COTTO exceeds expected composition (reinforced or crew-served weapons present)
+   2. IED or obstacle on approach routes preventing timely assault
+   3. Compromise of the assault force prior to actions on the objective
+   4. Any friendly casualty during the assault requiring immediate MEDEVAC
+   5. Civilian presence at or near the bunker complex
 
 **4. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**

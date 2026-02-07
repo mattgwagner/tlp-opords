@@ -144,17 +144,11 @@ Defensive fires planned for likely enemy avenues of approach. Priority of fires 
    4. Identify REAPER observation posts or communication activity.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Crew served weapons
-   2. Signs of NBC capabilities
-   3. A Soldier suffered an injury during movement
-   4. Potable water resources on site reduced materially
-   5. A Soldier missing
-   6. Loss of equipment
-   7. Use of a nine Line
-   8. KIA
-   9. Immediate reporting of any REAPER contact or infiltration attempts
-   10. Status of civilian interactions or casualties in the area
-   11. Status of defensive positions and early warning systems
+   1. Penetration or breach of the perimeter at any point
+   2. Indirect fire impacting the FOB or adjacent areas
+   3. Loss of any LP/OP or degradation of early warning capability
+   4. Friendly casualties degrading ability to man all defensive sectors
+   5. Unusual civilian activity near the perimeter suggesting imminent attack (massing, sudden departure from area)
 
 **4. Reporting:**
    - **Report to higher when assuming defensive positions.**

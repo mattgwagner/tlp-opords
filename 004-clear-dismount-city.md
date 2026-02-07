@@ -141,16 +141,11 @@ None.
    4. Identify underground routes or escape tunnels.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Crew served weapons
-   2. Signs of NBC capabilities
-   3. A Soldier suffered an injury during movement
-   4. Potable water resources on site reduced materially
-   5. A Soldier missing
-   6. Loss of equipment
-   7. Use of a nine Line
-   8. KIA
-   9. Immediate reporting of any REAPER contact or significant changes in REAPER posture
-   10. Status of civilian interactions or casualties in the area
+   1. REAPER reinforcements entering the city from outside the cleared area during operations
+   2. Civilian concentration preventing use of planned fires or maneuver in a sector
+   3. Loss of communication between clearing teams during operations
+   4. Discovery of NBC materials or indicators in any structure
+   5. Friendly casualty rendering a clearing team combat ineffective
 
 **4. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**
