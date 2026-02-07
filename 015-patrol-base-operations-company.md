@@ -49,7 +49,7 @@ First Sergeant (1SG)
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompasses the area bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the railroad tracks, and to the west by the pine forest edge. The company area of operations extends approximately 1-2 km beyond the planned patrol base site to encompass screening positions and observation posts on likely enemy avenues of approach.
+Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompasses the area bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the old railroad bed, and to the west by the pine forest edge. The company area of operations extends approximately 1-2 km beyond the planned patrol base site to encompass screening positions and observation posts on likely enemy avenues of approach.
 
 ### b. Area of Operations
 
