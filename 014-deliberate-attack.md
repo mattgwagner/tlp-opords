@@ -55,8 +55,15 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
 
    - **Key Terrain:** The road junction of Jacksonville Street and Bradenton Avenue at OBJ HERRERA (MP 0602 1565) controls north-south and east-west movement through AO COTTO. The woodlines surrounding the junction on all sides provide covered and concealed avenues of approach for dismounted elements. Bradenton Avenue south of the junction provides a cleared lane of fire into the objective from the south.
 
-**2. Weather.** ________ skies, temperature ____°F (heat cat ____), winds ____ at ____ mph. Chance of precipitation: ____%.
-BMNT ____; sunrise ____; sunset ____; EENT ____.
+**2. Weather.**
+   - Skies: ________
+   - Temperature: ____°F (heat cat ____)
+   - Winds: ____ at ____ mph
+   - Chance of precipitation: ____%
+   - BMNT: ____
+   - Sunrise: ____
+   - Sunset: ____
+   - EENT: ____
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER has established a forward command post at OBJ HERRERA on the north side of Jacksonville Street, north of the junction with Bradenton Avenue. The CP controls REAPER operations throughout AO COTTO and includes communications equipment, operational maps and overlays, and a security element. The CP is positioned at the road junction to exploit line-of-sight for antenna placement and to control local movement.

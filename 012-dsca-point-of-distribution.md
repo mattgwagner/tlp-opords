@@ -67,8 +67,17 @@ Bay County, Florida. Hurricane DELTA made landfall 72-96 hours ago. Emergency su
 
    - **Key Terrain:** POD Site ALPHA (decisive terrain), entry control point on main road, parking lot distribution lanes, exit routes, covered areas for supply staging.
 
-**2. Weather.** Post-hurricane conditions: ________ skies, temperature ____°F (heat cat ____), humidity ___%, winds ____ at ____ mph. Chance of precipitation: ____%.
-BMNT ____; sunrise ____; sunset ____; EENT ____. Heat casualties are a concern for both Soldiers and civilians.
+**2. Weather.** Post-hurricane conditions:
+   - Skies: ________
+   - Temperature: ____°F (heat cat ____)
+   - Humidity: ___%
+   - Winds: ____ at ____ mph
+   - Chance of precipitation: ____%
+   - BMNT: ____
+   - Sunrise: ____
+   - Sunset: ____
+   - EENT: ____
+   - Heat casualties are a concern for both Soldiers and civilians.
 
 ### c. Civil Considerations
 Civilians in Bay County are stressed—many have been without adequate food, water, or ice for 3-4 days. Expect high demand and emotional civilians. Media may be present. Other relief organizations may be operating nearby.

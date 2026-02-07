@@ -56,8 +56,15 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. The route of mar
 
    - **Key Terrain:** The route of march includes several danger areas: a road crossing at MP 0605 1545, an open area near MP 0608 1550, and a creek crossing at MP 0612 1555. RP THUNDER at MP 0615 1560 provides good concealment and defensible terrain for the transition to follow-on operations.
 
-**2. Weather.** ________ skies, temperature ____°F (heat cat ____), winds ____ at ____ mph. Chance of precipitation: ____%.
-BMNT ____; sunrise ____; sunset ____; EENT ____. Heat casualties are a concern; ensure adequate hydration.
+**2. Weather.**
+   - Skies: ________
+   - Temperature: ____°F (heat cat ____)
+   - Winds: ____ at ____ mph
+   - Chance of precipitation: ____%
+   - BMNT: ____
+   - Sunrise: ____
+   - Sunset: ____
+   - EENT: ____ Heat casualties are a concern; ensure adequate hydration.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER forces consist of small reconnaissance elements operating throughout AO COTTO. They are equipped with small arms and communications equipment, capable of observing and reporting friendly movement. They may attempt to interdict or delay friendly forces if opportunity presents.

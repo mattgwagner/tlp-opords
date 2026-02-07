@@ -45,7 +45,15 @@ b.  (U) Area of Operation. [Specific location]
 
 (1) (U) Terrain. [Terrain description]
 
-(2) (U) Weather. [Weather data - use markdown tables for structured format]
+(2) (U) Weather. [Weather data - use markdown bullet list with individual lines for each blank]
+   - Skies: ________
+   - Temperature: ____°F (heat cat ____)
+   - Winds: ____ at ____ mph
+   - Chance of precipitation: ____%
+   - BMNT: ____
+   - Sunrise: ____
+   - Sunset: ____
+   - EENT: ____
 
 c.   (U) Enemy Forces. [Description or N/A]
 
