@@ -117,7 +117,7 @@ None.
 
 **3. 3rd Squad (Security — Shaping Operation):**
 
-- **TASK:** Depart the ORP first. Alpha Team establishes a blocking position north along Bradenton Avenue (IVO MP 0600 1545) to interdict REAPER reinforcements. Bravo Team blocks east along the unnamed road (IVO MP 0608 1538) to prevent REAPER escape. Maintain positions through the assault. Collapse security last during platoon withdrawal and consolidate at the ORP.
+- **TASK:** Depart the ORP first. Establish a blocking position north of OBJ COTTO along Bradenton Avenue (IVO MP 0600 1545) to isolate the objective and interdict REAPER reinforcements. Orient observation and fires north and east. Maintain the position through the assault. Collapse security last during platoon withdrawal and consolidate at the ORP.
 - **PURPOSE:** Isolate the objective so REAPER cannot reinforce or escape during the assault, ensuring 1st Squad fights only the force currently at the bunker.
 
 ### f. Coordinating Instructions
