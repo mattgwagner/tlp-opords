@@ -349,7 +349,7 @@
 <body>
 
 <h1>TAC's Tactical Quick Reference</h1>
-<div class="subtitle">Movement, Battle Drills, and Danger Areas</div>
+<div class="subtitle">Movement, Battle Drills, Danger Areas, and Ambush Operations</div>
 
 <div class="doctrine-link-box">
   <strong>📚 PRIMARY DOCTRINAL REFERENCE:</strong><br>
@@ -1138,20 +1138,35 @@
   </div>
 </div>
 
-<p class="key-concept">NEAR AMBUSH (within hand grenade range, ~35m):</p>
-<ul>
-  <li>Soldiers IN the kill zone IMMEDIATELY assault through the ambush</li>
-  <li>No orders given - this is an immediate action</li>
-  <li>Soldiers OUTSIDE kill zone provide suppressive fire and support by fire</li>
-  <li>Violence of action is key - assault through and destroy enemy</li>
-</ul>
+<p class="key-concept">NEAR AMBUSH (within hand grenade range, ~35m) — TC 3-21.76, Battle Drill 07-3-D9502:</p>
+<ol>
+  <li>Soldiers <strong>IN the kill zone</strong> immediately return fire, <strong>throw fragmentation grenades</strong>, and <strong>assault through</strong> the ambush position</li>
+  <li><strong>No orders are given</strong> — this is an <em>immediate action drill</em>; speed and violence of action are the only chance of survival</li>
+  <li>Soldiers <strong>OUTSIDE the kill zone</strong> identify enemy positions and provide suppressive fire; shift fires as the assault element moves through</li>
+  <li>Assault continues through the enemy position to the far side; element consolidates and reorganizes</li>
+  <li>SL reports to PL; element prepares for follow-on actions</li>
+</ol>
 
-<p class="key-concept">FAR AMBUSH (beyond hand grenade range):</p>
-<ul>
-  <li>Soldiers IN kill zone immediately return fire, take cover, and suppress</li>
-  <li>Soldiers OUTSIDE kill zone maneuver to support or flank</li>
-  <li>Leader assesses and directs assault or break contact</li>
-</ul>
+<p class="key-concept">FAR AMBUSH (beyond hand grenade range, &gt;35m):</p>
+<ol>
+  <li>Soldiers <strong>IN the kill zone</strong> immediately return fire, seek cover, and suppress the enemy position</li>
+  <li>Soldiers <strong>OUTSIDE the kill zone</strong> maneuver to a support-by-fire position or flank the enemy</li>
+  <li>SL reports to PL (SALUTE); leader assesses the situation</li>
+  <li>Leader directs follow-on action: <strong>assault the ambush position</strong> or <strong>break contact</strong> (based on METT-TC)</li>
+  <li>If assaulting: support element suppresses while assault element maneuvers to destroy the enemy</li>
+  <li>If breaking contact: execute Battle Drill 3 (Break Contact) — elements alternate bounding to the rear under covering fire</li>
+</ol>
+
+<div class="tac-note">
+  <div class="tac-note-title">TAC EVALUATION NOTE — REACT TO AMBUSH</div>
+  <p>React to Ambush is the most likely inject during movement phases. Evaluate the candidate on:</p>
+  <ul>
+    <li><strong>Near ambush:</strong> Did soldiers in the kill zone assault through WITHOUT waiting for orders? The PL should NOT need to give a command — this is a trained response.</li>
+    <li><strong>Far ambush:</strong> Did the leader make a <em>decision</em> (assault or break contact) rather than freezing? Either option can be correct — evaluate the reasoning.</li>
+    <li><strong>Fire control:</strong> Did the candidate ensure soldiers outside the kill zone provided effective suppression and shifted fires to avoid fratricide?</li>
+    <li><strong>After action:</strong> Did the candidate consolidate, account for personnel, treat casualties, and report?</li>
+  </ul>
+</div>
 
 <h3>Knock Out a Bunker (Battle Drill 5)</h3>
 <p><strong>Situation:</strong> Element identifies enemy bunker during movement</p>
@@ -1327,7 +1342,214 @@
 
 <!-- SECTION 7 -->
 <div class="page-break"></div>
-<h2>Section 7: Connecting Tactics to the FLER</h2>
+<h2>Section 7: Ambush Operations</h2>
+<p>The ambush is one of the primary STX lane missions for OCS candidates. It is a surprise attack from a concealed position on a moving or temporarily halted target. Understanding ambush types, formations, and execution sequence is critical for evaluating whether candidates can plan and lead this operation.</p>
+<p style="font-size:9pt; color:#666; margin-bottom:0.1in;">Reference: TC 3-21.76 Ranger Handbook, Chapter 7 (Patrols); ATP 3-21.8, Chapter 4</p>
+
+<h3>Categories of Ambush</h3>
+<div class="table-wrapper">
+<table>
+  <tr>
+    <th style="width:20%">Category</th>
+    <th style="width:20%">Types</th>
+    <th style="width:60%">Description</th>
+  </tr>
+  <tr>
+    <td class="row-header" rowspan="2">By Planning</td>
+    <td><strong>Hasty</strong></td>
+    <td>Executed when a patrol makes unexpected visual contact with an enemy force and has time to set up without being detected. Relies on rehearsed SOPs and hand/arm signals — no formal order is issued.</td>
+  </tr>
+  <tr>
+    <td><strong>Deliberate</strong></td>
+    <td>Conducted against a specific target at a predetermined location. Requires detailed planning, rehearsal, and coordination. The leader needs intelligence on enemy size, composition, route, and timing.</td>
+  </tr>
+  <tr>
+    <td class="row-header" rowspan="2">By Deployment</td>
+    <td><strong>Point</strong></td>
+    <td>All elements deployed to cover a single kill zone. Most common at the squad/platoon level in STX lanes.</td>
+  </tr>
+  <tr>
+    <td><strong>Area</strong></td>
+    <td>Multiple point ambushes around a central kill zone. Elements engage targets simultaneously or sequentially. Typically company-level or above.</td>
+  </tr>
+</table>
+</div>
+
+<h3>Ambush Formations (TC 3-21.76)</h3>
+
+<div class="diagram-container">
+  <!-- LINEAR AMBUSH -->
+  <div class="diagram-box" style="flex: 1; min-width: 220px;">
+    <svg width="240" height="180" viewBox="0 0 240 180">
+      <!-- Kill zone -->
+      <rect x="30" y="70" width="180" height="40" fill="#FFE0E0" stroke="#C00000" stroke-width="2" stroke-dasharray="5,3"/>
+      <text x="120" y="95" text-anchor="middle" font-size="9" fill="#C00000" font-weight="bold">KILL ZONE</text>
+
+      <!-- Enemy route arrow -->
+      <defs>
+        <marker id="enemyRoute" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0, 10 3.5, 0 7" fill="#C00000"/>
+        </marker>
+      </defs>
+      <line x1="10" y1="90" x2="230" y2="90" stroke="#C00000" stroke-width="1.5" stroke-dasharray="8,4" marker-end="url(#enemyRoute)"/>
+      <text x="120" y="82" text-anchor="middle" font-size="7" fill="#C00000">Enemy Route →</text>
+
+      <!-- Assault element - parallel to kill zone -->
+      <rect x="30" y="15" width="180" height="25" rx="3" fill="#2B5797"/>
+      <text x="120" y="32" text-anchor="middle" font-size="8" fill="white" font-weight="bold">ASSAULT ELEMENT (parallel)</text>
+
+      <!-- Fire arrows -->
+      <line x1="60" y1="40" x2="60" y2="68" stroke="#2B5797" stroke-width="1.5" marker-end="url(#fireArrow)"/>
+      <line x1="120" y1="40" x2="120" y2="68" stroke="#2B5797" stroke-width="1.5" marker-end="url(#fireArrow)"/>
+      <line x1="180" y1="40" x2="180" y2="68" stroke="#2B5797" stroke-width="1.5" marker-end="url(#fireArrow)"/>
+
+      <!-- Support element -->
+      <rect x="30" y="120" width="80" height="22" rx="3" fill="#70AD47"/>
+      <text x="70" y="135" text-anchor="middle" font-size="7" fill="white" font-weight="bold">SUPPORT</text>
+
+      <!-- Security elements -->
+      <circle cx="195" cy="135" r="12" fill="#C00000" opacity="0.8"/>
+      <text x="195" y="138" text-anchor="middle" font-size="6" fill="white" font-weight="bold">SEC</text>
+      <circle cx="30" cy="135" r="8" fill="#C00000" opacity="0.6"/>
+      <text x="30" y="138" text-anchor="middle" font-size="5" fill="white">SEC</text>
+
+      <text x="120" y="168" text-anchor="middle" font-size="8" fill="#333" font-weight="bold">LINEAR AMBUSH</text>
+    </svg>
+    <div class="diagram-note">Assault and support parallel to enemy route.<br>Simplest form. Used in close or open terrain.</div>
+  </div>
+
+  <!-- L-SHAPED AMBUSH -->
+  <div class="diagram-box" style="flex: 1; min-width: 220px;">
+    <svg width="240" height="180" viewBox="0 0 240 180">
+      <!-- Kill zone -->
+      <rect x="60" y="50" width="150" height="40" fill="#FFE0E0" stroke="#C00000" stroke-width="2" stroke-dasharray="5,3"/>
+      <text x="135" y="75" text-anchor="middle" font-size="9" fill="#C00000" font-weight="bold">KILL ZONE</text>
+
+      <!-- Enemy route arrow -->
+      <defs>
+        <marker id="enemyRoute2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+          <polygon points="0 0, 10 3.5, 0 7" fill="#C00000"/>
+        </marker>
+      </defs>
+      <line x1="40" y1="70" x2="220" y2="70" stroke="#C00000" stroke-width="1.5" stroke-dasharray="8,4" marker-end="url(#enemyRoute2)"/>
+
+      <!-- Long leg - assault parallel to route -->
+      <rect x="60" y="10" width="150" height="22" rx="3" fill="#2B5797"/>
+      <text x="135" y="25" text-anchor="middle" font-size="7" fill="white" font-weight="bold">ASSAULT (long leg)</text>
+
+      <!-- Fire arrows from long leg -->
+      <line x1="90" y1="32" x2="90" y2="48" stroke="#2B5797" stroke-width="1.5" marker-end="url(#fireArrow)"/>
+      <line x1="135" y1="32" x2="135" y2="48" stroke="#2B5797" stroke-width="1.5" marker-end="url(#fireArrow)"/>
+      <line x1="180" y1="32" x2="180" y2="48" stroke="#2B5797" stroke-width="1.5" marker-end="url(#fireArrow)"/>
+
+      <!-- Short leg - support at end -->
+      <rect x="10" y="50" width="22" height="60" rx="3" fill="#70AD47"/>
+      <text x="21" y="82" text-anchor="middle" font-size="6" fill="white" font-weight="bold" transform="rotate(-90,21,82)">SUPPORT (short)</text>
+
+      <!-- Fire arrows from short leg -->
+      <line x1="32" y1="60" x2="58" y2="60" stroke="#70AD47" stroke-width="1.5" marker-end="url(#fireArrow)"/>
+      <line x1="32" y1="80" x2="58" y2="80" stroke="#70AD47" stroke-width="1.5" marker-end="url(#fireArrow)"/>
+
+      <!-- Security -->
+      <circle cx="210" cy="30" r="10" fill="#C00000" opacity="0.8"/>
+      <text x="210" y="33" text-anchor="middle" font-size="5" fill="white" font-weight="bold">SEC</text>
+
+      <!-- L-shape indicator -->
+      <path d="M 22 115 L 22 130 L 200 130" stroke="#999" stroke-width="1" stroke-dasharray="3,2" fill="none"/>
+      <text x="110" y="145" text-anchor="middle" font-size="7" fill="#666">L-shape = flanking + enfilade fire</text>
+
+      <text x="120" y="168" text-anchor="middle" font-size="8" fill="#333" font-weight="bold">L-SHAPED AMBUSH</text>
+    </svg>
+    <div class="diagram-note">Short leg delivers enfilade fire.<br>Effective at road bends and trail junctions.</div>
+  </div>
+</div>
+
+<h3>Deliberate Ambush Sequence (TC 3-21.76)</h3>
+<p>The deliberate ambush is the primary ambush type used in STX lanes. The sequence below follows the Ranger Handbook methodology.</p>
+
+<div class="table-wrapper">
+<table>
+  <tr>
+    <th style="width:5%">#</th>
+    <th style="width:25%">Step</th>
+    <th style="width:70%">Key Actions</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;">1</td>
+    <td class="row-header">Secure &amp; Occupy ORP</td>
+    <td>Patrol halts 200-400m from the objective. Establish 360&deg; security. Account for personnel. Disseminate information.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">2</td>
+    <td class="row-header">Leader's Recon</td>
+    <td>PL takes key leaders forward to confirm the kill zone, select positions for assault/support/security elements, and finalize the plan. Pinpoint the kill zone, SBF position, and withdrawal route.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">3</td>
+    <td class="row-header">Emplace Security</td>
+    <td>Security element departs ORP <em>first</em>. Establishes OPs on flanks and along enemy avenues of approach to isolate the kill zone and provide early warning.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">4</td>
+    <td class="row-header">Emplace Support</td>
+    <td>Support element moves to SBF position. Orients weapons on the kill zone. Establishes sectors of fire and TRPs. Confirms communication with PL.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">5</td>
+    <td class="row-header">Emplace Assault</td>
+    <td>Assault element occupies concealed positions along the kill zone. Emplaces obstacles/claymores if available. Sets the LOA (limit of advance). The assault element is the <em>last</em> element emplaced and the <em>first</em> to withdraw.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">6</td>
+    <td class="row-header">Initiate Ambush</td>
+    <td>PL initiates on signal (command-detonated device, key weapon, or command). Entire kill zone must be covered by fire. All elements engage simultaneously.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">7</td>
+    <td class="row-header">Assault Through</td>
+    <td>Support shifts or lifts fires on signal. Assault element assaults through the kill zone to the LOA. Clears enemy positions. Collects EPWs and PIR.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">8</td>
+    <td class="row-header">Consolidate &amp; Reorganize</td>
+    <td>Establish hasty defense on the LOA. ACE report. Treat casualties. Conduct hasty search of enemy personnel and vehicles. Collect PIR items.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">9</td>
+    <td class="row-header">Withdraw</td>
+    <td>Withdrawal by echelon: <strong>Assault first, then Support, then Security last.</strong> Elements collapse to the ORP. Account for all personnel and sensitive items. Report to higher.</td>
+  </tr>
+</table>
+</div>
+
+<h3>Hasty Ambush (TC 3-21.76)</h3>
+<p>A hasty ambush is triggered when the patrol detects an enemy force and can set up without being detected. There is no time for a formal order — execution relies on previously rehearsed SOPs.</p>
+<ol>
+  <li>Patrol detects enemy; PL is notified via hand and arm signals</li>
+  <li>Patrol halts, remains motionless</li>
+  <li>PL gives the signal for <strong>hasty ambush left</strong> or <strong>hasty ambush right</strong> (direction relative to direction of march)</li>
+  <li>Elements move to covered and concealed positions; security moves to flanks</li>
+  <li>PL establishes the kill zone and control measures</li>
+  <li>PL initiates and controls the ambush</li>
+  <li>PL directs hasty search; patrol consolidates, reorganizes, withdraws, and reports</li>
+</ol>
+
+<div class="tac-note">
+  <div class="tac-note-title">TAC EVALUATION NOTE — AMBUSH OPERATIONS</div>
+  <p>Ambush operations test multiple TLP steps simultaneously. Key evaluation points:</p>
+  <ul>
+    <li><strong>Planning:</strong> Did the candidate identify the kill zone, assign elements by function (assault/support/security), and develop a withdrawal plan?</li>
+    <li><strong>Emplacement order:</strong> Security first, then support, then assault. Withdrawal is the reverse. Did the candidate get the sequence right?</li>
+    <li><strong>Control:</strong> Did the candidate maintain positive control of initiation? Premature initiation or loss of fire discipline is a critical failure point.</li>
+    <li><strong>Actions on the objective:</strong> Did the assault element assault through to a limit of advance? Did support shift/lift fires on signal?</li>
+    <li><strong>Withdrawal:</strong> Did the candidate plan and execute an orderly withdrawal by echelon back to the ORP?</li>
+  </ul>
+  <p><strong>Common candidate errors:</strong> Failing to establish security first; no clear initiation signal; support element not in position before assault element; no LOA designated; forgetting to plan withdrawal; poor consolidation/reorganization.</p>
+</div>
+
+<!-- SECTION 8 -->
+<div class="page-break"></div>
+<h2>Section 8: Connecting Tactics to the FLER</h2>
 <p>The Field Leadership Evaluation Report (FLER) evaluates candidates on the 8 TLPs, not tactical execution. Understanding how tactical tasks connect to TLP evaluation helps focus your assessment.</p>
 
 <div class="table-wrapper">
@@ -1383,14 +1605,14 @@
 <h3>References</h3>
 <ul>
   <li><a href="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/" target="_blank">ATP 3-21.8, Infantry Platoon and Squad</a> (April 2016) - Interactive Doctrine Supplement</li>
+  <li><a href="https://www.benning.army.mil/Infantry/ARTB/4th-RTBn/content/pdf/TC%203-21.76%20Ranger%20Handbook.pdf" target="_blank">TC 3-21.76, Ranger Handbook</a> (April 2017) - Chapter 7 (Patrols/Ambush), Chapter 8 (Battle Drills/React to Ambush)</li>
   <li>ARNG OCS Course Management Plan (1 JAN 2024)</li>
   <li>ARNG OCS Individual Student Assessment Plan (1 JAN 2024)</li>
   <li>Platoon Trainer Guide (15 November 2024)</li>
-  <li>TC 3-21.76, Ranger Handbook (April 2017)</li>
 </ul>
 
 <hr style="margin-top: 0.3in; border: none; border-top: 1px solid #999;">
-<p style="text-align: center; font-size: 9pt; color: #666;">FOR TRAINING USE ONLY | TAC's Tactical Quick Reference – ATP 3-21.8</p>
+<p style="text-align: center; font-size: 9pt; color: #666;">FOR TRAINING USE ONLY | TAC's Tactical Quick Reference – ATP 3-21.8 / TC 3-21.76</p>
 <p style="text-align: center; font-size: 9pt; color: #666; margin-top: 5px;">Created by Matt Wagner | Source: <a href="https://github.com/mattgwagner/tlp-opords" style="color: #666;">github.com/mattgwagner/tlp-opords</a></p>
 
 </body>
