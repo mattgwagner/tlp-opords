@@ -55,7 +55,8 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompa
 
    - **Key Terrain:** The suspected REAPER position at MP 0613 1532 is the focus of reconnaissance. The area north and south of the objective is relatively open, limiting observation positions. Woodlines to the east and west provide concealment for reconnaissance elements approaching the objective.
 
-**2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms. Limited visibility may occur during thunderstorms.
+**2. Weather.** ________ skies, temperature ____°F (heat cat ____), winds ____ at ____ mph. Chance of precipitation: ____%.
+BMNT ____; sunrise ____; sunset ____; EENT ____.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER forces consist of a small irregular force, likely operating from concealed positions within AO COTTO. They are equipped with small arms and may have support weapons. They are experienced in local terrain and employ security measures to avoid detection.

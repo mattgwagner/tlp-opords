@@ -68,7 +68,8 @@ Bay County, Florida, and surrounding areas. Hurricane DELTA made landfall 48 hou
      - Bay Medical Center
      - Schools and churches (potential POD sites)
 
-**2. Weather.** Post-hurricane conditions: Clear skies, temperature 75-85°F, humidity 70-80%. Standing water in low-lying areas. Debris throughout.
+**2. Weather.** Post-hurricane conditions: ________ skies, temperature ____°F (heat cat ____), humidity ___%, winds ____ at ____ mph. Chance of precipitation: ____%.
+BMNT ____; sunrise ____; sunset ____; EENT ____. Standing water in low-lying areas. Debris throughout.
 
 ### c. Civil Considerations
 Hurricane DELTA caused catastrophic damage. Civilian population is in crisis—many without power, water, or communications. Civilians will approach military vehicles seeking help or information. Emergency services are overwhelmed. Other agencies (FEMA, Red Cross) are conducting concurrent operations.

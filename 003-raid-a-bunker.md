@@ -52,7 +52,8 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
 
    - **Key Terrain:** OBJ COTTO (bunker) at MP 0600 1538, located at the intersection of Bradenton Avenue and the unnamed east-west road. The bunker position controls movement along both road corridors. Bradenton Avenue south of the intersection provides a cleared lane of fire into the objective from the south. The dense woodlines west and southwest of the intersection provide concealed avenues of approach for dismounted assault elements. Bradenton Avenue north of the intersection is the most likely reinforcement route for REAPER. The unnamed road east of the intersection is the most likely escape route.
 
-**2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
+**2. Weather.** ________ skies, temperature ____°F (heat cat ____), winds ____ at ____ mph. Chance of precipitation: ____%.
+BMNT ____; sunrise ____; sunset ____; EENT ____.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER forces are a determined irregular force, likely associated with a regional militia or paramilitary group. They are equipped with small arms, heavy weapons, and may employ defensive positions and improvised explosive devices. They are experienced in defending fixed positions and may attempt to reinforce or counterattack if threatened.

@@ -56,7 +56,8 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompa
 
    - **Key Terrain:** The planned patrol base site at MP 058 152 offers good concealment, defensible terrain, and access to covered withdrawal routes. The surrounding woodlines provide observation points for early warning. A small creek to the south provides a water source but may also canalize enemy approach. Elevated ground to the north offers observation of likely enemy avenues of approach.
 
-**2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms. Limited visibility expected during nighttime operations; plan for EENT/BMNT stand-to procedures.
+**2. Weather.** ________ skies, temperature ____°F (heat cat ____), winds ____ at ____ mph. Chance of precipitation: ____%.
+BMNT ____; sunrise ____; sunset ____; EENT ____. Limited visibility expected during nighttime operations; plan for EENT/BMNT stand-to procedures.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER forces consist of irregular forces operating in the area who actively patrol and conduct reconnaissance to locate friendly positions. They are equipped with small arms and may have support weapons. They are experienced in local terrain and may attempt to probe or attack friendly positions if discovered.

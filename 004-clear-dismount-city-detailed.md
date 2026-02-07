@@ -54,7 +54,8 @@ Clay County, Florida, in the vicinity of Starke and Highway 16.
 
    - **Key Terrain:** Central plaza (MP 0611 1530), police station, and high-rise building dominate OBJ FLUNKER and are critical for control. Rooftops and intersections provide observation and fields of fire. Main roads and alleyways are likely avenues of approach and withdrawal.
 
-**2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
+**2. Weather.** ________ skies, temperature ____°F (heat cat ____), winds ____ at ____ mph. Chance of precipitation: ____%.
+BMNT ____; sunrise ____; sunset ____; EENT ____.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER forces are a well-armed irregular force, using OBJ FLUNKER as a base for operations. They are experienced in urban combat, employ barricades, IEDs, and may use civilians as shields. Capable of rapid movement through buildings and underground routes.
