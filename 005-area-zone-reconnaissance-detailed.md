@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** 1st Platoon is tasked to conduct an area reconnaissance in AO COTTO to locate REAPER positions, assess REAPER strength and disposition, and identify key terrain features.
 >
-> **Destination:** AO COTTO, bounded by Highway 16 (north), railroad tracks (south), Starke city limits (east), and pine forest edge (west). Focus area around suspected REAPER position at MP 0613 1532.
+> **Destination:** AO COTTO, bounded by Highway 16 (north), old railroad bed (south), Starke city limits (east), and pine forest edge (west). Focus area around suspected REAPER position at MP 0613 1532.
 >
 > **Actions on Objective:** Platoon will establish an ORP, conduct reconnaissance of the area using zone or area reconnaissance techniques, collect intelligence on enemy positions and activities, and report findings to higher headquarters.
 >
@@ -47,7 +47,7 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompasses the area bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the railroad tracks, and to the west by the pine forest edge. Suspected enemy activity centered around MP 0613 1532.
+Clay County, Florida, in the vicinity of Starke and Highway 16. AO COTTO encompasses the area bounded to the north by Highway 16, to the east by the Starke city limits, to the south by the old railroad bed, and to the west by the pine forest edge. Suspected enemy activity centered around MP 0613 1532.
 
 ### b. Area of Operations
 
