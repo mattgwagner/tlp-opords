@@ -13,9 +13,9 @@
 > **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making**. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — analyzing terrain, selecting movement techniques, choosing formations, planning actions on contact, and issuing a squad OPORD. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
 > **Destinations:**
-> - 1st Squad → OBJ RIVERA (vic MP 0600 1538)
+> - 1st Squad → OBJ BAINTON (vic MP 0600 1538)
 > - 2nd Squad → OBJ HERRERA (vic MP 0612 1546)
-> - 3rd Squad → OBJ SANTOS (vic MP 0613 1532)
+> - 3rd Squad → OBJ BARLOW (vic MP 0613 1532)
 >
 > **Actions on Objective:** Each squad independently locates and engages REAPER in its zone, secures its objective, and reports. Squads do not depend on or wait for adjacent squads.
 >
@@ -113,7 +113,7 @@ No priority of indirect fires designated. Mortar support available through compa
 
 **1. 1st Squad (Western Zone):**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER toward OBJ RIVERA. Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER toward OBJ BAINTON. Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
 - **PURPOSE:** Clear the western approaches to deny REAPER use of the Bradenton Ave corridor for reinforcement or withdrawal.
 
 **2. 2nd Squad (Central Zone):**
@@ -123,7 +123,7 @@ No priority of indirect fires designated. Mortar support available through compa
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER toward OBJ SANTOS. Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER toward OBJ BARLOW. Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
 - **PURPOSE:** Clear the eastern sector to prevent REAPER from using the built-up area as a defensive strongpoint or staging area.
 
 **4. Platoon Leader:**

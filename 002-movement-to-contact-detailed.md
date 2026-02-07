@@ -13,9 +13,9 @@
 > **Training Focus:** This OPORD is designed to evaluate **individual squad leader planning and decision-making**. The PL issues the platoon OPORD, but each squad leader must conduct their own TLP — analyzing terrain, selecting movement techniques, choosing formations, planning actions on contact, and issuing a squad OPORD. Cadre should assign one evaluator per squad to observe the SL's planning process and tactical decisions.
 >
 > **Destinations:**
-> - 1st Squad → OBJ RIVERA (vic MP 0600 1538)
+> - 1st Squad → OBJ BAINTON (vic MP 0600 1538)
 > - 2nd Squad → OBJ HERRERA (vic MP 0612 1546)
-> - 3rd Squad → OBJ SANTOS (vic MP 0613 1532)
+> - 3rd Squad → OBJ BARLOW (vic MP 0613 1532)
 >
 > **Actions on Objective:** Each squad independently locates and engages REAPER in its zone, secures its objective, and reports. Squads do not depend on or wait for adjacent squads.
 >
@@ -66,9 +66,9 @@ REAPER forces are a small, organized group of irregular fighters, likely part of
 **1. Composition.** Three independent REAPER teams, each 2-3 combatants with small arms and a possible crew-served weapon. Total 6-9 combatants distributed across AO FLUNKER.
 
 **2. Disposition.** REAPER teams are dispersed across the AO, with one team operating in each sector:
-   - Western team: vic OBJ RIVERA (MP 0600 1538), using the Bradenton Ave intersection and surrounding woodlines for concealment.
+   - Western team: vic OBJ BAINTON (MP 0600 1538), using the Bradenton Ave intersection and surrounding woodlines for concealment.
    - Central team: vic OBJ HERRERA (MP 0612 1546), using the road junction and vegetation for observation and defense.
-   - Eastern team: vic OBJ SANTOS (MP 0613 1532), using the structures and concealment in and around Conex City.
+   - Eastern team: vic OBJ BARLOW (MP 0613 1532), using the structures and concealment in and around Conex City.
 
 **3. Most Probable Course of Action (MPCOA).** Each REAPER team initiates harassing fire from concealed positions when friendly forces enter its area, then breaks contact to avoid being fixed. Teams may leave behind simple obstacles or early warning devices but do not attempt to decisively engage. Each team fights independently without reinforcement from adjacent teams.
 
@@ -116,7 +116,7 @@ No priority of indirect fires designated. Mortar support available through compa
 
 **1. 1st Squad (Western Zone):**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER toward OBJ RIVERA (MP 0600 1538). Move north from the assembly area along or west of the Bradenton Ave corridor. Locate and engage REAPER forces in the vicinity of the road intersection at OBJ RIVERA. Secure the objective and establish a hasty defensive position oriented north and west. Report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER toward OBJ BAINTON (MP 0600 1538). Move north from the assembly area along or west of the Bradenton Ave corridor. Locate and engage REAPER forces in the vicinity of the road intersection at OBJ BAINTON. Secure the objective and establish a hasty defensive position oriented north and west. Report enemy strength and disposition.
 - **PURPOSE:** Clear the western approaches to deny REAPER use of the Bradenton Ave corridor for reinforcement or withdrawal.
 
 **2. 2nd Squad (Central Zone):**
@@ -126,7 +126,7 @@ No priority of indirect fires designated. Mortar support available through compa
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER toward OBJ SANTOS (MP 0613 1532). Move north from the assembly area toward Conex City. Locate and engage REAPER forces in and around the structures at OBJ SANTOS. Secure the objective and establish a hasty defensive position oriented north and east. Report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER toward OBJ BARLOW (MP 0613 1532). Move north from the assembly area toward Conex City. Locate and engage REAPER forces in and around the structures at OBJ BARLOW. Secure the objective and establish a hasty defensive position oriented north and east. Report enemy strength and disposition.
 - **PURPOSE:** Clear the eastern sector to prevent REAPER from using the built-up area as a defensive strongpoint or staging area.
 
 **4. Platoon Leader:**
