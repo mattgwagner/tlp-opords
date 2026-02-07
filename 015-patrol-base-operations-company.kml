@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>OPORD 015 - Patrol Base Operations (Company)</name>
+  <description>PB THUNDER - A CO, 4-211 INF. Company-level patrol base with screen and reserve. FOR TRAINING USE ONLY.</description>
+
+  <Style id="style-friendly">
+    <IconStyle>
+      <color>ffff6600</color>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ffff6600</color><scale>0.9</scale></LabelStyle>
+  </Style>
+  <Style id="style-fob">
+    <IconStyle>
+      <color>ff00ff00</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/square.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff00ff00</color><scale>0.9</scale></LabelStyle>
+  </Style>
+  <Style id="style-security">
+    <IconStyle>
+      <color>ffff6600</color>
+      <scale>1.0</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ffff6600</color><scale>0.9</scale></LabelStyle>
+  </Style>
+  <Style id="style-screen">
+    <IconStyle>
+      <color>ff00ffff</color>
+      <scale>0.9</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff00ffff</color><scale>0.8</scale></LabelStyle>
+  </Style>
+  <Style id="style-screen-line">
+    <LineStyle>
+      <color>ff00ffff</color>
+      <width>2</width>
+    </LineStyle>
+  </Style>
+  <Style id="style-enemy">
+    <IconStyle>
+      <color>ff0000ff</color>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/target.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><color>ff0000ff</color><scale>0.9</scale></LabelStyle>
+  </Style>
+
+  <Folder>
+    <name>Patrol Base</name>
+
+    <Placemark>
+      <name>PB THUNDER (CO CP)</name>
+      <description>MP 0580 1520 - Company patrol base. CO CP at center. Good concealment, defensible terrain, covered withdrawal routes. Creek to S (water source). Elevated ground to N. Sustain 48 hrs without resupply.</description>
+      <styleUrl>#style-fob</styleUrl>
+      <Point><coordinates>-81.976325,29.964033,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>REAPER Main Body (Estimated)</name>
+      <description>Reinforced squad 10-15 PAX to the N. 2-3 fire teams, small arms, 1-2 support weapons (PKM/RPK). Recon element 2-3 PAX operating ahead of main body.</description>
+      <styleUrl>#style-enemy</styleUrl>
+      <Point><coordinates>-81.976325,29.966533,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>1st PLT (PB Defense - Decisive)</name>
+
+    <Placemark>
+      <name>1st PLT - PB Perimeter</name>
+      <description>Occupy and defend PB THUNDER. 360-degree security with interlocking fires. LP/OPs internal to perimeter. Priorities of work: fighting positions, weapons maint, rest rotation. Coordinate passage points with 2nd PLT for screen withdrawal.</description>
+      <styleUrl>#style-friendly</styleUrl>
+      <Point><coordinates>-81.976325,29.964033,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>2nd PLT (Screen - Shaping)</name>
+
+    <Placemark>
+      <name>2nd PLT Screen (North)</name>
+      <description>OPs on likely avenue of approach from N. Continuous observation. Security patrols between OPs. Delay REAPER recon. Withdraw through 1st PLT positions on order or if screen penetrated.</description>
+      <styleUrl>#style-screen</styleUrl>
+      <Point><coordinates>-81.976325,29.965533,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>2nd PLT Screen (East)</name>
+      <description>OPs on likely avenue of approach from E. Trail junctions provide natural screening positions. Report all REAPER activity immediately.</description>
+      <styleUrl>#style-screen</styleUrl>
+      <Point><coordinates>-81.974825,29.964533,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Screen Line (Approximate)</name>
+      <description>Forward screen line oriented N and E. CFL established between screen and PB perimeter to prevent fratricide during withdrawal.</description>
+      <styleUrl>#style-screen-line</styleUrl>
+      <LineString>
+        <coordinates>
+          -81.978325,29.965533,0
+          -81.976325,29.965533,0
+          -81.974825,29.964533,0
+          -81.974825,29.963033,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+
+  <Folder>
+    <name>3rd PLT (Reserve / QRF)</name>
+
+    <Placemark>
+      <name>3rd PLT - Reserve Position</name>
+      <description>Reserve within PB THUNDER. QRF prepared to: reinforce any perimeter sector, reinforce/extract 2nd PLT, or counterattack to destroy enemy penetrating security zone. Rehearse reinforcement routes. Recon withdrawal routes for company.</description>
+      <styleUrl>#style-security</styleUrl>
+      <Point><coordinates>-81.976525,29.963833,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>

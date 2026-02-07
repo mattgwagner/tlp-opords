@@ -58,23 +58,23 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms. Limited visibility may occur during storms.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
-A squad-sized REAPER element occupies hasty fighting positions in the vicinity of OBJ HERRERA on the north side of Jacksonville Street, north of the junction with Bradenton Avenue. They are equipped with small arms and are using the road junction to control local movement.
+REAPER has established a forward command post at OBJ HERRERA on the north side of Jacksonville Street, north of the junction with Bradenton Avenue. The CP controls REAPER operations throughout AO COTTO and includes communications equipment, operational maps and overlays, and a security element. The CP is positioned at the road junction to exploit line-of-sight for antenna placement and to control local movement.
 
-**1. Composition.** 4-6 REAPER personnel with small arms in hasty fighting positions.
+**1. Composition.** 6-8 REAPER personnel: CP staff of 2-3 (commander, RTO, intelligence) with radios, maps, and planning materials, plus a security element of 4-5 with small arms in fighting positions around the CP.
 
-**2. Disposition.** REAPER forces occupy positions oriented south and southwest along the Bradenton Avenue corridor and the Jacksonville Street junction at MP 0602 1565. Dense woods to the north provide them cover from that direction. They have limited observation to the east and west due to thick vegetation but can observe south along Bradenton Avenue and east-west along Jacksonville Street.
+**2. Disposition.** The CP is located at the junction of Jacksonville Street and Bradenton Avenue at MP 0602 1565. Security positions are oriented south and southwest along the Bradenton Avenue corridor and east-west along Jacksonville Street. The CP element itself occupies a position immediately north of the junction — likely a covered or partially concealed area with antenna equipment visible above the treeline. Dense woods to the north provide them cover and a withdrawal route. They have limited observation to the east and west due to thick vegetation but can observe south along Bradenton Avenue and east-west along Jacksonville Street.
 
-**3. Most Probable Course of Action (MPCOA).** REAPER defends from current positions, returns fire when engaged, and attempts to withdraw north into the dense woods or east along Jacksonville Street if overwhelmed.
+**3. Most Probable Course of Action (MPCOA).** REAPER security defends from current positions while CP staff attempt to destroy sensitive materials (maps, documents, encryption) and displace north into the dense woods with communications equipment. If the assault is rapid, CP staff may not have time to destroy all materials before being overrun.
 
-**4. Most Dangerous Course of Action (MDCOA).** REAPER has reinforcements nearby at a position further north and counterattacks from the north through the woodline after friendly forces commit to the assault.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER has reinforcements nearby at a position further north and counterattacks from the north through the woodline after friendly forces commit to the assault. CP staff successfully transmit a warning and destroy sensitive materials before the assault element reaches the CP.
 
 ### d. Friendly Forces
 
 **1. Higher Headquarters:** A Co. 4th BN – 211th INF.
 
-**2. Mission.** A Company attacks to seize key terrain in AO COTTO to deny REAPER freedom of movement.
+**2. Mission.** A Company attacks to destroy REAPER command and control nodes in AO COTTO to disrupt enemy operations and enable follow-on offensive action.
 
-**3. Commander's Intent.** Seize OBJ HERRERA to deny REAPER use of the road junction and establish conditions for follow-on operations.
+**3. Commander's Intent.** Destroy the REAPER forward CP at OBJ HERRERA to eliminate their ability to coordinate operations in AO COTTO. Seize any intelligence materials found at the CP. Establish conditions for follow-on operations.
 
 ### e. Civil Considerations
 Civilians may be present in the area. Avoid civilian casualties and collateral damage.
@@ -86,7 +86,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon attacks to seize OBJ HERRERA (MP 0602 1565) NLT ____ in order to deny REAPER use of the road junction and enable follow-on operations in AO COTTO.
+1st Platoon attacks to destroy the REAPER command post at OBJ HERRERA (MP 0602 1565) NLT ____ in order to disrupt REAPER command and control in AO COTTO and enable follow-on operations.
 
 ---
 
@@ -94,14 +94,14 @@ None.
 
 ### a. Commander's Intent
 
-**Purpose:** Deny REAPER control of the key road junction at OBJ HERRERA to enable friendly freedom of movement through AO COTTO.
+**Purpose:** Destroy the REAPER forward command post at OBJ HERRERA to eliminate enemy command and control capability in AO COTTO.
 
-**Key Tasks:** (1) Seize OBJ HERRERA. (2) Destroy or displace REAPER forces at the junction. (3) Consolidate on the objective and prepare for follow-on operations.
+**Key Tasks:** (1) Seize OBJ HERRERA. (2) Destroy REAPER CP and eliminate defending forces. (3) Conduct hasty SSE to collect intelligence materials. (4) Consolidate on the objective and prepare for follow-on operations.
 
-**End State:** OBJ HERRERA seized, REAPER forces destroyed or displaced, platoon consolidated on the objective with a hasty perimeter oriented north and east.
+**End State:** REAPER CP destroyed, enemy forces eliminated, intelligence materials collected and reported to higher, platoon consolidated on the objective with a hasty perimeter oriented north and east.
 
 ### b. Concept of Operations
-1st Platoon conducts a deliberate attack to seize OBJ HERRERA. The platoon establishes an ORP in the woodline west of Bradenton Avenue, and the PL conducts a leader's reconnaissance. The support element, as the shaping operation, fixes the enemy from the south along the Bradenton Avenue corridor. The assault element, as the main effort, maneuvers through the concealed woodline and attacks the objective from the west — exploiting the enemy's limited observation off the improved roads. The reserve provides ORP security and is prepared to reinforce on order. Upon seizure, the platoon consolidates and reports.
+1st Platoon conducts a deliberate attack to destroy the REAPER CP at OBJ HERRERA. The platoon establishes an ORP in the woodline west of Bradenton Avenue, and the PL conducts a leader's reconnaissance. The support element, as the shaping operation, fixes the enemy from the south along the Bradenton Avenue corridor. The assault element, as the main effort, maneuvers through the concealed woodline and attacks the objective from the west — exploiting the enemy's limited observation off the improved roads. Speed is critical: the assault must overrun the CP before staff can destroy intelligence materials or displace with communications equipment. The reserve provides ORP security and is prepared to establish a blocking position north of the objective. Upon seizure, the PSG conducts a hasty SSE of the CP site while the assault element provides security. The platoon consolidates and reports findings to higher.
 
 ### c. Scheme of Fires
 2nd Squad, as the decisive effort, has priority of indirect fires. Mortar support is available through company on request.
@@ -120,8 +120,13 @@ None.
 
 **3. 3rd Squad (Security / Reserve):**
 
-- **TASK:** Secure the ORP and provide rear security during the assault. Be prepared to reinforce 1st or 2nd Squad on order, or establish a blocking position to prevent REAPER reinforcement.
-- **PURPOSE:** Provide the PL a reserve to exploit success or respond to REAPER counterattack without pulling the SBF or assault element off task.
+- **TASK:** Secure the ORP and provide rear security during the assault. On order, establish a blocking position along the northern avenue of approach to deny REAPER reinforcement from reaching the objective area. Be prepared to reinforce 1st or 2nd Squad on order.
+- **PURPOSE:** Provide the PL a reserve to exploit success or respond to REAPER counterattack, and deny REAPER reinforcement from the north while the assault element secures the CP.
+
+**4. Platoon Sergeant:**
+
+- **TASK:** Upon seizure of OBJ HERRERA, conduct a hasty SSE of the CP site. Collect documents, maps, overlays, electronics, and communications equipment. Photograph or sketch the CP layout. Consolidate findings and report to the PL for transmission to higher.
+- **PURPOSE:** Exploit the destroyed CP for intelligence value before the platoon withdraws or consolidates, providing A Company with information on REAPER operations, dispositions, and plans in AO COTTO.
 
 ### f. Coordinating Instructions
 
@@ -132,16 +137,18 @@ None.
    4. Positively identify targets before firing.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Confirm REAPER positions and strength at OBJ HERRERA, specifically their orientation along Jacksonville Street and Bradenton Avenue.
-   2. Identify any REAPER reinforcement routes from the north through the woodline or along Avenue C.
-   3. Assess civilian presence in the area, particularly along Jacksonville Street and in the vicinity of structures east of the objective.
+   1. Confirm REAPER CP location and security positions at OBJ HERRERA, specifically their orientation along Jacksonville Street and Bradenton Avenue.
+   2. Identify REAPER CP infrastructure: antenna placement, number of vehicles, generator noise, or other indicators of CP activity.
+   3. Identify any REAPER reinforcement routes from the north through the woodline or along Avenue C.
+   4. Assess civilian presence in the area, particularly along Jacksonville Street and in the vicinity of structures east of the objective.
 
 **3. Commander's Critical Information Requirements (CCIR):**
    1. Enemy strength or disposition at OBJ HERRERA significantly different from the intelligence estimate
-   2. Loss of the support-by-fire position or inability to achieve fire superiority
-   3. REAPER reinforcements approaching from the north along Avenue C or through the woodline
-   4. Friendly casualty in the assault element requiring immediate MEDEVAC
-   5. Civilian presence on or near the objective preventing planned fires
+   2. REAPER CP has displaced or been abandoned before the assault
+   3. Loss of the support-by-fire position or inability to achieve fire superiority
+   4. REAPER reinforcements approaching from the north along Avenue C or through the woodline
+   5. Friendly casualty in the assault element requiring immediate MEDEVAC
+   6. REAPER CP staff observed destroying documents or equipment (indicates compromise — accelerate assault timeline)
 
 **4. Reporting:**
    - **Report to higher when SP'ing or crossing the line of departure.**

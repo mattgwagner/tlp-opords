@@ -6,24 +6,26 @@
 
 > **CADRE / OPFOR NOTES**
 >
-> **Complexity:** Lower | **Recommended Phase:** CRAWL (Practical Exercise), WALK (Blocks 1-2)
+> **Complexity:** Moderate | **Recommended Phase:** CRAWL (Practical Exercise), WALK (Blocks 1-2), RUN (Day Iterations)
 >
-> **Mission Summary:** 1st Platoon is tasked to attack to seize OBJ HERRERA to deny REAPER use of a key road junction.
+> **Mission Summary:** 1st Platoon is tasked to attack to destroy the REAPER forward command post at OBJ HERRERA and disrupt enemy command and control in AO COTTO.
 >
 > **Destination:** OBJ HERRERA at MP 0602 1565, AO COTTO.
 >
-> **Actions on Objective:** Platoon will establish an ORP, conduct leader's reconnaissance, move to assault positions, seize the objective, and consolidate.
+> **Actions on Objective:** Platoon will establish an ORP, conduct leader's reconnaissance, move to assault positions, seize the objective, conduct a hasty sensitive site exploitation (SSE), and consolidate.
 >
-> **Training Focus:** This is a simplified OPORD designed for CRAWL phase TLP instruction. The TAC briefs this order paragraph by paragraph, pausing at each section to explain what information the candidate should extract and how it feeds into their planning. The mission is a basic deliberate attack — the most fundamental infantry platoon offensive operation. Candidates should be able to identify: specified tasks, implied tasks, commander's intent, and key control measures.
+> **Training Focus:** This OPORD serves dual roles. For CRAWL phase, the TAC briefs this order paragraph by paragraph, pausing at each section to explain what information the candidate should extract and how it feeds into their planning. For WALK/RUN iterations, it is a standalone evaluated lane — a deliberate attack against an enemy command post. Candidates should be able to identify: specified tasks, implied tasks, commander's intent, and key control measures. The CP objective adds complexity beyond a simple terrain seizure: candidates must plan for intelligence collection (SSE) after assault.
 >
-> **Instructional Use:**
+> **Instructional Use (CRAWL Phase):**
 > - Brief this order to candidates with printed copies in hand
 > - Pause after each paragraph to discuss what information matters and why
 > - Have candidates identify the 5 W's from the mission statement
 > - Walk candidates through how each section feeds TLP Steps 1-3
 > - Use as the basis for a practice WARNO and terrain model exercise
 >
-> **OPFOR/Training Wrinkles:** Not applicable for CRAWL phase classroom use. If used for a WALK phase iteration, OPFOR should present a static defense with 4-6 personnel in hasty fighting positions.
+> **OPFOR/Training Wrinkles:** For CRAWL phase classroom use, not applicable. For WALK/RUN iterations, OPFOR should present 6-8 personnel: 2-3 acting as CP staff (seated at field desk with maps/radios) and 4-5 in fighting positions around the CP. Props recommended: field desk or table, antenna simulator (pole with wire), map boards, and a radio. CP staff should attempt to destroy documents if given time during the assault.
+>
+> **OP Variant:** For iterations requiring a "deliberate attack on enemy OP," replace the CP with a 2-4 person observation post. Remove the SSE task and CP staff from OPFOR. Emphasize stealth approach and speed of assault — the OP's value is early warning, so the enemy's priority is transmitting a report before being overrun. Adjust enemy composition to 2-4 REAPER with binoculars, radio, and a sketch of friendly positions.
 >
 > **See Also:** [LTA Grid Reference](lta-grid-reference.md) | [Tactical Overlay](014-deliberate-attack-overlay.html)
 >
@@ -56,15 +58,15 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
 **2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms. Limited visibility may occur during storms.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
-A squad-sized REAPER element occupies hasty fighting positions in the vicinity of OBJ HERRERA on the north side of Jacksonville Street, north of the junction with Bradenton Avenue. They are equipped with small arms and are using the road junction to control local movement.
+REAPER has established a forward command post at OBJ HERRERA on the north side of Jacksonville Street, north of the junction with Bradenton Avenue. The CP controls REAPER operations throughout AO COTTO and includes communications equipment, operational maps and overlays, and a security element. The CP is positioned at the road junction to exploit line-of-sight for antenna placement and to control local movement.
 
-**1. Composition.** 4-6 REAPER personnel with small arms in hasty fighting positions.
+**1. Composition.** 6-8 REAPER personnel: CP staff of 2-3 (commander, RTO, intelligence) with radios, maps, and planning materials, plus a security element of 4-5 with small arms in fighting positions around the CP.
 
-**2. Disposition.** REAPER forces occupy positions oriented south and southwest along the Bradenton Avenue corridor and the Jacksonville Street junction at MP 0602 1565. Dense woods to the north provide them cover from that direction. They have limited observation to the east and west due to thick vegetation but can observe south along Bradenton Avenue and east-west along Jacksonville Street.
+**2. Disposition.** The CP is located at the junction of Jacksonville Street and Bradenton Avenue at MP 0602 1565. Security positions are oriented south and southwest along the Bradenton Avenue corridor and east-west along Jacksonville Street. The CP element itself occupies a position immediately north of the junction — likely a covered or partially concealed area with antenna equipment visible above the treeline. Dense woods to the north provide them cover and a withdrawal route. They have limited observation to the east and west due to thick vegetation but can observe south along Bradenton Avenue and east-west along Jacksonville Street.
 
-**3. Most Probable Course of Action (MPCOA).** REAPER defends from current positions, returns fire when engaged, and attempts to withdraw north into the dense woods or east along Jacksonville Street if overwhelmed.
+**3. Most Probable Course of Action (MPCOA).** REAPER security defends from current positions while CP staff attempt to destroy sensitive materials (maps, documents, encryption) and displace north into the dense woods with communications equipment. If the assault is rapid, CP staff may not have time to destroy all materials before being overrun.
 
-**4. Most Dangerous Course of Action (MDCOA).** REAPER has reinforcements nearby at a position further north and counterattacks from the north through the woodline after friendly forces commit to the assault.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER has reinforcements nearby at a position further north and counterattacks from the north through the woodline after friendly forces commit to the assault. CP staff successfully transmit a warning and destroy sensitive materials before the assault element reaches the CP.
 
 ### d. Friendly Forces
 
