@@ -32,7 +32,7 @@ Each tactical OPORD is available in two versions. Use **Detailed** for early ite
 
 | # | Mission | Description | Mission Command | Detailed |
 |---|---------|-------------|-----------------|----------|
-| 014 | [Deliberate Attack](014-deliberate-attack-detailed.html) | TLP practical exercise with step-by-step walkthrough. Designed for classroom instruction where the TAC briefs the order, then walks candidates through each TLP step. See also [TLP Slides](POI/Slides-RevealJS.html). | [html](014-deliberate-attack.html) · [pdf](014-deliberate-attack.pdf) | [html](014-deliberate-attack-detailed.html) · [pdf](014-deliberate-attack-detailed.pdf) |
+| 014 | [Deliberate Attack on Enemy CP](014-deliberate-attack-detailed.html) | Deliberate attack to destroy a REAPER forward command post. CRAWL: TLP practical exercise with step-by-step walkthrough. WALK/RUN: evaluated lane with SSE. OP variant available for lighter iterations. See also [TLP Slides](POI/Slides-RevealJS.html). | [html](014-deliberate-attack.html) · [pdf](014-deliberate-attack.pdf) | [html](014-deliberate-attack-detailed.html) · [pdf](014-deliberate-attack-detailed.pdf) |
 
 ### Evaluated Missions (Wooded Terrain)
 

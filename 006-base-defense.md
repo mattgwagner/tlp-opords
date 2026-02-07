@@ -121,8 +121,8 @@ Defensive fires planned for likely enemy avenues of approach. 1st Squad, coverin
 
 **3. 3rd Squad (Reserve / QRF):**
 
-- **TASK:** Maintain observation of the eastern and western approaches from positions within the FOB. Serve as the platoon QRF, prepared to reinforce 1st or 2nd Squad's sector within 5 minutes of contact. Conduct rehearsals for reinforcement of each sector. Be prepared to man a supplementary position on the eastern or western perimeter on order.
-- **PURPOSE:** Provide the PL flexibility to mass combat power at any threatened point without pulling defenders from their primary sectors.
+- **TASK:** Maintain observation of the eastern and western approaches from positions within the FOB. Serve as the platoon QRF, prepared to reinforce 1st or 2nd Squad's sector within 5 minutes of contact. On order, establish a blocking position on the most threatened avenue of approach to deny REAPER penetration into the FOB perimeter. Conduct rehearsals for reinforcement of each sector and blocking position occupation. Be prepared to man a supplementary position on the eastern or western perimeter on order.
+- **PURPOSE:** Provide the PL flexibility to mass combat power at any threatened point — either reinforcing a sector or establishing a blocking position to deny a specific avenue of approach — without pulling defenders from their primary sectors.
 
 ### f. Coordinating Instructions
 

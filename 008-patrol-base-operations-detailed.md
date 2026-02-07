@@ -119,8 +119,8 @@ Defensive fires planned for likely REAPER avenues of approach. Each squad respon
 
 **3. 3rd Squad (Southwestern Sector / QRF):**
 
-- **TASK:** Occupy and defend the southwestern sector of PB THUNDER. Establish fighting positions with interlocking fields of fire covering the southwestern avenues of approach. Serve as the platoon QRF, prepared to reinforce any sector under attack. Rehearse reinforcement routes to 1st and 2nd Squad sectors. Identify and brief withdrawal routes for the platoon.
-- **PURPOSE:** Secure the southwestern perimeter and provide the PL a responsive reserve, ensuring any REAPER probe or assault can be met with concentrated force at the threatened point.
+- **TASK:** Occupy and defend the southwestern sector of PB THUNDER. Establish fighting positions with interlocking fields of fire covering the southwestern avenues of approach. Serve as the platoon QRF, prepared to reinforce any sector under attack or establish a blocking position on a compromised avenue of approach to contain the REAPER penetration and enable the affected sector to reorganize. Rehearse reinforcement routes and blocking positions for 1st and 2nd Squad sectors. Identify and brief withdrawal routes for the platoon.
+- **PURPOSE:** Secure the southwestern perimeter and provide the PL a responsive reserve, ensuring any REAPER probe or assault can be met with concentrated force — either reinforcing the threatened sector or blocking the enemy avenue of approach.
 
 ### f. Coordinating Instructions
 
