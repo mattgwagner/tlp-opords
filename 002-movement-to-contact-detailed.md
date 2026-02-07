@@ -58,7 +58,8 @@ Clay County, Florida, in the vicinity of Starke and Highway 16. AO FLUNKER inclu
 
    - **Key Terrain:** The road junction near OBJ HERRERA (MP 0612 1546) controls access to the eastern sector. The Bradenton Ave corridor in the western sector provides a north-south avenue of approach. Conex City (vic MP 0613 1532) offers concealment and defensive positions in the eastern sector. Woodlines throughout the AO provide covered and concealed movement. Dense vegetation limits observation to under 50 meters off road corridors.
 
-**2. Weather.** Warm and humid, partly cloudy skies, temperature around 85°F, with a chance of afternoon thunderstorms.
+**2. Weather.** ________ skies, temperature ____°F (heat cat ____), winds ____ at ____ mph. Chance of precipitation: ____%.
+BMNT ____; sunrise ____; sunset ____; EENT ____.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER forces are a small, organized group of irregular fighters, likely part of a local militia or insurgent cell. They are familiar with the terrain, use small arms and support weapons, and employ ambush and hit-and-run tactics. They are capable of blending into the local populace and adapting quickly to changing situations.

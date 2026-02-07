@@ -60,7 +60,8 @@ State of Florida, from Camp Blanding Joint Training Center (Clay County) to Bay 
 
    - **Key Terrain:** Camp Blanding Assembly Area (SP), Bay County Staging Area in Panama City (RP). Fuel availability is limited in the affected area; plan fuel stops accordingly. Major highway interchanges and urban bypass routes may experience congestion.
 
-**2. Weather.** Post-hurricane conditions: Clear skies, temperature 75-85°F, humidity 70-80%. Roads may have standing water in low-lying areas. Debris fields throughout Bay County.
+**2. Weather.** Post-hurricane conditions: ________ skies, temperature ____°F (heat cat ____), humidity ___%, winds ____ at ____ mph. Chance of precipitation: ____%.
+BMNT ____; sunrise ____; sunset ____; EENT ____. Roads may have standing water in low-lying areas. Debris fields throughout Bay County.
 
 ### c. Civil Considerations
 Hurricane DELTA caused significant damage to Bay County and surrounding areas. Power outages are widespread—expect non-functional traffic signals. Fuel availability is limited. Emergency services are overwhelmed. Civilian population is stressed and may approach military convoys seeking assistance.
