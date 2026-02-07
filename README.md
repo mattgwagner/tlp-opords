@@ -65,9 +65,9 @@ These OPORDs support TLP planning exercises focused on Defense Support of Civil 
 
 | # | Mission | Description | Formats |
 |---|---------|-------------|---------|
-| 010 | Hurricane Relief Convoy | DSCA convoy operations through damaged infrastructure to deliver relief supplies. | [md](010-dsca-convoy-operations.md) · [html](010-dsca-convoy-operations.html) · [pdf](010-dsca-convoy-operations.pdf) |
-| 011 | Mounted Area Reconnaissance | DSCA mounted reconnaissance to assess infrastructure damage and route conditions. | [md](011-dsca-mounted-reconnaissance.md) · [html](011-dsca-mounted-reconnaissance.html) · [pdf](011-dsca-mounted-reconnaissance.pdf) |
-| 012 | Point of Distribution Operations | DSCA humanitarian distribution operations with civilian interface management. | [md](012-dsca-point-of-distribution.md) · [html](012-dsca-point-of-distribution.html) · [pdf](012-dsca-point-of-distribution.pdf) |
+| 010 | [Hurricane Relief Convoy](010-dsca-convoy-operations.html) | DSCA convoy operations through damaged infrastructure to deliver relief supplies. | [html](010-dsca-convoy-operations.html) · [pdf](010-dsca-convoy-operations.pdf) |
+| 011 | [Mounted Area Reconnaissance](011-dsca-mounted-reconnaissance.html) | DSCA mounted reconnaissance to assess infrastructure damage and route conditions. | [html](011-dsca-mounted-reconnaissance.html) · [pdf](011-dsca-mounted-reconnaissance.pdf) |
+| 012 | [Point of Distribution Operations](012-dsca-point-of-distribution.html) | DSCA humanitarian distribution operations with civilian interface management. | [html](012-dsca-point-of-distribution.html) · [pdf](012-dsca-point-of-distribution.pdf) |
 
 ## FLX Variation System
 
