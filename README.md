@@ -51,9 +51,7 @@ Each tactical OPORD is available in two versions. Use **Detailed** for early ite
 | # | Mission | Complexity | Description | Mission Command | Detailed |
 |---|---------|-----------|-------------|-----------------|----------|
 | 004 | [Clear Dismount City](004-clear-dismount-city-detailed.html) | Highest | Clear, seize, and secure urban terrain (OBJ FLUNKER). Building-by-building clearing with assault, support, and security elements. | [html](004-clear-dismount-city.html) · [pdf](004-clear-dismount-city.pdf) · [kml](004-clear-dismount-city.kml) | [html](004-clear-dismount-city-detailed.html) · [pdf](004-clear-dismount-city-detailed.pdf) |
-| 006 | [Base Defense](006-base-defense-detailed.html) | Moderate | Defend FOB THUNDER against REAPER attack. Sector defense with reserve/QRF. | [html](006-base-defense.html) · [pdf](006-base-defense.pdf) · [kml](006-base-defense.kml) | [html](006-base-defense-detailed.html) · [pdf](006-base-defense-detailed.pdf) |
 | 007 | [Forward Passage of Lines](007-forward-passage-of-lines-detailed.html) | Highest | Pass through friendly defensive positions to continue offensive operations. Inter-unit coordination and fratricide prevention. | [html](007-forward-passage-of-lines.html) · [pdf](007-forward-passage-of-lines.pdf) · [kml](007-forward-passage-of-lines.kml) | [html](007-forward-passage-of-lines-detailed.html) · [pdf](007-forward-passage-of-lines-detailed.pdf) |
-| 013 | [Establish Combat Outpost](013-establish-cop-detailed.html) | Highest | Multi-phase clearing, occupation, and CP establishment. Capstone LFX — the COP becomes the base of operations for follow-on missions. | [html](013-establish-cop.html) · [pdf](013-establish-cop.pdf) · [kml](013-establish-cop.kml) | [html](013-establish-cop-detailed.html) · [pdf](013-establish-cop-detailed.pdf) |
 
 ### Static Operations
 
