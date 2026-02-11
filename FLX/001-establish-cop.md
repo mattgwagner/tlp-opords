@@ -177,8 +177,8 @@ A Company establishes COP Seggel as its forward operating base. 1st Platoon, the
 ### c. Signal
 
 **1. PACE Plan:**
-   - Primary: Radio — Frequency ______ (Company Net)
-   - Alternate: Radio — Frequency ______ (Platoon Net)
+   - Primary: Radio — 46200 SC/PT (Company Net)
+   - Alternate: Radio — 53800 SC/PT (Platoon Net)
    - Contingency: Cell phone (platoon leader to company commander)
    - Emergency: Runner
 
