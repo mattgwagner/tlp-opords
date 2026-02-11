@@ -35,7 +35,39 @@
       font-size: 10pt;
       margin-bottom: 0.2in;
     }
-    
+
+    .toc {
+      background-color: #F2F2F2;
+      border: 1px solid #CCCCCC;
+      border-radius: 6px;
+      padding: 0.15in 0.25in;
+      margin: 0.2in 0;
+      columns: 2;
+      column-gap: 0.3in;
+    }
+    .toc-title {
+      font-size: 12pt;
+      font-weight: bold;
+      color: #2B5797;
+      margin-bottom: 0.05in;
+      column-span: all;
+    }
+    .toc ol {
+      margin: 0;
+      padding-left: 0.25in;
+    }
+    .toc li {
+      font-size: 10pt;
+      margin-bottom: 0.03in;
+    }
+    .toc a {
+      color: #2B5797;
+      text-decoration: none;
+    }
+    .toc a:hover {
+      text-decoration: underline;
+    }
+
     .doctrine-link-box {
       background-color: #E7F3FF;
       border: 2px solid #2B5797;
@@ -366,8 +398,24 @@
   Use this to understand what right looks like so you can assess whether candidates can plan, communicate, and lead their element through tactical situations.
 </div>
 
+<div class="toc">
+  <div class="toc-title">TABLE OF CONTENTS</div>
+  <ol>
+    <li><a href="#section-1">Squad Organization and Weapons</a></li>
+    <li><a href="#section-2">Movement Formations</a></li>
+    <li><a href="#section-3">Movement Techniques</a></li>
+    <li><a href="#section-4">Danger Area Crossings</a></li>
+    <li><a href="#section-5">Battle Drills</a></li>
+    <li><a href="#section-6">Actions on the Objective</a></li>
+    <li><a href="#section-7">Ambush Operations</a></li>
+    <li><a href="#section-8">Connecting Tactics to the FLER</a></li>
+    <li><a href="#section-9">FLX Operation Overview</a></li>
+    <li><a href="#section-10">FLX Preparation Training Tasks</a></li>
+  </ol>
+</div>
+
 <!-- SECTION 1 -->
-<h2>Section 1: Squad Organization and Weapons</h2>
+<h2 id="section-1">Section 1: Squad Organization and Weapons</h2>
 <p>Understanding the organization and capabilities of rifle and weapons squads is fundamental to evaluating platoon operations. These organizations define the organic firepower and capabilities available to the platoon leader.</p>
 
 <h3>Infantry Rifle Squad (ATP 3-21.8)</h3>
@@ -503,7 +551,7 @@
 
 <!-- SECTION 2 -->
 <div class="page-break"></div>
-<h2>Section 2: Movement Formations</h2>
+<h2 id="section-2">Section 2: Movement Formations</h2>
 <p>Formations provide the framework for controlling the squad/platoon during movement. The SL/PL selects formations based on METT-TC, balancing control, flexibility, security, and speed.</p>
 
 <h3>Squad Formations (ATP 3-21.8)</h3>
@@ -807,7 +855,7 @@
 
 <!-- SECTION 3 -->
 <div class="page-break"></div>
-<h2>Section 3: Movement Techniques</h2>
+<h2 id="section-3">Section 3: Movement Techniques</h2>
 <p>Movement techniques describe HOW elements move relative to each other. The leader selects based on likelihood of enemy contact, need for speed, and terrain.</p>
 
 <div class="movement-diagram-container">
@@ -943,7 +991,7 @@
 </div>
 
 <!-- SECTION 4 -->
-<h2>Section 4: Danger Area Crossings</h2>
+<h2 id="section-4">Section 4: Danger Area Crossings</h2>
 <p>A danger area is any place where the unit is vulnerable to enemy observation or fire. Crossing danger areas is a critical tactical task that requires planning, control, and security.</p>
 
 <h3>Types of Danger Areas</h3>
@@ -1043,7 +1091,7 @@
 
 <!-- SECTION 5 -->
 <div class="page-break"></div>
-<h2>Section 5: Battle Drills</h2>
+<h2 id="section-5">Section 5: Battle Drills</h2>
 <p>Battle drills are standardized collective actions rapidly executed without a deliberate decision-making process. Soldiers execute drills instinctively based on training. Per CMP: "WTBDs were previously taught and tested in basic combat training. There is no requirement to reteach these tasks in OCS."</p>
 
 <h3>React to Direct Fire Contact While Dismounted (Battle Drill 1A)</h3>
@@ -1231,7 +1279,7 @@
 
 <!-- SECTION 6 -->
 <div class="page-break"></div>
-<h2>Section 6: Actions on the Objective</h2>
+<h2 id="section-6">Section 6: Actions on the Objective</h2>
 <p>This section covers the basic framework for offensive operations that candidates will plan and execute during FLX. The candidate must demonstrate understanding of the purpose and organization of each element.</p>
 
 <h3>Basic Offensive Framework</h3>
@@ -1342,7 +1390,7 @@
 
 <!-- SECTION 7 -->
 <div class="page-break"></div>
-<h2>Section 7: Ambush Operations</h2>
+<h2 id="section-7">Section 7: Ambush Operations</h2>
 <p>The ambush is one of the primary STX lane missions for OCS candidates. It is a surprise attack from a concealed position on a moving or temporarily halted target. Understanding ambush types, formations, and execution sequence is critical for evaluating whether candidates can plan and lead this operation.</p>
 <p style="font-size:9pt; color:#666; margin-bottom:0.1in;">Reference: TC 3-21.76 Ranger Handbook, Chapter 7 (Patrols); ATP 3-21.8, Chapter 4</p>
 
@@ -1549,7 +1597,7 @@
 
 <!-- SECTION 8 -->
 <div class="page-break"></div>
-<h2>Section 8: Connecting Tactics to the FLER</h2>
+<h2 id="section-8">Section 8: Connecting Tactics to the FLER</h2>
 <p>The Field Leadership Evaluation Report (FLER) evaluates candidates on the 8 TLPs, not tactical execution. Understanding how tactical tasks connect to TLP evaluation helps focus your assessment.</p>
 
 <div class="table-wrapper">
@@ -1604,7 +1652,7 @@
 
 <!-- SECTION 9 -->
 <div class="page-break"></div>
-<h2>Section 9: FLX Operation Overview — Establish COP Seggel</h2>
+<h2 id="section-9">Section 9: FLX Operation Overview — Establish COP Seggel</h2>
 
 <div class="purpose-box">
   <strong>PURPOSE:</strong> This section provides a phase-by-phase overview of the FLX tactical operation for TAC reference during execution. It is <strong>not</strong> a substitute for the OPORD — it is a quick-scan guide to what should be happening in each phase and what to evaluate. Tactical fundamentals for each phase are covered in Sections 1–8 of this guide.
@@ -1693,7 +1741,7 @@
 
 <!-- SECTION 10 -->
 <div class="page-break"></div>
-<h2>Section 10: FLX Preparation Training Tasks</h2>
+<h2 id="section-10">Section 10: FLX Preparation Training Tasks</h2>
 
 <div class="purpose-box">
   <strong>PURPOSE:</strong> Before the FLX, candidates prepare and deliver instruction on six training tasks — each corresponding to a critical skill needed during COP operations. TACs evaluate the candidate's ability to research, organize, and teach the material. This is a <strong>leadership evaluation</strong>, not a subject-matter expertise check.
@@ -1781,6 +1829,62 @@
 <div class="tac-note">
   <div class="tac-note-title">TAC EVALUATION NOTE — TRAINING TASK DELIVERY</div>
   <p>Evaluate whether the candidate can <strong>organize and present information clearly</strong>. Does the delivery demonstrate understanding of <em>why</em> the task matters to the mission, not just procedural steps? Can the candidate answer questions from peers and connect the task to the FLX scenario? The standard is <span class="key-concept">"can this person teach and lead"</span> — not "is this a subject matter expert."</p>
+</div>
+
+<h3>MEDEVAC 9-Line Request Format</h3>
+<div class="table-wrapper">
+<table>
+  <tr>
+    <th style="width:10%">Line</th>
+    <th style="width:30%">Item</th>
+    <th style="width:60%">Information Required</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;">1</td>
+    <td class="row-header">Location</td>
+    <td>Grid coordinates of pickup site (8-digit preferred)</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">2</td>
+    <td class="row-header">Frequency / Call Sign</td>
+    <td>Radio frequency and call sign at the pickup site</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">3</td>
+    <td class="row-header">Patients by Precedence</td>
+    <td>A — Urgent &nbsp;|&nbsp; B — Priority &nbsp;|&nbsp; C — Routine</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">4</td>
+    <td class="row-header">Special Equipment</td>
+    <td>A — None &nbsp;|&nbsp; B — Hoist &nbsp;|&nbsp; C — Extraction &nbsp;|&nbsp; D — Ventilator</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">5</td>
+    <td class="row-header">Patients by Type</td>
+    <td>L — Litter &nbsp;|&nbsp; A — Ambulatory</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">6</td>
+    <td class="row-header">Security at Pickup Site</td>
+    <td>N — No enemy &nbsp;|&nbsp; P — Possible &nbsp;|&nbsp; E — Enemy in area &nbsp;|&nbsp; X — Armed escort required</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">7</td>
+    <td class="row-header">Marking Method</td>
+    <td>A — Panels &nbsp;|&nbsp; B — Pyrotechnic &nbsp;|&nbsp; C — Smoke &nbsp;|&nbsp; D — None &nbsp;|&nbsp; E — Other</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">8</td>
+    <td class="row-header">Patient Nationality / Status</td>
+    <td>A — US Military &nbsp;|&nbsp; B — US Civilian &nbsp;|&nbsp; C — Non-US Military &nbsp;|&nbsp; D — Non-US Civilian &nbsp;|&nbsp; E — EPW</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">9</td>
+    <td class="row-header">CBRN Contamination</td>
+    <td>Nuclear, Biological, Chemical, or None</td>
+  </tr>
+</table>
 </div>
 
 <h3>References</h3>
