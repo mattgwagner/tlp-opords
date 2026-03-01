@@ -25,18 +25,20 @@ Cadre issues each OPORD as a platoon-level order. The evaluated candidate (as SL
 
 | Day | Date | Events |
 |-----|------|--------|
-| **Thursday** | 05 MAR | FLX Preparation Training (candidate-led, classroom). Weapons/equipment draw. TLP instruction. |
-| **Friday** | 06 MAR | DFAC breakfast at 0700. Receive tactical OPORD. SP from RTI and begin FLX. Establish COP. Area recon. Clear REAPER OP (FRAGO). |
+| **Thursday** | 05 MAR | FLX Preparation Training (candidate-led, classroom). Weapons/equipment draw. **PM: Candidate PL receives OPORD 001, conducts TLPs, briefs SLs.** |
+| **Friday** | 06 MAR | DFAC breakfast at 0700. SP shortly after chow. Establish COP (NLT early PM). Area recon. Clear REAPER OP (FRAGO). |
 | **Saturday** | 07 MAR | Dawn MTC. Ambush. Intercept courier (FRAGO). Raid. Deliberate attack (capstone). Defensive prep overnight. |
 | **Sunday** | 08 MAR | Optional OPFOR attack on COP (early AM). ENDEX. Recovery, equipment turn-in, AAR. |
 
 ---
 
-## Thursday — FLX Preparation Training
+## Thursday — FLX Preparation Training + OPORD 001 Issue
 
 The student chain of command selects candidates to prepare and deliver training on the tasks below. **All rated squad leaders will lead at least one of these training sessions.** This is an evaluated event — assess preparation quality, delivery, and demonstrated knowledge. These are also the skills they'll need to execute the FLX, so the training directly feeds the field problem.
 
 **Pay particular attention to graded/evaluated SLs during these blocks.** Their ability to teach this material is a leading indicator of whether they'll be able to plan and execute it in the field.
+
+**Thursday afternoon:** After preparation training is complete, issue OPORD 001 to the candidate PL. The PL has the rest of Thursday to conduct TLPs — mission analysis, COA development, and issuing their platoon OPORD to SLs. SLs receive the PL's order Thursday evening and develop their own squad schemes for Friday morning execution. This is the primary PL evaluation event.
 
 | # | Training Task | FLX Relevance |
 |---|--------------|---------------|
@@ -53,7 +55,7 @@ The student chain of command selects candidates to prepare and deliver training 
 
 ### Admin Notes
 
-- **DFAC:** Friday 0700. After chow, candidates draw remaining equipment and receive the tactical OPORD (001 — Establish COP Seggel). Once briefed, they are fair game to SP and begin movement through the checkpoints on route.
+- **DFAC:** Friday 0700. Candidates already have the OPORD (issued Thursday PM) and should have their plan. After chow, draw remaining equipment and SP. Once they cross the LD, they are in a tactical posture.
 - **Tactical Posture:** All personnel maintain a tactical posture from crossing the LD until ENDEX. No breaks in the scenario.
 - **Class VI:** Candidates are responsible for 48 hours of personal sustainment. No resupply opportunity during the FLX.
 - **Blank Ammo:** Drawn and managed IAW Range Control procedures. Coordinate through Student S4.
@@ -168,14 +170,18 @@ On Saturday morning, the 3-squad organization becomes 2 overstrength squads plus
 
 ### Friday — Establish and Orient
 
-**OPORD 001 — "ESTABLISH COP SEGGEL"** *(~0800–1200)*
-*Briefed at the RTI before SP*
+**OPORD 001 — "ESTABLISH COP SEGGEL"** *(Thursday brief → Friday execution)*
+*Candidate PL receives the OPORD Thursday afternoon*
 
-The company commander issues the base order. 1st Platoon moves tactically from the RTI through two checkpoints (CP ANVIL and CP FORGE) to COP Seggel. They clear the facility, establish perimeter security and the ECP, stand up the company CP, and prepare defensive positions.
+The company commander issues the base order on Thursday. The candidate PL has Thursday afternoon and evening to conduct full TLPs: mission analysis, COA development, and issue their platoon OPORD to SLs. The order gives only a NLT time to have the COP established with the CP operational — the candidate PL must backwards plan the SP, movement, staging, clearance of the facility, and CP setup.
 
-This is not a TLP lane — it's a briefed order that the candidates execute. Use the movement phase to evaluate basic competence: formations, movement techniques, security halts, danger area crossings. The clearing and occupation phase evaluates the SL's ability to transition from movement to offense to defense.
+**Thursday:** Candidate PL receives OPORD 001, conducts TLPs, develops their plan, and briefs SLs. This is the first and biggest PL evaluation — can they take a company OPORD and produce a coherent platoon order with squad assignments? Cadre holds the detailed squad overlay ([013-establish-cop-detailed.md](013-establish-cop-detailed.md)) as a safety net. If the PL's order is weak, TAC can coach/redirect before Friday execution.
 
-*Expected duration: 3-4 hours including movement*
+**Friday:** DFAC breakfast at 0700. SP shortly after chow — candidates must be moving early to meet the NLT. 1st Platoon moves tactically from the RTI through two checkpoints (CP ANVIL and CP FORGE) to COP Seggel. They clear the facility, establish perimeter security and the ECP, stand up the company CP, and prepare defensive positions. **COP established with CP operational NLT early afternoon Friday** — this gives time for OPORD 002 in the afternoon.
+
+Use the movement phase to evaluate basic competence: formations, movement techniques, security halts, danger area crossings. The clearing and occupation phase evaluates the SL's ability to transition from movement to offense to defense.
+
+*Expected duration: 3-4 hours including movement (0730ish SP → ~1200 COP established)*
 
 **Chow/Rest:** Hot chow (MRE) and water resupply upon COP establishment. 30-minute rest rotation before issuing OPORD 002.
 
@@ -356,9 +362,10 @@ If cadre wants a final evaluation opportunity, trigger a REAPER counterattack on
 
 | Day | Time | Event | OPORD | Evaluated SL |
 |-----|------|-------|-------|-------------|
-| **THU** | AM/PM | FLX Preparation Training (candidate-led) | — | All rated SLs teach one block |
+| **THU** | AM | FLX Preparation Training (candidate-led) | — | All rated SLs teach one block |
+| **THU** | PM | Candidate PL receives OPORD 001, conducts TLPs, briefs SLs | 001 | PL evaluation |
 | **FRI** | 0700 | DFAC breakfast | — | — |
-| **FRI** | ~0800–1200 | Establish COP Seggel | 001 | #1 |
+| **FRI** | ~0730–1200 | SP → Movement → Establish COP Seggel (NLT early PM) | 001 | #1 |
 | **FRI** | 1200–1300 | Chow/rest rotation | — | — |
 | **FRI** | ~1300–1500 | Area Reconnaissance | 002 | #2 |
 | **FRI** | 1500–1530 | Chow/debrief | — | — |
