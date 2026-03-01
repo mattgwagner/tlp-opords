@@ -62,7 +62,7 @@ The student chain of command selects candidates to prepare and deliver training 
 - **Ammo/Simulators:** No blank ammo or simulators available — Range Control is closed for our training weekend. All engagements are verbal (\"bang bang\") or cadre-adjudicated. OPFOR and candidates call hits. Cadre controls the tempo and outcome of engagements.
 - **Medical:** No attached medics. Bring the CLS bag from the supply room in the GSA van. Nearest higher care: HCA Florida Starke Emergency, 922 East Call Street, Starke, FL 32091. All injuries reported to Range Control and Regiment S1.
 - **DRAWs:** Must be present at training locations and briefed to all participants. Continuous risk assessment throughout.
-- **Admin PACE (Cadre):** Signal (P), Cell (A), Text (C), Runner (E).
+- **Admin PACE (Cadre):** Signal (P), Cell (A), Text (C), Runner (E). Senior TAC (CPT Wagner): 813-413-6839 (call/text).
 - **Challenge/Password (all weekend):** Viper / Strike / Running: Forward / Combination: 7
 
 ### CCIR — Wake-Up Reporting (Immediate)
