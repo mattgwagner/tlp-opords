@@ -273,6 +273,13 @@ The reorganization was announced and executed Friday evening. By Saturday mornin
 | 004 Raid | During intercept execution | Platoon-level OPORD | Develop squad taskings (should be faster by now) |
 | 006 Deliberate Attack | During raid execution | **Mission statement only** | **Plan entire order independently (capstone)** |
 
+**Staff vs. SL planning boundary:** The staff says WHAT each squad does. The SL plans HOW. Specifically:
+
+- **Staff provides:** Task and purpose for each squad, main/supporting effort designation, coordination between squads (boundaries, phase lines, signals), timeline.
+- **SLs plan independently:** Route selection, movement technique, fire team task organization, actions on the objective (their squad's piece), ORP/rally points, contingency plans, sand table rehearsal.
+
+This is where the SL evaluation lives — the TLP from squad task receipt through execution. If the candidate CO starts briefing fire team assignments or dictating squad-internal movement, cadre redirects: *"CO, that's the SL's plan — give them their task and purpose and let them figure out how."* This applies to every Saturday lane, including the capstone.
+
 **Saturday morning sequence:**
 
 1. **~0600 Stand-to at BMNT.** Candidates are already doing this from overnight security rotation.
@@ -323,7 +330,7 @@ Documents recovered during the ambush (or simply "new intelligence") indicate a 
 
 This is a FRAGO — shorter than a full OPORD but the staff must still develop squad taskings (intercept element, blocking/cordon, capture procedures). The staff receives the FRAGO while the ambush lane is executing, plans squad assignments, and briefs SLs during chow/rest. The 2-hour courier window creates real time pressure once the lane kicks off.
 
-**Cadre focus:** Three evaluations. (1) Staff: planning from a FRAGO format — less information to work with, but the same requirement to produce squad taskings. Can they develop a coherent intercept plan from abbreviated information? (2) SL: speed of planning — does the SL set up a proper intercept (blocking positions, capture team) or just run out and hope? (3) Handling of the capture — do they secure the documents immediately or get caught up in detainee procedures?
+**Cadre focus:** Three evaluations. (1) Staff: planning from a FRAGO format — less information to work with, but the same requirement to produce squad taskings. Can they develop a coherent intercept plan from abbreviated information? (2) SL plan: intercept site selection, fire team positioning (who grabs the courier, who blocks escape routes, who provides security), security cordon placement, and actions on capture — does the SL have a plan for securing documents before the courier destroys them? (3) SL execution: speed of planning under time pressure — does the SL set up a proper intercept or just run out and hope? Handling of the detainee and document exploitation.
 
 **OPFOR:** 1 courier + 1 escort, both armed with small arms. Traveling light and fast. If confronted, the escort delays while the courier escapes with documents. If capture is imminent, the courier attempts to destroy documents. Scale: if the SL's intercept is well-planned, the courier walks into it. If poorly planned, the escort spots them and the courier runs — allow a brief pursuit but don't let it spiral into a long chase.
 
@@ -353,7 +360,7 @@ Documents captured in the ambush reveal a REAPER weapons cache at MP 0611 1530 (
 
 REAPER's remaining forces have consolidated at the Jacksonville Street / Bradenton Avenue junction (MP 0602 1565) — 150 meters north of the COP. The company commander orders 1st Platoon to seize the junction and finish REAPER in AO HERRERA. **This is the capstone.** The staff receives only a mission statement — no OPORD, no situation paragraph, no scheme of maneuver. They must plan the entire order independently: enemy analysis, scheme of maneuver, squad taskings, fires, sustainment, everything. Cadre holds the detailed OPORD as a safety net. **Last light is 1855 — this creates natural time pressure to complete the attack before dark.**
 
-**Cadre focus:** This is the culminating evaluation for the candidate staff. (1) Staff: can they produce a complete, coherent order from a mission statement alone? Did they do their own terrain analysis? Did they think about SBF positions, assault routes, blocking positions on Jacksonville St? This is the test of everything they've learned across the day. (2) SL plan: assault route (do NOT go straight up Bradenton Ave), consolidation on the objective. The proximity to the COP (150m) is a planning factor — the SL must still plan this properly, not just "run up the road."
+**Cadre focus:** This is the culminating evaluation for both the candidate staff AND the SLs. (1) Staff: can they produce a complete, coherent order from a mission statement alone? Did they do their own terrain analysis? Did they think about SBF positions, assault routes, blocking positions on Jacksonville St? This is the test of everything they've learned across the day. (2) SL plan: assault route selection (do NOT go straight up Bradenton Ave), fire team assignments for the assault, coordination with the supporting squad (shift/cease fire signals, timing), ORP and rally point selection, casualty collection point, and consolidation/reorganization plan on the objective. The proximity to the COP (150m) is a planning factor — the SL must still plan this properly, not just "run up the road."
 
 **OPFOR:** 6-10 REAPER in hasty positions at the junction, oriented south. Low ammo, low morale. They fight but break when pressed. If the SL's plan is solid, REAPER collapses quickly. If the plan is poor (frontal assault up Bradenton), REAPER holds and inflicts casualties.
 

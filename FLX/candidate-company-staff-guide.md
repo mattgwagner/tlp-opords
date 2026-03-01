@@ -31,7 +31,7 @@ COP security during maneuver is **notional** — the OPORD states "remaining com
 ## Selecting Candidates for Company Staff
 
 ### When to Select
-Saturday morning, before the first Saturday OPORD is issued. Cadre has observed candidates for ~18 hours (Thursday planning + Friday execution) and should have a clear picture of top performers.
+Friday evening, after FRAGO 007. Cadre has observed candidates for ~18 hours (Thursday planning + Friday execution) and should have a clear picture of top performers. Selecting Friday evening gives the candidate staff time to receive OPORD 008 and prepare their brief overnight.
 
 ### Selection Criteria
 Look for candidates who have demonstrated:
@@ -71,41 +71,67 @@ Brief the selected candidates privately. Frame it as: "You've demonstrated stron
 - Manages the message log
 - Evaluated on: radio discipline, information processing, communication clarity
 
-## Saturday Morning — Easing In (OPORDs 008, 003, 009)
+## Staff vs. SL Planning Boundary
 
-### How It Works
-1. Cadre provides the candidate staff with a **near-complete order** (the existing OPORD with task org updated for 2 squads)
-2. Candidate staff reviews the order, makes minor refinements (adjusting timelines, confirming grid references, adding detail they think is missing)
-3. The candidate CO **briefs the order directly to SLs** as if it were their own plan
-4. SLs receive the order, conduct their own TLPs, and execute
+**The staff says WHAT each squad does. The SL plans HOW.**
 
-### Cadre Role
-- Coach the candidate staff through the first iteration if needed
-- Let them struggle with the briefing format — this is a learning opportunity
-- Observe how the CO handles SL questions during the brief
-- Have the detailed cadre version ready as a safety net
+The staff brief to SLs includes:
+- Task and purpose for each squad (main effort / supporting effort)
+- Coordination between squads (boundaries, phase lines, signals)
+- Timeline and reporting requirements
 
-### What "Minor Refinements" Looks Like
-- Adjusting the timeline to match actual conditions (weather, light data, current disposition)
-- Adding or clarifying squad-specific tasks based on the concept of operations
-- Choosing which squad is main effort vs. supporting effort for this lane
-- Adding detail to coordinating instructions based on lessons learned from Friday
+The staff brief does **NOT** include:
+- Fire team assignments or task organization within the squad
+- Movement routes or techniques
+- Actions on the objective below the squad level
+- ORP/rally point selection
 
-## Saturday Afternoon — Independent Planning (OPORDs 004, 006)
+Those are the SL's planning decisions — that's where the SL evaluation lives. If the candidate CO starts briefing fire team assignments or dictating how the squad moves, cadre redirects: *"CO, that's the SL's plan. Give them their task and purpose and let them figure out how."*
 
-### How It Works
-1. Cadre issues a **mission statement only** (1-2 paragraphs) to the candidate staff — not a full OPORD
-2. Candidate staff develops the full platoon order: situation, mission, execution with squad tasks, sustainment, command and signal
+## Progressive Scaffolding — Staff Independence Increases Across the Day
+
+| Lane | What staff receives | What staff develops | Cadre coaching |
+|------|----|----|-----|
+| 008 MTC | Platoon-level OPORD (Friday evening) | Squad taskings overnight | Coach first brief if needed |
+| 003 Ambush | Platoon-level OPORD (during MTC) | Squad taskings during the lane | Light coaching — they've done this once |
+| 009 Intercept | FRAGO (during ambush) | Squad taskings from abbreviated info | Observe — less information to work with |
+| 004 Raid | Platoon-level OPORD (during intercept) | Squad taskings — should be efficient by now | Observe — evaluate improvement |
+| 006 Deliberate Attack | **Mission statement only** (during raid) | **Entire order from scratch** | **Do not coach — evaluate** |
+
+### Lanes 1–4: Platoon-Level Orders (008, 003, 009, 004)
+
+**How it works:**
+1. Cadre provides the candidate staff with a **platoon-level OPORD** (or FRAGO) — the order includes the platoon task and purpose, concept of operations, and coordinating instructions, but does **not** assign squad-level tasks
+2. The candidate staff develops squad taskings: which squad is main effort, which is supporting effort, what each squad's task and purpose is, and coordination between them
+3. The candidate CO **briefs the order directly to SLs** including their squad assignments
+4. SLs receive their squad task, conduct their own TLPs (route, fire team tasks, actions on OBJ, sand table), and execute
+
+**Cadre role:**
+- For the first lane (008), coach the staff through the briefing format if needed — this is their first time
+- For subsequent lanes (003, 009, 004), reduce coaching progressively — observe whether the staff is getting faster and producing better squad taskings
+- Have the cadre detailed version ready as a safety net for every lane
+- Watch how the CO handles SL questions during the brief — a good CO can explain their reasoning, a weak CO freezes
+
+**What "developing squad taskings" looks like:**
+- Deciding which squad is main effort vs. supporting effort for this lane
+- Writing a task and purpose for each squad based on the concept of operations
+- Determining coordination between squads (where they link up, how they communicate, phase lines)
+- Adjusting timeline and reporting requirements
+
+### Lane 5: Mission Statement Only (006 — Capstone)
+
+**How it works:**
+1. Cadre issues a **mission statement only** (1-2 paragraphs) to the candidate staff — no OPORD, no situation, no scheme of maneuver
+2. Candidate staff develops the full order: enemy analysis, scheme of maneuver, squad taskings, fires, sustainment, command and signal
 3. The candidate CO briefs the order directly to SLs
 4. SLs conduct their own TLPs and execute
 
-### Mission Statement Format (What Cadre Gives)
-Example for OPORD 004 (Raid):
-> "Intelligence from the reconnaissance and ambush operations indicates REAPER has a weapons cache at vicinity MP 0580 1538. A Company directs 1st Platoon to conduct a raid to seize and destroy the cache. The cache must be searched for intelligence value items before destruction. REAPER may have re-garrisoned the area after the loss of their supply element. Time available: 2 hours from receipt of this order."
+**Mission statement format (what cadre gives):**
+> "REAPER's remaining forces have consolidated at the Jacksonville Street / Bradenton Avenue junction (MP 0602 1565). Estimated squad-sized element with small arms in hasty fighting positions. A Company seizes OBJ HERRERA NLT [time] in order to destroy remaining REAPER forces and complete the clearing of AO HERRERA. 1st Platoon is the main effort. Last light is 1855."
 
 That's it. The candidate staff must develop the full order from this.
 
-### Cadre Role
+**Cadre role:**
 - Do not coach the planning process — observe and evaluate
 - Intervene only if the order is so poor that SLs cannot plan against it (safety net)
 - If you must redirect, do it through the candidate CO, not directly to SLs: "CO, your order doesn't address how 2nd Squad supports the assault. What's their task?"
