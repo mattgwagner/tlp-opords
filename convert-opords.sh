@@ -14,27 +14,31 @@ fi
 # Path to the HTML template file
 TEMPLATE="$(dirname "$0")/opord-template.html"
 
-# Process all .md files in the current directory (where the script is located)
-for md in "$(dirname "$0")"/*.md; do
-  [ -f "$md" ] || continue
-  # Skip README.md
-  if [[ "$(basename "$md")" == "README.md" ]]; then
-    continue
+# Script directory
+SCRIPT_DIR="$(dirname "$0")"
+
+# Function to convert a single markdown file to HTML
+convert_md() {
+  local md="$1"
+  [ -f "$md" ] || return
+  # Skip README.md and cadre notes
+  local basename="$(basename "$md")"
+  if [[ "$basename" == "README.md" ]] || [[ "$basename" == *"cadre-notes"* ]]; then
+    return
   fi
   # Generate output path with .html extension
-  output="${md%.md}.html"
+  local output="${md%.md}.html"
   echo "Converting: $md -> $output"
   # Extract document title and metadata
-  doc_title=$(basename "$md" .md)
-  
+  local doc_title=$(basename "$md" .md)
+
   # Extract header information for military documents
-  header_info=$(grep -A5 "Copy __ of __ copies" "$md" 2>/dev/null || echo "")
-  
+  local header_info=$(grep -A5 "Copy __ of __ copies" "$md" 2>/dev/null || echo "")
+
   # Determine if this is a WARNO by looking at the filename
+  local doc_type="OPERATION ORDER"
   if [[ "$doc_title" == *"WARNO"* ]]; then
     doc_type="WARNING ORDER"
-  else
-    doc_type="OPERATION ORDER"
   fi
 
   pandoc "$md" \
@@ -45,6 +49,16 @@ for md in "$(dirname "$0")"/*.md; do
     --metadata doctype="$doc_type" \
     --metadata header_info="$header_info" \
     -o "$output"
+}
+
+# Process all .md files in the script directory
+for md in "$SCRIPT_DIR"/*.md; do
+  convert_md "$md"
+done
+
+# Process all .md files in the FLX subdirectory
+for md in "$SCRIPT_DIR"/FLX/*.md; do
+  convert_md "$md"
 done
 
 exit 0

@@ -2,19 +2,88 @@
 
 **CADRE USE ONLY — DO NOT DISTRIBUTE TO CANDIDATES**
 
+**Operation SPRING STRIKE — Class 065 Culmination FLX**
+05-08 March 2026 | CBJTC, Starke, FL
+
 ---
 
-## Overview
+## Weekend Overview
 
-This FLX is a 48-hour field exercise built around a single narrative: 1st Platoon moves to, occupies, and operates from Combat Outpost Seggel in AO HERRERA. Every mission flows from the one before it. Candidates rotate through squad leader roles across six lanes, each building on the evolving tactical situation.
+This is the culmination Field Leadership Exercise for Class 065. The FLX is a 48-hour field exercise built around a single narrative: 1st Platoon moves to, occupies, and operates from Combat Outpost Seggel in AO HERRERA. Every mission flows from the one before it. Candidates rotate through squad leader roles across nine lanes (six full OPORDs and three FRAGOs), each building on the evolving tactical situation.
 
 Cadre issues each OPORD as a platoon-level order. The evaluated candidate (as SL) receives the order, conducts TLP, develops their scheme of maneuver and team-level tasks, briefs it, and executes. We do not prescribe how the candidate organizes their element — that's the evaluation.
+
+### Light Data
+
+| Day | First Light | Sunrise | Sunset | Last Light | Notes |
+|-----|------------|---------|--------|------------|-------|
+| **FRI** 06 MAR | 0624 | 0649 | 1830 | 1854 | EST |
+| **SAT** 07 MAR | 0623 | 0648 | 1831 | 1855 | EST |
+| **SUN** 08 MAR | 0722 | 0748 | 1932 | 1956 | EDT — clocks spring forward |
+
+### Timeline at a Glance
+
+| Day | Date | Events |
+|-----|------|--------|
+| **Thursday** | 05 MAR | FLX Preparation Training (candidate-led, classroom). Weapons/equipment draw. TLP instruction. |
+| **Friday** | 06 MAR | DFAC breakfast at 0700. Receive tactical OPORD. SP from RTI and begin FLX. Establish COP. Area recon. Clear REAPER OP (FRAGO). |
+| **Saturday** | 07 MAR | Dawn MTC. Ambush. Intercept courier (FRAGO). Raid. Deliberate attack (capstone). Defensive prep overnight. |
+| **Sunday** | 08 MAR | Optional OPFOR attack on COP (early AM). ENDEX. Recovery, equipment turn-in, AAR. |
+
+---
+
+## Thursday — FLX Preparation Training
+
+The student chain of command selects candidates to prepare and deliver training on the tasks below. **All rated squad leaders will lead at least one of these training sessions.** This is an evaluated event — assess preparation quality, delivery, and demonstrated knowledge. These are also the skills they'll need to execute the FLX, so the training directly feeds the field problem.
+
+**Pay particular attention to graded/evaluated SLs during these blocks.** Their ability to teach this material is a leading indicator of whether they'll be able to plan and execute it in the field.
+
+| # | Training Task | FLX Relevance |
+|---|--------------|---------------|
+| 1 | **Radio Operations and Communications Procedures** — Program FM radios, establish comms on platoon/company nets, conduct radio checks, net calls, and reporting (SALUTE, SITREP, MEDEVAC). | They will run dual-net comms from the COP for the entire FLX. |
+| 2 | **OE-254 Antenna Setup and Employment** — Assemble, erect, orient. Grounding, guy-wires, orientation for signal. Maintenance and troubleshooting. | Extended-range comms from COP Seggel back to company (RTI). |
+| 3 | **Entry Control Point (ECP) Operations** — Access control, positive ID, vehicle/personnel search, escalation of force, logging all personnel in/out. | ECP is established in OPORD 001 and maintained for the entire FLX. |
+| 4 | **Security and Defensive Planning** — Priorities of work, sector sketches, fighting position placement, OP selection, fields of fire, FPF, stand-to, rest/security rotation for 48-hour ops. | Directly tested in OPORD 005 (COP Defense) and every night at the COP. |
+| 5 | **Satellite Imagery and Terrain Analysis** — Analyze the COP facility and surrounding terrain. Propose defensive positions, CP location, ECP, CCP, and HLZ. Brief using OAKOC. | Sets up their terrain analysis for every lane. They'll use this product at the COP. |
+| 6 | **Battle Tracking and Command Post Operations** — Establish and operate a company CP. Situation maps, unit tracking, comms logs, report processing. Transition from movement to static CP ops. | CP operations are continuous from OPORD 001 through ENDEX. |
+
+---
+
+## FLX Execution
+
+### Admin Notes
+
+- **DFAC:** Friday 0700. After chow, candidates draw remaining equipment and receive the tactical OPORD (001 — Establish COP Seggel). Once briefed, they are fair game to SP and begin movement through the checkpoints on route.
+- **Tactical Posture:** All personnel maintain a tactical posture from crossing the LD until ENDEX. No breaks in the scenario.
+- **Class VI:** Candidates are responsible for 48 hours of personal sustainment. No resupply opportunity during the FLX.
+- **Blank Ammo:** Drawn and managed IAW Range Control procedures. Coordinate through Student S4.
+- **Medical:** Attached medics if available. Nearest higher care: HCA Florida Starke Emergency, 922 East Call Street, Starke, FL 32091. All injuries reported to Range Control and Regiment S1.
+- **DRAWs:** Must be present at training locations and briefed to all participants. Continuous risk assessment throughout.
+- **Admin PACE (Cadre):** Signal (P), Cell (A), Text (C), Runner (E).
+- **Admin Challenge/Password:** Viper / Strike / Running: Forward / Combination: 7
+- **Tactical Challenge/Password (in OPORDs):** Sentinel / Forge / Running: Ironclad / Combination: 7
+
+### CCIR — Wake-Up Reporting (Immediate)
+
+- Critical illness, serious injury, or death of a Soldier or immediate family member
+- Soldier contemplating suicide
+- Negligent discharge
+- SHARP/EO incident
+- Any injuries or medical profiles affecting OCs
+
+### CCIR — Duty Day Reporting
+
+- COMMO outage at any operation area
+- Heat index >107°F or wind chill < -18°F
+- Loss or damage to equipment
+- Major deviation in the published schedule
+- Any event likely to be adversely reported by the media
 
 ---
 
 ## The Arc
 
-### Day 1 — Establish and Orient
+### Friday (Day 1) — Establish and Orient
 
 **OPORD 001 — "ESTABLISH COP SEGGEL"**
 *Briefed at the RTI before SP*
@@ -40,7 +109,7 @@ The cadre (as PL) needs to know what's around us. The evaluated SL receives the 
 
 ---
 
-### Day 1 Night — COP Operations
+### Friday Night — COP Operations
 
 No formal lanes overnight. The candidates run the COP: security rotation, rest plan, CP operations, radio watch. This is where you evaluate candidates on sustainment, battle tracking, and managing the rest/security balance.
 
@@ -55,7 +124,7 @@ None of these need to be full lanes. They're short-duration events that keep can
 
 ---
 
-### Day 2 Morning
+### Saturday Morning
 
 **OPORD 003 — "CUT THE LINE"** *(Ambush)*
 *Issued at COP Seggel*
@@ -72,7 +141,7 @@ The SL must plan: ORP, ambush site, kill zone, assault/support/security, withdra
 
 ---
 
-### Day 2 Afternoon
+### Saturday Afternoon
 
 **OPORD 004 — "IRON STRIKE"** *(Raid)*
 *Issued at COP Seggel*
@@ -87,7 +156,7 @@ Documents captured in the ambush reveal a REAPER weapons cache at MP 0611 1530 (
 
 ---
 
-### Day 2 Night — Transition to Defense
+### Saturday Night — Transition to Defense
 
 After the raid, brief candidates that intelligence indicates REAPER is consolidating for a counterattack. This creates urgency for the overnight defensive preparations. The SL receiving OPORD 005 should be identified and briefed before the overnight period so they can use the time to plan and improve positions.
 
@@ -98,7 +167,7 @@ After the raid, brief candidates that intelligence indicates REAPER is consolida
 
 ---
 
-### Day 3 Morning
+### Sunday Morning
 
 **OPORD 005 — "HOLD THE LINE"** *(COP Defense)*
 *Issued at COP Seggel — can be triggered at stand-to*
@@ -113,7 +182,7 @@ REAPER has consolidated and is counterattacking COP Seggel. The attack comes fro
 
 ---
 
-### Day 3 Late Morning (If Time Permits)
+### Sunday Late Morning (If Time Permits)
 
 **OPORD 006 — "FINAL ANVIL"** *(Deliberate Attack)*
 *Issued at COP Seggel after repelling the counterattack*
@@ -130,16 +199,19 @@ REAPER's counterattack failed. Their surviving forces have withdrawn to the Jack
 
 ## Schedule Summary
 
-| Time | Event | OPORD | Evaluated SL |
-|------|-------|-------|-------------|
-| Day 1 AM | RTI Brief + Movement to COP | 001 | #1 |
-| Day 1 PM | Area Reconnaissance | 002 | #2 |
-| Day 1 Night | COP Operations (no formal lane) | — | Rotate leadership |
-| Day 2 AM | Ambush | 003 | #3 |
-| Day 2 PM | Raid | 004 | #4 |
-| Day 2 Night | Defensive Prep (no formal lane) | — | #5 (prep) |
-| Day 3 AM | COP Defense | 005 | #5 |
-| Day 3 Late AM | Deliberate Attack (if time) | 006 | #6 |
+| Day | Time | Event | OPORD | Evaluated SL |
+|-----|------|-------|-------|-------------|
+| **THU** | AM/PM | FLX Preparation Training (candidate-led) | — | All rated SLs teach one block |
+| **FRI** | 0700 | DFAC breakfast | — | — |
+| **FRI** | ~0800 | Receive OPORD, SP from RTI | 001 | #1 |
+| **FRI** | PM | Area Reconnaissance | 002 | #2 |
+| **FRI** | Night | COP Operations (no formal lane) | — | Rotate leadership |
+| **SAT** | AM | Ambush | 003 | #3 |
+| **SAT** | PM | Raid | 004 | #4 |
+| **SAT** | Night | Defensive Prep (no formal lane) | — | #5 (prep) |
+| **SUN** | AM | COP Defense | 005 | #5 |
+| **SUN** | Late AM | Deliberate Attack (if time) | 006 | #6 |
+| **SUN** | PM | ENDEX, recovery, equipment turn-in, AAR | — | — |
 
 Adjust SL candidate assignments based on class size and evaluation needs. If you have more candidates than lanes, double up — evaluate two candidates simultaneously (e.g., SL and a team leader with specific tasks).
 
@@ -151,8 +223,11 @@ Adjust SL candidate assignments based on class size and evaluation needs. If you
 - Planning from an established base (not a cold start at an AA)
 - Departure from and return to a friendly position (link-up, recognition, fratricide prevention)
 - Cumulative effects of decisions (poor COP setup makes the defense harder)
-- Sustained operations under fatigue (Day 3 candidates are tired — that's the point)
+- Sustained operations under fatigue (Sunday morning candidates are tired — that's the point)
 - CP operations and battle tracking as a continuous activity, not a one-time setup
+- Direct application of Thursday's preparation training (radios, ECP, CP ops, defensive planning)
+
+**Thursday training → FLX connection:** Watch whether the SL who taught defensive planning actually applies it on Saturday night. Watch whether the candidate who taught ECP ops runs a sloppy ECP. The preparation training is their chance to study the material — the FLX is the test.
 
 **Common candidate failures to watch for:**
 - Leaving the COP undefended while conducting offensive operations
