@@ -11,7 +11,7 @@ This is the base order for the Leadership Field Exercise (LFX). It provides the 
 ## Sequence of Events
 
 1. Candidates receive OPORD briefing at the RTI.
-2. Platoon conducts tactical movement from the RTI through CP ANVIL and CP FORGE (approximately ____km total movement).
+2. Platoon conducts tactical movement from the RTI through CP ANVIL (MP 0589 1455), CP FORGE (MP 0566 1465), and CP HAMMER (MP 0575 1524).
 3. Platoon establishes a security halt and the PL conducts a leader's recon of COP Seggel.
 4. Platoon clears, occupies, and secures the COP.
 5. PSG establishes the company CP with battle tracking and comms.
@@ -19,7 +19,7 @@ This is the base order for the Leadership Field Exercise (LFX). It provides the 
 
 ## Movement Intent
 
-The two checkpoints between RTI and COP Seggel serve a dual purpose — they add distance to build tactical discipline during movement and they create evaluation opportunities for the PL's movement planning, formations, security halts, and danger area crossings before the platoon reaches the COP. Use them to assess baseline competence before the more complex clearing and occupation phases.
+The three checkpoints between RTI and COP Seggel serve a dual purpose — they route the platoon along a reasonable path that adds distance to build tactical discipline during movement and they create evaluation opportunities for the PL's movement planning, formations, security halts, and danger area crossings before the platoon reaches the COP. Use them to assess baseline competence before the more complex clearing and occupation phases.
 
 ## Training Focus
 
@@ -36,7 +36,7 @@ The two checkpoints between RTI and COP Seggel serve a dual purpose — they add
 
 ## OPFOR / Training Wrinkles
 
-- Inject a REAPER reconnaissance element observing the movement between CP ANVIL and CP FORGE to test security and reporting.
+- Inject a REAPER reconnaissance element observing the movement between CP FORGE and CP HAMMER to test security and reporting.
 - Vary REAPER presence at COP Seggel: empty facility, observation element only, or occupied and defended.
 - Simulate indirect fire (mortar) attack after occupation to test overhead cover and dispersion planning.
 - Introduce host nation materials left behind (booby traps, usable supplies, intelligence value items).

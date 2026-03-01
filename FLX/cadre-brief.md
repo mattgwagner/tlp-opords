@@ -177,7 +177,7 @@ The company commander issues the base order on Thursday. The candidate PL has Th
 
 **Thursday:** Candidate PL receives OPORD 001, conducts TLPs, develops their plan, and briefs SLs. This is the first and biggest PL evaluation — can they take a company OPORD and produce a coherent platoon order with squad assignments? Cadre holds the detailed squad overlay ([013-establish-cop-detailed.md](013-establish-cop-detailed.md)) as a safety net. If the PL's order is weak, TAC can coach/redirect before Friday execution.
 
-**Friday:** DFAC breakfast at 0700. SP shortly after chow — candidates must be moving early to meet the NLT. 1st Platoon moves tactically from the RTI through two checkpoints (CP ANVIL and CP FORGE) to COP Seggel. They clear the facility, establish perimeter security and the ECP, stand up the company CP, and prepare defensive positions. **COP established with CP operational NLT 1300** — this gives time for OPORD 002 in the afternoon.
+**Friday:** DFAC breakfast at 0700. SP shortly after chow — candidates must be moving early to meet the NLT. 1st Platoon moves tactically from the RTI through three checkpoints (CP ANVIL, CP FORGE, and CP HAMMER) to COP Seggel. They clear the facility, establish perimeter security and the ECP, stand up the company CP, and prepare defensive positions. **COP established with CP operational NLT 1300** — this gives time for OPORD 002 in the afternoon.
 
 Use the movement phase to evaluate basic competence: formations, movement techniques, security halts, danger area crossings. The clearing and occupation phase evaluates the SL's ability to transition from movement to offense to defense.
 

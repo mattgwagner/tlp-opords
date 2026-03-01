@@ -84,7 +84,7 @@ A Company seizes and secures COP Seggel (MP 0600 1550) NLT 1300L on 05 MAR 26 in
 **End State:** COP Seggel cleared and secured, perimeter established with ECP controlling access, company CP operational on company and platoon nets, defensive positions prepared against indirect fire and ground attack, force postured for sustained operations and follow-on missions.
 
 ### b. Concept of Operations
-A Company establishes COP Seggel as its forward operating base. 1st Platoon, the company's main effort, moves tactically from the RTI through CP ANVIL and CP FORGE to COP Seggel, clears and occupies the facility, establishes perimeter security and the company command post, and prepares to defend. Upon occupation, 1st Platoon transitions to defense and prepares for follow-on missions issued by company as FRAGOs. Indirect fire support is available through company on request.
+A Company establishes COP Seggel as its forward operating base. 1st Platoon, the company's main effort, moves tactically from the RTI through CP ANVIL, CP FORGE, and CP HAMMER to COP Seggel, clears and occupies the facility, establishes perimeter security and the company command post, and prepares to defend. Upon occupation, 1st Platoon transitions to defense and prepares for follow-on missions issued by company as FRAGOs. Indirect fire support is available through company on request.
 
 ### c. Scheme of Fires
 1st Platoon has priority of indirect fires. Indirect fire support available through company on request. Plan defensive fires for the Bradenton Avenue corridor (north and south) and the woodlines to the west, with particular attention to positions north of Jacksonville Street that could support REAPER indirect fire against the COP.
@@ -93,7 +93,7 @@ A Company establishes COP Seggel as its forward operating base. 1st Platoon, the
 
 **1. 1st Platoon (Main Effort — Decisive Operation):**
 
-- **TASK:** Move tactically from the RTI to COP Seggel via CP ANVIL (MP ____) and CP FORGE (MP ____). Maintain security throughout movement. Conduct a leader's reconnaissance of COP Seggel. Clear all buildings and facilities. Establish entrance control and perimeter security. Establish the company command post within a hardened structure with battle tracking and dual-net radio communications (company and platoon nets). Prepare defensive positions oriented toward the most dangerous avenues of approach. Maintain a QRF capability. Be prepared to sustain operations for a minimum of 48 hours and to execute follow-on missions as directed.
+- **TASK:** Move tactically from the RTI to COP Seggel via CP ANVIL (MP 0589 1455), CP FORGE (MP 0566 1465), and CP HAMMER (MP 0575 1524). Maintain security throughout movement. Conduct a leader's reconnaissance of COP Seggel. Clear all buildings and facilities. Establish entrance control and perimeter security. Establish the company command post within a hardened structure with battle tracking and dual-net radio communications (company and platoon nets). Prepare defensive positions oriented toward the most dangerous avenues of approach. Maintain a QRF capability. Be prepared to sustain operations for a minimum of 48 hours and to execute follow-on missions as directed.
 - **PURPOSE:** Seize and secure COP Seggel to establish the company's forward operating base and enable command and control of follow-on operations throughout AO HERRERA.
 
 ### e. Coordinating Instructions
@@ -124,7 +124,7 @@ A Company establishes COP Seggel as its forward operating base. 1st Platoon, the
 
 **4. Reporting:**
    - **Report to higher when SP'ing from RTI.**
-   - **Checkpoint Reports:** Upon reaching CP ANVIL and CP FORGE.
+   - **Checkpoint Reports:** Upon reaching CP ANVIL, CP FORGE, and CP HAMMER.
    - **Danger Area Reports:** Upon clearing each danger area along the route.
    - **In Position Report:** Upon completing security halt vicinity COP Seggel.
    - **Phase Reports:** Report when clearing is complete, when perimeter is established, when CP is operational.
@@ -135,8 +135,9 @@ A Company establishes COP Seggel as its forward operating base. 1st Platoon, the
 
 **5. Route and Checkpoints:**
    - SP: RTI (MP ____)
-   - CP ANVIL: (MP ____)
-   - CP FORGE: (MP ____)
+   - CP ANVIL: (MP 0589 1455)
+   - CP FORGE: (MP 0566 1465)
+   - CP HAMMER: (MP 0575 1524)
    - OBJ: COP Seggel (MP 0600 1550)
 
 **6.** This OPORD is effective upon receipt.
