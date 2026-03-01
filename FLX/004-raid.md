@@ -21,7 +21,7 @@ A Co. 4th BN-211th INF
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0600 1550). The ambush along Bradenton Avenue was successful — documents and a map captured from the REAPER resupply element reveal a weapons and supply cache at a position east of COP Seggel in the vicinity of MP 0611 1530. The cache includes ammunition, IED-making materials, communications equipment, and food stores. Intelligence indicates the cache is guarded by a small REAPER security element and is critical to REAPER's ability to sustain operations in AO HERRERA.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). The ambush along Bradenton Avenue was successful — documents and a map captured from the REAPER resupply element reveal a weapons and supply cache at a position east of COP Seggel in the vicinity of MP 0611 1530. The cache includes ammunition, IED-making materials, communications equipment, and food stores. Intelligence indicates the cache is guarded by a small REAPER security element and is critical to REAPER's ability to sustain operations in AO HERRERA.
 
 ### b. Area of Operations
 
@@ -167,7 +167,7 @@ A Company destroys REAPER weapons and supply cache (vicinity MP 0611 1530) NLT _
 3. Succession of Command (1st Platoon): PL, PSG, 1st SL, 2nd SL, 3rd SL.
 
 ### b. Control
-1. Company CP: COP Seggel (MP 0600 1550).
+1. Company CP: COP Seggel (MP 0610 1550).
 
 ### c. Signal
 

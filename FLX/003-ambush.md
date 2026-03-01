@@ -21,7 +21,7 @@ A Co. 4th BN-211th INF
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0600 1550). Reconnaissance operations have confirmed REAPER is using the Bradenton Avenue corridor south of COP Seggel to move supplies and personnel between positions. Patrols observed a REAPER resupply element moving north along Bradenton Avenue on a regular schedule, passing through the vicinity of MP 0600 1530. This route is REAPER's primary logistics line in AO HERRERA.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). Reconnaissance operations have confirmed REAPER is using the Bradenton Avenue corridor south of COP Seggel to move supplies and personnel between positions. Patrols observed a REAPER resupply element moving north along Bradenton Avenue on a regular schedule, passing through the vicinity of MP 0600 1530. This route is REAPER's primary logistics line in AO HERRERA.
 
 ### b. Area of Operations
 
@@ -167,7 +167,7 @@ A Company disrupts REAPER logistics in AO HERRERA by conducting an ambush along 
 3. Succession of Command (1st Platoon): PL, PSG, 1st SL, 2nd SL, 3rd SL.
 
 ### b. Control
-1. Company CP: COP Seggel (MP 0600 1550).
+1. Company CP: COP Seggel (MP 0610 1550).
 
 ### c. Signal
 

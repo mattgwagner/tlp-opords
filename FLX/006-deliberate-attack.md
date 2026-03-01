@@ -21,7 +21,7 @@ A Co. 4th BN-211th INF
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0600 1550). The REAPER counterattack on COP Seggel has been repelled. REAPER suffered significant casualties and has withdrawn its remaining forces to the road junction at Jacksonville Street and Bradenton Avenue (MP 0602 1565), approximately 150 meters north of the COP. This junction is REAPER's last stronghold in AO HERRERA — they are using the intersection and surrounding structures to consolidate, treat casualties, and prepare for either a last stand or withdrawal north out of the AO. The company commander has directed 1st Platoon to seize the junction before REAPER can regroup or escape.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). The REAPER counterattack on COP Seggel has been repelled. REAPER suffered significant casualties and has withdrawn its remaining forces to the road junction at Jacksonville Street and Bradenton Avenue (MP 0602 1565), approximately 150 meters north of the COP. This junction is REAPER's last stronghold in AO HERRERA — they are using the intersection and surrounding structures to consolidate, treat casualties, and prepare for either a last stand or withdrawal north out of the AO. The company commander has directed 1st Platoon to seize the junction before REAPER can regroup or escape.
 
 ### b. Area of Operations
 
@@ -167,7 +167,7 @@ A Company seizes OBJ HERRERA (MP 0602 1565) NLT ____ on ____ MAR 26 in order to 
 3. Succession of Command (1st Platoon): PL, PSG, 1st SL, 2nd SL, 3rd SL.
 
 ### b. Control
-1. Company CP: COP Seggel (MP 0600 1550).
+1. Company CP: COP Seggel (MP 0610 1550).
 
 ### c. Signal
 

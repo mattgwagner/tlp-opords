@@ -21,7 +21,7 @@ A Co. 4th BN-211th INF
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0600 1550). Overnight security observed REAPER movement in the woodlines north and northwest of COP Seggel. OP/LPs reported foot traffic, low-light signals, and radio transmissions consistent with a REAPER element repositioning. At least one REAPER probe was detected and repelled during the night. REAPER is massing or repositioning in the woodlines between COP Seggel and Jacksonville Street, likely in preparation for further offensive action.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). Overnight security observed REAPER movement in the woodlines north and northwest of COP Seggel. OP/LPs reported foot traffic, low-light signals, and radio transmissions consistent with a REAPER element repositioning. At least one REAPER probe was detected and repelled during the night. REAPER is massing or repositioning in the woodlines between COP Seggel and Jacksonville Street, likely in preparation for further offensive action.
 
 ### b. Area of Operations
 
@@ -168,7 +168,7 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
 3. Succession of Command (1st Platoon): PL, PSG, 1st SL, 2nd SL, 3rd SL.
 
 ### b. Control
-1. Company CP: COP Seggel (MP 0600 1550).
+1. Company CP: COP Seggel (MP 0610 1550).
 
 ### c. Signal
 

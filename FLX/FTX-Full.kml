@@ -89,12 +89,12 @@ Final waypoint before approach to COP. Last evaluation point before clearing ope
     <name>Bases &amp; Key Terrain</name>
 
     <Placemark>
-      <name>COP SEGGEL (MP 0600 1550)</name>
+      <name>COP SEGGEL (MP 0610 1550)</name>
       <description>Company forward operating base. 1st Platoon objective for OPORD 001.
 Facility complex — company CP, ECP, perimeter defense, COP for entire FLX weekend.
 NLT 1300L 05 MAR established with CP operational.</description>
       <styleUrl>#cop</styleUrl>
-      <Point><coordinates>-81.974273,29.966748,0</coordinates></Point>
+      <Point><coordinates>-81.973237,29.966756,0</coordinates></Point>
     </Placemark>
 
     <Placemark>
@@ -192,14 +192,6 @@ Security halt position during approach; SBF position for clearing operations.</d
 Key avenue of approach into COP from the north. Defensive orientation priority.</description>
       <styleUrl>#route</styleUrl>
       <Point><coordinates>-81.974282,29.967650,0</coordinates></Point>
-    </Placemark>
-
-    <Placemark>
-      <name>Eastern Access Roads (MP 0610 1550)</name>
-      <description>OPORD 013 (Detailed): East-west access roads east of COP.
-Secondary avenue of approach. Requires security coverage in defensive plan.</description>
-      <styleUrl>#route</styleUrl>
-      <Point><coordinates>-81.973237,29.966756,0</coordinates></Point>
     </Placemark>
 
     <Placemark>

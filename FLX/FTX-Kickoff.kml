@@ -43,11 +43,11 @@
   </Placemark>
 
   <Placemark>
-    <name>COP SEGGEL (MP 0600 1550)</name>
+    <name>COP SEGGEL (MP 0610 1550)</name>
     <description>Objective. Seize and secure NLT 1300L 05 MAR.
 Establish company CP, ECP, perimeter defense.</description>
     <styleUrl>#cop</styleUrl>
-    <Point><coordinates>-81.974273,29.966748,0</coordinates></Point>
+    <Point><coordinates>-81.973237,29.966756,0</coordinates></Point>
   </Placemark>
 
 </Document>

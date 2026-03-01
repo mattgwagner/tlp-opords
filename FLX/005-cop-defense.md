@@ -18,11 +18,11 @@ A Co. 4th BN-211th INF
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0600 1550). Over the past 36 hours, 1st Platoon has conducted aggressive operations from the COP — reconnaissance patrols mapped REAPER positions, an ambush destroyed a REAPER resupply element, and a raid eliminated a key weapons cache. REAPER leadership has consolidated remaining forces and is preparing to counterattack COP Seggel to push friendly forces out of AO HERRERA. Intelligence indicates REAPER will attack within the next 6-12 hours, most likely from the north along the Jacksonville Street corridor and from the woodlines west of the COP.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). Over the past 36 hours, 1st Platoon has conducted aggressive operations from the COP — reconnaissance patrols mapped REAPER positions, an ambush destroyed a REAPER resupply element, and a raid eliminated a key weapons cache. REAPER leadership has consolidated remaining forces and is preparing to counterattack COP Seggel to push friendly forces out of AO HERRERA. Intelligence indicates REAPER will attack within the next 6-12 hours, most likely from the north along the Jacksonville Street corridor and from the woodlines west of the COP.
 
 ### b. Area of Operations
 
-**1. Terrain.** COP Seggel is a facility complex at MP 0600 1550 with multiple buildings and hardened structures. Bradenton Avenue runs north-south along the east side of the COP. Jacksonville Street runs east-west approximately 150 meters north, intersecting Bradenton Avenue at MP 0602 1565. Dense woodlines surround the facility on all sides, restricting observation to under 50 meters except along the road corridors. The Bradenton Avenue corridor provides fields of fire to the north and south. The woodlines to the west and north provide concealed approaches for attacking forces. Buildings within the COP provide overhead cover and hardened defensive positions.
+**1. Terrain.** COP Seggel is a facility complex at MP 0610 1550 with multiple buildings and hardened structures. Bradenton Avenue runs north-south along the east side of the COP. Jacksonville Street runs east-west approximately 150 meters north, intersecting Bradenton Avenue at MP 0602 1565. Dense woodlines surround the facility on all sides, restricting observation to under 50 meters except along the road corridors. The Bradenton Avenue corridor provides fields of fire to the north and south. The woodlines to the west and north provide concealed approaches for attacking forces. Buildings within the COP provide overhead cover and hardened defensive positions.
 
    - **Key Terrain:** The intersection of Jacksonville Street and Bradenton Avenue (MP 0602 1565) is the most likely staging area for the REAPER assault. The woodlines north of the COP (between COP and Jacksonville St) provide the final covered and concealed approach for an attacking force. The woodlines west of the COP provide a secondary approach axis. Buildings with overhead cover within the COP are critical for the CP and for protection against indirect fire. Entrance points along Bradenton Avenue must be controlled to canalize attacking forces.
 
@@ -65,7 +65,7 @@ None.
 
 ## 2. MISSION
 
-A Company defends COP Seggel (MP 0600 1550) against REAPER counterattack NLT ____ on ____ MAR 26 in order to maintain the forward operating base and preserve combat capability for follow-on operations. 1st Platoon defends.
+A Company defends COP Seggel (MP 0610 1550) against REAPER counterattack NLT ____ on ____ MAR 26 in order to maintain the forward operating base and preserve combat capability for follow-on operations. 1st Platoon defends.
 
 ---
 
@@ -160,7 +160,7 @@ A Company defends COP Seggel (MP 0600 1550) against REAPER counterattack NLT ___
 3. Succession of Command (1st Platoon): PL, PSG, 1st SL, 2nd SL, 3rd SL.
 
 ### b. Control
-1. Company CP: COP Seggel (MP 0600 1550).
+1. Company CP: COP Seggel (MP 0610 1550).
 2. Alternate CP: Designated by 1st Platoon Leader within the COP perimeter.
 
 ### c. Signal

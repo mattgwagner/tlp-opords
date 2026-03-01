@@ -10,7 +10,7 @@
 >
 > **Mission Summary:** 1st Platoon is tasked to clear and occupy the facilities at COP Seggel, establish entrance and perimeter security, set up and operate the company command post, and prepare the COP as the base of operations for follow-on missions throughout the AO.
 >
-> **Destination:** COP Seggel, vicinity MP 0600 1550, AO HERRERA. Facility was previously occupied by host nation forces and has been vacated. Enemy presence is unknown.
+> **Destination:** COP Seggel, vicinity MP 0610 1550, AO HERRERA. Facility was previously occupied by host nation forces and has been vacated. Enemy presence is unknown.
 >
 > **Actions on Objective:** Platoon will conduct a leader's reconnaissance, systematically clear all facilities, establish entrance control and perimeter security, designate and establish the company command post with battle tracking and radio communications, and prepare defensive positions to hold the COP for a minimum of 48 hours without relief.
 >
@@ -53,13 +53,13 @@ Platoon Sergeant
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. COP Seggel is a facility complex at MP 0600 1550 within AO HERRERA. The facility was previously occupied by host nation security forces who have departed the area. It is unclear whether REAPER forces have moved to occupy or observe the facility since the host nation withdrawal. The road junction at Jacksonville Street and Bradenton Avenue (MP 0602 1565), approximately 150 meters north of COP Seggel, is a known area of REAPER activity and controls the primary avenue of approach into the AO from the north.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. COP Seggel is a facility complex at MP 0610 1550 within AO HERRERA. The facility was previously occupied by host nation security forces who have departed the area. It is unclear whether REAPER forces have moved to occupy or observe the facility since the host nation withdrawal. The road junction at Jacksonville Street and Bradenton Avenue (MP 0602 1565), approximately 150 meters north of COP Seggel, is a known area of REAPER activity and controls the primary avenue of approach into the AO from the north.
 
 ### b. Area of Operations
 
-**1. Terrain.** The AO consists of flat terrain with sandy soils and dense pine and hardwood forests throughout. Thick vegetation and tree canopy severely limit observation and fields of fire except along improved roads and clearings. COP Seggel is a facility complex situated along Bradenton Avenue at MP 0600 1550. Bradenton Avenue runs north-south through the center of the AO, serving as the primary improved road and avenue of approach. Jacksonville Street runs east-west approximately 150 meters north of the COP, intersecting Bradenton Avenue at MP 0602 1565. Clearwater Avenue runs north-south approximately 250 meters west of Bradenton Avenue, providing a secondary avenue of approach from the south and west. The facility complex includes multiple buildings and hardened structures surrounded by dense woodlines on all sides. Open areas within and immediately surrounding the facility provide limited fields of fire along the road corridors, but observation is restricted to under 50 meters in the surrounding woodlines. The dense forest canopy provides concealment for approaching forces but also limits observation from defensive positions within the COP.
+**1. Terrain.** The AO consists of flat terrain with sandy soils and dense pine and hardwood forests throughout. Thick vegetation and tree canopy severely limit observation and fields of fire except along improved roads and clearings. COP Seggel is a facility complex situated along Bradenton Avenue at MP 0610 1550. Bradenton Avenue runs north-south through the center of the AO, serving as the primary improved road and avenue of approach. Jacksonville Street runs east-west approximately 150 meters north of the COP, intersecting Bradenton Avenue at MP 0602 1565. Clearwater Avenue runs north-south approximately 250 meters west of Bradenton Avenue, providing a secondary avenue of approach from the south and west. The facility complex includes multiple buildings and hardened structures surrounded by dense woodlines on all sides. Open areas within and immediately surrounding the facility provide limited fields of fire along the road corridors, but observation is restricted to under 50 meters in the surrounding woodlines. The dense forest canopy provides concealment for approaching forces but also limits observation from defensive positions within the COP.
 
-   - **Key Terrain:** The facility complex at COP Seggel (MP 0600 1550) is the decisive terrain. The intersection of Jacksonville Street and Bradenton Avenue (MP 0602 1565), approximately 150 meters north of the COP, is key terrain that controls north-south and east-west movement through the AO and represents the most likely avenue of approach for REAPER reinforcement. Bradenton Avenue south of the COP provides a cleared lane of observation and fire along the southern approach. Entrance points to the facility along Bradenton Avenue are critical for controlling access. The dense woodlines surrounding the facility on all sides, particularly to the north and west, offer concealment for REAPER reconnaissance elements or assault forces approaching the COP. Buildings within the complex that provide overhead cover are critical for CP operations and protection against indirect fire.
+   - **Key Terrain:** The facility complex at COP Seggel (MP 0610 1550) is the decisive terrain. The intersection of Jacksonville Street and Bradenton Avenue (MP 0602 1565), approximately 150 meters north of the COP, is key terrain that controls north-south and east-west movement through the AO and represents the most likely avenue of approach for REAPER reinforcement. Bradenton Avenue south of the COP provides a cleared lane of observation and fire along the southern approach. Entrance points to the facility along Bradenton Avenue are critical for controlling access. The dense woodlines surrounding the facility on all sides, particularly to the north and west, offer concealment for REAPER reconnaissance elements or assault forces approaching the COP. Buildings within the complex that provide overhead cover are critical for CP operations and protection against indirect fire.
 
 **2. Weather.**
    - Skies: ________
@@ -102,7 +102,7 @@ None.
 
 ## 2. MISSION
 
-1st Platoon clears and occupies COP Seggel (MP 0600 1550) NLT ____ to establish entrance and perimeter security and establish the company command post in order to support follow-on operations in AO HERRERA.
+1st Platoon clears and occupies COP Seggel (MP 0610 1550) NLT ____ to establish entrance and perimeter security and establish the company command post in order to support follow-on operations in AO HERRERA.
 
 ---
 
@@ -207,7 +207,7 @@ None.
 3. Succession of Command: PL, PSG, 1st SL, 2nd SL, 3rd SL.
 
 ### b. Control
-1. Command Posts: Company CP at COP Seggel IVO MP 0600 1550.
+1. Command Posts: Company CP at COP Seggel IVO MP 0610 1550.
 2. Alternate CP: 1st Squad defensive sector (northern perimeter).
 
 ### c. Signal
@@ -247,7 +247,7 @@ None.
 
 | Grid (17R MP) | Location | Significance |
 |----------------|----------|-------------|
-| MP 0600 1550 | COP Seggel | Facility complex — objective for clearing and occupation |
+| MP 0610 1550 | COP Seggel | Facility complex — objective for clearing and occupation |
 | MP 0602 1565 | Jacksonville St / Bradenton Ave junction | Key terrain — controls northern approach, REAPER activity area |
 | MP 0600 1560 | Bradenton Ave, 100m north of COP | Northern approach corridor along Bradenton Ave |
 | MP 0575 1550 | Clearwater Ave, west of COP | Secondary avenue of approach from the west |
