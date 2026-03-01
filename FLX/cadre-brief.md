@@ -116,7 +116,8 @@ TACs own the evaluation mission — they write FLERs. The Infantry Cadre instruc
 - Saturday afternoon: Steps back from the candidate staff (independent planning evaluation) and floats between squads during execution
 - Safety net role — if a candidate is about to do something genuinely unsafe, Oppegard catches it before it becomes a problem
 
-**2 Infantry Cadre Instructors**
+**2 Infantry Cadre Instructors (SSG Souza, SSG Goehrig)**
+- Subject matter experts in infantry tactics, orders, and implementation. Available as tactical references throughout the FLX — candidates and cadre can consult them on tactics, TLP process, and order format. They do NOT write FLERs or manage the candidate staff.
 - **Primary role: OPFOR.** They run the enemy for every lane. This is the biggest gap you'd otherwise fill with candidates or TACs.
   - Friday: OPFOR for recon contact (002), OP element (007)
   - Saturday: OPFOR for MTC (008), resupply element (003), courier + escort (009), cache security (004), junction defense (006)
