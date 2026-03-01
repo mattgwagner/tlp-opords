@@ -149,8 +149,7 @@ A Company conducts area reconnaissance of the terrain surrounding COP Seggel NLT
 
 ### b. Health System Support
 1. CCP remains at COP Seggel.
-2. Each reconnaissance element carries aid bag.
-3. MEDEVAC available via Nine Line request at AXP 1.
+2. MEDEVAC available via Nine Line request at AXP 1.
 4. CASEVAC to COP Seggel if tactical situation permits.
 
 ---
