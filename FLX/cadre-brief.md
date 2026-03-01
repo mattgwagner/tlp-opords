@@ -118,12 +118,23 @@ TACs own the evaluation mission — they write FLERs. The Infantry Cadre instruc
 
 **2 Infantry Cadre Instructors (SSG Souza, SSG Goehrig)**
 - Subject matter experts in infantry tactics, orders, and implementation. Available as tactical references throughout the FLX — candidates and cadre can consult them on tactics, TLP process, and order format. They do NOT write FLERs or manage the candidate staff.
-- **Primary role: OPFOR.** They run the enemy for every lane. This is the biggest gap you'd otherwise fill with candidates or TACs.
+- **Split duties each lane: one runs OPFOR, the other walks the lane.** Alternate roles between lanes so both get time on each side.
+
+**Lane Walker Role (1 instructor per lane):**
+- Walks the lane alongside the TAC, observing tactical execution — formations, movement techniques, security, fire and maneuver, actions on the objective
+- During planning: sits in on the candidate's TLP/order brief and evaluates the tactical quality of the plan with the TAC. Two sets of eyes on whether the scheme of maneuver makes sense before candidates step off
+- During execution: provides real-time tactical feedback to the TAC on what they're seeing — "that flank is exposed," "they forgot rear security," "good use of terrain on the approach"
+- After the lane: delivers a tactical debrief to candidates alongside the TAC — what worked, what didn't, what doctrine says. The TAC handles the leadership evaluation; the instructor handles the tactical critique
+- This gives candidates feedback from an infantry SME perspective that complements the TAC's leadership evaluation
+
+**OPFOR Role (1 instructor per lane + former candidate):**
+- Runs the enemy for the current lane with the former candidate as the second OPFOR body
   - Friday: OPFOR for recon contact (002), OP element (007)
   - Saturday: OPFOR for MTC (008), resupply element (003), courier + escort (009), cache security (004), junction defense (006)
-  - 2 instructors is enough for most scenarios. For larger OPFOR needs (junction defense in 006), pull 1-2 candidates from notional COP security or use dropped candidates
-- **Secondary role: Tactical injects** — Between OPFOR commitments, simulate higher HQ radio traffic, deliver FRAGOs in character, or act as civilian role players for civil consideration scenarios
-- **Tertiary role: Overnight coaching** — One instructor walks the COP perimeter with the security element and coaches defensive operations (sector sketches, range cards, stand-to procedures) while the other rests
+  - For larger OPFOR needs (junction defense in 006), both instructors may need to run OPFOR — the lane walker role takes a backseat for that lane
+- Between OPFOR commitments: simulate higher HQ radio traffic, deliver FRAGOs in character, or act as civilian role players
+
+**Overnight:** One instructor walks the COP perimeter with the security element and coaches defensive operations (sector sketches, range cards, stand-to procedures) while the other rests
 
 **Former Candidate as OPFOR**
 - 1 dropped candidate available as additional OPFOR, giving the OPFOR element a 3-person team
@@ -138,16 +149,20 @@ TACs own the evaluation mission — they write FLERs. The Infantry Cadre instruc
 
 ### Rest/Coverage Plan (48-Hour Ops)
 
-| Time Block | TACs (3) | SFC Oppegard | Infantry Instructors (2) |
-|---|---|---|---|
-| **Thu PM** | All 3 — evaluating PL's TLP planning | Coaching as needed | Not yet arrived |
-| **Fri AM** | All 3 — COP establishment | Floating tactical coach | Arrive, receive OPFOR brief |
-| **Fri PM** | All 3 (1 per squad) | Floating | OPFOR for recon / OP clearance |
-| **Fri Night** | 2 on / 1 resting (rotate) | Rest | 1 on (OPFOR probes/noise), 1 rest |
-| **Sat AM** | 2 with squads, 1 at CP | Coaching candidate staff | OPFOR for MTC, ambush, intercept |
-| **Sat PM** | 2 with squads, 1 at CP | Floating between squads | OPFOR for raid, deliberate attack |
-| **Sat Night** | 2 on / 1 resting | Rest | 1 on (overnight OPFOR), 1 rest |
-| **Sun AM** | All 3 — AAR and recovery | Supports AAR | Supports AAR, then depart |
+| Time Block | TACs (3) | SFC Oppegard | Instructor A | Instructor B |
+|---|---|---|---|---|
+| **Thu PM** | All 3 — evaluating PL's TLP planning | Coaching as needed | Not yet arrived | Not yet arrived |
+| **Fri AM** | All 3 — COP establishment | Floating tactical coach | Arrive, receive brief | Arrive, receive brief |
+| **Fri PM (002)** | All 3 (1 per squad) | Floating | Lane walker w/ TAC | OPFOR (recon contact) |
+| **Fri PM (007)** | All 3 (1 per squad) | Floating | OPFOR (OP element) | Lane walker w/ TAC |
+| **Fri Night** | 2 on / 1 resting | Rest | COP coaching / rest | OPFOR probes / rest |
+| **Sat AM (008)** | 2 w/ squads, 1 at CP | Coaching candidate staff | Lane walker | OPFOR (MTC) |
+| **Sat AM (003)** | 2 w/ squads, 1 at CP | Coaching candidate staff | OPFOR (resupply) | Lane walker |
+| **Sat AM (009)** | 2 w/ squads, 1 at CP | Floating | Lane walker | OPFOR (courier) |
+| **Sat PM (004)** | 2 w/ squads, 1 at CP | Floating | OPFOR (cache) | Lane walker |
+| **Sat PM (006)** | 2 w/ squads, 1 at CP | Floating | Both OPFOR (junction — larger element needed) | |
+| **Sat Night** | 2 on / 1 resting | Rest | COP coaching / rest | OPFOR probes / rest |
+| **Sun AM** | All 3 — AAR and recovery | Supports AAR | Supports AAR | Supports AAR |
 
 ---
 
