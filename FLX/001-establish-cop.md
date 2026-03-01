@@ -69,7 +69,7 @@ None.
 
 ## 2. MISSION
 
-A Company seizes and secures COP Seggel (MP 0600 1550) NLT ____ on 05 MAR 26 in order to establish a forward operating base and enable follow-on operations in AO HERRERA. 1st Platoon is the main effort.
+A Company seizes and secures COP Seggel (MP 0600 1550) NLT 1300L on 05 MAR 26 in order to establish a forward operating base and enable follow-on operations in AO HERRERA. 1st Platoon is the main effort.
 
 ---
 

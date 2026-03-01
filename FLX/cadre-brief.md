@@ -26,7 +26,7 @@ Cadre issues each OPORD as a platoon-level order. The evaluated candidate (as SL
 | Day | Date | Events |
 |-----|------|--------|
 | **Thursday** | 05 MAR | FLX Preparation Training (candidate-led, classroom). Weapons/equipment draw. **PM: Candidate PL receives OPORD 001, conducts TLPs, briefs SLs.** |
-| **Friday** | 06 MAR | DFAC breakfast at 0700. SP shortly after chow. Establish COP (NLT early PM). Area recon. Clear REAPER OP (FRAGO). |
+| **Friday** | 06 MAR | DFAC breakfast at 0700. SP shortly after chow. Establish COP (NLT 1300). Area recon. Clear REAPER OP (FRAGO). |
 | **Saturday** | 07 MAR | Dawn MTC. Ambush. Intercept courier (FRAGO). Raid. Deliberate attack (capstone). Defensive prep overnight. |
 | **Sunday** | 08 MAR | Optional OPFOR attack on COP (early AM). ENDEX. Recovery, equipment turn-in, AAR. |
 
@@ -106,14 +106,14 @@ TACs own the evaluation mission — they write FLERs. The Infantry Cadre instruc
 
 **3 TACs (Wagner, McLellan, Walker)**
 - Friday: Each TAC shadows one of the 3 squads as primary evaluator
-- Saturday: 2 TACs follow the 2 maneuver squads, 1 TAC stays at the CP to evaluate the candidate company staff (see Saturday Reorganization below)
+- Saturday: CPT Wagner manages and evaluates the candidate company staff from the CP. SFC McLellan and 1LT Walker each follow one of the 2 maneuver squads as primary evaluators
 - TACs are the primary evaluators — they write FLERs and make lane coaching decisions
-- Rotate which TAC evaluates company staff vs. maneuver squads across Saturday lanes
 
 **SFC Oppegard (Tactical Instructor)**
 - Friday: Floats between squads during execution to provide tactical coaching *after* the evaluation moment — once the TAC has seen what they need to see, Oppegard coaches the candidate on what to do differently
-- Saturday morning: Coaches the candidate company staff through their first order briefs (the easing-in phase) while the TAC evaluates. He's the "experienced XO whispering in the new CO's ear" — helps them get the format right without doing it for them
-- Saturday afternoon: Steps back from the candidate staff (independent planning evaluation) and floats between squads during execution
+- Saturday: Sits in on order briefs (both candidate staff briefs to SLs and SL briefs to their squads) and critiques the tactical content — scheme of maneuver, task organization, fire control measures, actions on the objective. Focuses on whether the plan is tactically sound, not just formatted correctly
+- Walks lanes with TACs to observe and provide feedback on tactical execution — movement techniques, use of terrain, fire and maneuver, security
+- Available to talk tactics with candidates between lanes — "here's how I'd approach that ambush site," "let me walk you through why your SBF position didn't have the right fields of fire"
 - Safety net role — if a candidate is about to do something genuinely unsafe, Oppegard catches it before it becomes a problem
 
 **2 Infantry Cadre Instructors (SSG Souza, SSG Goehrig)**
@@ -156,29 +156,13 @@ TACs own the evaluation mission — they write FLERs. The Infantry Cadre instruc
 | **Fri PM (002)** | All 3 (1 per squad) | Floating | Lane walker w/ TAC | OPFOR (recon contact) |
 | **Fri PM (007)** | All 3 (1 per squad) | Floating | OPFOR (OP element) | Lane walker w/ TAC |
 | **Fri Night** | 2 on / 1 resting | Rest | COP coaching / rest | OPFOR probes / rest |
-| **Sat AM (008)** | 2 w/ squads, 1 at CP | Coaching candidate staff | Lane walker | OPFOR (MTC) |
-| **Sat AM (003)** | 2 w/ squads, 1 at CP | Coaching candidate staff | OPFOR (resupply) | Lane walker |
-| **Sat AM (009)** | 2 w/ squads, 1 at CP | Floating | Lane walker | OPFOR (courier) |
-| **Sat PM (004)** | 2 w/ squads, 1 at CP | Floating | OPFOR (cache) | Lane walker |
-| **Sat PM (006)** | 2 w/ squads, 1 at CP | Floating | Both OPFOR (junction — larger element needed) | |
+| **Sat AM (008)** | Wagner at CP w/ staff; McLellan, Walker w/ squads | Walking lanes / briefs | Lane walker | OPFOR (MTC) |
+| **Sat AM (003)** | Wagner at CP w/ staff; McLellan, Walker w/ squads | Walking lanes / briefs | OPFOR (resupply) | Lane walker |
+| **Sat AM (009)** | Wagner at CP w/ staff; McLellan, Walker w/ squads | Walking lanes / briefs | Lane walker | OPFOR (courier) |
+| **Sat PM (004)** | Wagner at CP w/ staff; McLellan, Walker w/ squads | Walking lanes / briefs | OPFOR (cache) | Lane walker |
+| **Sat PM (006)** | Wagner at CP w/ staff; McLellan, Walker w/ squads | Walking lanes / briefs | Both OPFOR (junction — larger element needed) | |
 | **Sat Night** | 2 on / 1 resting | Rest | COP coaching / rest | OPFOR probes / rest |
 | **Sun AM** | All 3 — AAR and recovery | Supports AAR | Supports AAR | Supports AAR |
-
----
-
-## Saturday Reorganization — 2 Squads + Company HQ
-
-On Saturday morning, the 3-squad organization becomes 2 overstrength squads plus a candidate-run Company HQ. Top-performing candidates are elevated to staff roles. See [candidate-company-staff-guide.md](candidate-company-staff-guide.md) for full details.
-
-| Element | Strength | Composition |
-|---------|----------|-------------|
-| **Company HQ** | 3 candidates | CO, XO, Battle Captain/RTO |
-| **1st Squad** | 11 candidates | SL + 2 fire teams (TL + 4 each) |
-| **2nd Squad** | 11 candidates | SL + 2 fire teams (TL + 4 each) |
-
-**Both squads leave the wire every lane.** One squad is main effort, the other is supporting effort (blocking, isolation, screening, security cordon). COP security is notional during Saturday operations. Main effort assignment rotates between squads across the day.
-
-**Order flow on Saturday:** Cadre → Candidate Staff → SLs directly (no separate candidate PL layer). Saturday morning the staff briefs cadre's order with minor refinements. Saturday afternoon the staff plans independently from a mission statement.
 
 ---
 
@@ -193,11 +177,11 @@ The company commander issues the base order on Thursday. The candidate PL has Th
 
 **Thursday:** Candidate PL receives OPORD 001, conducts TLPs, develops their plan, and briefs SLs. This is the first and biggest PL evaluation — can they take a company OPORD and produce a coherent platoon order with squad assignments? Cadre holds the detailed squad overlay ([013-establish-cop-detailed.md](013-establish-cop-detailed.md)) as a safety net. If the PL's order is weak, TAC can coach/redirect before Friday execution.
 
-**Friday:** DFAC breakfast at 0700. SP shortly after chow — candidates must be moving early to meet the NLT. 1st Platoon moves tactically from the RTI through two checkpoints (CP ANVIL and CP FORGE) to COP Seggel. They clear the facility, establish perimeter security and the ECP, stand up the company CP, and prepare defensive positions. **COP established with CP operational NLT early afternoon Friday** — this gives time for OPORD 002 in the afternoon.
+**Friday:** DFAC breakfast at 0700. SP shortly after chow — candidates must be moving early to meet the NLT. 1st Platoon moves tactically from the RTI through two checkpoints (CP ANVIL and CP FORGE) to COP Seggel. They clear the facility, establish perimeter security and the ECP, stand up the company CP, and prepare defensive positions. **COP established with CP operational NLT 1300** — this gives time for OPORD 002 in the afternoon.
 
 Use the movement phase to evaluate basic competence: formations, movement techniques, security halts, danger area crossings. The clearing and occupation phase evaluates the SL's ability to transition from movement to offense to defense.
 
-*Expected duration: 3-4 hours including movement (0730ish SP → ~1200 COP established)*
+*Expected duration: 3-4 hours including movement (0730ish SP → COP established NLT 1300)*
 
 **GSA Van delivery:** Once the COP is secure (perimeter established, ECP operational, facility cleared), cadre delivers the GSA van to the candidates' requested RP. Candidates unload their additional water and MREs. This is the sustainment transition — they've been on rucks since SP.
 
@@ -254,7 +238,21 @@ None of these need to be full lanes. They're short-duration events that keep can
 
 ### Saturday — Full Operations Tempo
 
-**Before the first lane:** Execute the Saturday reorganization (see above and [candidate-company-staff-guide.md](candidate-company-staff-guide.md)). Select 3 top performers for Company HQ. Reorganize remaining candidates into 2 squads of 11. Brief the candidate staff on their roles and the morning order flow.
+#### Saturday Reorganization — 2 Squads + Company HQ
+
+On Saturday morning, the 3-squad organization becomes 2 overstrength squads plus a candidate-run Company HQ. Top-performing candidates are elevated to staff roles. See [candidate-company-staff-guide.md](candidate-company-staff-guide.md) for full details.
+
+| Element | Strength | Composition |
+|---------|----------|-------------|
+| **Company HQ** | 3 candidates | CO, XO, Battle Captain/RTO |
+| **1st Squad** | 11 candidates | SL + 2 fire teams (TL + 4 each) |
+| **2nd Squad** | 11 candidates | SL + 2 fire teams (TL + 4 each) |
+
+**Both squads leave the wire every lane.** One squad is main effort, the other is supporting effort (blocking, isolation, screening, security cordon). COP security is notional during Saturday operations. Main effort assignment rotates between squads across the day.
+
+**Order flow on Saturday:** Cadre → Candidate Staff → SLs directly (no separate candidate PL layer). Saturday morning the staff briefs cadre's order with minor refinements. Saturday afternoon the staff plans independently from a mission statement.
+
+**Before the first lane:** Select 3 top performers for Company HQ. Reorganize remaining candidates into 2 squads of 11. Brief the candidate staff on their roles and the morning order flow.
 
 **OPORD 008 — "FIRST LIGHT"** *(Movement to Contact, ~0600–0800)*
 *Issued at COP Seggel — triggers at first light (0623)*
@@ -383,7 +381,7 @@ If cadre wants a final evaluation opportunity, trigger a REAPER counterattack on
 | **THU** | AM | FLX Preparation Training (candidate-led) | — | All rated SLs teach one block |
 | **THU** | PM | Candidate PL receives OPORD 001, conducts TLPs, briefs SLs | 001 | PL evaluation |
 | **FRI** | 0700 | DFAC breakfast | — | — |
-| **FRI** | ~0730–1200 | SP → Movement → Establish COP Seggel (NLT early PM) | 001 | #1 |
+| **FRI** | ~0730–1300 | SP → Movement → Establish COP Seggel (NLT 1300) | 001 | #1 |
 | **FRI** | 1200–1300 | Chow/rest rotation | — | — |
 | **FRI** | ~1300–1500 | Area Reconnaissance | 002 | #2 |
 | **FRI** | 1500–1530 | Chow/debrief | — | — |
