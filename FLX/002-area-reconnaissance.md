@@ -18,7 +18,7 @@ A Co. 4th BN-211th INF
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon has occupied COP Seggel (MP 0610 1550) and established entrance control, perimeter security, and the company command post. REAPER disposition in the surrounding area remains largely unknown. REAPER reconnaissance elements were observed during the movement from RTI but withdrew before contact. The company commander requires detailed intelligence on REAPER positions, routes, and activity in the area surrounding COP Seggel before committing to offensive operations.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. REAPER forces maintain presence across the broader AO HERRERA, with reported activity along the road network north and west of COP Seggel. REAPER reconnaissance elements were observed during the platoon's movement from RTI but withdrew before contact, indicating active surveillance of friendly operations. REAPER disposition in the surrounding area remains largely unknown.
 
 ### b. Area of Operations
 
