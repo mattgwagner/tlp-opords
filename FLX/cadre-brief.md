@@ -263,7 +263,15 @@ The reorganization was announced and executed Friday evening. By Saturday mornin
 
 **Both squads leave the wire every lane.** One squad is main effort, the other is supporting effort (blocking, isolation, screening, security cordon). COP security is notional during Saturday operations. Main effort assignment rotates between squads across the day.
 
-**Order flow on Saturday:** Cadre → Candidate Staff → SLs directly (no separate candidate PL layer). For the morning MTC, cadre gives the staff the order Friday night so they can prep overnight and brief SLs at stand-down. Subsequent Saturday lanes, cadre gives the staff the order during chow/rest breaks and the staff briefs SLs. Saturday afternoon the staff plans independently from a mission statement.
+**Order flow on Saturday:** Cadre → Candidate Staff → SLs directly (no separate candidate PL layer). Progressive scaffolding — staff independence increases across the day:
+
+| Lane | Staff receives order... | Detail level | Staff responsibility |
+|------|------------------------|--------------|---------------------|
+| 008 MTC | Friday evening | Platoon-level OPORD | Develop squad taskings overnight, brief SLs at stand-down |
+| 003 Ambush | During MTC execution | Platoon-level OPORD | Develop squad taskings, brief SLs at chow/rest |
+| 009 Intercept | During ambush execution | FRAGO (abbreviated) | Develop squad taskings from less information |
+| 004 Raid | During intercept execution | Platoon-level OPORD | Develop squad taskings (should be faster by now) |
+| 006 Deliberate Attack | During raid execution | **Mission statement only** | **Plan entire order independently (capstone)** |
 
 **Saturday morning sequence:**
 
@@ -292,13 +300,13 @@ Candidates are tired from overnight security operations — that's the point. Bu
 ---
 
 **OPORD 003 — "CUT THE LINE"** *(Ambush, ~1030–1230)*
-*Issued at COP Seggel*
+*Staff receives order during MTC execution (~0900). Staff briefs SLs at chow/rest.*
 
 Recon from OPORD 002 identified a REAPER resupply route along Bradenton Avenue. Intel indicates regular supply runs moving north past MP 0600 1530. The company commander orders an ambush to cut the supply line and capture intelligence.
 
-The SL must plan: ORP, ambush site, kill zone, assault/support/security, withdrawal route back to COP, and who stays behind to hold the COP. The critical planning challenge is the departure from and return to the COP — link-up procedures, recognition signals, and avoiding fratricide with the COP garrison.
+The OPORD is platoon-level only — no squad tasks assigned. The candidate staff receives the order while the MTC is still running, develops squad taskings (who is the ambush element, who blocks, withdrawal plan), and briefs SLs during the chow/rest period. SLs then plan their squad schemes: ORP, ambush site, kill zone, assault/support/security, withdrawal route. The critical planning challenge is the departure from and return to the COP — link-up procedures, recognition signals, and avoiding fratricide.
 
-**Cadre focus:** Ambush site selection, kill zone orientation, initiation criteria (what if civilians are in the kill zone?), speed on the objective, withdrawal discipline. Evaluate the SL's plan for time on objective — if they're spending 20 minutes searching, they're wrong.
+**Cadre focus:** Three evaluations. (1) Staff: developing squad taskings from a platoon-level order while the previous lane is still running — can they multitask? (2) SL plan: ambush site selection, kill zone orientation, initiation criteria (what if civilians are in the kill zone?), speed on the objective, withdrawal discipline. (3) Time on objective — if they're spending 20 minutes searching, they're wrong.
 
 **OPFOR:** REAPER supply element of 3-5 personnel with a lead scout. Play the scout 50-100 meters ahead. If the ambush is poorly set, have the scout detect it and the element withdraw. If it's well set, walk into the kill zone. After the ambush, have REAPER "react" by sending a patrol from the south 15-20 minutes later (this pressures the withdrawal timeline).
 
@@ -309,13 +317,13 @@ The SL must plan: ORP, ambush site, kill zone, assault/support/security, withdra
 ---
 
 **FRAGO 009 — "SNARE"** *(Intercept Courier, ~1300–1430)*
-*FRAGO issued at COP Seggel — reference OPORD 001*
+*Staff receives FRAGO during ambush execution (~1130). Staff briefs SLs at chow/rest.*
 
-Documents recovered during the raid on the REAPER weapons cache (OPORD 004 — *yes, the narrative is slightly out of sequence here; brief it as "documents recovered during the ambush" or simply as "new intelligence"*) indicate a REAPER courier carrying orders from higher command is expected to transit through the Clearwater Avenue corridor (vicinity MP 0575 1538) within 2 hours. Capture the courier and recover the communications.
+Documents recovered during the ambush (or simply "new intelligence") indicate a REAPER courier carrying orders from higher command is expected to transit through the Clearwater Avenue corridor (vicinity MP 0575 1538) within 2 hours. Capture the courier and recover the communications.
 
-This is the second FRAGO. The SL must plan and execute rapidly within a 2-hour window. The mission emphasizes capture over kill — the documents are the priority. Tests the SL's ability to set up a hasty intercept with minimal planning time.
+This is a FRAGO — shorter than a full OPORD but the staff must still develop squad taskings (intercept element, blocking/cordon, capture procedures). The staff receives the FRAGO while the ambush lane is executing, plans squad assignments, and briefs SLs during chow/rest. The 2-hour courier window creates real time pressure once the lane kicks off.
 
-**Cadre focus:** Speed of planning — the 2-hour courier window creates real time pressure. Does the SL set up a proper intercept (blocking positions, capture team) or just run out and hope? Balance between intercept force and COP security. Handling of the capture — do they secure the documents immediately or get caught up in detainee procedures?
+**Cadre focus:** Three evaluations. (1) Staff: planning from a FRAGO format — less information to work with, but the same requirement to produce squad taskings. Can they develop a coherent intercept plan from abbreviated information? (2) SL: speed of planning — does the SL set up a proper intercept (blocking positions, capture team) or just run out and hope? (3) Handling of the capture — do they secure the documents immediately or get caught up in detainee procedures?
 
 **OPFOR:** 1 courier + 1 escort, both armed with small arms. Traveling light and fast. If confronted, the escort delays while the courier escapes with documents. If capture is imminent, the courier attempts to destroy documents. Scale: if the SL's intercept is well-planned, the courier walks into it. If poorly planned, the escort spots them and the courier runs — allow a brief pursuit but don't let it spiral into a long chase.
 
@@ -326,11 +334,11 @@ This is the second FRAGO. The SL must plan and execute rapidly within a 2-hour w
 ---
 
 **OPORD 004 — "IRON STRIKE"** *(Raid, ~1500–1700)*
-*Issued at COP Seggel*
+*Staff receives order during intercept execution (~1330). Staff briefs SLs at chow/rest.*
 
-Documents captured in the ambush reveal a REAPER weapons cache at MP 0611 1530 (east of the COP). The cadre (as PL) orders a raid to destroy the cache. This is the most complex offensive operation in the FLX — the SL must plan an ORP, leader's recon, assault, site exploitation (search and collect intel before destroying), and withdrawal, all while maintaining COP security.
+Documents captured in the ambush reveal a REAPER weapons cache at MP 0611 1530 (east of the COP). The company commander orders a raid to destroy the cache. The OPORD is platoon-level only — the staff develops squad taskings (assault element, isolation/blocking, site exploitation plan) and briefs SLs. By this point the staff has done this three times (MTC, ambush, intercept) — they should be getting faster.
 
-**Cadre focus:** ORP selection, leader's recon plan, assault plan, time management on the objective (search THEN destroy — not the other way around), withdrawal route selection (different from approach), and COP security plan. The two key evaluation points: (1) Does the SL plan for the possibility that REAPER reinforced the cache after losing the supply element? (2) Does the SL set a time limit on the objective?
+**Cadre focus:** Three evaluations. (1) Staff: by the fourth order, the staff should be producing squad taskings efficiently — look for improvement in speed and quality from earlier lanes. (2) SL plan: ORP selection, leader's recon, assault plan, time management on the objective (search THEN destroy — not the other way around), withdrawal route selection (different from approach). (3) Key evaluation points: Does the SL plan for REAPER reinforcement? Does the SL set a time limit on the objective?
 
 **OPFOR:** 3-5 REAPER at the cache in a low-profile security posture. Scale resistance to the candidate — a strong SL gets a fight, a struggling SL gets a REAPER element that withdraws on contact. After the raid, regardless of outcome, REAPER consolidates north — this sets up OPORD 006.
 
@@ -340,12 +348,12 @@ Documents captured in the ambush reveal a REAPER weapons cache at MP 0611 1530 (
 
 ---
 
-**OPORD 006 — "FINAL ANVIL"** *(Deliberate Attack, ~1730–1900)*
-*Issued at COP Seggel*
+**OPORD 006 — "FINAL ANVIL"** *(Deliberate Attack — Capstone, ~1730–1900)*
+*Staff receives mission statement during raid execution (~1530). Staff plans entire order independently.*
 
-REAPER's remaining forces have consolidated at the Jacksonville Street / Bradenton Avenue junction (MP 0602 1565) — 150 meters north of the COP. The company commander orders 1st Platoon to seize the junction and finish REAPER in AO HERRERA. This is the capstone: a short-range deliberate attack from an established base against a known, degraded enemy position. **Last light is 1855 — this creates natural time pressure to complete the attack before dark.**
+REAPER's remaining forces have consolidated at the Jacksonville Street / Bradenton Avenue junction (MP 0602 1565) — 150 meters north of the COP. The company commander orders 1st Platoon to seize the junction and finish REAPER in AO HERRERA. **This is the capstone.** The staff receives only a mission statement — no OPORD, no situation paragraph, no scheme of maneuver. They must plan the entire order independently: enemy analysis, scheme of maneuver, squad taskings, fires, sustainment, everything. Cadre holds the detailed OPORD as a safety net. **Last light is 1855 — this creates natural time pressure to complete the attack before dark.**
 
-**Cadre focus:** SBF position selection, assault route (do NOT go straight up Bradenton Ave), security/blocking positions on Jacksonville St to prevent escape, consolidation on the objective. The proximity to the COP (150m) is a planning factor — the SL must still plan this properly, not just "run up the road."
+**Cadre focus:** This is the culminating evaluation for the candidate staff. (1) Staff: can they produce a complete, coherent order from a mission statement alone? Did they do their own terrain analysis? Did they think about SBF positions, assault routes, blocking positions on Jacksonville St? This is the test of everything they've learned across the day. (2) SL plan: assault route (do NOT go straight up Bradenton Ave), consolidation on the objective. The proximity to the COP (150m) is a planning factor — the SL must still plan this properly, not just "run up the road."
 
 **OPFOR:** 6-10 REAPER in hasty positions at the junction, oriented south. Low ammo, low morale. They fight but break when pressed. If the SL's plan is solid, REAPER collapses quickly. If the plan is poor (frontal assault up Bradenton), REAPER holds and inflicts casualties.
 
@@ -465,7 +473,7 @@ This schedule supports up to 9 evaluated SL rotations (8 required + 1 optional).
 | [005-cop-defense.md](005-cop-defense.md) | Defense against REAPER counterattack (optional Sunday) |
 | [006-deliberate-attack.md](006-deliberate-attack.md) | Seize OBJ HERRERA — Saturday capstone |
 | [007-frago-clear-reaper-op.md](007-frago-clear-reaper-op.md) | FRAGO — Clear REAPER OP west of COP (Friday PM) |
-| [008-movement-to-contact.md](008-movement-to-contact.md) | Dawn MTC into woodlines north of COP (Saturday AM) |
+| [008-movement-to-contact.md](008-movement-to-contact.md) | Morning MTC into woodlines north of COP (Saturday AM) |
 | [009-frago-intercept-courier.md](009-frago-intercept-courier.md) | FRAGO — Intercept REAPER courier (Saturday midday) |
 | [013-establish-cop.md](013-establish-cop.md) | Reference — original platoon-level COP OPORD |
 | [013-establish-cop-detailed.md](013-establish-cop-detailed.md) | Reference — detailed version with squad tasks |

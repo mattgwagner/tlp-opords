@@ -95,20 +95,7 @@ A Company disrupts REAPER logistics in AO HERRERA by conducting an ambush along 
 - **TASK:** Depart COP Seggel and move to an ORP vicinity the ambush site. Conduct a leader's reconnaissance of the ambush site. Establish a linear ambush along Bradenton Avenue (vicinity MP 0600 1530). Initiate the ambush on the REAPER resupply element. Sweep the kill zone. Collect all documents, electronics, maps, and materials of intelligence value. Withdraw to COP Seggel via a covered route.
 - **PURPOSE:** Sever REAPER's logistics line along Bradenton Avenue and capture intelligence to enable follow-on offensive operations.
 
-**1a. 2nd Squad (Ambush Element — Main Effort):**
-
-- **TASK:** Establish the linear ambush along Bradenton Avenue (vicinity MP 0600 1530). Organize into assault and support elements. Initiate the ambush on the REAPER resupply element. Assault through the kill zone — sweep, search, and collect all items of intelligence value. Withdraw to the ORP upon completion.
-- **PURPOSE:** Destroy the REAPER resupply element and capture intelligence materials.
-
-**1b. 1st Squad (Supporting Effort — Blocking Position / Withdrawal Security):**
-
-- **TASK:** Establish a blocking position south of the ambush site along the planned withdrawal route back to COP Seggel. Block REAPER reinforcement from the south along Bradenton Avenue. Upon 2nd Squad's withdrawal from the ambush site, provide rear security during movement back to COP Seggel. Be prepared to cover 2nd Squad's withdrawal if REAPER reinforcement responds to the ambush.
-- **PURPOSE:** Prevent REAPER reinforcement from disrupting the ambush and secure the platoon's withdrawal route back to COP Seggel.
-
-**1c. Company HQ:**
-
-- **TASK:** Maintain CP operations at COP Seggel. Track the ambush operation on the battle board. Process reports and coordinate indirect fire. Remaining company garrison elements maintain COP security (notional).
-- **PURPOSE:** Provide command and control for the operation and maintain the company CP.
+Both squads participate in the ambush. Squad-level task assignments are developed by the candidate company staff and briefed to SLs.
 
 ### e. Coordinating Instructions
 
