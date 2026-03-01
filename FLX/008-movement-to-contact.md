@@ -39,7 +39,7 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1s
    - Sunset: 1831
    - Last light: 1855
 
-Reduced visibility at first light. Candidates will be operating under fatigue from overnight security operations.
+Candidates will be operating under fatigue from overnight security operations.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER has been repositioning overnight. The element detected by OP/LPs is estimated at squad size and appears to be staging for either continued reconnaissance of COP Seggel or preparation for an attack. REAPER's exact location and disposition are unknown — that is the purpose of this operation.
@@ -80,12 +80,12 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
 
 **Purpose:** Disrupt REAPER preparations in the woodlines north of COP Seggel and prevent further enemy reconnaissance of friendly positions.
 
-**Key Tasks:** (1) Advance from COP Seggel into the woodlines north of the perimeter at first light. (2) Locate and engage the REAPER element. (3) Develop the situation — determine REAPER strength, disposition, and intent. (4) Maintain contact and report. Do not pursue beyond Jacksonville Street without orders.
+**Key Tasks:** (1) Advance from COP Seggel into the woodlines north of the perimeter upon order. (2) Locate and engage the REAPER element. (3) Develop the situation — determine REAPER strength, disposition, and intent. (4) Maintain contact and report. Do not pursue beyond Jacksonville Street without orders.
 
 **End State:** REAPER element located and engaged, enemy driven from the immediate vicinity of COP Seggel, platoon consolidated and returned to COP or holding a forward position as directed.
 
 ### b. Concept of Operations
-1st Platoon conducts a movement to contact from COP Seggel north into the woodlines at first light. The platoon advances using bounding overwatch, develops the situation upon contact, and engages the REAPER element. The platoon must maintain security of COP Seggel with elements not conducting the MTC. Do not pursue beyond Jacksonville Street. Upon breaking contact or driving REAPER from the area, consolidate and return to COP Seggel. Indirect fire support available through company on request.
+1st Platoon conducts a movement to contact from COP Seggel north into the woodlines upon order. The platoon advances using bounding overwatch, develops the situation upon contact, and engages the REAPER element. The platoon must maintain security of COP Seggel with elements not conducting the MTC. Do not pursue beyond Jacksonville Street. Upon breaking contact or driving REAPER from the area, consolidate and return to COP Seggel. Indirect fire support available through company on request.
 
 ### c. Scheme of Fires
 1st Platoon has priority of indirect fires. Priority of fires to the element in contact. Indirect fire support available through company on request.
@@ -94,29 +94,14 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
 
 **1. 1st Platoon (Main Effort — Decisive Operation):**
 
-- **TASK:** Depart COP Seggel and advance north into the woodlines at first light. Move using bounding overwatch. Locate and engage the REAPER element detected during overnight operations. Develop the situation — assess enemy strength and disposition before committing to decisive engagement. Do not advance beyond Jacksonville Street (MP 0602 1565) without further orders. Report all contact. Consolidate and return to COP Seggel upon completion.
+- **TASK:** Depart COP Seggel and advance north into the woodlines upon order. Move using bounding overwatch. Locate and engage the REAPER element detected during overnight operations. Develop the situation — assess enemy strength and disposition before committing to decisive engagement. Do not advance beyond Jacksonville Street (MP 0602 1565) without further orders. Report all contact. Consolidate and return to COP Seggel upon completion. Both squads participate in the advance. Company HQ maintains CP operations at COP Seggel.
 - **PURPOSE:** Disrupt REAPER operations in the vicinity of COP Seggel and prevent enemy forces from staging for an attack against the COP.
-
-**1a. 1st Squad (Advance Element — Main Effort):**
-
-- **TASK:** Lead the advance north from COP Seggel along the Bradenton Avenue axis into the woodlines. Move using bounding overwatch. Develop the situation upon contact — report enemy strength and disposition before committing to decisive engagement. If enemy contact is made, fix the enemy and report to allow 2nd Squad to maneuver. Do not advance beyond Jacksonville Street without orders.
-- **PURPOSE:** Locate and fix the REAPER element to enable the platoon to develop the situation and destroy the enemy force.
-
-**1b. 2nd Squad (Supporting Effort — Eastern Screen):**
-
-- **TASK:** Depart COP Seggel and advance north along a parallel route east of Bradenton Avenue through the woodlines. Screen the eastern flank of 1st Squad's advance. Prevent REAPER elements from flanking or encircling the advance element. Upon 1st Squad contact, maneuver to support — either envelop the enemy position or establish a blocking position to prevent enemy withdrawal east. Report all sightings and maintain communication with 1st Squad.
-- **PURPOSE:** Protect 1st Squad's flank during the advance and provide the platoon a maneuver element to exploit contact.
-
-**1c. Company HQ:**
-
-- **TASK:** Maintain CP operations at COP Seggel. Track both squad movements on the battle board. Process SALUTE and SITREP reports. Coordinate indirect fire requests. Remaining company garrison elements maintain COP security (notional).
-- **PURPOSE:** Provide command and control for the operation and maintain the company CP.
 
 ### e. Coordinating Instructions
 
 **1. Rules of Engagement (ROE):**
    1. Engage confirmed enemy combatants posing a threat.
-   2. Positively identify targets — visibility will be limited at first light.
+   2. Positively identify targets — visibility may be limited in the woodlines.
    3. Do not pursue beyond Jacksonville Street without orders.
    4. Challenge unknown personnel using challenge and password.
 
