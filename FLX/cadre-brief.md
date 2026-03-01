@@ -87,14 +87,14 @@ The student chain of command selects candidates to prepare and deliver training 
 
 | Role | Personnel | Available |
 |------|-----------|-----------|
-| **TAC 1** | MAJ Wagner | Thu–Sun |
+| **TAC 1** | CPT Wagner | Thu–Sun |
 | **TAC 2** | SFC McLellan | Thu–Sun |
 | **TAC 3** | 1LT Walker | Thu–Sun |
 | **Tactical Instructor** | SFC Oppegard | Thu–Sun |
 | **Infantry Cadre Instructor** | TBD | Fri–Sun |
 | **Infantry Cadre Instructor** | TBD | Fri–Sun |
 | **Senior Instructor** | CPT Kilpatrick | Available as needed |
-| **OPFOR (candidate)** | 1-2 dropped candidates | If available |
+| **OPFOR (former candidate)** | 1 dropped candidate | Fri–Sun |
 
 ### Core Principle: TACs Evaluate, Instructors Enable
 
@@ -122,11 +122,11 @@ TACs own the evaluation mission — they write FLERs. The Infantry Cadre instruc
 - **Secondary role: Tactical injects** — Between OPFOR commitments, simulate higher HQ radio traffic, deliver FRAGOs in character, or act as civilian role players for civil consideration scenarios
 - **Tertiary role: Overnight coaching** — One instructor walks the COP perimeter with the security element and coaches defensive operations (sector sketches, range cards, stand-to procedures) while the other rests
 
-**Dropped Candidates as OPFOR**
-- 1-2 candidates dropped from the class may be available as additional OPFOR
-- Useful for larger scenarios (deliberate attack, COP defense) where 2 instructors aren't enough
-- Keep them under the supervision of the Infantry Cadre instructors
-- They do NOT evaluate, coach, or interact with active candidates outside the OPFOR role
+**Former Candidate as OPFOR**
+- 1 dropped candidate available as additional OPFOR, giving the OPFOR element a 3-person team
+- Useful for larger scenarios (deliberate attack, COP defense) and allows the 2 instructors to split roles (e.g., one runs OPFOR while the other resets for the next lane)
+- Supervised by the Infantry Cadre instructors at all times
+- Does NOT evaluate, coach, or interact with active candidates outside the OPFOR role
 
 **CPT Kilpatrick (Senior Instructor)**
 - Available as TAC relief during rest rotations — if a TAC needs a longer break, Kilpatrick covers the evaluation position for a lane
