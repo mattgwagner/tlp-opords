@@ -9,7 +9,10 @@
 **Task Organization:**
 
 A Co. 4th BN-211th INF
-- 1st Platoon (3 squads) — at COP Seggel
+- 1st Platoon (2 squads + Company HQ) — at COP Seggel
+  - Company HQ (3 personnel) — CP operations
+  - 1st Squad (11 personnel)
+  - 2nd Squad (11 personnel)
 - 2nd Platoon (OPCON BN Reserve — not available)
 - 3rd Platoon (conducting operations elsewhere in AO)
 
@@ -91,8 +94,23 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
 
 **1. 1st Platoon (Main Effort — Decisive Operation):**
 
-- **TASK:** Depart COP Seggel and advance north into the woodlines at first light. Move using bounding overwatch. Locate and engage the REAPER element detected during overnight operations. Develop the situation — assess enemy strength and disposition before committing to decisive engagement. Maintain COP security with elements not conducting the MTC. Do not advance beyond Jacksonville Street (MP 0602 1565) without further orders. Report all contact. Consolidate and return to COP Seggel upon completion.
+- **TASK:** Depart COP Seggel and advance north into the woodlines at first light. Move using bounding overwatch. Locate and engage the REAPER element detected during overnight operations. Develop the situation — assess enemy strength and disposition before committing to decisive engagement. Do not advance beyond Jacksonville Street (MP 0602 1565) without further orders. Report all contact. Consolidate and return to COP Seggel upon completion.
 - **PURPOSE:** Disrupt REAPER operations in the vicinity of COP Seggel and prevent enemy forces from staging for an attack against the COP.
+
+**1a. 1st Squad (Advance Element — Main Effort):**
+
+- **TASK:** Lead the advance north from COP Seggel along the Bradenton Avenue axis into the woodlines. Move using bounding overwatch. Develop the situation upon contact — report enemy strength and disposition before committing to decisive engagement. If enemy contact is made, fix the enemy and report to allow 2nd Squad to maneuver. Do not advance beyond Jacksonville Street without orders.
+- **PURPOSE:** Locate and fix the REAPER element to enable the platoon to develop the situation and destroy the enemy force.
+
+**1b. 2nd Squad (Supporting Effort — Eastern Screen):**
+
+- **TASK:** Depart COP Seggel and advance north along a parallel route east of Bradenton Avenue through the woodlines. Screen the eastern flank of 1st Squad's advance. Prevent REAPER elements from flanking or encircling the advance element. Upon 1st Squad contact, maneuver to support — either envelop the enemy position or establish a blocking position to prevent enemy withdrawal east. Report all sightings and maintain communication with 1st Squad.
+- **PURPOSE:** Protect 1st Squad's flank during the advance and provide the platoon a maneuver element to exploit contact.
+
+**1c. Company HQ:**
+
+- **TASK:** Maintain CP operations at COP Seggel. Track both squad movements on the battle board. Process SALUTE and SITREP reports. Coordinate indirect fire requests. Remaining company garrison elements maintain COP security (notional).
+- **PURPOSE:** Provide command and control for the operation and maintain the company CP.
 
 ### e. Coordinating Instructions
 

@@ -9,7 +9,10 @@
 **Task Organization:**
 
 A Co. 4th BN-211th INF
-- 1st Platoon (3 squads) — at COP Seggel
+- 1st Platoon (2 squads + Company HQ) — at COP Seggel
+  - Company HQ (3 personnel) — CP operations
+  - 1st Squad (11 personnel)
+  - 2nd Squad (11 personnel)
 - 2nd Platoon (OPCON BN Reserve — not available)
 - 3rd Platoon (conducting operations elsewhere in AO)
 
@@ -89,8 +92,23 @@ A Company seizes OBJ HERRERA (MP 0602 1565) NLT ____ on ____ MAR 26 in order to 
 
 **1. 1st Platoon (Main Effort — Decisive Operation):**
 
-- **TASK:** Attack to seize OBJ HERRERA (MP 0602 1565). Depart COP Seggel and move to an ORP. Conduct a leader's reconnaissance. Establish a support-by-fire position to suppress the objective. Assault and seize the road junction. Block REAPER withdrawal routes along Jacksonville Street east and west of the junction. Search all personnel and positions on the objective. Consolidate and reorganize. Maintain a minimal security element at COP Seggel during the assault.
+- **TASK:** Attack to seize OBJ HERRERA (MP 0602 1565). Depart COP Seggel and move to an ORP. Conduct a leader's reconnaissance. Establish a support-by-fire position to suppress the objective. Assault and seize the road junction. Block REAPER withdrawal routes along Jacksonville Street east and west of the junction. Search all personnel and positions on the objective. Consolidate and reorganize.
 - **PURPOSE:** Destroy the last organized REAPER force in AO HERRERA and seize control of the key road junction to complete the company's mission of clearing the AO.
+
+**1a. 1st Squad (Assault Element — Main Effort):**
+
+- **TASK:** Assault OBJ HERRERA from a covered approach — do NOT assault directly up Bradenton Avenue. Maneuver to the objective using the woodlines for concealment. Clear all enemy positions at the road junction. Search all personnel and positions on the objective. Consolidate on the objective and report.
+- **PURPOSE:** Destroy the REAPER force at the junction and seize the key terrain.
+
+**1b. 2nd Squad (Support by Fire / Blocking — Supporting Effort):**
+
+- **TASK:** Establish a support-by-fire position to suppress enemy positions at OBJ HERRERA. Shift or cease fires on order when 1st Squad assaults. Upon seizure of the objective, establish a blocking position along Jacksonville Street to prevent REAPER withdrawal or reinforcement east and west of the junction.
+- **PURPOSE:** Suppress the enemy to enable 1st Squad's assault and block enemy escape routes to prevent REAPER from withdrawing and reconstituting.
+
+**1c. Company HQ:**
+
+- **TASK:** Maintain CP operations at COP Seggel. Track the attack on the battle board. Process reports and coordinate indirect fire. Remaining company garrison elements maintain COP security (notional).
+- **PURPOSE:** Provide command and control for the operation and maintain the company CP.
 
 ### e. Coordinating Instructions
 

@@ -32,13 +32,19 @@ No change to company mission. 1st Platoon intercepts a REAPER courier transiting
 
 **Changes to OPORD 001:**
 
-**Task to 1st Platoon:** Intercept and capture the REAPER courier transiting south along the Clearwater Avenue corridor (vicinity MP 0575 1538). Capture the courier alive if possible — the documents they carry are the priority. Prevent destruction of documents and communications equipment. Recover all materials and return to COP Seggel. Maintain COP security with elements not conducting the intercept.
+**Task to 1st Platoon:** Intercept and capture the REAPER courier transiting south along the Clearwater Avenue corridor (vicinity MP 0575 1538). Capture the courier alive if possible — the documents they carry are the priority. Prevent destruction of documents and communications equipment. Recover all materials and return to COP Seggel.
+
+**1st Squad (Intercept Element — Main Effort):** Move to the Clearwater Avenue corridor and establish a hasty ambush / intercept position (vicinity MP 0575 1538). Capture the courier and escort. Secure all documents and communications equipment — prevent destruction. If the courier attempts to flee, pursue briefly but do not overextend. Recover all materials and return to COP Seggel.
+
+**2nd Squad (Supporting Effort — Security Cordon):** Establish a cut-off position south of the intercept site along the Clearwater Avenue corridor to prevent the courier from escaping south. Block any REAPER element attempting to move north to assist the courier. Maintain communication with 1st Squad and be prepared to support the intercept.
+
+**Company HQ:** Maintain CP operations at COP Seggel. Track the intercept operation. Remaining company garrison elements maintain COP security (notional).
 
 **Commander's Guidance:**
 - Speed is critical — the courier window is limited. Plan rapidly.
 - Capture is preferred over kill. The courier's documents are more valuable than the courier.
 - If the courier detects the ambush and attempts to flee, pursue briefly but do not overextend. The documents are the objective, not a running fight through the woodlines.
-- This is a small-element operation — do not commit the entire platoon. Balance intercept force with COP security.
+- Both squads are committed — COP security is notional during this operation.
 
 **Coordinating Instructions:**
 - Report when departing COP, when in position, and upon contact.

@@ -81,6 +81,89 @@ The student chain of command selects candidates to prepare and deliver training 
 
 ---
 
+## Cadre Employment Plan
+
+### Roster
+
+| Role | Personnel | Available |
+|------|-----------|-----------|
+| **TAC 1** | MAJ Wagner | Thu–Sun |
+| **TAC 2** | SFC McLellan | Thu–Sun |
+| **TAC 3** | 1LT Walker | Thu–Sun |
+| **Tactical Instructor** | SFC Oppegard | Thu–Sun |
+| **Infantry Cadre Instructor** | TBD | Fri–Sun |
+| **Infantry Cadre Instructor** | TBD | Fri–Sun |
+| **Senior Instructor** | CPT Kilpatrick | Available as needed |
+| **OPFOR (candidate)** | 1-2 dropped candidates | If available |
+
+### Core Principle: TACs Evaluate, Instructors Enable
+
+TACs own the evaluation mission — they write FLERs. The Infantry Cadre instructors and SFC Oppegard provide tactical depth, OPFOR, and coaching without diluting TAC evaluation focus. TACs do NOT run OPFOR.
+
+### Role Assignments
+
+**3 TACs (Wagner, McLellan, Walker)**
+- Friday: Each TAC shadows one of the 3 squads as primary evaluator
+- Saturday: 2 TACs follow the 2 maneuver squads, 1 TAC stays at the CP to evaluate the candidate company staff (see Saturday Reorganization below)
+- TACs are the primary evaluators — they write FLERs and make lane coaching decisions
+- Rotate which TAC evaluates company staff vs. maneuver squads across Saturday lanes
+
+**SFC Oppegard (Tactical Instructor)**
+- Friday: Floats between squads during execution to provide tactical coaching *after* the evaluation moment — once the TAC has seen what they need to see, Oppegard coaches the candidate on what to do differently
+- Saturday morning: Coaches the candidate company staff through their first order briefs (the easing-in phase) while the TAC evaluates. He's the "experienced XO whispering in the new CO's ear" — helps them get the format right without doing it for them
+- Saturday afternoon: Steps back from the candidate staff (independent planning evaluation) and floats between squads during execution
+- Safety net role — if a candidate is about to do something genuinely unsafe, Oppegard catches it before it becomes a problem
+
+**2 Infantry Cadre Instructors**
+- **Primary role: OPFOR.** They run the enemy for every lane. This is the biggest gap you'd otherwise fill with candidates or TACs.
+  - Friday: OPFOR for recon contact (002), OP element (007)
+  - Saturday: OPFOR for MTC (008), resupply element (003), courier + escort (009), cache security (004), junction defense (006)
+  - 2 instructors is enough for most scenarios. For larger OPFOR needs (junction defense in 006), pull 1-2 candidates from notional COP security or use dropped candidates
+- **Secondary role: Tactical injects** — Between OPFOR commitments, simulate higher HQ radio traffic, deliver FRAGOs in character, or act as civilian role players for civil consideration scenarios
+- **Tertiary role: Overnight coaching** — One instructor walks the COP perimeter with the security element and coaches defensive operations (sector sketches, range cards, stand-to procedures) while the other rests
+
+**Dropped Candidates as OPFOR**
+- 1-2 candidates dropped from the class may be available as additional OPFOR
+- Useful for larger scenarios (deliberate attack, COP defense) where 2 instructors aren't enough
+- Keep them under the supervision of the Infantry Cadre instructors
+- They do NOT evaluate, coach, or interact with active candidates outside the OPFOR role
+
+**CPT Kilpatrick (Senior Instructor)**
+- Available as TAC relief during rest rotations — if a TAC needs a longer break, Kilpatrick covers the evaluation position for a lane
+- Extra set of eyes during the Saturday afternoon capstone (006 deliberate attack) when maximum observation on the final evaluation event is valuable
+- Not formally tasked — available on request
+
+### Rest/Coverage Plan (48-Hour Ops)
+
+| Time Block | TACs (3) | SFC Oppegard | Infantry Instructors (2) |
+|---|---|---|---|
+| **Thu PM** | All 3 — evaluating PL's TLP planning | Coaching as needed | Not yet arrived |
+| **Fri AM** | All 3 — COP establishment | Floating tactical coach | Arrive, receive OPFOR brief |
+| **Fri PM** | All 3 (1 per squad) | Floating | OPFOR for recon / OP clearance |
+| **Fri Night** | 2 on / 1 resting (rotate) | Rest | 1 on (OPFOR probes/noise), 1 rest |
+| **Sat AM** | 2 with squads, 1 at CP | Coaching candidate staff | OPFOR for MTC, ambush, intercept |
+| **Sat PM** | 2 with squads, 1 at CP | Floating between squads | OPFOR for raid, deliberate attack |
+| **Sat Night** | 2 on / 1 resting | Rest | 1 on (overnight OPFOR), 1 rest |
+| **Sun AM** | All 3 — AAR and recovery | Supports AAR | Supports AAR, then depart |
+
+---
+
+## Saturday Reorganization — 2 Squads + Company HQ
+
+On Saturday morning, the 3-squad organization becomes 2 overstrength squads plus a candidate-run Company HQ. Top-performing candidates are elevated to staff roles. See [candidate-company-staff-guide.md](candidate-company-staff-guide.md) for full details.
+
+| Element | Strength | Composition |
+|---------|----------|-------------|
+| **Company HQ** | 3 candidates | CO, XO, Battle Captain/RTO |
+| **1st Squad** | 11 candidates | SL + 2 fire teams (TL + 4 each) |
+| **2nd Squad** | 11 candidates | SL + 2 fire teams (TL + 4 each) |
+
+**Both squads leave the wire every lane.** One squad is main effort, the other is supporting effort (blocking, isolation, screening, security cordon). COP security is notional during Saturday operations. Main effort assignment rotates between squads across the day.
+
+**Order flow on Saturday:** Cadre → Candidate Staff → SLs directly (no separate candidate PL layer). Saturday morning the staff briefs cadre's order with minor refinements. Saturday afternoon the staff plans independently from a mission statement.
+
+---
+
 ## The Arc
 
 ### Friday — Establish and Orient
@@ -146,6 +229,8 @@ None of these need to be full lanes. They're short-duration events that keep can
 ---
 
 ### Saturday — Full Operations Tempo
+
+**Before the first lane:** Execute the Saturday reorganization (see above and [candidate-company-staff-guide.md](candidate-company-staff-guide.md)). Select 3 top performers for Company HQ. Reorganize remaining candidates into 2 squads of 11. Brief the candidate staff on their roles and the morning order flow.
 
 **OPORD 008 — "FIRST LIGHT"** *(Movement to Contact, ~0600–0800)*
 *Issued at COP Seggel — triggers at first light (0623)*
@@ -339,6 +424,7 @@ This schedule supports up to 9 evaluated SL rotations (8 required + 1 optional).
 | [009-frago-intercept-courier.md](009-frago-intercept-courier.md) | FRAGO — Intercept REAPER courier (Saturday midday) |
 | [013-establish-cop.md](013-establish-cop.md) | Reference — original platoon-level COP OPORD |
 | [013-establish-cop-detailed.md](013-establish-cop-detailed.md) | Reference — detailed version with squad tasks |
+| [candidate-company-staff-guide.md](candidate-company-staff-guide.md) | Saturday reorganization, staff roles, selection criteria, order flow |
 
 ---
 

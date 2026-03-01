@@ -9,7 +9,10 @@
 **Task Organization:**
 
 A Co. 4th BN-211th INF
-- 1st Platoon (3 squads) — at COP Seggel
+- 1st Platoon (2 squads + Company HQ) — at COP Seggel
+  - Company HQ (3 personnel) — CP operations
+  - 1st Squad (11 personnel)
+  - 2nd Squad (11 personnel)
 - 2nd Platoon (OPCON BN Reserve — not available)
 - 3rd Platoon (conducting operations elsewhere in AO)
 
@@ -89,8 +92,23 @@ A Company destroys REAPER weapons and supply cache (vicinity MP 0611 1530) NLT _
 
 **1. 1st Platoon (Main Effort — Decisive Operation):**
 
-- **TASK:** Depart COP Seggel and move to an ORP in the vicinity of the cache site. Conduct a leader's reconnaissance. Raid the REAPER cache at vicinity MP 0611 1530 — eliminate the security element, secure the site, search all structures and containers. Collect all documents, maps, electronics, and items of intelligence value. Destroy all weapons, ammunition, and IED materials. Withdraw to COP Seggel via a covered route. Maintain security of COP Seggel with elements not conducting the raid.
+- **TASK:** Depart COP Seggel and move to an ORP in the vicinity of the cache site. Conduct a leader's reconnaissance. Raid the REAPER cache at vicinity MP 0611 1530 — eliminate the security element, secure the site, search all structures and containers. Collect all documents, maps, electronics, and items of intelligence value. Destroy all weapons, ammunition, and IED materials. Withdraw to COP Seggel via a covered route.
 - **PURPOSE:** Destroy REAPER's logistics base to deny them the ability to sustain combat operations in AO HERRERA and exploit captured intelligence for follow-on operations.
+
+**1a. 2nd Squad (Assault Element — Main Effort):**
+
+- **TASK:** Assault and seize the REAPER cache site at vicinity MP 0611 1530. Eliminate the security element. Systematically search all structures and containers — collect all documents, maps, electronics, and items of intelligence value BEFORE destroying cache materials. Destroy all weapons, ammunition, and IED materials. Manage time on the objective — complete search and destruction within the allocated time. Withdraw to the ORP upon completion.
+- **PURPOSE:** Seize and exploit the cache to deny REAPER logistics capability and gather intelligence for follow-on operations.
+
+**1b. 1st Squad (Supporting Effort — Isolation):**
+
+- **TASK:** Establish isolation positions around the cache site to prevent REAPER reinforcement or escape. Block the most likely reinforcement routes from the north and west. Provide early warning of approaching enemy forces. Be prepared to support 2nd Squad's withdrawal from the objective if REAPER reinforces. Maintain security of the ORP.
+- **PURPOSE:** Isolate the objective so 2nd Squad can conduct the raid without interference from REAPER reinforcement.
+
+**1c. Company HQ:**
+
+- **TASK:** Maintain CP operations at COP Seggel. Track the raid operation on the battle board. Process reports and coordinate indirect fire. Remaining company garrison elements maintain COP security (notional).
+- **PURPOSE:** Provide command and control for the operation and maintain the company CP.
 
 ### e. Coordinating Instructions
 
