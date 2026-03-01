@@ -30,7 +30,7 @@ No change to company mission. 1st Platoon clears the suspected REAPER observatio
 
 **Changes to OPORD 001:**
 
-**Task to 1st Platoon:** Clear the suspected REAPER OP at vicinity MP 0580 1550. Destroy or capture the enemy element. Recover any communications equipment, maps, or documents. Return to COP Seggel before dark. Maintain COP security with elements not conducting the clearance.
+**Task to 1st Platoon:** 3rd Squad clears the suspected REAPER OP at vicinity MP 0580 1550. Destroy or capture the enemy element. Recover any communications equipment, maps, or documents. Return to COP Seggel before dark. 1st and 2nd Squads maintain COP security.
 
 **Coordinating Instructions:**
 - This is a time-sensitive mission — the OP is actively reporting our positions. Plan rapidly and execute.

@@ -192,9 +192,9 @@ Use the movement phase to evaluate basic competence: formations, movement techni
 **OPORD 002 — "MAP THE AO"** *(Area Reconnaissance, ~1300–1500)*
 *Issued from COP Seggel once occupation is complete*
 
-The cadre (as PL) needs to know what's around us. The evaluated SL receives the order and must plan a reconnaissance of two Named Areas of Interest: NAI 1 (Jacksonville Street corridor, MP 0602 1565) and NAI 2 (western woodlines / Clearwater Ave corridor, MP 0575 1538). The SL has to decide how to organize recon elements and COP security with the personnel available.
+The cadre (as PL) briefs the platoon order to all three SLs: the platoon needs to reconnoiter two NAIs while maintaining COP security. 1st Squad gets NAI 1 (Jacksonville Street corridor, MP 0602 1565). 2nd Squad gets NAI 2 (western woodlines / Clearwater Ave corridor, MP 0575 1538). 3rd Squad has COP security — ECP, perimeter, CP operations, and QRF. Each SL then plans how their squad executes their assigned task: patrol composition, routes, formations, actions on contact, rally points, reporting plan, timeline.
 
-**Cadre focus:** Recon planning, stealth, reporting discipline, balancing recon effort with COP security. The SL who sends everyone out and leaves the COP exposed is wrong. The SL who keeps too many back and sends a token patrol is playing it too safe. Look for the balance.
+**Cadre focus:** All three SLs are evaluated simultaneously on their planning and execution. Recon SLs: patrol planning, stealth, reporting discipline, actions on the objective. COP security SL: maintaining the defense, tracking recon elements, running the QRF. Each TAC shadows one squad.
 
 **OPFOR:** REAPER observation posts in both NAIs. They observe and withdraw — do not engage the recon patrols. If a patrol is loud or sloppy, have REAPER shadow them and report. This feeds the narrative: REAPER now knows we're patrolling.
 
@@ -209,9 +209,9 @@ The cadre (as PL) needs to know what's around us. The evaluated SL receives the 
 
 Recon patrols report a suspected REAPER observation post in a structure approximately 200 meters west of COP Seggel (vicinity MP 0580 1550). The OP has line of sight to the COP's western perimeter and the ECP. It is actively reporting our defensive layout and patrol patterns to REAPER higher. This is time-sensitive — clear it before dark.
 
-This is the first FRAGO in the FLX. The evaluated SL receives abbreviated information and must plan rapidly from less detail than a full OPORD. Tests transition from "we just got back from recon" to "you need to go back out right now."
+This is the first FRAGO in the FLX. 3rd Squad gets the mission — they've been on COP security while 1st and 2nd Squads were out on recon, so they're fresh and it's their turn outside the wire. The 3rd SL receives abbreviated information and must plan rapidly from less detail than a full OPORD. Tests transition from "holding the COP" to "you need to go out right now."
 
-**Cadre focus:** Rapid planning from fragmentary information. The SL gets a FRAGO, not a full OPORD — they have to fill in the gaps themselves. Evaluate how they handle the compressed timeline while still producing a coherent plan. Watch for the SL who rushes out without a plan versus the one who plans too long and loses the daylight window.
+**Cadre focus:** Rapid planning from fragmentary information. The SL gets a FRAGO, not a full OPORD — they have to fill in the gaps themselves. Evaluate how they handle the compressed timeline while still producing a coherent plan. Watch for the SL who rushes out without a plan versus the one who plans too long and loses the daylight window. 1st and 2nd SLs take over COP security — minor evaluation on their ability to absorb the defense from 3rd Squad.
 
 **OPFOR:** 2-3 REAPER at the OP with radio and observation equipment. They are monitoring, not fighting — attempt withdrawal when detected. If the SL's approach is stealthy, REAPER doesn't detect them until it's too late. If the approach is loud, REAPER withdraws and the SL finds an empty position with abandoned equipment.
 
