@@ -252,7 +252,7 @@ On Saturday morning, the 3-squad organization becomes 2 overstrength squads plus
 
 **Order flow on Saturday:** Cadre → Candidate Staff → SLs directly (no separate candidate PL layer). Saturday morning the staff briefs cadre's order with minor refinements. Saturday afternoon the staff plans independently from a mission statement.
 
-**Before the first lane:** Select 3 top performers for Company HQ. Reorganize remaining candidates into 2 squads of 11. Brief the candidate staff on their roles and the morning order flow.
+**Before the first lane:** Select 3 top performers for Company HQ. Reorganize remaining candidates into 2 squads of 11. Brief the candidate staff on their roles and the morning order flow. (Lopeman? Renner? Hennink? Ruiz?)
 
 **OPORD 008 — "FIRST LIGHT"** *(Movement to Contact, ~0600–0800)*
 *Issued at COP Seggel — triggers at first light (0623)*
