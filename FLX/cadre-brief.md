@@ -83,9 +83,9 @@ The student chain of command selects candidates to prepare and deliver training 
 
 ## The Arc
 
-### Friday (Day 1) — Establish and Orient
+### Friday — Establish and Orient
 
-**OPORD 001 — "ESTABLISH COP SEGGEL"**
+**OPORD 001 — "ESTABLISH COP SEGGEL"** *(~0800–1200)*
 *Briefed at the RTI before SP*
 
 The company commander issues the base order. 1st Platoon moves tactically from the RTI through two checkpoints (CP ANVIL and CP FORGE) to COP Seggel. They clear the facility, establish perimeter security and the ECP, stand up the company CP, and prepare defensive positions.
@@ -94,9 +94,11 @@ This is not a TLP lane — it's a briefed order that the candidates execute. Use
 
 *Expected duration: 3-4 hours including movement*
 
+**Chow/Rest:** Hot chow (MRE) and water resupply upon COP establishment. 30-minute rest rotation before issuing OPORD 002.
+
 ---
 
-**OPORD 002 — "MAP THE AO"** *(Area Reconnaissance)*
+**OPORD 002 — "MAP THE AO"** *(Area Reconnaissance, ~1300–1500)*
 *Issued from COP Seggel once occupation is complete*
 
 The cadre (as PL) needs to know what's around us. The evaluated SL receives the order and must plan a reconnaissance of two Named Areas of Interest: NAI 1 (Jacksonville Street corridor, MP 0602 1565) and NAI 2 (western woodlines / Clearwater Ave corridor, MP 0575 1538). The SL has to decide how to organize recon elements and COP security with the personnel available.
@@ -107,11 +109,30 @@ The cadre (as PL) needs to know what's around us. The evaluated SL receives the 
 
 *Expected duration: 2 hours*
 
+**Chow/Rest:** 30-minute chow rotation (MRE) after recon teams return. Debrief recon findings before issuing FRAGO 007.
+
+---
+
+**FRAGO 007 — "CLEAR THE OP"** *(~1530–1730)*
+*FRAGO issued at COP Seggel — reference OPORD 001*
+
+Recon patrols report a suspected REAPER observation post in a structure approximately 200 meters west of COP Seggel (vicinity MP 0580 1550). The OP has line of sight to the COP's western perimeter and the ECP. It is actively reporting our defensive layout and patrol patterns to REAPER higher. This is time-sensitive — clear it before dark.
+
+This is the first FRAGO in the FLX. The evaluated SL receives abbreviated information and must plan rapidly from less detail than a full OPORD. Tests transition from "we just got back from recon" to "you need to go back out right now."
+
+**Cadre focus:** Rapid planning from fragmentary information. The SL gets a FRAGO, not a full OPORD — they have to fill in the gaps themselves. Evaluate how they handle the compressed timeline while still producing a coherent plan. Watch for the SL who rushes out without a plan versus the one who plans too long and loses the daylight window.
+
+**OPFOR:** 2-3 REAPER at the OP with radio and observation equipment. They are monitoring, not fighting — attempt withdrawal when detected. If the SL's approach is stealthy, REAPER doesn't detect them until it's too late. If the approach is loud, REAPER withdraws and the SL finds an empty position with abandoned equipment.
+
+*Expected duration: 2 hours (last light 1854 — creates natural time pressure)*
+
 ---
 
 ### Friday Night — COP Operations
 
 No formal lanes overnight. The candidates run the COP: security rotation, rest plan, CP operations, radio watch. This is where you evaluate candidates on sustainment, battle tracking, and managing the rest/security balance.
+
+**Chow/Rest:** Evening MRE rotation after FRAGO 007 is complete. Enforce a rest plan — candidates must sleep in shifts. Cadre should verify the SL has a written rest/security roster.
 
 **Inject options:**
 - REAPER probe of the perimeter (small element, breaks contact quickly)
@@ -120,13 +141,30 @@ No formal lanes overnight. The candidates run the COP: security rotation, rest p
 - FRAGO from company requesting a SITREP or LACE report
 - Simulated indirect fire (one or two rounds) to test overhead cover and dispersion
 
-None of these need to be full lanes. They're short-duration events that keep candidates engaged and create evaluation moments.
+None of these need to be full lanes. They're short-duration events that keep candidates engaged and create evaluation moments. **Keep overnight injects manageable — candidates need some rest for the heavy Saturday schedule.**
 
 ---
 
-### Saturday Morning
+### Saturday — Full Operations Tempo
 
-**OPORD 003 — "CUT THE LINE"** *(Ambush)*
+**OPORD 008 — "FIRST LIGHT"** *(Movement to Contact, ~0600–0800)*
+*Issued at COP Seggel — triggers at first light (0623)*
+
+Overnight security observed REAPER movement in the woodlines north and northwest of COP Seggel. OP/LPs reported foot traffic, low-light signals, and radio transmissions. At least one REAPER probe was detected and repelled. REAPER is massing or repositioning — 1st Platoon conducts a movement to contact at first light to locate and engage.
+
+This is the early kickoff lane. The SL receives the order during the pre-dawn hours and must plan under fatigue after overnight security operations. The dawn timing creates limited visibility conditions and tests candidates who are tired — that's the point.
+
+**Cadre focus:** Planning under fatigue. Movement technique selection (bounding overwatch in limited visibility). Developing the situation — does the SL commit everything on first contact or assess first? Does the SL maintain COP security while pushing the MTC element forward? Limit of advance is Jacksonville Street — does the SL track this?
+
+**OPFOR:** Squad-sized REAPER element (6-8) in the woodlines between COP Seggel and Jacksonville Street. MPCOA: REAPER breaks contact and withdraws north upon detecting the advance. MDCOA: REAPER has set a hasty ambush along a likely patrol route. Scale to the candidate — a strong SL gets the ambush, a struggling SL gets the withdrawal.
+
+*Expected duration: 2 hours*
+
+**Chow/Rest:** Hot chow rotation (MRE) after MTC element returns to COP. 45-minute rest/refit before issuing OPORD 003. Cadre uses this time to assess COP status and prepare for the ambush lane.
+
+---
+
+**OPORD 003 — "CUT THE LINE"** *(Ambush, ~0900–1100)*
 *Issued at COP Seggel*
 
 Recon from OPORD 002 identified a REAPER resupply route along Bradenton Avenue. Intel indicates regular supply runs moving north past MP 0600 1530. The company commander orders an ambush to cut the supply line and capture intelligence.
@@ -139,61 +177,93 @@ The SL must plan: ORP, ambush site, kill zone, assault/support/security, withdra
 
 *Expected duration: 2 hours*
 
+**Chow/Rest:** 30-minute chow rotation after return to COP. Brief refit before FRAGO 009.
+
 ---
 
-### Saturday Afternoon
+**FRAGO 009 — "SNARE"** *(Intercept Courier, ~1130–1330)*
+*FRAGO issued at COP Seggel — reference OPORD 001*
 
-**OPORD 004 — "IRON STRIKE"** *(Raid)*
+Documents recovered during the raid on the REAPER weapons cache (OPORD 004 — *yes, the narrative is slightly out of sequence here; brief it as "documents recovered during the ambush" or simply as "new intelligence"*) indicate a REAPER courier carrying orders from higher command is expected to transit through the Clearwater Avenue corridor (vicinity MP 0575 1538) within 2 hours. Capture the courier and recover the communications.
+
+This is the second FRAGO. The SL must plan and execute rapidly within a 2-hour window. The mission emphasizes capture over kill — the documents are the priority. Tests the SL's ability to set up a hasty intercept with minimal planning time.
+
+**Cadre focus:** Speed of planning — the 2-hour courier window creates real time pressure. Does the SL set up a proper intercept (blocking positions, capture team) or just run out and hope? Balance between intercept force and COP security. Handling of the capture — do they secure the documents immediately or get caught up in detainee procedures?
+
+**OPFOR:** 1 courier + 1 escort, both armed with small arms. Traveling light and fast. If confronted, the escort delays while the courier escapes with documents. If capture is imminent, the courier attempts to destroy documents. Scale: if the SL's intercept is well-planned, the courier walks into it. If poorly planned, the escort spots them and the courier runs — allow a brief pursuit but don't let it spiral into a long chase.
+
+*Expected duration: 2 hours*
+
+**Chow/Rest:** Extended 1-hour chow and rest rotation (~1330-1430). This is the midday break. Candidates eat, refit, and rest before the afternoon's heavy operations. Cadre uses this time to set up the raid objective and brief OPFOR.
+
+---
+
+**OPORD 004 — "IRON STRIKE"** *(Raid, ~1430–1630)*
 *Issued at COP Seggel*
 
 Documents captured in the ambush reveal a REAPER weapons cache at MP 0611 1530 (east of the COP). The cadre (as PL) orders a raid to destroy the cache. This is the most complex offensive operation in the FLX — the SL must plan an ORP, leader's recon, assault, site exploitation (search and collect intel before destroying), and withdrawal, all while maintaining COP security.
 
 **Cadre focus:** ORP selection, leader's recon plan, assault plan, time management on the objective (search THEN destroy — not the other way around), withdrawal route selection (different from approach), and COP security plan. The two key evaluation points: (1) Does the SL plan for the possibility that REAPER reinforced the cache after losing the supply element? (2) Does the SL set a time limit on the objective?
 
-**OPFOR:** 3-5 REAPER at the cache in a low-profile security posture. Scale resistance to the candidate — a strong SL gets a fight, a struggling SL gets a REAPER element that withdraws on contact. After the raid, regardless of outcome, REAPER "decides to counterattack the COP" — this sets up OPORD 005.
+**OPFOR:** 3-5 REAPER at the cache in a low-profile security posture. Scale resistance to the candidate — a strong SL gets a fight, a struggling SL gets a REAPER element that withdraws on contact. After the raid, regardless of outcome, REAPER consolidates north — this sets up OPORD 006.
 
 *Expected duration: 2 hours*
 
----
-
-### Saturday Night — Transition to Defense
-
-After the raid, brief candidates that intelligence indicates REAPER is consolidating for a counterattack. This creates urgency for the overnight defensive preparations. The SL receiving OPORD 005 should be identified and briefed before the overnight period so they can use the time to plan and improve positions.
-
-**Overnight inject options:**
-- REAPER recon probes testing the perimeter (evaluates alert status)
-- Indirect fire simulation (evaluates overhead cover, dispersion, and CP continuity)
-- Company FRAGO requesting an updated defensive plan with sector sketches
+**Chow/Rest:** 30-minute chow rotation after return to COP. Brief candidates that REAPER is consolidating at the Jacksonville Street junction.
 
 ---
 
-### Sunday Morning
+**OPORD 006 — "FINAL ANVIL"** *(Deliberate Attack, ~1700–1900)*
+*Issued at COP Seggel*
 
-**OPORD 005 — "HOLD THE LINE"** *(COP Defense)*
-*Issued at COP Seggel — can be triggered at stand-to*
-
-REAPER has consolidated and is counterattacking COP Seggel. The attack comes from the north (Bradenton Ave corridor / Jacksonville St junction) and west (woodlines). The SL must have defensive positions prepared, sectors of fire assigned, OP/LPs out, engagement areas planned, indirect fire targets registered, and a QRF designated.
-
-**Cadre focus:** Sector sketches, interlocking fields of fire, engagement area development, OP/LP positioning, QRF employment, indirect fire planning, and CP continuity under fire. The defense should feel like a test of everything they've built over the past 36 hours — if positions are good, the defense succeeds. If positions are sloppy, REAPER penetrates.
-
-**OPFOR:** Main attack from the north along Bradenton Ave, supporting attack from the west through the woodlines. Open with simulated indirect fire (2-3 minutes), then assault. Scale intensity to the defense — if positions are strong, press harder to create decision points. If positions are weak, penetrate and force the SL to commit the QRF. The attack should last 20-30 minutes.
-
-*Expected duration: 2 hours (including preparation time)*
-
----
-
-### Sunday Late Morning (If Time Permits)
-
-**OPORD 006 — "FINAL ANVIL"** *(Deliberate Attack)*
-*Issued at COP Seggel after repelling the counterattack*
-
-REAPER's counterattack failed. Their surviving forces have withdrawn to the Jacksonville Street / Bradenton Avenue junction (MP 0602 1565) — 150 meters north of the COP. Cadre (as PL) orders the element to seize the junction and finish REAPER in AO HERRERA. This is the capstone: a short-range deliberate attack from an established base against a known, degraded enemy position.
+REAPER's remaining forces have consolidated at the Jacksonville Street / Bradenton Avenue junction (MP 0602 1565) — 150 meters north of the COP. The company commander orders 1st Platoon to seize the junction and finish REAPER in AO HERRERA. This is the capstone: a short-range deliberate attack from an established base against a known, degraded enemy position. **Last light is 1855 — this creates natural time pressure to complete the attack before dark.**
 
 **Cadre focus:** SBF position selection, assault route (do NOT go straight up Bradenton Ave), security/blocking positions on Jacksonville St to prevent escape, consolidation on the objective. The proximity to the COP (150m) is a planning factor — the SL must still plan this properly, not just "run up the road."
 
 **OPFOR:** 6-10 REAPER in hasty positions at the junction, oriented south. Low ammo, low morale. They fight but break when pressed. If the SL's plan is solid, REAPER collapses quickly. If the plan is poor (frontal assault up Bradenton), REAPER holds and inflicts casualties.
 
-*Expected duration: 1.5-2 hours*
+*Expected duration: 1.5-2 hours (complete before last light 1855)*
+
+---
+
+### Saturday Night — Transition to Rest
+
+After the deliberate attack, consolidate back at COP Seggel. Hot chow (MRE), water resupply. Maintain COP security with a rest/security rotation. Brief candidates that AO HERRERA is effectively cleared but residual REAPER elements may attempt a spoiling attack overnight.
+
+**Overnight inject options (keep light — candidates are exhausted):**
+- Single REAPER probe testing the perimeter (evaluates alert status)
+- Company FRAGO requesting an updated SITREP and ACE/LACE
+- Simulated indirect fire (one round) to test stand-to procedures
+
+**Priority is rest.** Saturday is the heaviest day of the FLX. Candidates need sleep before Sunday.
+
+---
+
+### Sunday Morning — ENDEX
+
+**OPORD 005 — "HOLD THE LINE"** *(COP Defense — OPTIONAL)*
+*Triggered at stand-to if cadre chooses to execute*
+
+If cadre wants a final evaluation opportunity, trigger a REAPER counterattack on the COP at first light (0722 EDT — note time change). This is optional — execute only if there are candidates who still need an evaluated lane or if the defense looks like it needs testing.
+
+**If executed:** REAPER attacks from the north along Bradenton Ave with a supporting attack from the west through the woodlines. Open with simulated indirect fire (2-3 minutes), then assault. Keep the attack to 15-20 minutes — this is a bookend, not a marathon.
+
+**OPFOR:** Scale to available OPFOR and energy level. A short, sharp attack that tests the overnight defensive preparations. If positions are good, the defense succeeds quickly. If sloppy, REAPER penetrates and creates a decision point.
+
+**If not executed:** Move directly to ENDEX procedures after morning stand-to.
+
+---
+
+**ENDEX and Recovery** *(~0800–1100 EDT)*
+
+- ENDEX called after optional defense or at cadre's discretion
+- Transition from tactical to administrative posture
+- Police call of all training areas, COP, objective sites
+- Weapons/equipment accountability and turn-in
+- Blank ammo accountability
+- AAR — structured hot wash by lane, then overall FLX AAR
+- Equipment turn-in to Range Control
+- Depart CBJTC
 
 ---
 
@@ -203,17 +273,27 @@ REAPER's counterattack failed. Their surviving forces have withdrawn to the Jack
 |-----|------|-------|-------|-------------|
 | **THU** | AM/PM | FLX Preparation Training (candidate-led) | — | All rated SLs teach one block |
 | **FRI** | 0700 | DFAC breakfast | — | — |
-| **FRI** | ~0800 | Receive OPORD, SP from RTI | 001 | #1 |
-| **FRI** | PM | Area Reconnaissance | 002 | #2 |
+| **FRI** | ~0800–1200 | Establish COP Seggel | 001 | #1 |
+| **FRI** | 1200–1300 | Chow/rest rotation | — | — |
+| **FRI** | ~1300–1500 | Area Reconnaissance | 002 | #2 |
+| **FRI** | 1500–1530 | Chow/debrief | — | — |
+| **FRI** | ~1530–1730 | Clear REAPER OP (FRAGO) | 007 | #3 |
+| **FRI** | 1730+ | Evening chow, rest/security rotation | — | Rotate leadership |
 | **FRI** | Night | COP Operations (no formal lane) | — | Rotate leadership |
-| **SAT** | AM | Ambush | 003 | #3 |
-| **SAT** | PM | Raid | 004 | #4 |
-| **SAT** | Night | Defensive Prep (no formal lane) | — | #5 (prep) |
-| **SUN** | AM | COP Defense | 005 | #5 |
-| **SUN** | Late AM | Deliberate Attack (if time) | 006 | #6 |
-| **SUN** | PM | ENDEX, recovery, equipment turn-in, AAR | — | — |
+| **SAT** | ~0600–0800 | Movement to Contact (dawn) | 008 | #4 |
+| **SAT** | 0800–0900 | Chow/rest/refit | — | — |
+| **SAT** | ~0900–1100 | Ambush | 003 | #5 |
+| **SAT** | 1100–1130 | Chow rotation | — | — |
+| **SAT** | ~1130–1330 | Intercept Courier (FRAGO) | 009 | #6 |
+| **SAT** | 1330–1430 | Extended chow/rest | — | — |
+| **SAT** | ~1430–1630 | Raid | 004 | #7 |
+| **SAT** | 1630–1700 | Chow rotation | — | — |
+| **SAT** | ~1700–1900 | Deliberate Attack (capstone) | 006 | #8 |
+| **SAT** | 1900+ | Evening chow, rest/security rotation | — | Rotate leadership |
+| **SUN** | ~0722 | Optional COP Defense at stand-to | 005 | #9 (optional) |
+| **SUN** | ~0800–1100 | ENDEX, recovery, equipment turn-in, AAR | — | — |
 
-Adjust SL candidate assignments based on class size and evaluation needs. If you have more candidates than lanes, double up — evaluate two candidates simultaneously (e.g., SL and a team leader with specific tasks).
+This schedule supports up to 9 evaluated SL rotations (8 required + 1 optional). Adjust candidate assignments based on class size. If you have more candidates than lanes, double up — evaluate two candidates simultaneously (e.g., SL and a team leader with specific tasks). If you have fewer, drop the optional Sunday defense and consolidate.
 
 ---
 
@@ -223,11 +303,13 @@ Adjust SL candidate assignments based on class size and evaluation needs. If you
 - Planning from an established base (not a cold start at an AA)
 - Departure from and return to a friendly position (link-up, recognition, fratricide prevention)
 - Cumulative effects of decisions (poor COP setup makes the defense harder)
-- Sustained operations under fatigue (Sunday morning candidates are tired — that's the point)
+- Sustained operations under fatigue (Saturday dawn MTC — candidates are tired from overnight, that's the point)
+- Rapid planning from FRAGOs with incomplete information (007, 009)
 - CP operations and battle tracking as a continuous activity, not a one-time setup
 - Direct application of Thursday's preparation training (radios, ECP, CP ops, defensive planning)
+- Time-pressure decision making (courier window, last-light deadlines)
 
-**Thursday training → FLX connection:** Watch whether the SL who taught defensive planning actually applies it on Saturday night. Watch whether the candidate who taught ECP ops runs a sloppy ECP. The preparation training is their chance to study the material — the FLX is the test.
+**Thursday training → FLX connection:** Watch whether the SL who taught defensive planning actually applies it at the COP. Watch whether the candidate who taught ECP ops runs a sloppy ECP. The preparation training is their chance to study the material — the FLX is the test.
 
 **Common candidate failures to watch for:**
 - Leaving the COP undefended while conducting offensive operations
@@ -235,7 +317,9 @@ Adjust SL candidate assignments based on class size and evaluation needs. If you
 - No time limit on the objective during the raid
 - Defensive positions with no overhead cover or gaps in sectors of fire
 - Failing to coordinate with adjacent elements or report to higher (cadre as PL)
-- No rest plan — running everyone into the ground by Day 2
+- No rest plan — running everyone into the ground by Saturday afternoon
+- Freezing on FRAGOs — spending too long planning when the situation demands speed
+- Treating the courier intercept as a patrol instead of setting a deliberate blocking position
 
 ---
 
@@ -248,8 +332,11 @@ Adjust SL candidate assignments based on class size and evaluation needs. If you
 | [002-area-reconnaissance.md](002-area-reconnaissance.md) | Area recon of two NAIs |
 | [003-ambush.md](003-ambush.md) | Ambush on REAPER supply route |
 | [004-raid.md](004-raid.md) | Raid on REAPER weapons cache |
-| [005-cop-defense.md](005-cop-defense.md) | Defense against REAPER counterattack |
-| [006-deliberate-attack.md](006-deliberate-attack.md) | Seize OBJ HERRERA — capstone |
+| [005-cop-defense.md](005-cop-defense.md) | Defense against REAPER counterattack (optional Sunday) |
+| [006-deliberate-attack.md](006-deliberate-attack.md) | Seize OBJ HERRERA — Saturday capstone |
+| [007-frago-clear-reaper-op.md](007-frago-clear-reaper-op.md) | FRAGO — Clear REAPER OP west of COP (Friday PM) |
+| [008-movement-to-contact.md](008-movement-to-contact.md) | Dawn MTC into woodlines north of COP (Saturday AM) |
+| [009-frago-intercept-courier.md](009-frago-intercept-courier.md) | FRAGO — Intercept REAPER courier (Saturday midday) |
 | [013-establish-cop.md](013-establish-cop.md) | Reference — original platoon-level COP OPORD |
 | [013-establish-cop-detailed.md](013-establish-cop-detailed.md) | Reference — detailed version with squad tasks |
 
