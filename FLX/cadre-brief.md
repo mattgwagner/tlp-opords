@@ -185,7 +185,7 @@ Use the movement phase to evaluate basic competence: formations, movement techni
 
 **GSA Van delivery:** Once the COP is secure (perimeter established, ECP operational, facility cleared), cadre delivers the GSA van to the candidates' requested RP. Candidates unload their additional water and MREs. This is the sustainment transition — they've been on rucks since SP.
 
-**Chow/Rest:** Hot chow (MRE) and water resupply upon COP establishment. 30-minute rest rotation before issuing OPORD 002.
+**Chow/Rest:** Chow (MRE) and water resupply upon COP establishment. 30-minute rest rotation before issuing OPORD 002.
 
 ---
 
@@ -267,7 +267,7 @@ This is the early kickoff lane. The SL receives the order during the pre-dawn ho
 
 *Expected duration: 2 hours*
 
-**Chow/Rest:** Hot chow rotation (MRE) after MTC element returns to COP. 45-minute rest/refit before issuing OPORD 003. Cadre uses this time to assess COP status and prepare for the ambush lane.
+**Chow/Rest:** Chow rotation (MRE) after MTC element returns to COP. 45-minute rest/refit before issuing OPORD 003. Cadre uses this time to assess COP status and prepare for the ambush lane.
 
 ---
 
@@ -335,7 +335,7 @@ REAPER's remaining forces have consolidated at the Jacksonville Street / Bradent
 
 ### Saturday Night — Transition to Rest
 
-After the deliberate attack, consolidate back at COP Seggel. Hot chow (MRE), water resupply. Maintain COP security with a rest/security rotation. Brief candidates that AO HERRERA is effectively cleared but residual REAPER elements may attempt a spoiling attack overnight.
+After the deliberate attack, consolidate back at COP Seggel. Chow (MRE), water resupply. Maintain COP security with a rest/security rotation. Brief candidates that AO HERRERA is effectively cleared but residual REAPER elements may attempt a spoiling attack overnight.
 
 **Overnight inject options (keep light — candidates are exhausted):**
 - Single REAPER probe testing the perimeter (evaluates alert status)

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>FLX Weekend - AO HERRERA</name>
+  <description>OCS Class 065 Field Leadership Exercise, 05-08 MAR 2026, Camp Blanding, FL. All grid references 17R MP.</description>
+
+  <!-- Styles -->
+  <Style id="cop">
+    <IconStyle>
+      <color>ff0000ff</color>
+      <scale>1.4</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/square.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>1.2</scale></LabelStyle>
+  </Style>
+  <Style id="objective">
+    <IconStyle>
+      <color>ff0000ff</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/target.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>1.0</scale></LabelStyle>
+  </Style>
+  <Style id="nai">
+    <IconStyle>
+      <color>ff00ffff</color>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>1.0</scale></LabelStyle>
+  </Style>
+  <Style id="enemy">
+    <IconStyle>
+      <color>ff0000ff</color>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/forbidden.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>1.0</scale></LabelStyle>
+  </Style>
+  <Style id="friendly">
+    <IconStyle>
+      <color>ffff0000</color>
+      <scale>1.0</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.9</scale></LabelStyle>
+  </Style>
+  <Style id="route">
+    <IconStyle>
+      <color>ff00ff00</color>
+      <scale>1.0</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-diamond.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>0.9</scale></LabelStyle>
+  </Style>
+
+  <!-- === BASES & KEY TERRAIN === -->
+  <Folder>
+    <name>Bases &amp; Key Terrain</name>
+
+    <Placemark>
+      <name>COP SEGGEL (MP 0600 1550)</name>
+      <description>Company forward operating base. 1st Platoon objective for OPORD 001.
+Facility complex — company CP, ECP, perimeter defense, COP for entire FLX weekend.
+NLT 1300L 05 MAR established with CP operational.</description>
+      <styleUrl>#cop</styleUrl>
+      <Point><coordinates>-81.974273,29.966748,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>OBJ HERRERA — Jax St / Bradenton Junction (MP 0602 1565)</name>
+      <description>Jacksonville Street and Bradenton Avenue junction, 150m north of COP.
+Key terrain: controls northern approach into AO.
+- NAI 1 (OPORD 002): Recon target, 300m E-W corridor
+- REAPER staging area (OPORD 005: COP Defense)
+- OBJ HERRERA (OPORD 006: Deliberate Attack — capstone)
+- Limit of advance (OPORD 008: MTC)</description>
+      <styleUrl>#objective</styleUrl>
+      <Point><coordinates>-81.974079,29.968103,0</coordinates></Point>
+    </Placemark>
+
+  </Folder>
+
+  <!-- === NAMED AREAS OF INTEREST === -->
+  <Folder>
+    <name>Named Areas of Interest</name>
+
+    <Placemark>
+      <name>NAI 1 — Jacksonville St Corridor (vic MP 0602 1565)</name>
+      <description>OPORD 002 (Area Recon): 1st Squad recon target.
+Jacksonville Street corridor extending 300m east and west of the Bradenton Ave junction.
+Look for: REAPER positions, obstacles, routes, supply activity.</description>
+      <styleUrl>#nai</styleUrl>
+      <Point><coordinates>-81.974079,29.968103,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>NAI 2 — Clearwater Ave Corridor (vic MP 0575 1538)</name>
+      <description>OPORD 002 (Area Recon): 2nd Squad recon target.
+Western woodlines and Clearwater Avenue corridor.
+Look for: REAPER observation posts, caches, alternate routes into AO.</description>
+      <styleUrl>#nai</styleUrl>
+      <Point><coordinates>-81.976854,29.965646,0</coordinates></Point>
+    </Placemark>
+
+  </Folder>
+
+  <!-- === ENEMY POSITIONS === -->
+  <Folder>
+    <name>Enemy Positions (REAPER)</name>
+
+    <Placemark>
+      <name>REAPER OP — West of COP (vic MP 0580 1550)</name>
+      <description>FRAGO 007 (Clear REAPER OP): Suspected observation post ~200m west of COP.
+Monitoring COP activity. Must be cleared before it can direct further REAPER action.</description>
+      <styleUrl>#enemy</styleUrl>
+      <Point><coordinates>-81.976346,29.966733,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>REAPER Cache — East of COP (MP 0611 1530)</name>
+      <description>OPORD 004 (Raid): Weapons and supply cache in wooded area east of COP.
+Raid objective — seize or destroy cache, capture any intelligence materials.</description>
+      <styleUrl>#enemy</styleUrl>
+      <Point><coordinates>-81.973116,29.964952,0</coordinates></Point>
+    </Placemark>
+
+  </Folder>
+
+  <!-- === TACTICAL POSITIONS === -->
+  <Folder>
+    <name>Tactical Positions</name>
+
+    <Placemark>
+      <name>Ambush Site — Bradenton Ave (MP 0600 1530)</name>
+      <description>OPORD 003 (Ambush): Kill zone on Bradenton Avenue, 200m south of COP.
+REAPER resupply route — regular supply runs moving north past this point.
+Ambush to cut supply line and capture intelligence.</description>
+      <styleUrl>#objective</styleUrl>
+      <Point><coordinates>-81.974256,29.964943,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Arcadia St / Bradenton Intersection (MP 0600 1523)</name>
+      <description>OPORD 003 (Ambush): Potential REAPER reinforcement route.
+270m south of COP. Blocking position / security consideration for ambush operations.</description>
+      <styleUrl>#route</styleUrl>
+      <Point><coordinates>-81.974250,29.964312,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Security Halt / SBF Position (MP 0600 1540)</name>
+      <description>OPORD 013 (Detailed): Bradenton Avenue south of COP.
+Security halt position during approach; SBF position for clearing operations.</description>
+      <styleUrl>#friendly</styleUrl>
+      <Point><coordinates>-81.974264,29.965846,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Northern Approach — 100m N of COP (MP 0600 1560)</name>
+      <description>OPORD 013 (Detailed): Bradenton Avenue northern approach corridor.
+Key avenue of approach into COP from the north. Defensive orientation priority.</description>
+      <styleUrl>#route</styleUrl>
+      <Point><coordinates>-81.974282,29.967650,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Eastern Access Roads (MP 0610 1550)</name>
+      <description>OPORD 013 (Detailed): East-west access roads east of COP.
+Secondary avenue of approach. Requires security coverage in defensive plan.</description>
+      <styleUrl>#route</styleUrl>
+      <Point><coordinates>-81.973237,29.966756,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Clearwater Ave West of COP (MP 0575 1550)</name>
+      <description>OPORD 013 (Detailed): Clearwater Avenue western approach.
+Secondary avenue of approach from the west. REAPER OP vicinity.</description>
+      <styleUrl>#route</styleUrl>
+      <Point><coordinates>-81.976864,29.966729,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Courier Intercept — Clearwater Ave (vic MP 0575 1538)</name>
+      <description>FRAGO 009 (Intercept Courier): REAPER courier transit route along Clearwater Avenue corridor.
+Intercept courier carrying intelligence materials.</description>
+      <styleUrl>#objective</styleUrl>
+      <Point><coordinates>-81.976854,29.965646,0</coordinates></Point>
+    </Placemark>
+
+  </Folder>
+
+</Document>
+</kml>
