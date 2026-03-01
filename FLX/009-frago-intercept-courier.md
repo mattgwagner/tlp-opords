@@ -60,10 +60,3 @@ No change.
 
 No change to OPORD 001.
 
----
-
-ACKNOWLEDGE:
-
-OFFICIAL:
-A Co. Commander
-4th BN-211th INF

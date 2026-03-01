@@ -190,10 +190,3 @@ A Company conducts area reconnaissance of the terrain surrounding COP Seggel NLT
    - Running Password: Forward
    - Combination: 7
 
----
-
-ACKNOWLEDGE:
-
-OFFICIAL:
-A Co. Commander
-4th BN-211th INF

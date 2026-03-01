@@ -35,10 +35,3 @@ A Company seizes OBJ HERRERA (MP 0602 1565) NLT ____ on ____ MAR 26 in order to 
 - **Call Signs:** Thunder 6 (Co CDR), Thunder 5 (XO), Thunder 1-6 (PL), Thunder 1-7 (PSG)
 - **Indirect fires:** Available through company on request
 
----
-
-ACKNOWLEDGE:
-
-OFFICIAL:
-A Co. Commander
-4th BN-211th INF

@@ -176,10 +176,3 @@ Both squads participate in the raid.
    - Running Password: Forward
    - Combination: 7
 
----
-
-ACKNOWLEDGE:
-
-OFFICIAL:
-A Co. Commander
-4th BN-211th INF
