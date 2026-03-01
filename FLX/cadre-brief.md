@@ -60,7 +60,7 @@ The student chain of command selects candidates to prepare and deliver training 
 - **Class VI:** Candidates are responsible for 48 hours of personal sustainment out of their rucks through movement, clearance, and occupation. No resupply during movement.
 - **GSA Van (Sustainment Resupply):** Candidates requested a van for additional water and MREs. Cadre transports to the candidates' requested RP — candidates load and unload. **The van does NOT arrive until the COP is secure.** Candidates must be self-sustaining out of rucks through SP, movement, and COP establishment. Deliver the van once OPORD 001 execution is complete and the position is confirmed secure — this reinforces that sustainment follows tactical conditions, not a schedule. Cadre decides when "secure" means secure.
 - **Ammo/Simulators:** No blank ammo or simulators available — Range Control is closed for our training weekend. All engagements are verbal (\"bang bang\") or cadre-adjudicated. OPFOR and candidates call hits. Cadre controls the tempo and outcome of engagements.
-- **Medical:** Attached medics if available. Nearest higher care: HCA Florida Starke Emergency, 922 East Call Street, Starke, FL 32091. All injuries reported to Range Control and Regiment S1.
+- **Medical:** No attached medics. Bring the CLS bag from the supply room in the GSA van. Nearest higher care: HCA Florida Starke Emergency, 922 East Call Street, Starke, FL 32091. All injuries reported to Range Control and Regiment S1.
 - **DRAWs:** Must be present at training locations and briefed to all participants. Continuous risk assessment throughout.
 - **Admin PACE (Cadre):** Signal (P), Cell (A), Text (C), Runner (E).
 - **Challenge/Password (all weekend):** Viper / Strike / Running: Forward / Combination: 7

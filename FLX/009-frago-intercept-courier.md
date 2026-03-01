@@ -50,7 +50,7 @@ No change to company mission. 1st Platoon intercepts a REAPER courier transiting
 - Report when departing COP, when in position, and upon contact.
 - Report immediately if courier is captured with documents.
 - If courier does not appear within the 2-hour window, withdraw to COP and report.
-- Challenge/password remains: Sentinel / Forge.
+- Challenge/password remains: Viper / Strike.
 
 ---
 

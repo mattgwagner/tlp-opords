@@ -36,7 +36,7 @@ No change to company mission. 1st Platoon clears the suspected REAPER observatio
 - This is a time-sensitive mission — the OP is actively reporting our positions. Plan rapidly and execute.
 - Avoid decisive engagement beyond the immediate objective. Clear the OP and return.
 - Report when departing COP, when objective is secure, and upon return to COP.
-- Challenge/password remains: Sentinel / Forge.
+- Challenge/password remains: Viper / Strike.
 
 ---
 
