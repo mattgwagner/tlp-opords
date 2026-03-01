@@ -57,7 +57,8 @@ The student chain of command selects candidates to prepare and deliver training 
 
 - **DFAC:** Friday 0700. Candidates already have the OPORD (issued Thursday PM) and should have their plan. After chow, draw remaining equipment and SP. Once they cross the LD, they are in a tactical posture.
 - **Tactical Posture:** All personnel maintain a tactical posture from crossing the LD until ENDEX. No breaks in the scenario.
-- **Class VI:** Candidates are responsible for 48 hours of personal sustainment. No resupply opportunity during the FLX.
+- **Class VI:** Candidates are responsible for 48 hours of personal sustainment out of their rucks through movement, clearance, and occupation. No resupply during movement.
+- **GSA Van (Sustainment Resupply):** Candidates requested a van for additional water and MREs. Cadre transports to the candidates' requested RP — candidates load and unload. **The van does NOT arrive until the COP is secure.** Candidates must be self-sustaining out of rucks through SP, movement, and COP establishment. Deliver the van once OPORD 001 execution is complete and the position is confirmed secure — this reinforces that sustainment follows tactical conditions, not a schedule. Cadre decides when "secure" means secure.
 - **Blank Ammo:** Drawn and managed IAW Range Control procedures. Coordinate through Student S4.
 - **Medical:** Attached medics if available. Nearest higher care: HCA Florida Starke Emergency, 922 East Call Street, Starke, FL 32091. All injuries reported to Range Control and Regiment S1.
 - **DRAWs:** Must be present at training locations and briefed to all participants. Continuous risk assessment throughout.
@@ -182,6 +183,8 @@ The company commander issues the base order on Thursday. The candidate PL has Th
 Use the movement phase to evaluate basic competence: formations, movement techniques, security halts, danger area crossings. The clearing and occupation phase evaluates the SL's ability to transition from movement to offense to defense.
 
 *Expected duration: 3-4 hours including movement (0730ish SP → ~1200 COP established)*
+
+**GSA Van delivery:** Once the COP is secure (perimeter established, ECP operational, facility cleared), cadre delivers the GSA van to the candidates' requested RP. Candidates unload their additional water and MREs. This is the sustainment transition — they've been on rucks since SP.
 
 **Chow/Rest:** Hot chow (MRE) and water resupply upon COP establishment. 30-minute rest rotation before issuing OPORD 002.
 
