@@ -54,6 +54,36 @@
     <LabelStyle><scale>0.9</scale></LabelStyle>
   </Style>
 
+  <!-- === MOVEMENT CHECKPOINTS === -->
+  <Folder>
+    <name>Movement Checkpoints (OPORD 001)</name>
+
+    <Placemark>
+      <name>CP ANVIL (MP 0589 1455)</name>
+      <description>Checkpoint 1 on route from RTI to COP Seggel.
+First waypoint — guides platoon south before turning west.</description>
+      <styleUrl>#friendly</styleUrl>
+      <Point><coordinates>-81.975330,29.958167,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>CP FORGE (MP 0566 1465)</name>
+      <description>Checkpoint 2 on route from RTI to COP Seggel.
+Second waypoint — carries platoon west through the training area.</description>
+      <styleUrl>#friendly</styleUrl>
+      <Point><coordinates>-81.977722,29.959052,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>CP HAMMER (MP 0575 1524)</name>
+      <description>Checkpoint 3 on route from RTI to COP Seggel.
+Final waypoint before approach to COP. Last evaluation point before clearing operations.</description>
+      <styleUrl>#friendly</styleUrl>
+      <Point><coordinates>-81.976841,29.964383,0</coordinates></Point>
+    </Placemark>
+
+  </Folder>
+
   <!-- === BASES & KEY TERRAIN === -->
   <Folder>
     <name>Bases &amp; Key Terrain</name>
