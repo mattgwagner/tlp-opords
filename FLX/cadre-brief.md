@@ -9,9 +9,15 @@
 
 ## Weekend Overview
 
-This is the culmination Field Leadership Exercise for Class 065. The FLX is a 48-hour field exercise built around a single narrative: 1st Platoon moves to, occupies, and operates from Combat Outpost Seggel in AO HERRERA. Every mission flows from the one before it. Candidates rotate through squad leader roles across nine lanes (six full OPORDs and three FRAGOs), each building on the evolving tactical situation.
+This is the culmination Field Leadership Exercise for Class 065 — a 48-hour field problem at Camp Blanding built around a single continuous narrative. 1st Platoon moves to, occupies, and operates from Combat Outpost Seggel in AO HERRERA. Every mission flows from the one before it: recon finds the enemy, the FRAGO sends a squad to clear them, captured intel leads to an ambush, the ambush produces documents that trigger a raid, and so on through a capstone deliberate attack Saturday evening. Nine lanes total (six full OPORDs, three FRAGOs).
 
-Cadre issues each OPORD as a platoon-level order. The evaluated candidate (as SL) receives the order, conducts TLP, develops their scheme of maneuver and team-level tasks, briefs it, and executes. We do not prescribe how the candidate organizes their element — that's the evaluation.
+**The exercise runs in two phases with different evaluation models:**
+
+**Friday (3 squads):** Cadre acts as the platoon leader and issues orders directly to three squad leaders. All three SLs are evaluated simultaneously — each TAC shadows one squad. The PL candidate is evaluated on Thursday (receiving and issuing OPORD 001) and continuously on COP management throughout.
+
+**Saturday (2 squads + candidate company staff):** Friday evening, cadre selects three top-performing candidates for company staff roles (CO, XO, Battle Captain/RTO) and reorganizes from three squads into two overstrength squads. The order flow becomes **Cadre → Candidate Staff → SLs**. Cadre gives the staff a platoon-level order; the staff develops squad taskings (main effort / supporting effort, task and purpose for each squad, coordination); the SLs then plan their squad's execution independently (route, fire team tasks, actions on OBJ, sand table). The staff says WHAT each squad does — the SLs plan HOW. Staff independence increases across the day: the first lane they get a full OPORD with coaching, by the capstone they receive only a mission statement and plan the entire order from scratch.
+
+**Both squads leave the wire every Saturday lane** — one main effort, one supporting. SLs rotate each mission. PL/PSG resume command of the COP between lanes and are evaluated continuously. The candidate staff is evaluated on every Saturday lane. TACs evaluate multiple candidates simultaneously throughout.
 
 ### Light Data
 
@@ -26,8 +32,8 @@ Cadre issues each OPORD as a platoon-level order. The evaluated candidate (as SL
 | Day | Date | Events |
 |-----|------|--------|
 | **Thursday** | 05 MAR | FLX Preparation Training (candidate-led, classroom). Weapons/equipment draw. **PM: Candidate PL receives OPORD 001, conducts TLPs, briefs SLs.** |
-| **Friday** | 06 MAR | DFAC breakfast at 0700. SP shortly after chow. Establish COP (NLT 1300). Area recon. Clear REAPER OP (FRAGO). |
-| **Saturday** | 07 MAR | Reorganize → MTC. Ambush. Intercept courier (FRAGO). Raid. Deliberate attack (capstone). Defensive prep overnight. |
+| **Friday** | 06 MAR | DFAC breakfast at 0700. SP shortly after chow. Establish COP (NLT 1300). Area recon. Clear REAPER OP (FRAGO). **PM: Reorganize to 2 squads + staff. Issue OPORD 008 to staff.** |
+| **Saturday** | 07 MAR | Staff briefs SLs → MTC. Ambush. Intercept courier (FRAGO). Raid. Deliberate attack (capstone). Defensive prep overnight. |
 | **Sunday** | 08 MAR | Optional OPFOR attack on COP (early AM). ENDEX. Recovery, equipment turn-in, AAR. |
 
 ---
