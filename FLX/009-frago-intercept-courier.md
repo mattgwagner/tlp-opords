@@ -34,7 +34,7 @@ No change to company mission. 1st Platoon intercepts a REAPER courier transiting
 
 **Task to 1st Platoon:** Intercept and capture the REAPER courier transiting south along the Clearwater Avenue corridor (vicinity MP 0575 1538). Capture the courier alive if possible — the documents they carry are the priority. Prevent destruction of documents and communications equipment. Recover all materials and return to COP Seggel.
 
-Both squads participate in the intercept. Squad-level task assignments are developed by the candidate company staff and briefed to SLs.
+Both squads participate in the intercept.
 
 **Commander's Guidance:**
 - Speed is critical — the courier window is limited. Plan rapidly.

@@ -402,43 +402,41 @@ If cadre wants a final evaluation opportunity, trigger a REAPER counterattack on
 - Transition from tactical to administrative posture
 - Police call of all training areas, COP, objective sites
 - Weapons/equipment accountability and turn-in
-- Blank ammo accountability
 - AAR — structured hot wash by lane, then overall FLX AAR
-- Equipment turn-in to Range Control
-- Depart CBJTC
+- Equipment turn-in to S4
 
 ---
 
 ## Schedule Summary
 
-| Day | Time | Event | OPORD | Evaluated SL |
-|-----|------|-------|-------|-------------|
-| **THU** | AM | FLX Preparation Training (candidate-led) | — | All rated SLs teach one block |
-| **THU** | PM | Candidate PL receives OPORD 001, conducts TLPs, briefs SLs | 001 | PL evaluation |
+| Day | Time | Event | OPORD | Who's Evaluated |
+|-----|------|-------|-------|-----------------|
+| **THU** | AM | FLX Preparation Training (candidate-led) | — | All rated SLs (teaching blocks) |
+| **THU** | PM | Candidate PL receives OPORD 001, conducts TLPs, briefs SLs | 001 | PL |
 | **FRI** | 0700 | DFAC breakfast | — | — |
-| **FRI** | ~0730–1300 | SP → Movement → Establish COP Seggel (NLT 1300) | 001 | #1 |
+| **FRI** | ~0730–1300 | SP → Movement → Establish COP Seggel (NLT 1300) | 001 | PL + all 3 SLs |
 | **FRI** | 1200–1300 | Chow/rest rotation | — | — |
-| **FRI** | ~1300–1500 | Area Reconnaissance | 002 | #2 |
+| **FRI** | ~1300–1500 | Area Reconnaissance | 002 | All 3 SLs (1 per squad) |
 | **FRI** | 1500–1530 | Chow/debrief | — | — |
-| **FRI** | ~1530–1730 | Clear REAPER OP (FRAGO) | 007 | #3 |
-| **FRI** | 1730+ | Evening chow, rest/security rotation | — | Rotate leadership |
-| **FRI** | Night | COP Operations (no formal lane) | — | Rotate leadership |
+| **FRI** | ~1530–1730 | Clear REAPER OP (FRAGO) | 007 | 3rd SL (primary); 1st/2nd SLs (COP security) |
+| **FRI** | 1730+ | Evening chow, reorganization, staff standup | — | PL/PSG (COP command) |
+| **FRI** | Night | COP Operations (no formal lane) | — | PL/PSG (COP command); Staff (overnight prep) |
 | **SAT** | 0600 | Stand-to (BMNT) | — | — |
-| **SAT** | 0630–0730 | Reorganization brief, chow, staff orientation | — | — |
-| **SAT** | ~0800–1000 | Movement to Contact | 008 | #4 |
+| **SAT** | 0630–0800 | Staff briefs SLs, chow, SL planning | — | Staff (order brief); SLs (TLPs) |
+| **SAT** | ~0800–1000 | Movement to Contact | 008 | Staff + both SLs |
 | **SAT** | 1000–1030 | Chow/rest | — | — |
-| **SAT** | ~1030–1230 | Ambush | 003 | #5 |
+| **SAT** | ~1030–1230 | Ambush | 003 | Staff + both SLs |
 | **SAT** | 1230–1300 | Chow rotation | — | — |
-| **SAT** | ~1300–1430 | Intercept Courier (FRAGO) | 009 | #6 |
+| **SAT** | ~1300–1430 | Intercept Courier (FRAGO) | 009 | Staff + both SLs |
 | **SAT** | 1430–1500 | Chow/rest | — | — |
-| **SAT** | ~1500–1700 | Raid | 004 | #7 |
+| **SAT** | ~1500–1700 | Raid | 004 | Staff + both SLs |
 | **SAT** | 1700–1730 | Chow rotation | — | — |
-| **SAT** | ~1730–1900 | Deliberate Attack (capstone — last light 1855) | 006 | #8 |
-| **SAT** | 1900+ | Evening chow, rest/security rotation | — | Rotate leadership |
-| **SUN** | ~0722 | Optional COP Defense at stand-to | 005 | #9 (optional) |
+| **SAT** | ~1730–1900 | Deliberate Attack (capstone — last light 1855) | 006 | Staff + both SLs |
+| **SAT** | 1900+ | Evening chow, rest/security rotation | — | PL/PSG (COP command) |
+| **SUN** | ~0722 | Optional COP Defense at stand-to | 005 | SLs (optional) |
 | **SUN** | ~0800–1100 | ENDEX, recovery, equipment turn-in, AAR | — | — |
 
-This schedule supports up to 9 evaluated SL rotations (8 required + 1 optional). Adjust candidate assignments based on class size. If you have more candidates than lanes, double up — evaluate two candidates simultaneously (e.g., SL and a team leader with specific tasks). If you have fewer, drop the optional Sunday defense and consolidate.
+**Evaluation model:** SLs rotate into new squads each lane — TACs can evaluate multiple SLs simultaneously (Friday has all 3 TACs evaluating 3 SLs at once on OPORD 002). PL/PSG are evaluated continuously on COP management between lanes. The candidate staff is evaluated on every Saturday lane (order development and briefing). Adjust SL rotation based on class size — if you have more candidates than lane slots, evaluate two SLs in the same squad (SL + assistant SL with specific tasks).
 
 ---
 
@@ -484,7 +482,8 @@ This schedule supports up to 9 evaluated SL rotations (8 required + 1 optional).
 | [009-frago-intercept-courier.md](009-frago-intercept-courier.md) | FRAGO — Intercept REAPER courier (Saturday midday) |
 | [013-establish-cop.md](013-establish-cop.md) | Reference — original platoon-level COP OPORD |
 | [013-establish-cop-detailed.md](013-establish-cop-detailed.md) | Reference — detailed version with squad tasks |
-| [candidate-company-staff-guide.md](candidate-company-staff-guide.md) | Saturday reorganization, staff roles, selection criteria, order flow |
+| [candidate-company-staff-guide.md](candidate-company-staff-guide.md) | **Candidate handout** — staff roles, planning boundary, Saturday order flow |
+| [candidate-company-staff-guide-cadre-notes.md](candidate-company-staff-guide-cadre-notes.md) | Cadre notes — selection criteria, coaching, safety nets, evaluation |
 
 ---
 

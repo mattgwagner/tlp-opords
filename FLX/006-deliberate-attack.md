@@ -24,8 +24,6 @@ REAPER's remaining forces have consolidated at the Jacksonville Street / Bradent
 
 A Company seizes OBJ HERRERA (MP 0602 1565) NLT ____ on ____ MAR 26 in order to destroy remaining REAPER forces and complete the clearing of AO HERRERA. 1st Platoon is the main effort. Last light is 1855.
 
-The candidate company staff plans the entire order independently — situation, execution, scheme of maneuver, squad taskings, fires, sustainment, and command and signal. Cadre holds the detailed OPORD as a safety net.
-
 ---
 
 ## Reference Information (for candidate staff planning)

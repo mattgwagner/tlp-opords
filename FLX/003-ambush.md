@@ -95,7 +95,7 @@ A Company disrupts REAPER logistics in AO HERRERA by conducting an ambush along 
 - **TASK:** Depart COP Seggel and move to an ORP vicinity the ambush site. Conduct a leader's reconnaissance of the ambush site. Establish a linear ambush along Bradenton Avenue (vicinity MP 0600 1530). Initiate the ambush on the REAPER resupply element. Sweep the kill zone. Collect all documents, electronics, maps, and materials of intelligence value. Withdraw to COP Seggel via a covered route.
 - **PURPOSE:** Sever REAPER's logistics line along Bradenton Avenue and capture intelligence to enable follow-on offensive operations.
 
-Both squads participate in the ambush. Squad-level task assignments are developed by the candidate company staff and briefed to SLs.
+Both squads participate in the ambush.
 
 ### e. Coordinating Instructions
 

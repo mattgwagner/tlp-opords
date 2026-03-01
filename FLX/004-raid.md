@@ -95,7 +95,7 @@ A Company destroys REAPER weapons and supply cache (vicinity MP 0611 1530) NLT _
 - **TASK:** Depart COP Seggel and move to an ORP in the vicinity of the cache site. Conduct a leader's reconnaissance. Raid the REAPER cache at vicinity MP 0611 1530 — eliminate the security element, secure the site, search all structures and containers. Collect all documents, maps, electronics, and items of intelligence value. Destroy all weapons, ammunition, and IED materials. Withdraw to COP Seggel via a covered route.
 - **PURPOSE:** Destroy REAPER's logistics base to deny them the ability to sustain combat operations in AO HERRERA and exploit captured intelligence for follow-on operations.
 
-Both squads participate in the raid. Squad-level task assignments are developed by the candidate company staff and briefed to SLs.
+Both squads participate in the raid.
 
 ### e. Coordinating Instructions
 
