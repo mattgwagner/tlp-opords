@@ -184,9 +184,9 @@ A Company seizes OBJ HERRERA (MP 0602 1565) NLT ____ on ____ MAR 26 in order to 
    - 1st Platoon Sergeant – Thunder 1-7
 
 **3. Challenge, Password, Running Password, Combination:**
-   - Challenge: Sentinel
-   - Password: Forge
-   - Running Password: Ironclad
+   - Challenge: Viper
+   - Password: Strike
+   - Running Password: Forward
    - Combination: 7
 
 ---

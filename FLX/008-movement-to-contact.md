@@ -185,9 +185,9 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
    - 1st Platoon Sergeant – Thunder 1-7
 
 **3. Challenge, Password, Running Password, Combination:**
-   - Challenge: Sentinel
-   - Password: Forge
-   - Running Password: Ironclad
+   - Challenge: Viper
+   - Password: Strike
+   - Running Password: Forward
    - Combination: 7
 
 ---

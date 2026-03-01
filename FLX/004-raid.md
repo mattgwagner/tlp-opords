@@ -184,9 +184,9 @@ A Company destroys REAPER weapons and supply cache (vicinity MP 0611 1530) NLT _
    - 1st Platoon Sergeant – Thunder 1-7
 
 **3. Challenge, Password, Running Password, Combination:**
-   - Challenge: Sentinel
-   - Password: Forge
-   - Running Password: Ironclad
+   - Challenge: Viper
+   - Password: Strike
+   - Running Password: Forward
    - Combination: 7
 
 ---

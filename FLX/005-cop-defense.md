@@ -178,9 +178,9 @@ A Company defends COP Seggel (MP 0600 1550) against REAPER counterattack NLT ___
    - 1st Platoon Sergeant – Thunder 1-7
 
 **3. Challenge, Password, Running Password, Combination:**
-   - Challenge: Sentinel
-   - Password: Forge
-   - Running Password: Ironclad
+   - Challenge: Viper
+   - Password: Strike
+   - Running Password: Forward
    - Combination: 7
 
 ---

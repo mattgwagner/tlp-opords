@@ -184,9 +184,9 @@ A Company disrupts REAPER logistics in AO HERRERA by conducting an ambush along 
    - 1st Platoon Sergeant – Thunder 1-7
 
 **3. Challenge, Password, Running Password, Combination:**
-   - Challenge: Sentinel
-   - Password: Forge
-   - Running Password: Ironclad
+   - Challenge: Viper
+   - Password: Strike
+   - Running Password: Forward
    - Combination: 7
 
 ---

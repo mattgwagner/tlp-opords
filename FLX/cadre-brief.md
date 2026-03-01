@@ -59,12 +59,11 @@ The student chain of command selects candidates to prepare and deliver training 
 - **Tactical Posture:** All personnel maintain a tactical posture from crossing the LD until ENDEX. No breaks in the scenario.
 - **Class VI:** Candidates are responsible for 48 hours of personal sustainment out of their rucks through movement, clearance, and occupation. No resupply during movement.
 - **GSA Van (Sustainment Resupply):** Candidates requested a van for additional water and MREs. Cadre transports to the candidates' requested RP — candidates load and unload. **The van does NOT arrive until the COP is secure.** Candidates must be self-sustaining out of rucks through SP, movement, and COP establishment. Deliver the van once OPORD 001 execution is complete and the position is confirmed secure — this reinforces that sustainment follows tactical conditions, not a schedule. Cadre decides when "secure" means secure.
-- **Blank Ammo:** Drawn and managed IAW Range Control procedures. Coordinate through Student S4.
+- **Ammo/Simulators:** No blank ammo or simulators available — Range Control is closed for our training weekend. All engagements are verbal (\"bang bang\") or cadre-adjudicated. OPFOR and candidates call hits. Cadre controls the tempo and outcome of engagements.
 - **Medical:** Attached medics if available. Nearest higher care: HCA Florida Starke Emergency, 922 East Call Street, Starke, FL 32091. All injuries reported to Range Control and Regiment S1.
 - **DRAWs:** Must be present at training locations and briefed to all participants. Continuous risk assessment throughout.
 - **Admin PACE (Cadre):** Signal (P), Cell (A), Text (C), Runner (E).
-- **Admin Challenge/Password:** Viper / Strike / Running: Forward / Combination: 7
-- **Tactical Challenge/Password (in OPORDs):** Sentinel / Forge / Running: Ironclad / Combination: 7
+- **Challenge/Password (all weekend):** Viper / Strike / Running: Forward / Combination: 7
 
 ### CCIR — Wake-Up Reporting (Immediate)
 
@@ -94,8 +93,8 @@ The student chain of command selects candidates to prepare and deliver training 
 | **TAC 2** | SFC McLellan | Thu–Sun |
 | **TAC 3** | 1LT Walker | Thu–Sun |
 | **Tactical Instructor** | SFC Oppegard | Thu–Sun |
-| **Infantry Cadre Instructor** | TBD | Fri–Sun |
-| **Infantry Cadre Instructor** | TBD | Fri–Sun |
+| **Infantry Cadre Instructor** | SSG Souza | Fri–Sun |
+| **Infantry Cadre Instructor** | SSG Goehrig | Fri–Sun |
 | **Senior Instructor** | CPT Kilpatrick | Available as needed |
 | **OPFOR (former candidate)** | 1 dropped candidate | Fri–Sun |
 
