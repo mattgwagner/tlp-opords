@@ -486,32 +486,3 @@ The **candidate staff** (CO, XO, Battle Captain) is developmental, not strictly 
 **Coaching vs. observation.** SFC Oppegard and the infantry instructors provide tactical coaching *after* the TAC has seen what they need to see. If a TAC redirects a dangerous plan mid-lane, note that in your feedback and coach on the candidate's response to the redirect, not the coached result.
 
 **Build across lanes.** When a candidate leads multiple lanes, reference what you told them last time. Did they address the previous feedback? Reinforcing improvement (or calling out repeated gaps) across the FLX is more powerful than isolated lane-by-lane comments.
-
----
-
-## Files in This Package
-
-| File | Purpose |
-|------|---------|
-| [001-establish-cop.md](001-establish-cop.md) | Base order — movement and COP establishment |
-| [001-establish-cop-cadre-notes.md](001-establish-cop-cadre-notes.md) | Cadre notes for OPORD 001 |
-| [002-area-reconnaissance.md](002-area-reconnaissance.md) | Area recon of two NAIs |
-| [003-ambush.md](003-ambush.md) | Ambush on REAPER supply route |
-| [004-raid.md](004-raid.md) | Raid on REAPER weapons cache |
-| [005-cop-defense.md](005-cop-defense.md) | Defense against REAPER counterattack (optional Sunday) |
-| [006-deliberate-attack.md](006-deliberate-attack.md) | Seize OBJ HERRERA — Saturday capstone |
-| [007-frago-clear-reaper-op.md](007-frago-clear-reaper-op.md) | FRAGO — Clear REAPER OP west of COP (Friday PM) |
-| [008-movement-to-contact.md](008-movement-to-contact.md) | Morning MTC into woodlines north of COP (Saturday AM) |
-| [009-frago-intercept-courier.md](009-frago-intercept-courier.md) | FRAGO — Intercept REAPER courier (Saturday midday) |
-| [013-establish-cop.md](013-establish-cop.md) | Reference — original platoon-level COP OPORD |
-| [013-establish-cop-detailed.md](013-establish-cop-detailed.md) | Reference — detailed version with squad tasks |
-| [candidate-company-staff-guide.md](candidate-company-staff-guide.md) | **Candidate handout** — staff roles, planning boundary, Saturday order flow |
-| [candidate-company-staff-guide-cadre-notes.md](candidate-company-staff-guide-cadre-notes.md) | Cadre notes — selection criteria, coaching, safety nets, evaluation |
-
----
-
-## Key References
-
-- [LTA Grid Reference](../lta-grid-reference.md) — All grid references for the training area
-- [Inject Cards](../inject-cards-guide.md) — Optional scenario variations for any lane
-- [TAC Quick Reference](../tac-quick-reference.html) — Formations, battle drills, evaluation criteria
