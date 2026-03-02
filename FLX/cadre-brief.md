@@ -36,6 +36,8 @@ This is the culmination Field Leadership Exercise for Class 065 — a 48-hour fi
 | **Saturday** | 07 MAR | Staff briefs SLs → MTC. Ambush. Intercept courier (FRAGO). Raid. Deliberate attack (capstone). Defensive prep overnight. |
 | **Sunday** | 08 MAR | Optional OPFOR attack on COP (early AM). ENDEX. Recovery, equipment turn-in, AAR. |
 
+*If you made it this far, send a thumbs up to CPT Wagner via text (phone number in the admin PACE plan) so he knows you actually read this.*
+
 ---
 
 ## Thursday — FLX Preparation Training + OPORD 001 Issue
@@ -476,3 +478,7 @@ The **candidate staff** (CO, XO, Battle Captain) is developmental, not strictly 
 **Coaching vs. observation.** SFC Oppegard and the infantry instructors provide tactical coaching *after* the TAC has seen what they need to see. If a TAC redirects a dangerous plan mid-lane, note that in your feedback and coach on the candidate's response to the redirect, not the coached result.
 
 **Build across lanes.** When a candidate leads multiple lanes, reference what you told them last time. Did they address the previous feedback? Reinforcing improvement (or calling out repeated gaps) across the FLX is more powerful than isolated lane-by-lane comments.
+
+---
+
+*If you actually read this entire brief cover to cover, text your current level of hooah to the same number. Scale of 1-10.*
