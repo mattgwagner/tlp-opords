@@ -91,19 +91,6 @@ The student chain of command selects candidates to prepare and deliver training 
 
 ## Cadre Employment Plan
 
-### Roster
-
-| Role | Personnel | Available |
-|------|-----------|-----------|
-| **TAC 1** | CPT Wagner | Thu–Sun |
-| **TAC 2** | SFC McLellan | Thu–Sun |
-| **TAC 3** | 1LT Walker | Thu–Sun |
-| **Tactical Instructor** | SFC Oppegard | Thu–Sun |
-| **Infantry Cadre Instructor** | SSG Souza | Fri–Sun |
-| **Infantry Cadre Instructor** | SSG Goehrig | Fri–Sun |
-| **Senior Instructor** | CPT Kilpatrick | Available as needed |
-| **OPFOR (former candidate)** | 1 dropped candidate | Fri–Sun |
-
 ### Core Principle: TACs Evaluate, Instructors Enable
 
 TACs own the evaluation mission — they write FLERs. The Infantry Cadre instructors and SFC Oppegard provide tactical depth, OPFOR, and coaching without diluting TAC evaluation focus. TACs do NOT run OPFOR.
