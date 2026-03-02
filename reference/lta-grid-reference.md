@@ -8,7 +8,7 @@ This document provides grid references for key locations within the Local Traini
 
 ## LTA Map with Grid Overlay
 
-![Camp Blanding LTA with Grid Overlay](cbjtc-lta-google.png)
+![Camp Blanding LTA with Grid Overlay](../assets/cbjtc-lta-google.png)
 
 ---
 

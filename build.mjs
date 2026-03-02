@@ -6,14 +6,18 @@ import { marked } from 'marked';
 marked.use({ gfm: true });
 
 const DIST = 'dist';
+const STX = 'STX';
 const FLX = 'FLX';
+const REF = 'reference';
+const TOOLS = 'tools';
+const ASSETS = 'assets';
 const POI = 'POI';
 
 // Files to skip (not content — meta/build files)
 const SKIP_FILES = new Set(['AGENTS.md', 'CLAUDE.md']);
 const SKIP_PATTERNS = ['cadre-notes'];
 
-// Read the HTML template and split at placeholders
+// Read the HTML template
 const template = readFileSync('opord-template.html', 'utf8');
 
 function shouldSkip(filename) {
@@ -35,7 +39,16 @@ function renderMarkdown(mdPath, outputPath, options = {}) {
   const title = options.title || filename;
 
   // Convert markdown to HTML body
-  const body = marked.parse(md);
+  let body = marked.parse(md);
+
+  // Rewrite relative paths for files flattened to dist root.
+  // Source files in subdirectories use ../assets/ or ../reference/ paths,
+  // but since output is flattened to dist/, we strip the ../ prefix.
+  if (options.flatten) {
+    body = body.replace(/(?:src|href)="\.\.\/assets\//g, (match) => match.replace('../assets/', 'assets/'));
+    body = body.replace(/(?:src|href)="\.\.\/reference\//g, (match) => match.replace('../reference/', ''));
+    body = body.replace(/(?:src|href)="\.\.\/tools\//g, (match) => match.replace('../tools/', ''));
+  }
 
   // Inject into template
   let html = template
@@ -66,9 +79,29 @@ function copyDir(src, dest) {
   }
 }
 
+// Helper: process a source directory, flattening output to dist root
+function processDir(srcDir, options = {}) {
+  if (!existsSync(srcDir)) return;
+  for (const file of readdirSync(srcDir)) {
+    const srcPath = join(srcDir, file);
+    if (statSync(srcPath).isDirectory()) continue;
+
+    if (file.endsWith('.md') && !shouldSkip(file)) {
+      renderMarkdown(srcPath, join(DIST, file.replace('.md', '.html')), { flatten: true });
+    } else if (file.endsWith('.kml')) {
+      copyFileSync(srcPath, join(DIST, file));
+      console.log(`Copied: ${srcPath} -> dist/${file}`);
+    } else if (file.endsWith('.html')) {
+      copyFileSync(srcPath, join(DIST, file));
+      console.log(`Copied: ${srcPath} -> dist/${file}`);
+    }
+  }
+}
+
 // Create output directories
 mkdirSync(DIST, { recursive: true });
 mkdirSync(join(DIST, 'FLX'), { recursive: true });
+mkdirSync(join(DIST, 'assets'), { recursive: true });
 
 // --- Root index from README.md ---
 if (existsSync('README.md')) {
@@ -76,6 +109,20 @@ if (existsSync('README.md')) {
     title: 'OCS Operations Orders',
     isIndex: true,
   });
+}
+
+// --- STX OPORDs (flattened to dist root) ---
+processDir(STX);
+
+// --- Reference materials (flattened to dist root) ---
+processDir(REF);
+
+// --- Tools / standalone HTML (flattened to dist root) ---
+processDir(TOOLS);
+
+// --- Assets (copied as directory to dist/assets/) ---
+if (existsSync(ASSETS)) {
+  copyDir(ASSETS, join(DIST, ASSETS));
 }
 
 // --- FLX index (hand-maintained HTML) ---
@@ -96,33 +143,6 @@ for (const file of readdirSync(FLX)) {
   if (file.endsWith('.kml')) {
     copyFileSync(join(FLX, file), join(DIST, 'FLX', file));
     console.log(`Copied: FLX/${file} -> dist/FLX/${file}`);
-  }
-}
-
-// --- Convert root-level markdown files ---
-for (const file of readdirSync('.')) {
-  if (!file.endsWith('.md')) continue;
-  if (file === 'README.md') continue; // already handled as index
-  if (shouldSkip(file)) continue;
-  renderMarkdown(file, join(DIST, file.replace('.md', '.html')));
-}
-
-// --- Copy root-level non-markdown assets (KML, pre-existing HTML) ---
-for (const file of readdirSync('.')) {
-  if (file === 'opord-template.html') continue;
-  if (file === 'AGENTS.html' || file === 'CLAUDE.html') continue;
-  if (file.endsWith('.kml')) {
-    copyFileSync(file, join(DIST, file));
-    console.log(`Copied: ${file} -> dist/${file}`);
-  }
-  // Copy pre-existing HTML files that don't have a .md source
-  // (e.g., opord-blank-template.html, patrol-base-ops.html, tac-quick-reference.html)
-  if (file.endsWith('.html')) {
-    const mdSource = file.replace('.html', '.md');
-    if (!existsSync(mdSource) && file !== 'opord-template.html') {
-      copyFileSync(file, join(DIST, file));
-      console.log(`Copied (pre-built): ${file} -> dist/${file}`);
-    }
   }
 }
 

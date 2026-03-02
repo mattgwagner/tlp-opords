@@ -31,7 +31,7 @@
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
-> **See Also:** [LTA Grid Reference](lta-grid-reference.md) | [Appendix 1: Overhead Imagery](#appendix-1-overhead-imagery--terrain-analysis)
+> **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md) | [Appendix 1: Overhead Imagery](#appendix-1-overhead-imagery--terrain-analysis)
 >
 > **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [013-establish-cop-detailed.md](013-establish-cop-detailed.md) instead, which includes specific grids, SBF positions, and named terrain features for squad positioning.
 
@@ -237,6 +237,6 @@ None.
 
 ### Local Training Area — MilGPS Overhead with Military Grid
 
-![COP Seggel Area — MilGPS Overhead Imagery with MGRS Grid Overlay](cbjtc-lta-milgps.png)
+![COP Seggel Area — MilGPS Overhead Imagery with MGRS Grid Overlay](../assets/cbjtc-lta-milgps.png)
 
 *Source: MilGPS application, satellite imagery with 17R MP MGRS grid overlay. Grid lines at 100m intervals.*

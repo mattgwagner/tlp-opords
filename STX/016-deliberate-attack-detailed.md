@@ -25,9 +25,9 @@
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
-> **See Also:** [LTA Grid Reference](lta-grid-reference.md)
+> **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
 >
-> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [016-deliberate-attack-detailed.md](016-deliberate-attack-detailed.md) instead.
+> **Iteration Guidance:** This is the detailed version with specific grids, movement directions, and positioning. For evaluated iterations and later runs where squad leaders should plan independently, use [016-deliberate-attack.md](016-deliberate-attack.md) instead.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -116,17 +116,17 @@ None.
 
 **1. 1st Squad (Support by Fire — Shaping Operation):**
 
-- **TASK:** Occupy a support-by-fire position with observation of OBJ HERRERA. On the PL's signal, initiate suppressive fire into REAPER positions at the junction. Suppress or destroy the REAPER support weapon. Shift or cease fires on order as 2nd Squad enters the objective.
+- **TASK:** From the ORP (MP 0586 1552), move east through the woodline to a support-by-fire position on Bradenton Avenue south of OBJ HERRERA (IVO MP 0601 1555), oriented north. On the PL's signal, initiate suppressive fire north along the Bradenton Avenue corridor into REAPER positions at the junction. Engage and suppress the RPK position. Shift or cease fires on order as 2nd Squad enters the objective.
 - **PURPOSE:** Fix REAPER in their fighting positions and neutralize the support weapon so 2nd Squad can close on and assault through the objective without receiving aimed fire.
 
 **2. 2nd Squad (Assault — Decisive Operation):**
 
-- **TASK:** Move to an assault position near OBJ HERRERA. On order, assault through the objective, clearing through REAPER fighting positions at the junction. Destroy REAPER forces and seize the road junction. Signal "objective secured" upon completion.
+- **TASK:** From the ORP, move north through the woodline to an assault position west of OBJ HERRERA. On order, assault east through the objective, crossing Jacksonville Street and clearing through REAPER fighting positions on the north side of the junction (MP 0602 1565). Destroy REAPER forces and seize the road junction. Signal "objective secured" upon completion.
 - **PURPOSE:** Destroy the enemy force on the objective and seize the key terrain that controls movement through AO COTTO.
 
 **3. 3rd Squad (Security — Shaping Operation):**
 
-- **TASK:** Isolate OBJ HERRERA prior to the assault. Block REAPER reinforcement and escape routes. Maintain positions through the assault. Collapse security last during platoon consolidation and move to the objective.
+- **TASK:** Depart the ORP first. Establish a blocking position north of OBJ HERRERA along Bradenton Avenue (IVO MP 0602 1575) to isolate the objective and interdict REAPER reinforcements from the north. Orient observation and fires north and east. Maintain the position through the assault. Collapse security last during platoon consolidation and move to the objective.
 - **PURPOSE:** Prevent REAPER reinforcement from the north so 2nd Squad fights only the force currently at the junction, and secure the platoon's withdrawal route.
 
 ### f. Coordinating Instructions

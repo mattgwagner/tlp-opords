@@ -28,7 +28,7 @@
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
-> **See Also:** [LTA Grid Reference](lta-grid-reference.md) | [Patrol Base Operations (Platoon)](008-patrol-base-operations.md)
+> **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md) | [Patrol Base Operations (Platoon)](008-patrol-base-operations.md)
 >
 > **Iteration Guidance:** This is the mission command version — platoon tasks state outcomes without prescribing specific positioning or movement. Squad leaders within each platoon develop their own schemes of maneuver.
 

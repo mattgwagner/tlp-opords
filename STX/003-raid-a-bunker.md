@@ -24,19 +24,19 @@
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
-> **See Also:** [LTA Grid Reference](lta-grid-reference.md)
+> **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
 >
-> **Iteration Guidance:** This is the detailed version with specific grids, directions, and team assignments. For evaluated iterations and later runs where squad leaders should plan independently, use [003-raid-a-bunker.md](003-raid-a-bunker.md) instead.
+> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [003-raid-a-bunker-detailed.md](003-raid-a-bunker-detailed.md) instead, which includes specific grids, directions, and team assignments.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
 **Task Organization:**
 
-1st Platoon, A Co. 4th BN-211th INF
-Platoon Leader
-Platoon Sergeant
-1st Squad
-2nd Squad
+1st Platoon, A Co. 4th BN-211th INF  
+Platoon Leader  
+Platoon Sergeant  
+1st Squad  
+2nd Squad  
 3rd Squad
 
 ---
@@ -115,17 +115,17 @@ None.
 
 **1. 1st Squad (Assault — Decisive Operation):**
 
-- **TASK:** From the ORP (vic MP 0586 1530), move north through the woodline to an assault position west of OBJ COTTO. On the PL's signal, assault east through the bunker position (MP 0600 1538), breach and clear the fortified position, and eliminate REAPER combatants. Signal "objective secured" upon completion. Withdraw west into the woodline to the ORP on order.
+- **TASK:** Move from the ORP to an assault position near OBJ COTTO. On the PL's signal, assault and clear the fortified bunker position. Eliminate REAPER combatants and signal "objective secured" upon completion. Withdraw to the ORP on order.
 - **PURPOSE:** Destroy the bunker and eliminate the defending force so the platoon can complete the raid and withdraw before REAPER reinforcement.
 
 **2. 2nd Squad (Support by Fire — Shaping Operation):**
 
-- **TASK:** From the ORP, move east to a support-by-fire position on Bradenton Avenue south of OBJ COTTO (IVO MP 0600 1530), oriented north. On the PL's signal, suppress REAPER positions along Bradenton Avenue. Shift or cease fires on order as 1st Squad enters the objective. Break contact south on order during withdrawal.
+- **TASK:** Occupy a support-by-fire position with observation of OBJ COTTO. On the PL's signal, suppress REAPER positions at the objective. Shift or cease fires on order as 1st Squad enters the objective. Withdraw on order during the platoon withdrawal.
 - **PURPOSE:** Fix REAPER in their fighting positions so 1st Squad can close on and breach the bunker without receiving aimed fire.
 
 **3. 3rd Squad (Security — Shaping Operation):**
 
-- **TASK:** Depart the ORP first. Establish a blocking position north of OBJ COTTO along Bradenton Avenue (IVO MP 0600 1545) to isolate the objective and interdict REAPER reinforcements. Orient observation and fires north and east. Maintain the position through the assault. Collapse security last during platoon withdrawal and consolidate at the ORP.
+- **TASK:** Move to isolate OBJ COTTO prior to the assault. Block REAPER reinforcement and escape routes. Maintain positions through the assault. Collapse security last during platoon withdrawal and consolidate at the ORP.
 - **PURPOSE:** Isolate the objective so REAPER cannot reinforce or escape during the assault, ensuring 1st Squad fights only the force currently at the bunker.
 
 ### f. Coordinating Instructions

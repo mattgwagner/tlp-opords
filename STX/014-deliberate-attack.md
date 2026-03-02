@@ -27,7 +27,7 @@
 >
 > **OP Variant:** For iterations requiring a "deliberate attack on enemy OP," replace the CP with a 2-4 person observation post. Remove the SSE task and CP staff from OPFOR. Emphasize stealth approach and speed of assault — the OP's value is early warning, so the enemy's priority is transmitting a report before being overrun. Adjust enemy composition to 2-4 REAPER with binoculars, radio, and a sketch of friendly positions.
 >
-> **See Also:** [LTA Grid Reference](lta-grid-reference.md) | [Tactical Overlay](014-deliberate-attack-overlay.html)
+> **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md) | [Tactical Overlay](014-deliberate-attack-overlay.html)
 >
 > **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For CRAWL phase classroom instruction or first iterations with a new class, use [014-deliberate-attack-detailed.md](014-deliberate-attack-detailed.md) instead, which includes specific ORP grids, SBF positions, and movement directions. The Practical Exercise section below references the detailed version's grids.
 

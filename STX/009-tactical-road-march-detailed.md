@@ -30,7 +30,7 @@
 >
 > **Iteration Guidance:** This is the detailed version with specific SP, checkpoint, and RP grids in squad tasks. For evaluated iterations and later runs, use [009-tactical-road-march.md](009-tactical-road-march.md) instead.
 >
-> **See Also:** [LTA Grid Reference](lta-grid-reference.md)
+> **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 

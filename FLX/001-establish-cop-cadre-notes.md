@@ -85,6 +85,6 @@ Once the COP is established and the CP is operational:
 
 ## References
 
-- [LTA Grid Reference](../lta-grid-reference.md)
+- [LTA Grid Reference](../reference/lta-grid-reference.md)
 - [OPORD 013 — Establish COP (Detailed)](013-establish-cop-detailed.md) — Safety net with specific squad tasks and grids
 - [Cadre Brief](cadre-brief.md) — Full FLX timeline and evaluation plan

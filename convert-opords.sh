@@ -51,8 +51,13 @@ convert_md() {
     -o "$output"
 }
 
-# Process all .md files in the script directory
-for md in "$SCRIPT_DIR"/*.md; do
+# Process all .md files in the STX subdirectory
+for md in "$SCRIPT_DIR"/STX/*.md; do
+  convert_md "$md"
+done
+
+# Process all .md files in the reference subdirectory
+for md in "$SCRIPT_DIR"/reference/*.md; do
   convert_md "$md"
 done
 

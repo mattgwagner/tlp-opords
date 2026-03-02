@@ -30,9 +30,9 @@
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
-> **See Also:** [LTA Grid Reference](lta-grid-reference.md)
+> **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
 >
-> **Iteration Guidance:** This is the mission command version — squad tasks state outcomes without prescribing specific positioning or movement. For the first iteration with a new class or candidates who need additional scaffolding, use [002-movement-to-contact-detailed.md](002-movement-to-contact-detailed.md) instead.
+> **Iteration Guidance:** This is the detailed version with specific objective grids and zone boundaries in squad tasks. For evaluated iterations and later runs, use [002-movement-to-contact.md](002-movement-to-contact.md) instead.
 
 **Time Zone Used Throughout the Plan/Order:** EASTERN STANDARD TIME
 
@@ -73,7 +73,10 @@ REAPER forces are a small, organized group of irregular fighters, likely part of
 
 **1. Composition.** Three independent REAPER teams, each 2-3 combatants with small arms and a possible crew-served weapon. Total 6-9 combatants distributed across AO FLUNKER.
 
-**2. Disposition.** REAPER teams are dispersed across the AO, with one team operating in each sector — western, central, and eastern. Each team uses terrain and vegetation for concealment near its respective area. Teams operate independently with limited lateral coordination.
+**2. Disposition.** REAPER teams are dispersed across the AO, with one team operating in each sector:
+   - Western team: vic OBJ BAINTON (MP 0600 1538), using the Bradenton Ave intersection and surrounding woodlines for concealment.
+   - Central team: vic OBJ HERRERA (MP 0612 1546), using the road junction and vegetation for observation and defense.
+   - Eastern team: vic OBJ BARLOW (MP 0613 1532), using the structures and concealment in and around Conex City.
 
 **3. Most Probable Course of Action (MPCOA).** Each REAPER team initiates harassing fire from concealed positions when friendly forces enter its area, then breaks contact to avoid being fixed. Teams may leave behind simple obstacles or early warning devices but do not attempt to decisively engage. Each team fights independently without reinforcement from adjacent teams.
 
@@ -121,17 +124,17 @@ No priority of indirect fires designated. Mortar support available through compa
 
 **1. 1st Squad (Western Zone):**
 
-- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER toward OBJ BAINTON. Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the western zone of AO FLUNKER toward OBJ BAINTON (MP 0600 1538). Move north from the assembly area along or west of the Bradenton Ave corridor. Locate and engage REAPER forces in the vicinity of the road intersection at OBJ BAINTON. Secure the objective and establish a hasty defensive position oriented north and west. Report enemy strength and disposition.
 - **PURPOSE:** Clear the western approaches to deny REAPER use of the Bradenton Ave corridor for reinforcement or withdrawal.
 
 **2. 2nd Squad (Central Zone):**
 
-- **TASK:** Conduct a movement to contact in the central zone of AO FLUNKER toward OBJ HERRERA. Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the central zone of AO FLUNKER toward OBJ HERRERA (MP 0612 1546). Move north from the assembly area through the wooded area between the Bradenton corridor and Conex City. Locate and engage REAPER forces in the vicinity of the road junction at OBJ HERRERA. Secure the objective and establish a hasty defensive position oriented north. Report enemy strength and disposition.
 - **PURPOSE:** Develop the situation at the road junction to enable the company commander to control the central avenue of approach for follow-on operations.
 
 **3. 3rd Squad (Eastern Zone):**
 
-- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER toward OBJ BARLOW. Locate and engage REAPER forces, secure the objective, and report enemy strength and disposition.
+- **TASK:** Conduct a movement to contact in the eastern zone of AO FLUNKER toward OBJ BARLOW (MP 0613 1532). Move north from the assembly area toward Conex City. Locate and engage REAPER forces in and around the structures at OBJ BARLOW. Secure the objective and establish a hasty defensive position oriented north and east. Report enemy strength and disposition.
 - **PURPOSE:** Clear the eastern sector to prevent REAPER from using the built-up area as a defensive strongpoint or staging area.
 
 **4. Platoon Leader:**

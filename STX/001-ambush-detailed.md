@@ -24,7 +24,7 @@
 >
 > **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 >
-> **See Also:** [LTA Grid Reference](lta-grid-reference.md)
+> **See Also:** [LTA Grid Reference](../reference/lta-grid-reference.md)
 >
 > **Iteration Guidance:** This is the detailed version with specific grids and positioning. For evaluated iterations and later runs where squad leaders should plan independently, use [001-ambush.md](001-ambush.md) instead.
 
