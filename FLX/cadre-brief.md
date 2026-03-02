@@ -163,12 +163,12 @@ TACs own the evaluation mission — they write FLERs. The Infantry Cadre instruc
 
 ### Friday — Establish and Orient
 
-**OPORD 001 — "ESTABLISH COP SEGGEL"** *(Thursday brief → Friday execution)*
+**[OPORD 001 — "ESTABLISH COP SEGGEL"](001-establish-cop.html)** *(Thursday brief → Friday execution)*
 *Candidate PL receives the OPORD Thursday afternoon*
 
 The company commander issues the base order on Thursday. The candidate PL has Thursday afternoon and evening to conduct full TLPs: mission analysis, COA development, and issue their platoon OPORD to SLs. The order gives only a NLT time to have the COP established with the CP operational — the candidate PL must backwards plan the SP, movement, staging, clearance of the facility, and CP setup.
 
-**Thursday:** Candidate PL receives OPORD 001, conducts TLPs, develops their plan, and briefs SLs. This is the first and biggest PL evaluation — can they take a company OPORD and produce a coherent platoon order with squad assignments? Cadre holds the detailed squad overlay ([013-establish-cop-detailed.md](013-establish-cop-detailed.md)) as a safety net. If the PL's order is weak, TAC can coach/redirect before Friday execution.
+**Thursday:** Candidate PL receives OPORD 001, conducts TLPs, develops their plan, and briefs SLs. This is the first and biggest PL evaluation — can they take a company OPORD and produce a coherent platoon order with squad assignments? Cadre holds the detailed squad overlay ([013-establish-cop-detailed](013-establish-cop-detailed.html)) as a safety net. If the PL's order is weak, TAC can coach/redirect before Friday execution.
 
 **Friday:** DFAC breakfast at 0700. SP shortly after chow — candidates must be moving early to meet the NLT. 1st Platoon moves tactically from the RTI through three checkpoints (CP ANVIL, CP FORGE, and CP HAMMER) to COP Seggel. They clear the facility, establish perimeter security and the ECP, stand up the company CP, and prepare defensive positions. **COP established with CP operational NLT 1300** — this gives time for OPORD 002 in the afternoon.
 
@@ -182,7 +182,7 @@ Use the movement phase to evaluate basic competence: formations, movement techni
 
 ---
 
-**OPORD 002 — "MAP THE AO"** *(Area Reconnaissance, ~1300–1500)*
+**[OPORD 002 — "MAP THE AO"](002-area-reconnaissance.html)** *(Area Reconnaissance, ~1300–1500)*
 *Issued from COP Seggel once occupation is complete*
 
 The cadre (as PL) briefs the platoon order to all three SLs: the platoon needs to reconnoiter two NAIs while maintaining COP security. 1st Squad gets NAI 1 (Jacksonville Street corridor, MP 0602 1565). 2nd Squad gets NAI 2 (western woodlines / Clearwater Ave corridor, MP 0575 1538). 3rd Squad has COP security — ECP, perimeter, CP operations, and QRF. Each SL then plans how their squad executes their assigned task: patrol composition, routes, formations, actions on contact, rally points, reporting plan, timeline.
@@ -197,7 +197,7 @@ The cadre (as PL) briefs the platoon order to all three SLs: the platoon needs t
 
 ---
 
-**FRAGO 007 — "CLEAR THE OP"** *(~1530–1730)*
+**[FRAGO 007 — "CLEAR THE OP"](007-frago-clear-reaper-op.html)** *(~1530–1730)*
 *FRAGO issued at COP Seggel — reference OPORD 001*
 
 Recon patrols report a suspected REAPER observation post in a structure approximately 200 meters west of COP Seggel (vicinity MP 0580 1550). The OP has line of sight to the COP's western perimeter and the ECP. It is actively reporting our defensive layout and patrol patterns to REAPER higher. This is time-sensitive — clear it before dark.
@@ -246,7 +246,7 @@ None of these need to be full lanes. They're short-duration events that keep can
 
 #### Saturday Force Structure — 2 Squads + Company HQ
 
-The reorganization was announced and executed Friday evening. By Saturday morning, the new structure is in place and the candidate staff already has OPORD 008. See [candidate-company-staff-guide.md](candidate-company-staff-guide.md) for full details on staff roles and selection criteria.
+The reorganization was announced and executed Friday evening. By Saturday morning, the new structure is in place and the candidate staff already has OPORD 008. See [Candidate Company Staff Guide](candidate-company-staff-guide.html) for full details on staff roles and selection criteria.
 
 | Element | Strength | Composition |
 |---------|----------|-------------|
@@ -280,7 +280,7 @@ This is where the SL evaluation lives — the TLP from squad task receipt throug
 3. **~0630–0800 SL planning.** SLs conduct TLPs over chow (MRE) — mission analysis, scheme of maneuver, sand table, brief their squads. ~1.5 hours of planning time.
 4. **~0800 SP for MTC.**
 
-**OPORD 008 — "FIRST LIGHT"** *(Movement to Contact, ~0800–1000)*
+**[OPORD 008 — "FIRST LIGHT"](008-movement-to-contact.html)** *(Movement to Contact, ~0800–1000)*
 *Staff briefed Friday night, candidate staff briefs SLs at Saturday stand-down*
 
 Overnight security observed REAPER movement in the woodlines north and northwest of COP Seggel. OP/LPs reported foot traffic, low-light signals, and radio transmissions. At least one REAPER probe was detected and repelled. REAPER is massing or repositioning — the company commander orders 1st Platoon to conduct a movement to contact to locate and engage.
@@ -299,7 +299,7 @@ Candidates are tired from overnight security operations — that's the point. Bu
 
 ---
 
-**OPORD 003 — "CUT THE LINE"** *(Ambush, ~1030–1230)*
+**[OPORD 003 — "CUT THE LINE"](003-ambush.html)** *(Ambush, ~1030–1230)*
 *Staff receives order during MTC execution (~0900). Staff briefs SLs at chow/rest.*
 
 Recon from OPORD 002 identified a REAPER resupply route along Bradenton Avenue. Intel indicates regular supply runs moving north past MP 0600 1530. The company commander orders an ambush to cut the supply line and capture intelligence.
@@ -316,7 +316,7 @@ The OPORD is platoon-level only — no squad tasks assigned. The candidate staff
 
 ---
 
-**FRAGO 009 — "SNARE"** *(Intercept Courier, ~1300–1430)*
+**[FRAGO 009 — "SNARE"](009-frago-intercept-courier.html)** *(Intercept Courier, ~1300–1430)*
 *Staff receives FRAGO during ambush execution (~1130). Staff briefs SLs at chow/rest.*
 
 Documents recovered during the ambush (or simply "new intelligence") indicate a REAPER courier carrying orders from higher command is expected to transit through the Clearwater Avenue corridor (vicinity MP 0575 1538) within 2 hours. Capture the courier and recover the communications.
@@ -333,7 +333,7 @@ This is a FRAGO — shorter than a full OPORD but the staff must still develop s
 
 ---
 
-**OPORD 004 — "IRON STRIKE"** *(Raid, ~1500–1700)*
+**[OPORD 004 — "IRON STRIKE"](004-raid.html)** *(Raid, ~1500–1700)*
 *Staff receives order during intercept execution (~1330). Staff briefs SLs at chow/rest.*
 
 Documents captured in the ambush reveal a REAPER weapons cache at MP 0611 1530 (east of the COP). The company commander orders a raid to destroy the cache. The OPORD is platoon-level only — the staff develops squad taskings (assault element, isolation/blocking, site exploitation plan) and briefs SLs. By this point the staff has done this three times (MTC, ambush, intercept) — they should be getting faster.
@@ -348,7 +348,7 @@ Documents captured in the ambush reveal a REAPER weapons cache at MP 0611 1530 (
 
 ---
 
-**OPORD 006 — "FINAL ANVIL"** *(Deliberate Attack — Capstone, ~1730–1900)*
+**[OPORD 006 — "FINAL ANVIL"](006-deliberate-attack.html)** *(Deliberate Attack — Capstone, ~1730–1900)*
 *Staff receives mission statement during raid execution (~1530). Staff plans entire order independently.*
 
 REAPER's remaining forces have consolidated at the Jacksonville Street / Bradenton Avenue junction (MP 0602 1565) — 150 meters north of the COP. The company commander orders 1st Platoon to seize the junction and finish REAPER in AO HERRERA. **This is the capstone.** The staff receives only a mission statement — no OPORD, no situation paragraph, no scheme of maneuver. They must plan the entire order independently: enemy analysis, scheme of maneuver, squad taskings, fires, sustainment, everything. Cadre holds the detailed OPORD as a safety net. **Last light is 1855 — this creates natural time pressure to complete the attack before dark.**
@@ -376,7 +376,7 @@ After the deliberate attack, consolidate back at COP Seggel. Chow (MRE), water r
 
 ### Sunday Morning — ENDEX
 
-**OPORD 005 — "HOLD THE LINE"** *(COP Defense — OPTIONAL)*
+**[OPORD 005 — "HOLD THE LINE"](005-cop-defense.html)** *(COP Defense — OPTIONAL)*
 *Triggered at stand-to if cadre chooses to execute*
 
 If cadre wants a final evaluation opportunity, trigger a REAPER counterattack on the COP at first light (0722 EDT — note time change). This is optional — execute only if there are candidates who still need an evaluated lane or if the defense looks like it needs testing.
