@@ -72,6 +72,10 @@ These OPORDs support TLP planning exercises focused on Defense Support of Civil 
 | 011 | [Mounted Area Reconnaissance](011-dsca-mounted-reconnaissance.html) | DSCA mounted reconnaissance to assess infrastructure damage and route conditions. | [html](011-dsca-mounted-reconnaissance.html) · [pdf](011-dsca-mounted-reconnaissance.pdf) · [kml](011-dsca-mounted-reconnaissance.kml) |
 | 012 | [Point of Distribution Operations](012-dsca-point-of-distribution.html) | DSCA humanitarian distribution operations with civilian interface management. | [html](012-dsca-point-of-distribution.html) · [pdf](012-dsca-point-of-distribution.pdf) · [kml](012-dsca-point-of-distribution.kml) |
 
+## FLX — Operation SPRING STRIKE
+
+- [FLX Operation Orders](FLX/) — Class 065 Culmination FLX, 05–08 March 2026, CBJTC Starke FL
+
 ## FLX Variation System
 
 To keep iterations fresh during multiple FLX runs, use the inject card system:

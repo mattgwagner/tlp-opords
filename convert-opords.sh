@@ -61,4 +61,16 @@ for md in "$SCRIPT_DIR"/FLX/*.md; do
   convert_md "$md"
 done
 
+# Convert README.md to index.html (root landing page for the site)
+if [ -f "$SCRIPT_DIR/README.md" ]; then
+  echo "Converting: README.md -> index.html"
+  pandoc "$SCRIPT_DIR/README.md" \
+    --from gfm \
+    --template="$TEMPLATE" \
+    --standalone \
+    --metadata title="OCS Operations Orders" \
+    --metadata doctype="INDEX" \
+    -o "$SCRIPT_DIR/index.html"
+fi
+
 exit 0
