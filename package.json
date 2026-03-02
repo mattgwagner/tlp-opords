@@ -2,6 +2,9 @@
   "name": "ocs-opords",
   "private": true,
   "scripts": {
-    "build": "bash convert-opords.sh && node build.mjs"
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "marked": "^15.0.0"
   }
 }
