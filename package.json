@@ -1,0 +1,7 @@
+{
+  "name": "ocs-opords",
+  "private": true,
+  "scripts": {
+    "build": "bash convert-opords.sh && node build.mjs"
+  }
+}

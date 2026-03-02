@@ -1,1 +1,16 @@
+# Build output
+dist/
+
+# Generated HTML (built by Cloudflare, not source)
 *.html
+!opord-template.html
+!FLX/index.html
+
+# Generated PDFs (no longer part of pipeline)
+*.pdf
+
+# Node
+node_modules/
+
+# macOS
+.DS_Store

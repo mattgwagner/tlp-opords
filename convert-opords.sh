@@ -1,9 +1,9 @@
-#!/usr/bin/env zsh
-# convert-opords.sh - Convert all Markdown OPORD files to DOCX using a reference Word template
+#!/usr/bin/env bash
+# convert-opords.sh - Convert all Markdown OPORD files to HTML using a Pandoc template
 # Files should be written in GitHub Flavored Markdown (GFM) format
 
 # Enable nullglob so that the script doesn’t error out when a folder has no Markdown files
-setopt nullglob
+shopt -s nullglob
 
 # Ensure pandoc is installed
 if ! command -v pandoc >/dev/null 2>&1; then
