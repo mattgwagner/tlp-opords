@@ -35,7 +35,39 @@
       font-size: 10pt;
       margin-bottom: 0.2in;
     }
-    
+
+    .toc {
+      background-color: #F2F2F2;
+      border: 1px solid #CCCCCC;
+      border-radius: 6px;
+      padding: 0.15in 0.25in;
+      margin: 0.2in 0;
+      columns: 2;
+      column-gap: 0.3in;
+    }
+    .toc-title {
+      font-size: 12pt;
+      font-weight: bold;
+      color: #2B5797;
+      margin-bottom: 0.05in;
+      column-span: all;
+    }
+    .toc ol {
+      margin: 0;
+      padding-left: 0.25in;
+    }
+    .toc li {
+      font-size: 10pt;
+      margin-bottom: 0.03in;
+    }
+    .toc a {
+      color: #2B5797;
+      text-decoration: none;
+    }
+    .toc a:hover {
+      text-decoration: underline;
+    }
+
     .doctrine-link-box {
       background-color: #E7F3FF;
       border: 2px solid #2B5797;
@@ -349,7 +381,7 @@
 <body>
 
 <h1>TAC's Tactical Quick Reference</h1>
-<div class="subtitle">Movement, Battle Drills, Danger Areas, and Ambush Operations</div>
+<div class="subtitle">Movement, Battle Drills, Danger Areas, Ambush Operations, and FLX Reference</div>
 
 <div class="doctrine-link-box">
   <strong>📚 PRIMARY DOCTRINAL REFERENCE:</strong><br>
@@ -366,8 +398,30 @@
   Use this to understand what right looks like so you can assess whether candidates can plan, communicate, and lead their element through tactical situations.
 </div>
 
+<div class="toc">
+  <div class="toc-title">TABLE OF CONTENTS</div>
+  <ol>
+    <li><a href="#section-1">Squad Organization and Weapons</a></li>
+    <li><a href="#section-2">Movement Formations</a></li>
+    <li><a href="#section-3">Movement Techniques</a></li>
+    <li><a href="#section-4">Danger Area Crossings</a></li>
+    <li><a href="#section-5">Battle Drills</a></li>
+    <li><a href="#section-6">Actions on the Objective</a></li>
+    <li><a href="#section-7">Ambush Operations</a></li>
+    <li><a href="#section-8">Connecting Tactics to the FLER</a></li>
+    <li><a href="#section-9">Occupying a Combat Outpost</a></li>
+    <li><a href="#section-10">Radio Operations and Communications</a></li>
+    <li><a href="#section-11">OE-254 Antenna Setup</a></li>
+    <li><a href="#section-12">Entry Control Point (ECP) Operations</a></li>
+    <li><a href="#section-13">Security and Defensive Planning</a></li>
+    <li><a href="#section-14">Satellite Imagery and Terrain Analysis</a></li>
+    <li><a href="#section-15">Battle Tracking and CP Operations</a></li>
+    <li><a href="#section-16">MEDEVAC 9-Line Request</a></li>
+  </ol>
+</div>
+
 <!-- SECTION 1 -->
-<h2>Section 1: Squad Organization and Weapons</h2>
+<h2 id="section-1">Section 1: Squad Organization and Weapons</h2>
 <p>Understanding the organization and capabilities of rifle and weapons squads is fundamental to evaluating platoon operations. These organizations define the organic firepower and capabilities available to the platoon leader.</p>
 
 <h3>Infantry Rifle Squad (ATP 3-21.8)</h3>
@@ -503,7 +557,7 @@
 
 <!-- SECTION 2 -->
 <div class="page-break"></div>
-<h2>Section 2: Movement Formations</h2>
+<h2 id="section-2">Section 2: Movement Formations</h2>
 <p>Formations provide the framework for controlling the squad/platoon during movement. The SL/PL selects formations based on METT-TC, balancing control, flexibility, security, and speed.</p>
 
 <h3>Squad Formations (ATP 3-21.8)</h3>
@@ -807,7 +861,7 @@
 
 <!-- SECTION 3 -->
 <div class="page-break"></div>
-<h2>Section 3: Movement Techniques</h2>
+<h2 id="section-3">Section 3: Movement Techniques</h2>
 <p>Movement techniques describe HOW elements move relative to each other. The leader selects based on likelihood of enemy contact, need for speed, and terrain.</p>
 
 <div class="movement-diagram-container">
@@ -943,7 +997,7 @@
 </div>
 
 <!-- SECTION 4 -->
-<h2>Section 4: Danger Area Crossings</h2>
+<h2 id="section-4">Section 4: Danger Area Crossings</h2>
 <p>A danger area is any place where the unit is vulnerable to enemy observation or fire. Crossing danger areas is a critical tactical task that requires planning, control, and security.</p>
 
 <h3>Types of Danger Areas</h3>
@@ -1043,7 +1097,7 @@
 
 <!-- SECTION 5 -->
 <div class="page-break"></div>
-<h2>Section 5: Battle Drills</h2>
+<h2 id="section-5">Section 5: Battle Drills</h2>
 <p>Battle drills are standardized collective actions rapidly executed without a deliberate decision-making process. Soldiers execute drills instinctively based on training. Per CMP: "WTBDs were previously taught and tested in basic combat training. There is no requirement to reteach these tasks in OCS."</p>
 
 <h3>React to Direct Fire Contact While Dismounted (Battle Drill 1A)</h3>
@@ -1231,7 +1285,7 @@
 
 <!-- SECTION 6 -->
 <div class="page-break"></div>
-<h2>Section 6: Actions on the Objective</h2>
+<h2 id="section-6">Section 6: Actions on the Objective</h2>
 <p>This section covers the basic framework for offensive operations that candidates will plan and execute during FLX. The candidate must demonstrate understanding of the purpose and organization of each element.</p>
 
 <h3>Basic Offensive Framework</h3>
@@ -1342,7 +1396,7 @@
 
 <!-- SECTION 7 -->
 <div class="page-break"></div>
-<h2>Section 7: Ambush Operations</h2>
+<h2 id="section-7">Section 7: Ambush Operations</h2>
 <p>The ambush is one of the primary STX lane missions for OCS candidates. It is a surprise attack from a concealed position on a moving or temporarily halted target. Understanding ambush types, formations, and execution sequence is critical for evaluating whether candidates can plan and lead this operation.</p>
 <p style="font-size:9pt; color:#666; margin-bottom:0.1in;">Reference: TC 3-21.76 Ranger Handbook, Chapter 7 (Patrols); ATP 3-21.8, Chapter 4</p>
 
@@ -1549,7 +1603,7 @@
 
 <!-- SECTION 8 -->
 <div class="page-break"></div>
-<h2>Section 8: Connecting Tactics to the FLER</h2>
+<h2 id="section-8">Section 8: Connecting Tactics to the FLER</h2>
 <p>The Field Leadership Evaluation Report (FLER) evaluates candidates on the 8 TLPs, not tactical execution. Understanding how tactical tasks connect to TLP evaluation helps focus your assessment.</p>
 
 <div class="table-wrapper">
@@ -1602,6 +1656,244 @@
   The FLER evaluates TLPs—tactical tasks are simply the vehicle for demonstrating leadership.
 </div>
 
+<!-- SECTION 9 -->
+<div class="page-break"></div>
+<h2 id="section-9">Section 9: Occupying a Combat Outpost (COP)</h2>
+
+<div class="purpose-box">
+  <strong>PURPOSE:</strong> This section provides a phase-by-phase overview of the FLX tactical operation for TAC reference during execution. It is <strong>not</strong> a substitute for the OPORD — it is a quick-scan guide to what should be happening in each phase and what to evaluate. Tactical fundamentals for each phase are covered in Sections 1–8 of this guide.
+</div>
+
+<p>1st Platoon, A/4-211 IN conducts a tactical road march from the RTI through two checkpoints to seize and occupy COP Seggel, a recently vacated host nation facility. Upon clearing the facility, the platoon establishes the company command post, transitions to a defensive posture, and prepares to execute follow-on missions issued as FRAGOs from the COP.</p>
+
+<h3>Operation Phases at a Glance</h3>
+<div class="table-wrapper">
+<table>
+  <tr>
+    <th style="width:15%">Phase</th>
+    <th style="width:40%">Key Tasks</th>
+    <th style="width:25%">Transition Criteria</th>
+    <th style="width:20%">See Also</th>
+  </tr>
+  <tr>
+    <td class="row-header">1 — Approach</td>
+    <td>
+      <ul style="margin:0; padding-left:0.2in;">
+        <li>SP from RTI; tactical road march through CP ANVIL and CP FORGE</li>
+        <li>Select formations and movement techniques appropriate to terrain and threat</li>
+        <li>Execute danger area crossings with security</li>
+        <li>Conduct security halts; report at each checkpoint</li>
+      </ul>
+    </td>
+    <td>Security halt established vicinity COP Seggel; PL initiates leader's reconnaissance</td>
+    <td>Sections 2, 3, 4</td>
+  </tr>
+  <tr>
+    <td class="row-header">2 — Clear</td>
+    <td>
+      <ul style="margin:0; padding-left:0.2in;">
+        <li>Leader's recon of facility to confirm/deny enemy presence</li>
+        <li>Assault element clears all buildings room-by-room</li>
+        <li>Support by fire element fixes enemy</li>
+        <li>Security element cordons against reinforcement and escape</li>
+        <li>Report "CLEAR" to higher</li>
+      </ul>
+    </td>
+    <td>All buildings cleared; no enemy presence in facility</td>
+    <td>Sections 5 (BD6), 6</td>
+  </tr>
+  <tr>
+    <td class="row-header">3 — Occupy &amp; Establish</td>
+    <td>
+      <ul style="margin:0; padding-left:0.2in;">
+        <li>Establish ECP with positive identification procedures</li>
+        <li>Perimeter security with fighting positions and overhead cover</li>
+        <li>Company CP with battle tracking and dual-net communications</li>
+        <li>Rest/security rotation; sustainment planning (48 hours)</li>
+        <li>QRF designated; defensive fires planned</li>
+      </ul>
+    </td>
+    <td>CP operational report to higher; all sectors manned; ready for follow-on FRAGOs</td>
+    <td>Section 6</td>
+  </tr>
+  <tr>
+    <td class="row-header">4 — Sustained Ops</td>
+    <td>
+      <ul style="margin:0; padding-left:0.2in;">
+        <li>Execute follow-on missions issued as FRAGOs from COP</li>
+        <li>Maintain security posture; respond to enemy probes and indirect fire</li>
+        <li>SITREP every 4 hours; LACE reports every 12 hours</li>
+        <li>Manage rest plan and QRF rotation</li>
+      </ul>
+    </td>
+    <td>ENDEX or relief by follow-on forces</td>
+    <td>Section 8</td>
+  </tr>
+</table>
+</div>
+
+<div class="tac-note">
+  <div class="tac-note-title">TAC EVALUATION NOTES — BY PHASE</div>
+  <p><strong>Phase 1 (Approach):</strong> Does the PL select appropriate formations and movement techniques for the terrain? Are danger area crossings executed with proper near/far side security? Does the PL report at checkpoints and maintain communication with higher?</p>
+  <p><strong>Phase 2 (Clear):</strong> Does the PL conduct a leader's recon before committing the main body? Is the clearing systematic — does the candidate maintain control of support, assault, and security elements simultaneously? Are cleared rooms marked?</p>
+  <p><strong>Phase 3 (Occupy &amp; Establish):</strong> Can the PSG/PL establish a functioning CP? Is battle tracking active? Are comms operational on both platoon and company nets? Is the rest/security plan realistic for 48-hour operations?</p>
+  <p><strong>Phase 4 (Sustained Ops):</strong> Does the candidate demonstrate full TLPs when receiving a FRAGO? Can they plan and issue a new order from the CP? Do they maintain defensive posture while planning follow-on missions?</p>
+</div>
+
+<div class="bottom-line">
+  <div class="bottom-line-title">BOTTOM LINE FOR TACS</div>
+  The FLX tests the full spectrum of TLPs under sustained conditions. Phases 1–2 evaluate planning and execution of <strong>offensive tasks</strong> (movement, clearing). Phases 3–4 evaluate the transition to <strong>defense</strong>, CP operations, and the ability to receive and execute follow-on missions — the hallmark of a functioning platoon leader.
+</div>
+
+<!-- SECTION 10 -->
+<div class="page-break"></div>
+<h2 id="section-10">Section 10: Radio Operations and Communications Procedures</h2>
+<p><em>Connects to: Phase 3 dual-net communications requirement</em></p>
+<ul>
+  <li>PACE plan structure and employment (Primary: FM radio, Alternate: FM alternate freq, Contingency: single-channel plain text, Emergency: runner)</li>
+  <li>RTO procedures: call signs, prowords ("this is," "over," "out," "roger," "wilco"), phonetic alphabet, authentication using number combination</li>
+  <li>Report formats — SALUTE (enemy contact), SITREP (situation update), MEDEVAC 9-line request, LACE (logistics status)</li>
+  <li>Net discipline: brevity, no names over the net, proper call sign usage, listen-before-transmit</li>
+  <li>Dual-net operations: monitoring both platoon and company nets simultaneously — this is required during Phase 3 CP operations</li>
+  <li><strong>For this FLX:</strong> Candidates must establish comms on two nets (company FH and platoon FH) and demonstrate proper checkpoint reporting during the road march and SITREP/LACE reporting from the COP</li>
+</ul>
+
+<!-- SECTION 11 -->
+<div class="page-break"></div>
+<h2 id="section-11">Section 11: OE-254 Antenna Setup and Employment</h2>
+<p><em>Connects to: Phase 3 CP establishment</em></p>
+<ul>
+  <li>Components: 4 fiberglass mast sections, ground plane (4 radials), AB-652 base, guy wires (3), stakes, coax cable to radio</li>
+  <li>Assembly sequence: lay out ground plane radials → assemble mast sections → attach antenna element → connect coax → raise mast → tension guy wires → stake and ground</li>
+  <li>Site selection: highest available ground near the CP, clear of overhead obstructions (trees, power lines), within coax cable reach of the radio, away from other antennas to avoid interference</li>
+  <li>Orientation: the antenna is omnidirectional when vertical — key concern is ensuring it is plumb (straight up) for even radiation pattern</li>
+  <li>Guy wire tensioning: equal tension on all 3 guy wires at 120° intervals; stakes at approximately 2/3 the mast height distance from the base</li>
+  <li>Troubleshooting: weak signal often means a loose coax connection, improperly grounded base, or mast not plumb; check connections before assuming radio fault</li>
+  <li><strong>For this FLX:</strong> The OE-254 extends FM range to reliably reach higher HQ from the COP. Candidates should demonstrate they can get the antenna up quickly during Phase 3 occupation so the CP is operational</li>
+</ul>
+
+<!-- SECTION 12 -->
+<div class="page-break"></div>
+<h2 id="section-12">Section 12: Entry Control Point (ECP) Operations</h2>
+<p><em>Connects to: Phase 3 ECP establishment</em></p>
+<ul>
+  <li>ECP layout: overwatch position with clear line of fire, covered search area, separate vehicle and pedestrian lanes where possible, barriers or obstacles to slow and canalize traffic</li>
+  <li>Manning: minimum 3 personnel — one on overwatch (armed, covering the search area), one conducting the search/check, one logging and providing backup</li>
+  <li>Positive identification: challenge/password procedures, visual ID checks, search vehicles and personnel using a systematic 5-point or full pat-down method</li>
+  <li>Escalation of force: Shout (verbal warning) → Show (display weapon) → Shove (physical measures) → Shoot (lethal force as last resort). Each step must be clearly understood</li>
+  <li>Documentation: maintain a log of all personnel and vehicles entering/exiting with time, name/description, purpose, and any items of interest</li>
+  <li>ROE with civilians: host nation personnel may be present at COP Seggel — treat respectfully, identify, report to higher. Positively identify targets before any use of force</li>
+  <li><strong>For this FLX:</strong> The ECP is established on Bradenton Avenue during Phase 3. Candidates use the OPORD's challenge ("Outpost") and password ("Seggel"). Cadre may send civilian role-players to test ECP procedures and ROE compliance</li>
+</ul>
+
+<!-- SECTION 13 -->
+<div class="page-break"></div>
+<h2 id="section-13">Section 13: Security and Defensive Planning</h2>
+<p><em>Connects to: Phase 3 perimeter security; See Section 6</em></p>
+<ul>
+  <li>Priorities of work (in order): security first, then fighting positions, wire/obstacles, fields of fire, alternate positions, range cards/sector sketches, rehearsals, rest plan</li>
+  <li>Sector sketch: drawn from the leader's position looking out; includes squad/team boundaries, primary and alternate fighting positions, key terrain features, TRPs (target reference points), FPL (final protective line), dead space, and obstacles</li>
+  <li>Fighting positions: hasty positions immediately on occupation, then improve to deliberate positions with overhead cover, grenade sumps, and drainage; interlocking fields of fire between adjacent positions</li>
+  <li>Observation plan: LP/OPs pushed out along likely avenues of approach; establish communication (wire, radio, or signals) back to the perimeter; cover dead space with observation or indirect fire</li>
+  <li>Stand-to: 100% security at dawn and dusk (BMNT/EENT) — the most likely times for enemy attack. Duration typically 30 minutes before to 30 minutes after</li>
+  <li>QRF: a designated element (typically a fire team or squad) on short-notice alert to reinforce any sector under attack; must know routes to every sector and rehearse responses</li>
+  <li>Rest plan: for 48-hour sustained operations, must rotate 1/3 security, 1/3 improving positions, 1/3 rest — realistic scheduling is critical</li>
+  <li><strong>For this FLX:</strong> COP Seggel's most dangerous avenues of approach are from the north and west. The OPORD expects defensive fires oriented on the Bradenton Avenue corridor and western woodlines. REAPER probing attacks at first light are the expected threat</li>
+</ul>
+
+<!-- SECTION 14 -->
+<div class="page-break"></div>
+<h2 id="section-14">Section 14: Satellite Imagery and Terrain Analysis</h2>
+<p><em>Connects to: Phase 1 route planning; Phase 3 defensive layout</em></p>
+<ul>
+  <li>Reading satellite imagery: identify buildings, roads, tree lines, open areas, water features; understand scale and orientation (north arrow); distinguish between current and outdated imagery</li>
+  <li>OAKOC framework:
+    <ul>
+      <li><strong>Observation &amp; Fields of Fire:</strong> Where can you see from? Where can you shoot from? Where are the blind spots?</li>
+      <li><strong>Avenues of Approach:</strong> How can the enemy get to you? How can you move to the objective?</li>
+      <li><strong>Key Terrain:</strong> What ground gives an advantage to whoever controls it? (high ground, road junctions, hardened buildings)</li>
+      <li><strong>Obstacles:</strong> What restricts movement? (dense vegetation, water, fences, structures)</li>
+      <li><strong>Cover &amp; Concealment:</strong> Cover stops bullets (walls, berms); concealment hides you (vegetation, shadows) — they are not the same thing</li>
+    </ul>
+  </li>
+  <li>Correlating imagery to grid: match visible features (road intersections, buildings) to the map; use known grid references to orient; overlay grid lines if possible</li>
+  <li>Facility layout proposal: using the imagery, candidates should be able to propose placement of the CP, ECP, CCP (casualty collection point), and HLZ (helicopter landing zone) and explain <em>why</em> each location was chosen based on terrain</li>
+  <li><strong>For this FLX:</strong> COP Seggel sits in a developed area with Bradenton Avenue as the main MSR, dense pine/hardwood forest to the west, and open terrain along Jacksonville Street to the north. Candidates should recognize the key terrain features and orient their defensive plan around them</li>
+</ul>
+
+<!-- SECTION 15 -->
+<div class="page-break"></div>
+<h2 id="section-15">Section 15: Battle Tracking and Command Post Operations</h2>
+<p><em>Connects to: Phases 3–4 CP operations</em></p>
+<ul>
+  <li>Battle tracking board: a map or imagery with current friendly positions (by squad/team), known/suspected enemy positions, key control measures (phase lines, checkpoints, boundaries), and a timeline of events. Updated in real time as reports come in</li>
+  <li>CP layout: the CP needs a battle tracking board visible to the PL/PSG, radios on both nets within arm's reach, a message log, and a working area for planning. It should be inside a hardened structure for protection</li>
+  <li>Tracking friendly forces: know where every element is at all times — squad locations, casualty status, ammunition status, security posture. If you can't point to a squad on the map, you've lost track</li>
+  <li>Tracking enemy: plot all SALUTE reports on the board; look for patterns (direction of movement, timing of contact, likely staging areas)</li>
+  <li>Running estimates: maintain current counts for personnel (effective strength by squad), Class V (ammo by type), and Class I/water (remaining supply vs. consumption rate). Update with every LACE report</li>
+  <li>Processing reports: when a report comes in, the CP logs it, posts it to the board, determines if it triggers a CCIR or requires action, and passes it to higher if required</li>
+  <li>Transition from movement to static: during Phase 1-2, the PL leads from the front; in Phase 3, the PL/PSG must shift to leading from the CP — this is the hardest leadership transition for candidates and the one most likely to fail</li>
+  <li><strong>For this FLX:</strong> The company CP is established in a hardened building at COP Seggel. The OPORD requires SITREP every 4 hours and LACE every 12 hours. Candidates must demonstrate they can receive a FRAGO at the CP and conduct TLPs to issue a new order — this is the Phase 4 evaluation focus</li>
+</ul>
+
+<!-- SECTION 16 -->
+<div class="page-break"></div>
+<h2 id="section-16">Section 16: MEDEVAC 9-Line Request</h2>
+<div class="table-wrapper">
+<table>
+  <tr>
+    <th style="width:10%">Line</th>
+    <th style="width:30%">Item</th>
+    <th style="width:60%">Information Required</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;">1</td>
+    <td class="row-header">Location</td>
+    <td>Grid coordinates of pickup site (8-digit preferred)</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">2</td>
+    <td class="row-header">Frequency / Call Sign</td>
+    <td>Radio frequency and call sign at the pickup site</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">3</td>
+    <td class="row-header">Patients by Precedence</td>
+    <td>A — Urgent &nbsp;|&nbsp; B — Priority &nbsp;|&nbsp; C — Routine</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">4</td>
+    <td class="row-header">Special Equipment</td>
+    <td>A — None &nbsp;|&nbsp; B — Hoist &nbsp;|&nbsp; C — Extraction &nbsp;|&nbsp; D — Ventilator</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">5</td>
+    <td class="row-header">Patients by Type</td>
+    <td>L — Litter &nbsp;|&nbsp; A — Ambulatory</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">6</td>
+    <td class="row-header">Security at Pickup Site</td>
+    <td>N — No enemy &nbsp;|&nbsp; P — Possible &nbsp;|&nbsp; E — Enemy in area &nbsp;|&nbsp; X — Armed escort required</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">7</td>
+    <td class="row-header">Marking Method</td>
+    <td>A — Panels &nbsp;|&nbsp; B — Pyrotechnic &nbsp;|&nbsp; C — Smoke &nbsp;|&nbsp; D — None &nbsp;|&nbsp; E — Other</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">8</td>
+    <td class="row-header">Patient Nationality / Status</td>
+    <td>A — US Military &nbsp;|&nbsp; B — US Civilian &nbsp;|&nbsp; C — Non-US Military &nbsp;|&nbsp; D — Non-US Civilian &nbsp;|&nbsp; E — EPW</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">9</td>
+    <td class="row-header">CBRN Contamination</td>
+    <td>Nuclear, Biological, Chemical, or None</td>
+  </tr>
+</table>
+</div>
+
 <h3>References</h3>
 <ul>
   <li><a href="https://www.benning.army.mil/infantry/DoctrineSupplement/ATP3-21.8/" target="_blank">ATP 3-21.8, Infantry Platoon and Squad</a> (April 2016) - Interactive Doctrine Supplement</li>
@@ -1609,6 +1901,8 @@
   <li>ARNG OCS Course Management Plan (1 JAN 2024)</li>
   <li>ARNG OCS Individual Student Assessment Plan (1 JAN 2024)</li>
   <li>Platoon Trainer Guide (15 November 2024)</li>
+  <li>OPORD 001 (MAR 26) — Operation SPRING STRIKE, FLX Preparation and Execution</li>
+  <li>FLX Base OPORD — Establish COP Seggel (A/4-211 IN)</li>
 </ul>
 
 <hr style="margin-top: 0.3in; border: none; border-top: 1px solid #999;">

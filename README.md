@@ -14,7 +14,7 @@ All Operations Orders should be written in GitHub Flavored Markdown (GFM) format
 - [FLX Variation System](#flx-variation-system)
 
 ## Templates and References
-
+ 
 - [OPORD Blank Template](opord-blank-template.html) - A fill-in-the-blank template with quick references designed to help build operations orders in an expedited manner.
 - [TAC's Tactical Quick Reference](tac-quick-reference.html) - A comprehensive reference guide for movement formations, movement techniques, danger area crossings, battle drills, and actions on the objective. Designed to help TACs evaluate OCS candidates during field training exercises.
 - [Patrol Base Operations](patrol-base-ops.html) - A crawl phase training package covering patrol base operations, including cadre refresher material, inspection checklists, scenario injects, and implementation notes. Reference for establishing and operating patrol bases per ATP 3-21.8.
@@ -69,6 +69,10 @@ These OPORDs support TLP planning exercises focused on Defense Support of Civil 
 | 010 | [Hurricane Relief Convoy](010-dsca-convoy-operations.html) | DSCA convoy operations through damaged infrastructure to deliver relief supplies. | [html](010-dsca-convoy-operations.html) · [pdf](010-dsca-convoy-operations.pdf) · [kml](010-dsca-convoy-operations.kml) |
 | 011 | [Mounted Area Reconnaissance](011-dsca-mounted-reconnaissance.html) | DSCA mounted reconnaissance to assess infrastructure damage and route conditions. | [html](011-dsca-mounted-reconnaissance.html) · [pdf](011-dsca-mounted-reconnaissance.pdf) · [kml](011-dsca-mounted-reconnaissance.kml) |
 | 012 | [Point of Distribution Operations](012-dsca-point-of-distribution.html) | DSCA humanitarian distribution operations with civilian interface management. | [html](012-dsca-point-of-distribution.html) · [pdf](012-dsca-point-of-distribution.pdf) · [kml](012-dsca-point-of-distribution.kml) |
+
+## FLX — Operation SPRING STRIKE
+
+- [FLX Operation Orders](FLX/) — Class 065 Culmination FLX, 05–08 March 2026, CBJTC Starke FL
 
 ## FLX Variation System
 

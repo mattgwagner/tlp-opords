@@ -27,32 +27,33 @@ if [ ! -f "$TEMPLATE" ]; then
   exit 1
 fi
 
-# Process all .md files in the script directory
-for md in "$SCRIPT_DIR"/*.md; do
-  [ -f "$md" ] || continue
+# Function to convert a single markdown file to PDF via HTML
+convert_md_to_pdf() {
+  local md="$1"
+  [ -f "$md" ] || return
 
-  # Skip README.md
-  if [[ "$(basename "$md")" == "README.md" ]]; then
-    continue
+  # Skip README.md and cadre notes
+  local basename="$(basename "$md")"
+  if [[ "$basename" == "README.md" ]] || [[ "$basename" == *"cadre-notes"* ]]; then
+    return
   fi
 
   # Generate output paths
-  html_temp="${md%.md}.temp.html"
-  pdf_output="${md%.md}.pdf"
+  local html_temp="${md%.md}.temp.html"
+  local pdf_output="${md%.md}.pdf"
 
   echo "Converting: $md -> $pdf_output"
 
   # Extract document title and metadata
-  doc_title=$(basename "$md" .md)
+  local doc_title=$(basename "$md" .md)
 
   # Extract header information for military documents
-  header_info=$(grep -A5 "Copy __ of __ copies" "$md" 2>/dev/null || echo "")
+  local header_info=$(grep -A5 "Copy __ of __ copies" "$md" 2>/dev/null || echo "")
 
   # Determine if this is a WARNO by looking at the filename
+  local doc_type="OPERATION ORDER"
   if [[ "$doc_title" == *"WARNO"* ]]; then
     doc_type="WARNING ORDER"
-  else
-    doc_type="OPERATION ORDER"
   fi
 
   # Step 1: Convert Markdown to HTML using pandoc with template
@@ -81,6 +82,16 @@ for md in "$SCRIPT_DIR"/*.md; do
   rm -f "$html_temp"
 
   echo "✓ Created: $pdf_output"
+}
+
+# Process all .md files in the script directory
+for md in "$SCRIPT_DIR"/*.md; do
+  convert_md_to_pdf "$md"
+done
+
+# Process all .md files in the FLX subdirectory
+for md in "$SCRIPT_DIR"/FLX/*.md; do
+  convert_md_to_pdf "$md"
 done
 
 echo ""

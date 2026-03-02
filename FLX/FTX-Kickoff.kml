@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>FTX Kickoff — OPORD 001 Brief</name>
+  <description>OCS Class 065 FLX, 05 MAR 2026. Movement checkpoints and COP Seggel for Thursday OPORD brief.</description>
+
+  <Style id="cop">
+    <IconStyle>
+      <color>ff0000ff</color>
+      <scale>1.4</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/shapes/square.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>1.2</scale></LabelStyle>
+  </Style>
+  <Style id="checkpoint">
+    <IconStyle>
+      <color>ffff0000</color>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon>
+    </IconStyle>
+    <LabelStyle><scale>1.0</scale></LabelStyle>
+  </Style>
+
+  <Placemark>
+    <name>CP ANVIL (MP 0589 1455)</name>
+    <description>Checkpoint 1</description>
+    <styleUrl>#checkpoint</styleUrl>
+    <Point><coordinates>-81.975330,29.958167,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>CP FORGE (MP 0566 1465)</name>
+    <description>Checkpoint 2</description>
+    <styleUrl>#checkpoint</styleUrl>
+    <Point><coordinates>-81.977722,29.959052,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>CP HAMMER (MP 0575 1524)</name>
+    <description>Checkpoint 3</description>
+    <styleUrl>#checkpoint</styleUrl>
+    <Point><coordinates>-81.976841,29.964383,0</coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+    <name>COP SEGGEL (MP 0610 1550)</name>
+    <description>Objective. Seize and secure NLT 1300L 05 MAR.
+Establish company CP, ECP, perimeter defense.</description>
+    <styleUrl>#cop</styleUrl>
+    <Point><coordinates>-81.973237,29.966756,0</coordinates></Point>
+  </Placemark>
+
+</Document>
+</kml>
