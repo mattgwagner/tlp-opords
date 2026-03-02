@@ -429,7 +429,7 @@ If cadre wants a final evaluation opportunity, trigger a REAPER counterattack on
 | **SUN** | ~0722 | Optional COP Defense at stand-to | 005 | SLs (optional) |
 | **SUN** | ~0800–1100 | ENDEX, recovery, equipment turn-in, AAR | — | — |
 
-**Evaluation model:** SLs rotate into new squads each lane — TACs can evaluate multiple SLs simultaneously (Friday has all 3 TACs evaluating 3 SLs at once on OPORD 002). PL/PSG are evaluated continuously on COP management between lanes. The candidate staff is evaluated on every Saturday lane (order development and briefing). Adjust SL rotation based on class size — if you have more candidates than lane slots, evaluate two SLs in the same squad (SL + assistant SL with specific tasks).
+**Evaluation model:** SLs rotate into new squads each lane — TACs can evaluate multiple SLs simultaneously (Friday has all 3 TACs evaluating 3 SLs at once on OPORD 002). PL/PSG are evaluated continuously on COP management between lanes. 
 
 ---
 
@@ -446,16 +446,6 @@ If cadre wants a final evaluation opportunity, trigger a REAPER counterattack on
 - Time-pressure decision making (courier window, last-light deadlines)
 
 **Thursday training → FLX connection:** Watch whether the SL who taught defensive planning actually applies it at the COP. Watch whether the candidate who taught ECP ops runs a sloppy ECP. The preparation training is their chance to study the material — the FLX is the test.
-
-**Common candidate failures to watch for:**
-- Leaving the COP undefended while conducting offensive operations
-- No plan for link-up / re-entry to the COP after patrols
-- No time limit on the objective during the raid
-- Defensive positions with no overhead cover or gaps in sectors of fire
-- Failing to coordinate with adjacent elements or report to higher (cadre as PL)
-- No rest plan — running everyone into the ground by Saturday afternoon
-- Freezing on FRAGOs — spending too long planning when the situation demands speed
-- Treating the courier intercept as a patrol instead of setting a deliberate blocking position
 
 ---
 
