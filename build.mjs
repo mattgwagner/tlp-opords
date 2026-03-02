@@ -106,7 +106,7 @@ mkdirSync(join(DIST, 'assets'), { recursive: true });
 // --- Root index from README.md ---
 if (existsSync('README.md')) {
   renderMarkdown('README.md', join(DIST, 'index.html'), {
-    title: 'OCS Operations Orders',
+    title: 'ARNG Tactical Training Library',
     isIndex: true,
   });
 }
