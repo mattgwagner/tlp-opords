@@ -459,6 +459,42 @@ If cadre wants a final evaluation opportunity, trigger a REAPER counterattack on
 
 ---
 
+## Using the FLER in the FLX
+
+The FLER is the evaluation and feedback instrument for every lane. One FLER per candidate per lane — every time someone serves as SL, PL, or candidate CO, they get a FLER. TACs carry blank FLERs and fill them out during or immediately after each lane while observations are fresh. Write the narrative (Summary, Sustains, Improves) at the next chow break, not Sunday morning.
+
+### How the FLX Changes FLER Application
+
+In a standard 1:45 STX lane, the candidate receives a mission, plans, briefs, and executes in one compressed block. The FLER's 8 TLP steps happen sequentially and the TAC watches the whole thing. This FLX is different in three ways that affect how TACs observe and rate:
+
+**1. TLPs are spread across time.** The PL receives OPORD 001 on Thursday and doesn't execute until Friday. Saturday SLs receive the staff's brief at stand-down and don't SP for 1–1.5 hours. The TAC must be present for the planning phase *and* the execution phase to rate the full FLER. If you only watch the assault, you can't rate TLPs 1–7.
+
+**2. Saturday SLs receive the mission from candidates, not cadre.** TLP 1 (Receive the Mission) now includes the SL's ability to receive an imperfect order and still produce a workable plan. If the candidate staff's brief is incomplete, does the SL ask clarifying questions or execute blind? That's an observable data point on TLP 1 that doesn't exist in a normal STX lane.
+
+**3. Fatigue is cumulative and deliberate.** By Saturday afternoon, candidates have been in the field for 30+ hours. The FLER standard doesn't change — but *where* you see failures shifts. TLP 4 (Initiate Movement) degrades first: PCC/PCIs get cut, rehearsals get skipped, contingency planning disappears. An SL who still conducts meaningful preparation on the capstone lane is demonstrating something that the Saturday morning SL didn't have to prove.
+
+### Adapting the FLER for FRAGOs
+
+On FRAGO lanes (007, 009), the compressed timeline means some TLP steps merge or abbreviate. The WARNORD may combine with the order brief. The leader's recon may be hasty or skipped. Rate the candidate on whether they made a *conscious decision* to abbreviate versus simply forgetting steps under pressure. An SL who tells their TLs "we don't have time for a full recon, here's what we're going to do instead" is demonstrating TLP 5 — just differently than on a full OPORD lane.
+
+### Evaluating the PL and Candidate Staff
+
+The FLER applies to the PL on OPORD 001 the same way it applies to an SL, except the "sub-units" are squads instead of fire teams. The PL's TLP 7 (Issue the Order) is the Thursday evening platoon OPORD to SLs — that's the primary evaluation moment.
+
+For Saturday, evaluate the **candidate CO** against the same 8 TLPs: they receive the mission from cadre (TLP 1), develop squad taskings (TLP 3), brief SLs (TLP 7), and track execution from the CP (TLP 8). TLP 5 (Reconnaissance) is not directly applicable — that's the SL's event.
+
+The **XO and Battle Captain** don't map cleanly to the 8 TLPs. Use the FLER narrative section (Summary, Sustains, Improves) to document their staff performance: running estimates, battle tracking, radio discipline, report processing, and information flow.
+
+### FLER Administrative Notes
+
+**One FLER per lane per candidate.** A candidate who leads multiple lanes accumulates multiple FLERs. Reference earlier FLERs when writing subsequent ones — did the candidate address the previous Improves? The candidate CO gets a FLER for each Saturday lane they plan and brief.
+
+**Evaluation moment vs. coaching moment.** SFC Oppegard and the infantry instructors provide tactical coaching *after* the TAC has seen what they need to see. The FLER documents what the candidate did *before* coaching. If a TAC redirects a dangerous plan mid-lane, note that the coaching occurred and evaluate the candidate's response to it, not the coached performance.
+
+**Write specific Sustains and Improves.** Reference observable moments tied to TLP steps: *"Used the terrain model to walk each TL through their position in the kill zone and confirmed fields of fire (TLP 7)"* — not *"Good order brief."* Connect Improves to what the candidate should do differently: *"Failed to conduct PCC/PCI before departing COP for the raid — squad departed with one radio not on platoon net (TLP 4)"* — not *"Needs to be more prepared."*
+
+---
+
 ## Files in This Package
 
 | File | Purpose |
