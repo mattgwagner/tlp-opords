@@ -12,7 +12,7 @@
 
 ## 1. SITUATION
 
-Documents recovered during the raid on the REAPER weapons cache (OPORD 004) include a courier schedule. Intelligence analysis indicates a REAPER courier carrying orders and communications from REAPER higher command is expected to transit through the area within the next 2 hours, moving south along the Clearwater Avenue corridor (vicinity MP 0575 1538) toward REAPER positions south of the AO. The courier is traveling on foot with a single escort. Capturing the courier and the communications they carry will provide critical intelligence on REAPER's remaining strength, command structure, and intentions.
+Documents recovered during the ambush on the REAPER resupply element (OPORD 003) include a courier schedule. Intelligence analysis indicates a REAPER courier carrying orders and communications from REAPER higher command is expected to transit through the area within the next 2 hours, moving south along the Clearwater Avenue corridor (vicinity MP 0575 1538) toward REAPER positions south of the AO. The courier is traveling on foot with a single escort. Capturing the courier and the communications they carry will provide critical intelligence on REAPER's remaining strength, command structure, and intentions.
 
 **Enemy:** REAPER courier — 1 courier plus 1 escort, both armed with small arms. Traveling light and fast. The courier's priority is speed and avoiding detection, not fighting. If confronted, the escort will attempt to delay while the courier escapes with the documents. The courier may attempt to destroy documents if capture is imminent.
 

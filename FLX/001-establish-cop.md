@@ -26,15 +26,15 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO
 
    - **Key Terrain:** The facility complex at COP Seggel (MP 0610 1550) is the decisive terrain. The intersection of Jacksonville Street and Bradenton Avenue (MP 0602 1565), approximately 150 meters north of the COP, controls north-south and east-west movement and represents the most likely avenue of approach for REAPER reinforcement. Bradenton Avenue south of the COP provides a cleared lane of observation and fire along the southern approach. Entrance points to the facility along Bradenton Avenue are critical for controlling access. Dense woodlines surrounding the facility on all sides offer concealment for REAPER reconnaissance elements or assault forces. Buildings within the complex that provide overhead cover are critical for CP operations and protection against indirect fire.
 
-**2. Weather.** *(Planning estimates for 05 MAR — update day-of)*
+**2. Weather.** *(Planning estimates for 06 MAR — update day-of)*
    - Skies: Partly cloudy
    - Temperature: High 78°F / Low 63°F (heat cat 1 — green)
    - Winds: East at 10-15 mph
    - Chance of precipitation: 20%
-   - BMNT: 0558
+   - BMNT: 0624
    - Sunrise: 0649
    - Sunset: 1830
-   - EENT: 1921
+   - EENT: 1854
 
 Plan for sustained operations through day and night cycles. Temperatures are moderate but heat casualties remain a concern during movement under load; ensure adequate hydration.
 

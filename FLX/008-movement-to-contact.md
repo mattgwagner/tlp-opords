@@ -34,10 +34,10 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1s
    - Temperature: Low 63°F at BMNT, rising to 78°F
    - Winds: East at 10-15 mph
    - Chance of precipitation: 20%
-   - First light: 0623
+   - BMNT: 0623
    - Sunrise: 0648
    - Sunset: 1831
-   - Last light: 1855
+   - EENT: 1855
 
 Candidates will be operating under fatigue from overnight security operations.
 
@@ -58,7 +58,7 @@ REAPER has been repositioning overnight. The element detected by OP/LPs is estim
 
 **2. Company Mission.** A Company locates and engages REAPER forces operating in the vicinity of COP Seggel to prevent further enemy reconnaissance and disrupt attack preparations.
 
-**3. Adjacent Units.** COP Seggel remains manned and defended. Elements not conducting the MTC maintain security at the COP.
+**3. Adjacent Units.** Company HQ maintains CP operations at COP Seggel. COP security is notional during this operation.
 
 ### e. Civil Considerations
 Unlikely at this hour. Report any civilian presence immediately.
@@ -70,7 +70,7 @@ None.
 
 ## 2. MISSION
 
-A Company locates and engages REAPER forces operating in the woodlines north of COP Seggel NLT 0630 on 07 MAR 26 in order to disrupt enemy preparations and maintain security of the COP. 1st Platoon conducts the movement to contact.
+A Company locates and engages REAPER forces operating in the woodlines north of COP Seggel NLT ____ on ____ MAR 26 in order to disrupt enemy preparations and maintain security of the COP. 1st Platoon conducts the movement to contact.
 
 ---
 
@@ -85,7 +85,7 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
 **End State:** REAPER element located and engaged, enemy driven from the immediate vicinity of COP Seggel, platoon consolidated and returned to COP or holding a forward position as directed.
 
 ### b. Concept of Operations
-1st Platoon conducts a movement to contact from COP Seggel north into the woodlines upon order. The platoon advances using bounding overwatch, develops the situation upon contact, and engages the REAPER element. The platoon must maintain security of COP Seggel with elements not conducting the MTC. Do not pursue beyond Jacksonville Street. Upon breaking contact or driving REAPER from the area, consolidate and return to COP Seggel. Indirect fire support available through company on request.
+1st Platoon conducts a movement to contact from COP Seggel north into the woodlines upon order. The platoon advances using bounding overwatch, develops the situation upon contact, and engages the REAPER element. Company HQ maintains CP operations and COP security is notional during this operation. Do not pursue beyond Jacksonville Street. Upon breaking contact or driving REAPER from the area, consolidate and return to COP Seggel. Indirect fire support available through company on request.
 
 ### c. Scheme of Fires
 1st Platoon has priority of indirect fires. Priority of fires to the element in contact. Indirect fire support available through company on request.
@@ -127,7 +127,9 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
 
 **5. Limit of Advance:** Jacksonville Street (MP 0602 1565). Do not advance beyond without further orders.
 
-**6.** This OPORD is effective upon receipt.
+**6. Re-entry to COP Seggel:** Departing and returning elements will coordinate re-entry to COP Seggel using the running password and pre-coordinated recognition signals. SLs must establish link-up procedures with Company HQ prior to departure and report when approaching the COP perimeter.
+
+**7.** This OPORD is effective upon receipt.
 
 ---
 

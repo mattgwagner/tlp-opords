@@ -9,7 +9,10 @@
 **Task Organization:**
 
 A Co. 4th BN-211th INF
-- 1st Platoon (3 squads) — at COP Seggel
+- 1st Platoon (2 squads + Company HQ) — at COP Seggel
+  - Company HQ (3 personnel) — CP operations
+  - 1st Squad (11 personnel)
+  - 2nd Squad (11 personnel)
 - 2nd Platoon (OPCON BN Reserve — not available)
 - 3rd Platoon (conducting operations elsewhere in AO)
 
@@ -26,15 +29,15 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1s
 
    - **Key Terrain:** The intersection of Jacksonville Street and Bradenton Avenue (MP 0602 1565) is the most likely staging area for the REAPER assault. The woodlines north of the COP (between COP and Jacksonville St) provide the final covered and concealed approach for an attacking force. The woodlines west of the COP provide a secondary approach axis. Buildings with overhead cover within the COP are critical for the CP and for protection against indirect fire. Entrance points along Bradenton Avenue must be controlled to canalize attacking forces.
 
-**2. Weather.** *(Planning estimates for 07 MAR — update day-of)*
+**2. Weather.** *(Planning estimates for 08 MAR — update day-of)*
    - Skies: Partly cloudy
    - Temperature: High 78°F / Low 63°F (heat cat 1 — green)
    - Winds: East at 10-15 mph
    - Chance of precipitation: 20%
-   - BMNT: 0555
-   - Sunrise: 0647
-   - Sunset: 1831
-   - EENT: 1923
+   - BMNT: 0722 (EDT — clocks spring forward)
+   - Sunrise: 0748
+   - Sunset: 1932
+   - EENT: 1956
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER has consolidated remaining forces in response to the destruction of their supply line and weapons cache. REAPER leadership views COP Seggel as the source of the threat to their operations and intends to destroy or force the withdrawal of the friendly garrison. REAPER has been reinforced from outside the AO and is preparing a deliberate attack.

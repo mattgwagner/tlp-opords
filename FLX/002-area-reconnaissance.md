@@ -26,15 +26,15 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. RE
 
    - **Key Terrain:** The road junction at Jacksonville Street and Bradenton Avenue (MP 0602 1565) is a known area of REAPER activity and the most likely approach for reinforcement from the north. The woodlines west of COP Seggel between Bradenton Avenue and Clearwater Avenue offer concealed approach routes to the COP. The Clearwater Avenue corridor (vicinity MP 0575 1538) provides a secondary north-south route that REAPER may use to bypass Bradenton Avenue.
 
-**2. Weather.** *(Planning estimates for 05 MAR — update day-of)*
+**2. Weather.** *(Planning estimates for 06 MAR — update day-of)*
    - Skies: Partly cloudy
    - Temperature: High 78°F / Low 63°F (heat cat 1 — green)
    - Winds: East at 10-15 mph
    - Chance of precipitation: 20%
-   - BMNT: 0558
+   - BMNT: 0624
    - Sunrise: 0649
    - Sunset: 1830
-   - EENT: 1921
+   - EENT: 1854
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 REAPER forces withdrew from the immediate vicinity of COP Seggel during the platoon's approach but remain active in AO HERRERA. REAPER observers were spotted during the movement from RTI and likely reported the platoon's arrival and disposition. REAPER is expected to be monitoring COP Seggel from concealed positions and maintaining their presence along the road network.

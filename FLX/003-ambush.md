@@ -21,7 +21,7 @@ A Co. 4th BN-211th INF
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). Reconnaissance operations have confirmed REAPER is using the Bradenton Avenue corridor south of COP Seggel to move supplies and personnel between positions. Patrols observed a REAPER resupply element moving north along Bradenton Avenue on a regular schedule, passing through the vicinity of MP 0600 1530. This route is REAPER's primary logistics line in AO HERRERA.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). Reconnaissance patrols and COP OP/LP observations have confirmed REAPER is using the Bradenton Avenue corridor south of COP Seggel to move supplies and personnel between positions. OP/LPs along the southern perimeter observed a REAPER resupply element moving north along Bradenton Avenue on a regular schedule, passing through the vicinity of MP 0600 1530. This route is REAPER's primary logistics line in AO HERRERA.
 
 ### b. Area of Operations
 
@@ -29,15 +29,15 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1s
 
    - **Key Terrain:** The ambush site along Bradenton Avenue (vicinity MP 0600 1530) provides a natural kill zone bounded by dense vegetation. The woodline on the west side of Bradenton Avenue offers concealed assault and SBF positions with clear observation of the road. The trail junction west of Bradenton Avenue provides a withdrawal route and ORP location. The intersection at MP 0600 1523 (Arcadia St and Bradenton Ave) to the south is a potential REAPER reinforcement route.
 
-**2. Weather.** *(Planning estimates for 06 MAR — update day-of)*
+**2. Weather.** *(Planning estimates for 07 MAR — update day-of)*
    - Skies: Partly cloudy
    - Temperature: High 78°F / Low 63°F (heat cat 1 — green)
    - Winds: East at 10-15 mph
    - Chance of precipitation: 20%
-   - BMNT: 0557
+   - BMNT: 0623
    - Sunrise: 0648
    - Sunset: 1831
-   - EENT: 1922
+   - EENT: 1855
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 Reconnaissance confirms REAPER is using Bradenton Avenue as a logistics route, moving supplies north from positions south of the AO. Resupply elements consist of small parties (3-5 personnel) moving on foot or with hand carts along the road, typically with a lead scout 50-100 meters ahead of the main body.
@@ -56,7 +56,7 @@ Reconnaissance confirms REAPER is using Bradenton Avenue as a logistics route, m
 
 **2. Company Mission.** A Company disrupts REAPER logistics in AO HERRERA to degrade their combat capability and develop intelligence for follow-on operations.
 
-**3. Adjacent Units.** COP Seggel remains manned and defended during the ambush. Elements not conducting the ambush maintain security at the COP.
+**3. Adjacent Units.** Company HQ maintains CP operations at COP Seggel. COP security is notional during this operation.
 
 ### e. Civil Considerations
 Civilian traffic along Bradenton Avenue is possible. Positively identify all targets before initiating the ambush. Do not engage civilians. If civilians are present in the kill zone, do not initiate — allow them to pass and reset.
@@ -80,10 +80,10 @@ A Company disrupts REAPER logistics in AO HERRERA by conducting an ambush along 
 
 **Key Tasks:** (1) Establish an ambush along the Bradenton Avenue corridor vicinity MP 0600 1530. (2) Destroy or capture the REAPER resupply element. (3) Collect all documents, electronics, and materials of intelligence value. (4) Withdraw to COP Seggel before REAPER can react with reinforcements.
 
-**End State:** REAPER resupply element destroyed or captured, intelligence materials collected, platoon returned to COP Seggel, COP security maintained throughout.
+**End State:** REAPER resupply element destroyed or captured, intelligence materials collected, platoon returned to COP Seggel.
 
 ### b. Concept of Operations
-1st Platoon departs COP Seggel, moves to an ORP, establishes an ambush along the Bradenton Avenue corridor, destroys the REAPER resupply element, conducts search and collection on the objective, and withdraws to COP Seggel. The platoon must maintain security of COP Seggel with the elements not conducting the ambush. Time on the objective is limited — conduct a hasty search, collect intelligence materials, and withdraw before REAPER reinforcement. Indirect fire support is available through company on request.
+1st Platoon departs COP Seggel, moves to an ORP, establishes an ambush along the Bradenton Avenue corridor, destroys the REAPER resupply element, conducts search and collection on the objective, and withdraws to COP Seggel. Company HQ maintains CP operations and COP security is notional during this operation. Time on the objective is limited — conduct a hasty search, collect intelligence materials, and withdraw before REAPER reinforcement. Indirect fire support is available through company on request.
 
 ### c. Scheme of Fires
 1st Platoon has priority of indirect fires. Indirect fire support available through company on request. Priority of fires to the assault element during the ambush.
@@ -127,7 +127,9 @@ Both squads participate in the ambush.
    - **Objective Secure Report:** When kill zone is cleared and search is complete.
    - **ACE/LACE Report:** Upon return to COP Seggel.
 
-**5.** This OPORD is effective upon receipt.
+**5. Re-entry to COP Seggel:** Departing and returning elements will coordinate re-entry to COP Seggel using the running password and pre-coordinated recognition signals. SLs must establish link-up procedures with Company HQ prior to departure and report when approaching the COP perimeter.
+
+**6.** This OPORD is effective upon receipt.
 
 ---
 

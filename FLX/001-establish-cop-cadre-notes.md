@@ -1,4 +1,4 @@
-# CADRE NOTES — FLX Base Order: Establish COP Seggel
+# CADRE NOTES — FLX OPORD 001: Establish COP Seggel
 
 **FOR CADRE USE ONLY — DO NOT DISTRIBUTE TO CANDIDATES**
 
@@ -6,52 +6,85 @@
 
 ## Purpose
 
-This is the base order for the Leadership Field Exercise (LFX). It provides the tactical situation, enemy picture, and operational framework for the entire exercise. Candidates are briefed on this OPORD at the RTI before stepping off. All subsequent missions (patrols, raids, reconnaissance, defense) will be issued as FRAGOs from COP Seggel.
+This is the base order for the Field Leadership Exercise. OPORD 001 is issued to the candidate PL on Thursday afternoon as a company-level order. The PL conducts full TLPs — mission analysis, COA development, and platoon OPORD issuance — and briefs SLs Thursday evening. SLs then develop their own squad schemes for Friday morning execution. This is the primary PL evaluation event.
 
-## Sequence of Events
+All subsequent missions (reconnaissance, ambush, raid, deliberate attack) are issued as FRAGOs or new OPORDs from COP Seggel once established.
 
-1. Candidates receive OPORD briefing at the RTI.
-2. Platoon conducts tactical movement from the RTI through CP ANVIL (MP 0589 1455), CP FORGE (MP 0566 1465), and CP HAMMER (MP 0575 1524).
-3. Platoon establishes a security halt and the PL conducts a leader's recon of COP Seggel.
-4. Platoon clears, occupies, and secures the COP.
-5. PSG establishes the company CP with battle tracking and comms.
-6. Platoon prepares defensive positions and stages for follow-on operations issued as FRAGOs.
+## Thursday — PL Receives Order and Conducts TLPs
 
-## Movement Intent
+1. Issue OPORD 001 to the candidate PL Thursday afternoon after preparation training.
+2. PL has Thursday afternoon and evening to conduct full TLPs:
+   - Mission analysis (METT-TC, restated mission, commander's intent)
+   - COA development (how to task three squads for movement, clearance, and occupation)
+   - Issue their platoon OPORD to SLs
+3. SLs receive the PL's order Thursday evening and develop squad schemes for Friday execution.
 
-The three checkpoints between RTI and COP Seggel serve a dual purpose — they route the platoon along a reasonable path that adds distance to build tactical discipline during movement and they create evaluation opportunities for the PL's movement planning, formations, security halts, and danger area crossings before the platoon reaches the COP. Use them to assess baseline competence before the more complex clearing and occupation phases.
+**Cadre holds the detailed squad overlay** ([013-establish-cop-detailed.md](013-establish-cop-detailed.md)) as a safety net. If the PL's order is weak or missing critical squad taskings, TAC can coach/redirect before Friday execution. Do not issue the detailed version unless the PL's plan is genuinely unworkable.
 
-## Training Focus
+### What to Evaluate (PL)
 
-- Movement planning and execution
-- Tactical formations and movement techniques
-- Security during movement and danger area crossings
-- Multi-phase operations (movement → offense → defense transition)
-- Building clearing under uncertainty
-- CP establishment and operations
-- Battle tracking
-- Communications management (dual-net)
-- Sustainment planning for extended operations
-- Defensive planning
+- Can they take a company OPORD and produce a coherent platoon order with squad assignments?
+- Did they backwards plan the timeline (SP time, movement duration, NLT 1300 for COP established)?
+- Did they consider the three-phase transition: movement → clearance → defense?
+- Did they assign clear squad tasks for each phase?
+- Quality of the order brief — can SLs understand and act on it?
+
+## Friday — Execution
+
+**DFAC breakfast at 0700.** SP shortly after chow. Candidates should already have their plan from Thursday.
+
+### Sequence of Events
+
+1. SP from RTI. Platoon conducts tactical movement through CP ANVIL (MP 0589 1455), CP FORGE (MP 0566 1465), and CP HAMMER (MP 0575 1524).
+2. Security halt vicinity COP Seggel. PL conducts leader's recon.
+3. Platoon clears, occupies, and secures the COP.
+4. PSG establishes the company CP with battle tracking and comms.
+5. Platoon prepares defensive positions and the ECP.
+6. **COP established with CP operational NLT 1300.**
+
+### Movement Phase — Evaluate All Three SLs
+
+The three checkpoints route the platoon along a path that adds distance to build tactical discipline and creates evaluation opportunities before the platoon reaches the COP. Use them to assess baseline competence:
+
+- Formations and movement techniques
+- Security halts and 360° security
+- Danger area crossings
+- Checkpoint reports and radio discipline
+- Reaction to OPFOR contact (if injected between CP FORGE and CP HAMMER)
+
+### Clearing and Occupation Phase — Evaluate Transition
+
+- Does the PL's plan transition smoothly from movement to clearing to defense?
+- Do SLs execute their assigned phases or freelance?
+- Is the perimeter established before anyone relaxes?
+- Is the ECP up and running with proper procedures?
+- Is the CP functional with battle tracking and dual-net comms?
 
 ## OPFOR / Training Wrinkles
 
 - Inject a REAPER reconnaissance element observing the movement between CP FORGE and CP HAMMER to test security and reporting.
-- Vary REAPER presence at COP Seggel: empty facility, observation element only, or occupied and defended.
+- Vary REAPER presence at COP Seggel: empty facility, observation element only, or occupied and defended. Scale to candidate strength.
 - Simulate indirect fire (mortar) attack after occupation to test overhead cover and dispersion planning.
 - Introduce host nation materials left behind (booby traps, usable supplies, intelligence value items).
 - Use civilian role-players approaching the COP to test ROE and entrance control procedures.
-- Issue follow-on FRAGOs from the COP to test CP operations and battle tracking under pressure.
 - Inject casualty scenarios during movement or clearing to test MEDEVAC coordination.
 - Simulate REAPER counterattack probe to test defensive posture and QRF employment.
 
 **NOTE:** UAS/Counter-UAS injects are OPTIONAL and should only be used if authorized by the Commandant and incorporated into the approved POI.
 
+## GSA Van Delivery
+
+Once the COP is secure (perimeter established, ECP operational, facility cleared), deliver the GSA van to the candidates' requested RP. Candidates unload additional water and MREs. **The van does NOT arrive until cadre confirms the position is secure.** This reinforces that sustainment follows tactical conditions, not a schedule.
+
+## Post-Occupation — Transition to OPORD 002
+
+Once the COP is established and the CP is operational:
+1. Chow (MRE) and water resupply. 30-minute rest rotation.
+2. Issue OPORD 002 (Area Reconnaissance) to SLs.
+3. All three SLs are evaluated simultaneously on OPORD 002.
+
 ## References
 
 - [LTA Grid Reference](../lta-grid-reference.md)
-- [OPORD 013 — Establish COP (Detailed)](../013-establish-cop-detailed.md)
-
-## Iteration Guidance
-
-This OPORD is briefed to candidates — it is NOT a TLP planning exercise. Candidates receive the order, ask clarifying questions, and execute. Evaluation begins during movement (Phase 1) and continues through occupation (Phase 4). Follow-on TLP evaluation lanes are issued as FRAGOs from the COP once established.
+- [OPORD 013 — Establish COP (Detailed)](013-establish-cop-detailed.md) — Safety net with specific squad tasks and grids
+- [Cadre Brief](cadre-brief.md) — Full FLX timeline and evaluation plan

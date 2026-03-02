@@ -29,15 +29,15 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1s
 
    - **Key Terrain:** The cache site (vicinity MP 0611 1530) is in a partially cleared area with structures providing concealment for stored materials and defending personnel. The woodline edge west of the cache site offers concealed ORP and assault positions. The improved road connecting the COP area to the cache site is the most direct route but also the most likely to be observed or interdicted.
 
-**2. Weather.** *(Planning estimates for 06 MAR — update day-of)*
+**2. Weather.** *(Planning estimates for 07 MAR — update day-of)*
    - Skies: Partly cloudy
    - Temperature: High 78°F / Low 63°F (heat cat 1 — green)
    - Winds: East at 10-15 mph
    - Chance of precipitation: 20%
-   - BMNT: 0557
+   - BMNT: 0623
    - Sunrise: 0648
    - Sunset: 1831
-   - EENT: 1922
+   - EENT: 1855
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
 Captured intelligence confirms REAPER is storing weapons, ammunition, IED materials, and supplies at the cache site. The cache is critical to REAPER sustainment — its destruction will significantly degrade their ability to conduct operations in AO HERRERA.
@@ -56,7 +56,7 @@ Captured intelligence confirms REAPER is storing weapons, ammunition, IED materi
 
 **2. Company Mission.** A Company destroys REAPER combat capability in AO HERRERA by eliminating key logistics infrastructure.
 
-**3. Adjacent Units.** COP Seggel remains manned and defended during the raid. Elements not conducting the raid maintain security at the COP.
+**3. Adjacent Units.** Company HQ maintains CP operations at COP Seggel. COP security is notional during this operation.
 
 ### e. Civil Considerations
 The cache site area may contain civilian structures or materials. Avoid unnecessary destruction of civilian property. Positively identify all targets. Report any civilian presence immediately.
@@ -80,10 +80,10 @@ A Company destroys REAPER weapons and supply cache (vicinity MP 0611 1530) NLT _
 
 **Key Tasks:** (1) Seize the cache site and eliminate the REAPER security element. (2) Destroy all weapons, ammunition, and IED-making materials. (3) Collect all documents, electronics, and materials of intelligence value before destroying the cache. (4) Withdraw to COP Seggel before REAPER can reinforce.
 
-**End State:** Cache site destroyed, REAPER security element eliminated or displaced, intelligence materials collected, platoon returned to COP Seggel, COP security maintained throughout.
+**End State:** Cache site destroyed, REAPER security element eliminated or displaced, intelligence materials collected, platoon returned to COP Seggel.
 
 ### b. Concept of Operations
-1st Platoon departs COP Seggel, moves to an ORP, conducts a leader's reconnaissance of the cache site, raids the objective to eliminate the security element and destroy the cache, and withdraws to COP Seggel. Time on the objective is critical — search, collect intelligence, destroy the cache, and withdraw before REAPER can respond. The platoon must maintain security of COP Seggel with elements not conducting the raid. Indirect fire support is available through company on request.
+1st Platoon departs COP Seggel, moves to an ORP, conducts a leader's reconnaissance of the cache site, raids the objective to eliminate the security element and destroy the cache, and withdraws to COP Seggel. Time on the objective is critical — search, collect intelligence, destroy the cache, and withdraw before REAPER can respond. Company HQ maintains CP operations and COP security is notional during this operation. Indirect fire support is available through company on request.
 
 ### c. Scheme of Fires
 1st Platoon has priority of indirect fires. Indirect fire support available through company on request. Priority of fires to the assault element during the raid.
@@ -127,7 +127,9 @@ Both squads participate in the raid.
    - **Destruction Report:** When cache destruction is complete.
    - **ACE/LACE Report:** Upon return to COP Seggel.
 
-**5.** This OPORD is effective upon receipt.
+**5. Re-entry to COP Seggel:** Departing and returning elements will coordinate re-entry to COP Seggel using the running password and pre-coordinated recognition signals. SLs must establish link-up procedures with Company HQ prior to departure and report when approaching the COP perimeter.
+
+**6.** This OPORD is effective upon receipt.
 
 ---
 
