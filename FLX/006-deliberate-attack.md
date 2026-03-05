@@ -31,7 +31,7 @@ A Company seizes OBJ HERRERA (MP 0602 1565) NLT ____ on ____ MAR 26 in order to 
 - **OBJ HERRERA:** Road junction at Jacksonville Street and Bradenton Avenue (MP 0602 1565)
 - **COP Seggel:** MP 0610 1550 (150 meters south of the objective)
 - **Challenge/Password:** Viper / Strike / Running: Forward / Combination: 7
-- **PACE Plan:** Radio 46200 SC/PT (Co Net) / Radio 53800 SC/PT (Plt Net) / Cell / Runner
+- **PACE Plan:** Radio 36.425 SC/PT (Co Net) / Radio 36.625 SC/PT (Plt Net) / Cell / Runner
 - **Call Signs:** Thunder 6 (Co CDR), Thunder 5 (XO), Thunder 1-6 (PL), Thunder 1-7 (PSG)
 - **Indirect fires:** Available through company on request
 

@@ -141,7 +141,7 @@ None.
 
 **4. Platoon Sergeant (CP Operations, Phase 3):**
 
-- **TASK:** Upon completion of Phase 2, designate and establish the company command post within a hardened building at COP Seggel. Establish battle tracking, maintain radio communications on both company net (FH NET ID 600) and platoon net (FH NET ID 601), coordinate logistics and sustainment, and manage the rest and security plan for sustained 48-hour operations.
+- **TASK:** Upon completion of Phase 2, designate and establish the company command post within a hardened building at COP Seggel. Establish battle tracking, maintain radio communications on both company net (36.425 SC/PT) and platoon net (36.625 SC/PT), coordinate logistics and sustainment, and manage the rest and security plan for sustained 48-hour operations.
 - **PURPOSE:** Enable company-level command and control from COP Seggel and sustain platoon operations for the duration of the mission.
 
 ### f. Coordinating Instructions
@@ -213,9 +213,9 @@ None.
 ### c. Signal
 
 **1. PACE Plan:**
-   - Primary: Radio FH NET ID 601 (Platoon Net)
-   - Alternate: FH NET ID 600 (Company Net)
-   - Contingency: Frequency 47000 single channel plain text
+   - Primary: Radio — 36.425 SC/PT (Company Net)
+   - Alternate: Radio — 36.625 SC/PT (Platoon Net)
+   - Contingency: Cell phone (platoon leader to company commander)
    - Emergency: Runner
 
 **2. Call Signs:**

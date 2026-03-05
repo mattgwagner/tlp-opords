@@ -252,9 +252,9 @@ Not applicable (DSCA operation).
 ### c. Signal
 
 **1. PACE Plan:**
-   - Primary: Company Command Net (FH NET ID 601)
+   - Primary: Radio — 36.425 SC/PT (Company Net)
    - Alternate: Cell phone (may be degraded)
-   - Contingency: FM 47000 single channel
+   - Contingency: Cell phone (platoon leader to company commander)
    - Emergency: Return to staging area
 
 **2. Call Signs:**

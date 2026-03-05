@@ -169,8 +169,8 @@ A Company defends COP Seggel (MP 0610 1550) against REAPER counterattack NLT ___
 ### c. Signal
 
 **1. PACE Plan:**
-   - Primary: Radio — 46200 SC/PT (Company Net)
-   - Alternate: Radio — 53800 SC/PT (Platoon Net)
+   - Primary: Radio — 36.425 SC/PT (Company Net)
+   - Alternate: Radio — 36.625 SC/PT (Platoon Net)
    - Contingency: Cell phone (platoon leader to company commander)
    - Emergency: Runner
 

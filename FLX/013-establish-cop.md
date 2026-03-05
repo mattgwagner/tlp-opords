@@ -211,9 +211,9 @@ None.
 ### c. Signal
 
 **1. PACE Plan:**
-   - Primary: Radio FH NET ID 601 (Platoon Net)
-   - Alternate: FH NET ID 600 (Company Net)
-   - Contingency: Frequency 47000 single channel plain text
+   - Primary: Radio — 36.425 SC/PT (Company Net)
+   - Alternate: Radio — 36.625 SC/PT (Platoon Net)
+   - Contingency: Cell phone (platoon leader to company commander)
    - Emergency: Runner
 
 **2. Call Signs:**
