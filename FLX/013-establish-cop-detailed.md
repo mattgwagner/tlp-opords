@@ -170,7 +170,9 @@ None.
 
 **4. Reporting:**
    - **Report to higher when SP'ing from assembly area.**
-   - **In Position Report:** Upon completing security halt south of COP Seggel and beginning leader's recon.
+   - **Checkpoint Reports:** Upon crossing each checkpoint en route.
+   - **ORP Report:** Upon establishing the ORP vicinity COP Seggel.
+   - **Cleared COP Seggel:** Report when COP Seggel has been cleared of enemy forces.
    - **Phase Reports:** Report completion of each phase (Approach, Clear, Occupy).
    - **SALUTE Report:** Upon sighting enemy forces or indicators.
    - **SITREP:** Every 4 hours once COP is established, or upon significant events.

@@ -124,9 +124,10 @@ A Company establishes COP Seggel as its forward operating base. 1st Platoon, the
 
 **4. Reporting:**
    - **Report to higher when SP'ing from RTI.**
-   - **Checkpoint Reports:** Upon reaching CP ANVIL, CP FORGE, and CP HAMMER.
+   - **Checkpoint Reports:** Upon crossing CP ANVIL, CP FORGE, and CP HAMMER.
+   - **ORP Report:** Upon establishing the ORP vicinity COP Seggel.
    - **Danger Area Reports:** Upon clearing each danger area along the route.
-   - **In Position Report:** Upon completing security halt vicinity COP Seggel.
+   - **Cleared COP Seggel:** Report when COP Seggel has been cleared of enemy forces.
    - **Phase Reports:** Report when clearing is complete, when perimeter is established, when CP is operational.
    - **SALUTE Report:** Upon sighting enemy forces or indicators.
    - **SITREP:** Every 4 hours once COP is established, or upon significant events.
