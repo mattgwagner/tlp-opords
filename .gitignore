@@ -5,6 +5,7 @@ dist/
 *.html
 !opord-template.html
 !FLX/index.html
+!FLX/props/*.html
 
 # Generated PDFs (no longer part of pipeline)
 *.pdf

@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>REAPER Sketch Map — Training Prop</title>
+<style>
+  @media print {
+    .cadre-instructions { display: none !important; }
+    body { margin: 0; }
+    .document { box-shadow: none; border: none; }
+  }
+
+  body {
+    font-family: Georgia, serif;
+    background: #e8e0d4;
+    margin: 0;
+    padding: 20px;
+  }
+
+  .cadre-instructions {
+    max-width: 750px;
+    margin: 0 auto 30px auto;
+    padding: 16px 20px;
+    background: #fff3cd;
+    border: 2px dashed #856404;
+    border-radius: 4px;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #333;
+    line-height: 1.5;
+  }
+  .cadre-instructions h3 {
+    margin: 0 0 8px 0;
+    color: #856404;
+    font-size: 14px;
+    text-transform: uppercase;
+  }
+  .cadre-instructions ul {
+    margin: 4px 0;
+    padding-left: 20px;
+  }
+
+  .document {
+    max-width: 750px;
+    margin: 0 auto;
+    background: #f5f0e6;
+    padding: 30px 40px;
+    box-shadow: 2px 3px 12px rgba(0,0,0,0.3);
+    position: relative;
+  }
+
+  .document::before {
+    content: '';
+    position: absolute;
+    bottom: 80px;
+    right: 50px;
+    width: 100px;
+    height: 85px;
+    background: radial-gradient(ellipse, rgba(139,90,43,0.12) 0%, transparent 65%);
+    border-radius: 50%;
+    transform: rotate(20deg);
+  }
+
+  .map-title {
+    font-family: 'Segoe Script', 'Comic Sans MS', cursive;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 5px;
+    color: #2a2520;
+  }
+
+  .map-subtitle {
+    font-family: 'Segoe Script', 'Comic Sans MS', cursive;
+    font-size: 11px;
+    text-align: center;
+    color: #666;
+    margin-bottom: 15px;
+    font-style: italic;
+  }
+
+  /* Map container */
+  .sketch-map {
+    position: relative;
+    width: 660px;
+    height: 560px;
+    border: 1px solid #a09080;
+    background:
+      repeating-linear-gradient(0deg, transparent, transparent 65px, rgba(100,80,60,0.08) 65px, rgba(100,80,60,0.08) 66px),
+      repeating-linear-gradient(90deg, transparent, transparent 65px, rgba(100,80,60,0.08) 65px, rgba(100,80,60,0.08) 66px),
+      #f5f0e6;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+
+  /* Road lines */
+  .road {
+    position: absolute;
+    background: #555;
+  }
+  .road.vertical {
+    width: 3px;
+  }
+  .road.horizontal {
+    height: 3px;
+  }
+  .road.dashed {
+    background: transparent;
+    border-top: 2px dashed #777;
+    height: 0;
+  }
+  .road.dashed.vertical {
+    border-top: none;
+    border-left: 2px dashed #777;
+    width: 0;
+    height: auto;
+  }
+
+  /* Road labels */
+  .road-label {
+    position: absolute;
+    font-family: 'Segoe Script', 'Comic Sans MS', cursive;
+    font-size: 10px;
+    color: #555;
+    white-space: nowrap;
+  }
+
+  /* Annotation labels */
+  .label {
+    position: absolute;
+    font-family: 'Segoe Script', 'Comic Sans MS', cursive;
+    font-size: 11px;
+    color: #2a2520;
+    white-space: nowrap;
+  }
+  .label.red {
+    color: #8b0000;
+  }
+  .label.blue {
+    color: #1a3a6b;
+  }
+  .label.small {
+    font-size: 9px;
+  }
+  .label.grid {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    color: #666;
+  }
+
+  /* Building symbols */
+  .building {
+    position: absolute;
+    border: 2px solid #444;
+    background: rgba(180,170,150,0.4);
+  }
+
+  /* Symbol markers */
+  .marker {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 2px solid;
+  }
+  .marker.watch {
+    border-color: #8b0000;
+    background: rgba(139,0,0,0.15);
+  }
+  .marker.rally {
+    border-color: #8b0000;
+    background: rgba(139,0,0,0.25);
+    width: 18px;
+    height: 18px;
+  }
+  .marker.cache {
+    border-color: #8b0000;
+    background: rgba(139,0,0,0.15);
+    border-radius: 2px;
+    width: 16px;
+    height: 16px;
+  }
+  .marker.enemy-eye {
+    border-color: #8b0000;
+    background: rgba(139,0,0,0.2);
+    width: 16px;
+    height: 10px;
+    border-radius: 50%;
+  }
+
+  /* Arrows and route indicators */
+  .arrow-line {
+    position: absolute;
+    border-left: 2px dashed #8b0000;
+  }
+  .arrow-line.supply {
+    border-left-style: solid;
+    border-left-color: #1a3a6b;
+  }
+  .arrow-head {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+  }
+  .arrow-head.up {
+    border-bottom: 8px solid #1a3a6b;
+  }
+  .arrow-head.down {
+    border-top: 8px solid #1a3a6b;
+  }
+
+  /* Patrol arc */
+  .patrol-arc {
+    position: absolute;
+    border: 2px dashed rgba(139,0,0,0.4);
+    border-radius: 50%;
+    background: transparent;
+  }
+
+  /* North arrow */
+  .north-arrow {
+    position: absolute;
+    top: 12px;
+    right: 20px;
+    font-family: 'Courier New', monospace;
+    font-size: 16px;
+    font-weight: bold;
+    color: #444;
+  }
+  .north-arrow::after {
+    content: '▲';
+    display: block;
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: -4px;
+  }
+
+  /* Legend */
+  .legend {
+    font-family: 'Segoe Script', 'Comic Sans MS', cursive;
+    font-size: 10px;
+    color: #555;
+    margin-top: 12px;
+    padding: 8px 12px;
+    border: 1px solid #c4b89a;
+    background: rgba(255,255,255,0.3);
+    line-height: 1.8;
+  }
+  .legend-color {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    vertical-align: middle;
+    margin-right: 4px;
+    border: 1px solid;
+  }
+</style>
+</head>
+<body>
+
+<div class="cadre-instructions">
+  <h3>Cadre Instructions — Do Not Print This Section</h3>
+  <ul>
+    <li><strong>When:</strong> Place before candidates arrive at COP Seggel (OPORD 001/013)</li>
+    <li><strong>Where:</strong> Folded and tucked under a table or pinned to a wall in a different building than the observation log</li>
+    <li><strong>What candidates should do:</strong> Identify as intelligence value item, report to higher, correlate marked positions with their own map to identify enemy locations, routes, and the cache site</li>
+    <li><strong>Intel value:</strong> This is the most important document. It shows the cache location with a real grid (MP 0611 1530 — feeds OPORD 004 raid), the courier route along the western forest road (feeds FRAGO 009), patrol sectors, and the rally point at the junction (feeds OPORD 006)</li>
+    <li><strong>Pair with:</strong> Observation log and orders fragment in other buildings</li>
+  </ul>
+</div>
+
+<div class="document">
+
+  <div class="map-title">Facility — Operational Sketch</div>
+  <div class="map-subtitle">REAPER Watch Team 3 area of responsibility</div>
+
+  <div class="sketch-map">
+
+    <!-- North arrow -->
+    <div class="north-arrow">N</div>
+
+    <!-- === ROADS === -->
+
+    <!-- Bradenton Avenue (main N-S road) — runs through center -->
+    <div class="road vertical" style="left: 360px; top: 0; height: 560px;"></div>
+    <div class="road-label" style="left: 368px; top: 8px; transform: rotate(90deg); transform-origin: left top;">Bradenton Ave (main road)</div>
+
+    <!-- Jacksonville Street (E-W road) — upper portion -->
+    <div class="road horizontal" style="left: 100px; top: 140px; width: 460px;"></div>
+    <div class="road-label" style="left: 140px; top: 122px;">Jacksonville St</div>
+
+    <!-- Clearwater Avenue (secondary N-S road, west) -->
+    <div class="road dashed vertical" style="left: 180px; top: 100px; height: 400px;"></div>
+    <div class="road-label" style="left: 130px; top: 280px; transform: rotate(90deg); transform-origin: left top; font-size: 9px;">Clearwater Ave<br>(forest road)</div>
+
+    <!-- Minor E-W road south of COP (Arcadia St area) -->
+    <div class="road horizontal" style="left: 200px; top: 440px; width: 300px; background: #888; height: 2px;"></div>
+    <div class="road-label" style="left: 400px; top: 445px; font-size: 9px;">Arcadia St</div>
+
+    <!-- === JUNCTION MARKER (Jacksonville & Bradenton) === -->
+    <div class="marker rally" style="left: 351px; top: 131px;"></div>
+    <div class="label red" style="left: 375px; top: 125px;">★ Rally Point</div>
+    <div class="label red small" style="left: 375px; top: 140px;">"crossroads" — consolidate here</div>
+    <div class="label red small" style="left: 375px; top: 153px;">if forced to withdraw</div>
+
+    <!-- === COP SEGGEL FACILITY === -->
+    <!-- Main building cluster -->
+    <div class="building" style="left: 330px; top: 270px; width: 65px; height: 40px;"></div>
+    <div class="building" style="left: 340px; top: 320px; width: 50px; height: 30px;"></div>
+    <div class="building" style="left: 300px; top: 290px; width: 25px; height: 25px;"></div>
+    <div class="building" style="left: 400px; top: 280px; width: 30px; height: 35px;"></div>
+    <div class="building" style="left: 395px; top: 325px; width: 25px; height: 20px;"></div>
+
+    <div class="label" style="left: 310px; top: 355px; font-size: 13px;">The Facility</div>
+    <div class="label small" style="left: 310px; top: 370px;">(our position)</div>
+
+    <!-- Patrol arc around COP -->
+    <div class="patrol-arc" style="left: 230px; top: 210px; width: 240px; height: 220px;"></div>
+    <div class="label red small" style="left: 232px; top: 215px; transform: rotate(-25deg);">patrol zone</div>
+
+    <!-- === WESTERN OP === -->
+    <div class="marker watch" style="left: 210px; top: 293px;"></div>
+    <div class="label red" style="left: 170px; top: 275px;">Watch</div>
+    <div class="label red small" style="left: 150px; top: 289px;">position ⟵</div>
+    <div class="label small" style="left: 148px; top: 303px;">(good view of</div>
+    <div class="label small" style="left: 148px; top: 315px;">road + entrance)</div>
+
+    <!-- Enemy eye symbol at western OP showing observation direction -->
+    <div class="marker enemy-eye" style="left: 230px; top: 298px;"></div>
+
+    <!-- === CACHE SITE (east of COP) === -->
+    <div class="marker cache" style="left: 500px; top: 365px;"></div>
+    <div class="label red" style="left: 522px; top: 358px;">Supply Cache</div>
+    <div class="label red small" style="left: 522px; top: 372px;">(REAPER resupply)</div>
+    <div class="label grid" style="left: 522px; top: 387px;">MP 0611 1530</div>
+    <div class="label small" style="left: 522px; top: 400px;">ammo, batteries,</div>
+    <div class="label small" style="left: 522px; top: 412px;">food, radio parts</div>
+
+    <!-- === SUPPLY ROUTE ARROWS (south on Bradenton) === -->
+    <div class="arrow-line supply" style="left: 355px; top: 445px; height: 80px;"></div>
+    <div class="arrow-head up" style="left: 350px; top: 443px;"></div>
+    <div class="label blue" style="left: 310px; top: 475px; transform: rotate(-90deg); transform-origin: right top;">supply ↑</div>
+    <div class="label blue small" style="left: 258px; top: 500px;">resupply route</div>
+    <div class="label blue small" style="left: 258px; top: 513px;">(every 2 days)</div>
+
+    <!-- === COURIER ROUTE (Clearwater Ave) === -->
+    <div class="arrow-line" style="left: 178px; top: 145px; height: 130px;"></div>
+    <div class="arrow-head down" style="left: 173px; top: 275px; border-top-color: #8b0000;"></div>
+    <div class="label red small" style="left: 100px; top: 180px;">courier route ↓</div>
+    <div class="label red small" style="left: 100px; top: 193px;">(messages from</div>
+    <div class="label red small" style="left: 100px; top: 206px;">Cdr Kavan)</div>
+
+    <!-- === REINFORCEMENT DIRECTION === -->
+    <div class="arrow-line supply" style="left: 358px; top: 20px; height: 60px; border-left-color: #8b0000; border-left-style: solid; border-left-width: 3px;"></div>
+    <div class="label red" style="left: 370px; top: 28px;">Reinforcements</div>
+    <div class="label red small" style="left: 370px; top: 43px;">(2nd Company</div>
+    <div class="label red small" style="left: 370px; top: 56px;">from north — 4 hrs)</div>
+
+    <!-- === RTI / NORTH COMPLEX indicator === -->
+    <div class="label" style="left: 410px; top: 5px;">↑ to enemy barracks / north</div>
+
+    <!-- === DIRECTIONAL NOTES === -->
+    <div class="label small" style="left: 50px; top: 530px;">dense forest throughout</div>
+    <div class="label small" style="left: 440px; top: 530px;">dense forest throughout</div>
+
+  </div>
+
+  <!-- Legend -->
+  <div class="legend">
+    <span class="legend-color" style="border-color: #8b0000; background: rgba(139,0,0,0.15); border-radius: 50%;"></span> watch/observation position &nbsp;&nbsp;
+    <span class="legend-color" style="border-color: #8b0000; background: rgba(139,0,0,0.25); border-radius: 50%;"></span> rally point &nbsp;&nbsp;
+    <span class="legend-color" style="border-color: #8b0000; background: rgba(139,0,0,0.15);"></span> supply cache &nbsp;&nbsp;
+    <span style="color: #1a3a6b;">——</span> supply route &nbsp;&nbsp;
+    <span style="color: #8b0000;">- - -</span> courier / patrol route
+  </div>
+
+</div>
+
+</body>
+</html>

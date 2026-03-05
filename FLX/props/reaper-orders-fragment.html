@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>REAPER Orders Fragment — Training Prop</title>
+<style>
+  @media print {
+    .cadre-instructions { display: none !important; }
+    body { margin: 0; }
+    .document { box-shadow: none; border: none; }
+  }
+
+  body {
+    font-family: Georgia, serif;
+    background: #e8e0d4;
+    margin: 0;
+    padding: 20px;
+  }
+
+  .cadre-instructions {
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+    padding: 16px 20px;
+    background: #fff3cd;
+    border: 2px dashed #856404;
+    border-radius: 4px;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #333;
+    line-height: 1.5;
+  }
+  .cadre-instructions h3 {
+    margin: 0 0 8px 0;
+    color: #856404;
+    font-size: 14px;
+    text-transform: uppercase;
+  }
+  .cadre-instructions ul {
+    margin: 4px 0;
+    padding-left: 20px;
+  }
+
+  .document {
+    max-width: 600px;
+    margin: 0 auto;
+    background: #f5f0e6;
+    padding: 45px 55px;
+    box-shadow: 2px 3px 12px rgba(0,0,0,0.3);
+    position: relative;
+    min-height: 750px;
+  }
+
+  /* Torn top edge effect */
+  .document::before {
+    content: '';
+    position: absolute;
+    top: -3px;
+    left: 10%;
+    right: 20%;
+    height: 6px;
+    background: linear-gradient(135deg, #f5f0e6 33%, transparent 33%),
+                linear-gradient(225deg, #f5f0e6 33%, transparent 33%);
+    background-size: 12px 6px;
+  }
+
+  /* Stain */
+  .document::after {
+    content: '';
+    position: absolute;
+    top: 200px;
+    left: 25px;
+    width: 80px;
+    height: 70px;
+    background: radial-gradient(ellipse, rgba(100,70,30,0.1) 0%, transparent 65%);
+    border-radius: 50%;
+    transform: rotate(30deg);
+  }
+
+  .header-line {
+    font-family: 'Courier New', monospace;
+    font-size: 11px;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+  }
+
+  .from-to {
+    font-family: 'Segoe Script', 'Comic Sans MS', cursive;
+    font-size: 13px;
+    color: #2a2520;
+    margin-bottom: 3px;
+    line-height: 1.5;
+  }
+
+  .body-text {
+    font-family: 'Segoe Script', 'Comic Sans MS', cursive;
+    font-size: 14px;
+    color: #2a2520;
+    line-height: 1.7;
+    margin-top: 20px;
+  }
+
+  .body-text p {
+    margin: 12px 0;
+  }
+
+  .body-text .atropian {
+    font-style: italic;
+  }
+
+  .body-text .emphasis {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .numbered-item {
+    margin: 10px 0 10px 20px;
+  }
+
+  .signature-block {
+    margin-top: 40px;
+    font-family: 'Segoe Script', 'Comic Sans MS', cursive;
+    font-size: 14px;
+    color: #2a2520;
+  }
+
+  .signature-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 5px;
+    font-family: 'Segoe Script', 'Comic Sans MS', cursive;
+  }
+
+  .signature-title {
+    font-size: 11px;
+    font-family: 'Courier New', monospace;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 2px;
+  }
+
+  .torn-bottom {
+    margin-top: 30px;
+    border: none;
+    height: 8px;
+    background: linear-gradient(135deg, transparent 33%, #f5f0e6 33%, #f5f0e6 66%, transparent 66%),
+                linear-gradient(45deg, transparent 33%, #e8e0d4 33%, #e8e0d4 66%, transparent 66%);
+    background-size: 16px 8px;
+  }
+
+  .fragment-note {
+    font-family: 'Courier New', monospace;
+    font-size: 9px;
+    color: #bbb;
+    text-align: center;
+    margin-top: 8px;
+    font-style: italic;
+  }
+
+  .stamp {
+    position: absolute;
+    top: 35px;
+    right: 45px;
+    font-family: 'Courier New', monospace;
+    font-size: 11px;
+    color: #8b0000;
+    border: 2px solid #8b0000;
+    padding: 3px 8px;
+    transform: rotate(8deg);
+    opacity: 0.7;
+  }
+
+  .date-line {
+    font-family: 'Courier New', monospace;
+    font-size: 11px;
+    color: #555;
+    margin-top: 10px;
+  }
+
+  hr.divider {
+    border: none;
+    border-top: 1px solid #c4b89a;
+    margin: 15px 0;
+  }
+</style>
+</head>
+<body>
+
+<div class="cadre-instructions">
+  <h3>Cadre Instructions — Do Not Print This Section</h3>
+  <ul>
+    <li><strong>When:</strong> Place before candidates arrive at COP Seggel (OPORD 001/013)</li>
+    <li><strong>Where:</strong> Partially hidden — under debris, crumpled on the floor, or stuck behind furniture in a third building. Should feel like it was discarded or dropped during hasty departure</li>
+    <li><strong>What candidates should do:</strong> Identify as captured enemy orders, report to higher, analyze for enemy command structure, consolidation plans, and reinforcement capability</li>
+    <li><strong>Intel value:</strong> Reveals REAPER command structure (Cdr Kavan, 2nd Company REAPER), consolidation point at the crossroads junction (MP 0602 1565 — feeds OPORD 006), courier schedule on the western road (feeds FRAGO 009), and reinforcement timeline (feeds OPORD 005 defense)</li>
+    <li><strong>Pair with:</strong> Observation log and sketch map in other buildings</li>
+  </ul>
+</div>
+
+<div class="document">
+
+  <div class="stamp">OPERATIONAL</div>
+
+  <div class="header-line">REAPER — Southern District — Field Directive</div>
+
+  <hr class="divider">
+
+  <div class="from-to">
+    <strong>From:</strong> Cdr Kavan, REAPER Southern District<br>
+    <strong>To:</strong> Watch Team 3, Facility Element<br>
+  </div>
+
+  <div class="date-line">27 FEB — Directive 14</div>
+
+  <hr class="divider">
+
+  <div class="body-text">
+
+    <p>The facility is now in our area of responsibility. The government soldiers have left. This is our opportunity to establish control of this area before anyone returns.</p>
+
+    <p>Your watch team is assigned to observe and report. You are the eyes for the district. Follow these instructions:</p>
+
+    <div class="numbered-item">
+      <strong>1.</strong> Establish observation of the facility and all roads approaching it. The main north-south road and the junction to the north at the crossroads (grid <strong>MP 0602 1565</strong>) are the priority. Report <span class="emphasis">any military movement</span> immediately by radio.
+    </div>
+
+    <div class="numbered-item">
+      <strong>2.</strong> Resupply will come from the supply cache through the main road from the south every two days. Do not interfere with the supply teams. Confirm receipt of each delivery by radio.
+    </div>
+
+    <div class="numbered-item">
+      <strong>3.</strong> I will send orders and updates by courier using the western forest road. Couriers will travel on foot. They will use the recognition phrase "<em>spring water</em>" — challenge them and confirm before accepting any message.
+    </div>
+
+    <div class="numbered-item">
+      <strong>4.</strong> <span class="emphasis">Do not engage military forces</span> unless you are directly attacked. Your task is to observe and report, not to fight. If military forces approach the facility in strength, <span class="emphasis">withdraw immediately</span> to the crossroads junction and send a report. Do not attempt to hold the facility.
+    </div>
+
+    <div class="numbered-item">
+      <strong>5.</strong> If you are forced to withdraw, 2nd Company REAPER can reach the crossroads within four hours from the north. Hold the crossroads and maintain communication until reinforcements arrive. The crossroads controls all movement through this area — we must not lose it.
+    </div>
+
+    <p>The facility and the roads around it are critical to REAPER operations. If we control this ground, we control movement through the entire southern district. Your reports are critical to our planning.</p>
+
+    <p>Maintain discipline. Stay concealed. Report everything.</p>
+
+  </div>
+
+  <div class="signature-block">
+    For the People,
+    <div class="signature-name">A. Kavan</div>
+    <div class="signature-title">Commander — REAPER Southern District</div>
+  </div>
+
+  <div class="torn-bottom"></div>
+  <div class="fragment-note">[ remainder of page missing ]</div>
+
+</div>
+
+</body>
+</html>

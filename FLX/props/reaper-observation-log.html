@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>REAPER Observation Log — Training Prop</title>
+<style>
+  @media print {
+    .cadre-instructions { display: none !important; }
+    body { margin: 0; }
+    .document { box-shadow: none; border: none; }
+  }
+
+  body {
+    font-family: Georgia, serif;
+    background: #e8e0d4;
+    margin: 0;
+    padding: 20px;
+  }
+
+  .cadre-instructions {
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+    padding: 16px 20px;
+    background: #fff3cd;
+    border: 2px dashed #856404;
+    border-radius: 4px;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #333;
+    line-height: 1.5;
+  }
+  .cadre-instructions h3 {
+    margin: 0 0 8px 0;
+    color: #856404;
+    font-size: 14px;
+    text-transform: uppercase;
+  }
+  .cadre-instructions ul {
+    margin: 4px 0;
+    padding-left: 20px;
+  }
+
+  .document {
+    max-width: 650px;
+    margin: 0 auto;
+    background: #f5f0e6;
+    padding: 40px 50px;
+    box-shadow: 2px 3px 12px rgba(0,0,0,0.3);
+    position: relative;
+    min-height: 800px;
+  }
+
+  /* Aged paper stain effect */
+  .document::before {
+    content: '';
+    position: absolute;
+    top: 60px;
+    right: 40px;
+    width: 90px;
+    height: 80px;
+    background: radial-gradient(ellipse, rgba(139,90,43,0.15) 0%, rgba(139,90,43,0.05) 50%, transparent 70%);
+    border-radius: 50%;
+    transform: rotate(-15deg);
+  }
+
+  .document::after {
+    content: '';
+    position: absolute;
+    bottom: 120px;
+    left: 30px;
+    width: 70px;
+    height: 60px;
+    background: radial-gradient(ellipse, rgba(80,60,30,0.12) 0%, transparent 65%);
+    border-radius: 50%;
+  }
+
+  h2 {
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-bottom: 1px solid #999;
+    padding-bottom: 6px;
+    margin-bottom: 20px;
+    color: #444;
+  }
+
+  .entry {
+    margin-bottom: 18px;
+    padding-left: 10px;
+    border-left: 2px solid #c4b89a;
+  }
+
+  .entry-date {
+    font-family: 'Courier New', monospace;
+    font-size: 12px;
+    color: #666;
+    font-weight: bold;
+    margin-bottom: 3px;
+  }
+
+  .entry-text {
+    font-family: 'Segoe Script', 'Comic Sans MS', cursive;
+    font-size: 14px;
+    color: #2a2520;
+    line-height: 1.6;
+  }
+
+  .entry-text .atropian {
+    font-style: italic;
+    color: #555;
+  }
+
+  .crossed-out {
+    text-decoration: line-through;
+    color: #888;
+  }
+
+  .margin-note {
+    font-family: 'Segoe Script', 'Comic Sans MS', cursive;
+    font-size: 11px;
+    color: #8b0000;
+    float: right;
+    margin-left: 10px;
+    transform: rotate(2deg);
+    max-width: 140px;
+    text-align: right;
+  }
+
+  .urgent {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  hr.torn {
+    border: none;
+    border-top: 1px dashed #bbb;
+    margin: 25px 0;
+  }
+
+  .footer-mark {
+    font-family: 'Courier New', monospace;
+    font-size: 10px;
+    color: #aaa;
+    text-align: right;
+    margin-top: 30px;
+  }
+</style>
+</head>
+<body>
+
+<div class="cadre-instructions">
+  <h3>Cadre Instructions — Do Not Print This Section</h3>
+  <ul>
+    <li><strong>When:</strong> Place before candidates arrive at COP Seggel (OPORD 001/013)</li>
+    <li><strong>Where:</strong> Inside one of the buildings at the COP — on a table, shelf, or floor as if dropped hastily</li>
+    <li><strong>What candidates should do:</strong> Identify as intelligence value item, collect it, report finding to higher via radio (SALUTE/PIR report), and analyze the content for actionable intelligence</li>
+    <li><strong>Intel value:</strong> Reveals REAPER has been watching the COP for days, references a western observation position (feeds FRAGO 007) and an expected supply group from the south (feeds OPORD 003 ambush)</li>
+    <li><strong>Pair with:</strong> Sketch map and orders fragment placed in other buildings for candidates to piece together</li>
+  </ul>
+</div>
+
+<div class="document">
+
+  <h2>REAPER Watch Team 3 — Facility Log</h2>
+
+  <div class="entry">
+    <div class="entry-date">28 FEB</div>
+    <div class="entry-text">
+      Arrived at the facility. Government soldiers departed two days ago. Buildings empty. Established watch from the building on the west side with good view of the main north-south road. Reported to Cdr Kavan — facility is unoccupied and usable.
+    </div>
+  </div>
+
+  <div class="entry">
+    <div class="entry-date">01 MAR — 0630</div>
+    <div class="entry-text">
+      <span class="margin-note">confirm with supply team</span>
+      Quiet night. No vehicle or foot movement on road. Checked all buildings — some equipment left behind by government forces. Tables, chairs, generator (not working). Storage area east of facility has covered containers, could be useful for supply cache. Reported to higher.
+    </div>
+  </div>
+
+  <div class="entry">
+    <div class="entry-date">01 MAR — 1430</div>
+    <div class="entry-text">
+      Two vehicles drove north on main road past the facility, did not stop. Civilian type. No military markings. Could not see passengers clearly from this distance. Entered in report for commander.
+    </div>
+  </div>
+
+  <div class="entry">
+    <div class="entry-date">02 MAR — 0800</div>
+    <div class="entry-text">
+      Moved watch position. The western building has best observation of both the road and the facility entrance. Can see vehicles approaching from north or south on the main road. The junction where the two main roads cross to the north is visible on clear days. <span class="crossed-out">Ahmad says we should move closer</span> — staying here is safer, we can observe without being seen.
+    </div>
+  </div>
+
+  <div class="entry">
+    <div class="entry-date">03 MAR — 0700</div>
+    <div class="entry-text">
+      Foot patrol from our watch team walked the western forest road south. No activity. Trail is clear and concealed — good route for messengers. Resupply team used the main road yesterday, came from the south with food and batteries. Next resupply in 2 days.
+    </div>
+  </div>
+
+  <div class="entry">
+    <div class="entry-date">03 MAR — 1600</div>
+    <div class="entry-text">
+      <span class="margin-note">! report immediately</span>
+      Military-type vehicles observed near the large complex to the north (the training area). Multiple vehicles, personnel in uniform. Too far to count but more activity than usual. Could be routine or could be preparation. Reported to Cdr Kavan. He says continue to observe and report any movement toward the facility.
+    </div>
+  </div>
+
+  <div class="entry">
+    <div class="entry-date">04 MAR — 0900</div>
+    <div class="entry-text">
+      More activity at the northern complex. Foot traffic visible on the road between their facility and our position. They have not come south of the road junction yet. Kavan sent word — <span class="urgent">if military forces move toward the facility, withdraw to the crossroads junction and report</span>. Do not engage unless engaged.
+    </div>
+  </div>
+
+  <div class="entry">
+    <div class="entry-date">04 MAR — 1800</div>
+    <div class="entry-text">
+      All quiet this evening. Ahmad is at the western building on watch. I am at the main building. Supply group expected tomorrow from the south road — ammunition and radio batteries. Cdr says reinforcements from 2nd Company REAPER can reach us in 4 hours if needed. We
+    </div>
+  </div>
+
+  <hr class="torn">
+
+  <div class="footer-mark">R-WT3 / page 1</div>
+
+</div>
+
+</body>
+</html>
