@@ -146,6 +146,12 @@ for (const file of readdirSync(FLX)) {
   }
 }
 
+// --- Copy FLX props (printable training documents) ---
+const FLX_PROPS = join(FLX, 'props');
+if (existsSync(FLX_PROPS)) {
+  copyDir(FLX_PROPS, join(DIST, 'FLX', 'props'));
+}
+
 // --- Copy POI directory (slides, images) ---
 if (existsSync(POI)) {
   copyDir(POI, join(DIST, POI));

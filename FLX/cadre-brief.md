@@ -176,6 +176,16 @@ The company commander issues the base order on Thursday. The candidate PL has Th
 
 Use the movement phase to evaluate basic competence: formations, movement techniques, security halts, danger area crossings. The clearing and occupation phase evaluates the SL's ability to transition from movement to offense to defense.
 
+**REAPER Intel Props (print and place before candidates arrive):** Three documents are stashed inside the COP buildings for candidates to find during clearing. Each is a printable page — print them and place them in separate buildings before the exercise starts. Candidates should identify them as intelligence value items, collect them, and report the find to higher. The documents foreshadow follow-on missions and give the company commander (cadre) justification for issuing subsequent OPORDs/FRAGOs.
+
+| Document | Where to Place | What It Reveals | Feeds Into |
+|----------|---------------|-----------------|------------|
+| [Observation Log](props/reaper-observation-log.html) | On a table or shelf — as if dropped hastily | REAPER has been watching the COP for days; references a western watch position and an expected supply group from the south | FRAGO 007 (clear OP), OPORD 003 (ambush) |
+| [Sketch Map](props/reaper-sketch-map.html) | Folded under a table or pinned to a wall in a different building | Supply cache location with grid (MP 0611 1530), courier route along the western forest road, patrol sectors, rally point at the crossroads junction | OPORD 004 (raid), FRAGO 009 (courier intercept), OPORD 002 (area recon NAIs) |
+| [Orders Fragment](props/reaper-orders-fragment.html) | Partially hidden — crumpled on the floor or behind furniture in a third building | REAPER command structure (Cdr Kavan), consolidation point at the crossroads (MP 0602 1565), courier schedule on western road, 2nd Company REAPER reinforcement in 4 hours from north | OPORD 006 (deliberate attack), OPORD 005 (COP defense) |
+
+**What candidates should do when they find them:** Report the find to higher as an intelligence value item (PIR #5, CCIR #3). Analyze the content — identify enemy positions, supply routes, command structure, and reinforcement capability. Correlate map references against their own terrain analysis. The documents don't hand candidates answers on a plate — they use terrain descriptions and partial grids that require map work to confirm.
+
 *Expected duration: 3-4 hours including movement (0730ish SP → COP established NLT 1300)*
 
 **GSA Van delivery:** Once the COP is secure (perimeter established, ECP operational, facility cleared), cadre delivers the GSA van to the candidates' requested RP. Candidates unload their additional water and MREs. This is the sustainment transition — they've been on rucks since SP.
