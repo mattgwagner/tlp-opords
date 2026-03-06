@@ -112,7 +112,7 @@ None.
 
 **Purpose:** Establish a persistent forward operating base at COP Seggel to enable company-level command and control and provide a secure base for follow-on operations throughout AO HERRERA.
 
-**Key Tasks:** (1) Clear all facilities at COP Seggel. (2) Establish entrance control and perimeter security. (3) Stand up the company command post with battle tracking and dual-net communications. (4) Prepare to sustain operations for a minimum of 48 hours.
+**Key Tasks:** (1) All facilities at COP Seggel cleared and secured. (2) Perimeter security and entrance control established controlling access along Bradenton Avenue. (3) Company command post operational with battle tracking and dual-net communications.
 
 **End State:** Facilities cleared, perimeter secured with ECP controlling Bradenton Avenue approach, company CP operational on company and platoon nets, defensive positions prepared against indirect fire and ground attack from the northern and western approaches, platoon postured for sustained operations and follow-on missions.
 

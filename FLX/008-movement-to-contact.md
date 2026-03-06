@@ -80,12 +80,12 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
 
 **Purpose:** Disrupt REAPER preparations in the woodlines north of COP Seggel and prevent further enemy reconnaissance of friendly positions.
 
-**Key Tasks:** (1) Advance from COP Seggel into the woodlines north of the perimeter upon order. (2) Locate and engage the REAPER element. (3) Develop the situation — determine REAPER strength, disposition, and intent. (4) Maintain contact and report. Do not pursue beyond Jacksonville Street without orders.
+**Key Tasks:** (1) REAPER element located and engaged. (2) Enemy strength, disposition, and intent determined. (3) Enemy driven from the immediate vicinity of COP Seggel.
 
 **End State:** REAPER element located and engaged, enemy driven from the immediate vicinity of COP Seggel, platoon consolidated and returned to COP or holding a forward position as directed.
 
 ### b. Concept of Operations
-1st Platoon conducts a movement to contact from COP Seggel north into the woodlines upon order. The platoon advances using bounding overwatch, develops the situation upon contact, and engages the REAPER element. Company HQ maintains CP operations and COP security is notional during this operation. Do not pursue beyond Jacksonville Street. Upon breaking contact or driving REAPER from the area, consolidate and return to COP Seggel. Indirect fire support available through company on request.
+1st Platoon conducts a movement to contact north from COP Seggel into the woodlines to locate and engage the REAPER element. The platoon advances using bounding overwatch, develops the situation upon contact, and engages. The limit of advance is Jacksonville Street. Upon breaking contact or driving REAPER from the area, the platoon consolidates and returns to COP Seggel. Company HQ maintains CP operations at the COP.
 
 ### c. Scheme of Fires
 1st Platoon has priority of indirect fires. Priority of fires to the element in contact. Indirect fire support available through company on request.

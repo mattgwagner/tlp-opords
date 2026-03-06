@@ -78,12 +78,12 @@ A Company defends COP Seggel (MP 0610 1550) against REAPER counterattack NLT ___
 
 **Purpose:** Retain COP Seggel as the company's forward operating base and deny REAPER the ability to dislodge friendly forces from AO HERRERA.
 
-**Key Tasks:** (1) Prepare defensive positions oriented toward the most dangerous avenues of approach (north and west). (2) Establish observation posts to provide early warning. (3) Maintain the company CP throughout the attack. (4) Defeat the REAPER counterattack. (5) Maintain a reserve / QRF to respond to penetrations or unexpected threats.
+**Key Tasks:** (1) REAPER counterattack defeated. (2) COP Seggel perimeter intact with no enemy penetration. (3) Company command post operational throughout the attack.
 
 **End State:** REAPER counterattack defeated, COP Seggel secure, defensive positions intact, company CP operational, platoon prepared for follow-on operations.
 
 ### b. Concept of Operations
-1st Platoon defends COP Seggel from prepared positions. The defense is oriented primarily to the north (Bradenton Avenue corridor and Jacksonville Street junction) and west (woodlines). The platoon establishes fighting positions with overhead cover, observation posts forward of the perimeter for early warning, an ECP controlling the primary entrance, and a reserve/QRF to respond to penetrations. The company CP must remain operational throughout the attack. Indirect fire support is available through company on request. Plan engagement areas along the Bradenton Avenue corridor and the western woodline edge.
+1st Platoon defends COP Seggel from prepared positions oriented primarily to the north and west — the most dangerous avenues of approach. The defense is organized with fighting elements covering the northern and western sectors, a security element providing early warning forward of the perimeter, and a reserve to respond to penetrations. The company CP remains operational throughout. Engagement areas are planned along the primary avenues of approach to canalize and destroy the REAPER assault.
 
 ### c. Scheme of Fires
 1st Platoon has priority of indirect fires. Indirect fire support available through company on request. Plan defensive fires for the Bradenton Avenue corridor north of COP Seggel, the woodline edges to the north and west, and the Jacksonville Street junction (MP 0602 1565). Final protective fires along the northern and western perimeter.

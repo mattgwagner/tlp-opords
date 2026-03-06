@@ -78,12 +78,12 @@ A Company disrupts REAPER logistics in AO HERRERA by conducting an ambush along 
 
 **Purpose:** Destroy a REAPER resupply element to sever their logistics line along Bradenton Avenue and exploit captured materials for intelligence.
 
-**Key Tasks:** (1) Establish an ambush along the Bradenton Avenue corridor vicinity MP 0600 1530. (2) Destroy or capture the REAPER resupply element. (3) Collect all documents, electronics, and materials of intelligence value. (4) Withdraw to COP Seggel before REAPER can react with reinforcements.
+**Key Tasks:** (1) REAPER resupply element destroyed or captured. (2) All documents, electronics, and materials of intelligence value collected. (3) Platoon withdrawn before REAPER can reinforce.
 
 **End State:** REAPER resupply element destroyed or captured, intelligence materials collected, platoon returned to COP Seggel.
 
 ### b. Concept of Operations
-1st Platoon departs COP Seggel, moves to an ORP, establishes an ambush along the Bradenton Avenue corridor, destroys the REAPER resupply element, conducts search and collection on the objective, and withdraws to COP Seggel. Company HQ maintains CP operations and COP security is notional during this operation. Time on the objective is limited — conduct a hasty search, collect intelligence materials, and withdraw before REAPER reinforcement. Indirect fire support is available through company on request.
+1st Platoon conducts a deliberate ambush along the Bradenton Avenue corridor to destroy a REAPER resupply element. The platoon establishes an ORP, occupies the ambush site with assault and support elements, initiates on the target, and conducts a hasty search of the kill zone before withdrawing to COP Seggel. Time on the objective is minimized to prevent REAPER reinforcement. Company HQ maintains CP operations at the COP.
 
 ### c. Scheme of Fires
 1st Platoon has priority of indirect fires. Indirect fire support available through company on request. Priority of fires to the assault element during the ambush.

@@ -75,12 +75,12 @@ A Company conducts area reconnaissance of the terrain surrounding COP Seggel NLT
 
 **Purpose:** Develop actionable intelligence on REAPER disposition, strength, and routes in the area surrounding COP Seggel to enable the company to plan and execute offensive operations.
 
-**Key Tasks:** (1) Reconnoiter NAI 1 (Jacksonville Street corridor) and NAI 2 (western woodlines / Clearwater Avenue corridor). (2) Locate and report REAPER positions, observation posts, routes, and activity. (3) Avoid decisive engagement — do not become fixed. (4) Return to COP Seggel with all personnel and equipment.
+**Key Tasks:** (1) REAPER disposition confirmed in NAI 1 (Jacksonville Street corridor) and NAI 2 (western woodlines / Clearwater Avenue corridor). (2) All reconnaissance elements returned to COP Seggel with actionable intelligence. (3) COP Seggel security maintained throughout the reconnaissance.
 
 **End State:** Company has a confirmed picture of REAPER disposition in the area surrounding COP Seggel, including enemy positions, likely routes, and activity patterns. Reconnaissance elements returned to COP. COP security maintained throughout.
 
 ### b. Concept of Operations
-1st Platoon conducts area reconnaissance of two Named Areas of Interest from COP Seggel. Reconnaissance elements depart the COP, reconnoiter their assigned NAIs, and return to the COP upon completion. The platoon must maintain security of COP Seggel with the elements not conducting the reconnaissance. Avoid decisive engagement — the mission is to observe and report, not to fight. Indirect fire support is available through company on request.
+1st Platoon conducts area reconnaissance of two Named Areas of Interest from COP Seggel. Two reconnaissance elements each reconnoiter an assigned NAI while a security element maintains COP defense. The reconnaissance is observe-and-report — elements avoid decisive engagement and break contact if detected. Upon completion, reconnaissance elements return to the COP and consolidate findings for company intelligence.
 
 ### c. Scheme of Fires
 1st Platoon has priority of indirect fires. Indirect fire support available through company on request. Priority of fires to the element in contact.

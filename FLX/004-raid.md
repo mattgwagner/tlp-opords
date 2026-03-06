@@ -78,12 +78,12 @@ A Company destroys REAPER weapons and supply cache (vicinity MP 0611 1530) NLT _
 
 **Purpose:** Destroy REAPER's logistics infrastructure to deny them the ability to sustain operations in AO HERRERA.
 
-**Key Tasks:** (1) Seize the cache site and eliminate the REAPER security element. (2) Destroy all weapons, ammunition, and IED-making materials. (3) Collect all documents, electronics, and materials of intelligence value before destroying the cache. (4) Withdraw to COP Seggel before REAPER can reinforce.
+**Key Tasks:** (1) REAPER security element eliminated and cache site seized. (2) All weapons, ammunition, and IED materials destroyed; intelligence materials collected. (3) Platoon withdrawn before REAPER can reinforce.
 
 **End State:** Cache site destroyed, REAPER security element eliminated or displaced, intelligence materials collected, platoon returned to COP Seggel.
 
 ### b. Concept of Operations
-1st Platoon departs COP Seggel, moves to an ORP, conducts a leader's reconnaissance of the cache site, raids the objective to eliminate the security element and destroy the cache, and withdraws to COP Seggel. Time on the objective is critical — search, collect intelligence, destroy the cache, and withdraw before REAPER can respond. Company HQ maintains CP operations and COP security is notional during this operation. Indirect fire support is available through company on request.
+1st Platoon conducts a raid on the REAPER cache site to eliminate the security element, exploit intelligence, and destroy the cache. The platoon establishes an ORP, conducts a leader's reconnaissance, then the assault element seizes and searches the objective while the support element provides overwatch. Time on the objective is minimized to prevent REAPER reinforcement. Upon completion, the platoon withdraws to COP Seggel. Company HQ maintains CP operations at the COP.
 
 ### c. Scheme of Fires
 1st Platoon has priority of indirect fires. Indirect fire support available through company on request. Priority of fires to the assault element during the raid.

@@ -79,12 +79,12 @@ A Company seizes and secures COP Seggel (MP 0610 1550) NLT 1300L on 05 MAR 26 in
 
 **Purpose:** Establish a persistent forward operating base at COP Seggel to enable company-level command and control and provide a secure base for follow-on operations throughout AO HERRERA.
 
-**Key Tasks:** (1) Move to COP Seggel maintaining security throughout. (2) Clear all facilities. (3) Establish entrance control and perimeter security. (4) Establish the company command post with battle tracking and dual-net communications. (5) Prepare to sustain operations for a minimum of 48 hours.
+**Key Tasks:** (1) All facilities at COP Seggel cleared and secured. (2) Perimeter security and entrance control established controlling access along Bradenton Avenue. (3) Company command post operational with battle tracking and dual-net communications.
 
 **End State:** COP Seggel cleared and secured, perimeter established with ECP controlling access, company CP operational on company and platoon nets, defensive positions prepared against indirect fire and ground attack, force postured for sustained operations and follow-on missions.
 
 ### b. Concept of Operations
-A Company establishes COP Seggel as its forward operating base. 1st Platoon, the company's main effort, moves tactically from the RTI through CP ANVIL, CP FORGE, and CP HAMMER to COP Seggel, clears and occupies the facility, establishes perimeter security and the company command post, and prepares to defend. Upon occupation, 1st Platoon transitions to defense and prepares for follow-on missions issued by company as FRAGOs. Indirect fire support is available through company on request.
+A Company establishes COP Seggel as its forward operating base. 1st Platoon, the main effort, moves tactically from the RTI to COP Seggel, clears and occupies the facility, establishes perimeter security and the company command post, and transitions to defense. Upon occupation, the platoon prepares for follow-on missions issued by company as FRAGOs.
 
 ### c. Scheme of Fires
 1st Platoon has priority of indirect fires. Indirect fire support available through company on request. Plan defensive fires for the Bradenton Avenue corridor (north and south) and the woodlines to the west, with particular attention to positions north of Jacksonville Street that could support REAPER indirect fire against the COP.
