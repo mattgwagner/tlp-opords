@@ -15,7 +15,6 @@ const POI = 'POI';
 
 // Files to skip (not content — meta/build files)
 const SKIP_FILES = new Set(['AGENTS.md', 'CLAUDE.md']);
-const SKIP_PATTERNS = ['cadre-notes'];
 
 // Read the HTML template
 const template = readFileSync('opord-template.html', 'utf8');
@@ -23,7 +22,6 @@ const template = readFileSync('opord-template.html', 'utf8');
 function shouldSkip(filename) {
   if (SKIP_FILES.has(filename)) return true;
   if (filename === 'README.md') return false; // handled specially
-  if (SKIP_PATTERNS.some(p => filename.includes(p))) return true;
   return false;
 }
 
