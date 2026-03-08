@@ -124,7 +124,7 @@ All squads participate in the ambush. COP security is notional during this opera
    - **Objective Secure Report:** When kill zone is cleared and search is complete.
    - **ACE/LACE Report:** Upon return to COP Seggel.
 
-**5. Re-entry to COP Seggel:** Departing and returning elements will coordinate re-entry to COP Seggel using the running password and pre-coordinated recognition signals. SLs must establish link-up procedures with Company HQ prior to departure and report when approaching the COP perimeter.
+**5. Re-entry to COP Seggel:** Departing and returning elements will coordinate re-entry to COP Seggel using the running password and pre-coordinated recognition signals. SLs must establish link-up procedures with the Platoon Leader prior to departure and report when approaching the COP perimeter.
 
 **6.** This OPORD is effective upon receipt.
 

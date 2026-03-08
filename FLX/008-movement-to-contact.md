@@ -124,7 +124,7 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
 
 **5. Limit of Advance:** Jacksonville Street (MP 0602 1565). Do not advance beyond without further orders.
 
-**6. Re-entry to COP Seggel:** Departing and returning elements will coordinate re-entry to COP Seggel using the running password and pre-coordinated recognition signals. SLs must establish link-up procedures with Company HQ prior to departure and report when approaching the COP perimeter.
+**6. Re-entry to COP Seggel:** Departing and returning elements will coordinate re-entry to COP Seggel using the running password and pre-coordinated recognition signals. SLs must establish link-up procedures with the Platoon Leader prior to departure and report when approaching the COP perimeter.
 
 **7.** This OPORD is effective upon receipt.
 
