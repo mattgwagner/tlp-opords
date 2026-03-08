@@ -13,71 +13,43 @@ Run the AAR at COP Seggel or at the recovery site Sunday morning. Candidates sho
 ## Ground Rules (Read Aloud)
 
 - This is a professional discussion, not a critique session. No rank pulling, no finger-pointing.
-- Talk about what happened, not what you think should have happened in hindsight.
+- Be specific — reference what actually happened, then talk about what should have happened and why.
 - "I don't know" and "we didn't think about that" are honest answers. Say them.
 - Cadre is taking notes on Part 2 to improve the FTX. Your feedback directly shapes what the next class gets.
 
 ---
 
-## Part 1 — Candidate Operations Review (~40 min)
+## Part 1 — Candidate Operations Review (~30 min)
 
-Walk through the FLX chronologically. For each phase, ask the questions below. Don't let the discussion stall on one lane — keep it moving. The goal is to get candidates thinking critically about their own planning and execution, not to re-litigate every decision.
+Lane-specific AARs already happened in the hot wash after each mission. This part focuses on the big-picture patterns that cut across the whole weekend — planning, leadership, communication, and how candidates adapted over time.
 
-### COP Establishment (OPORD 001)
+### Troop Leading Procedures
 
-- **PL:** Walk us through your planning timeline from receiving the OPORD Thursday to SP Friday morning. Where did you spend most of your time? Where did you wish you had more time?
-- **SLs:** When you received the PL's order Thursday evening, what was clear and what was missing? What did you have to figure out on your own?
-- **All:** How long did it take to get the COP functional — ECP, CP, perimeter, comms? What slowed you down? What would you do differently on the priorities of work?
-- Did anyone find the intel props during clearing? What did you do with them? Did you report them to higher? Did you analyze them?
+- Which of the 8 TLP steps did you consistently do well? Which ones fell off first when you were tired or rushed?
+- How did your planning process change from Friday to Saturday? Did it get more efficient or did it just get shorter?
+- **PL/PSG candidates:** How did you decide what to include in your order and what to leave to the SLs? Looking back, did you give them enough to work with?
+- **SLs:** On Saturday, the PL/PSG planning cycle compressed your planning window. Did you recognize that as it was happening? What did you cut from your process to make the timeline work?
+- Did anyone conduct a rehearsal that actually changed how you executed? Or did rehearsals become a checkbox?
 
-### Area Reconnaissance (OPORD 002)
+### Leadership and Decision-Making
 
-- **Recon SLs:** What was your patrol plan? Did you find what you were looking for at your NAI? How did you handle the OPFOR contact?
-- **Security SL:** What was your plan for the COP while the other squads were out? Did you track the recon elements? Could you have employed the QRF if needed?
-- What intel came back from the recon that was actually useful for later missions?
+- When something went wrong during execution, how did you recover? Give a specific example.
+- **PL/PSG candidates:** What was the hardest decision you made over the weekend? What information did you wish you had?
+- **SLs:** Where did you have to make a call that wasn't covered in the order? How did you decide what to do?
+- How did the transition from cadre as PL on Friday to candidate PL/PSG on Saturday feel? What was the biggest difference?
+- Did fatigue change how you made decisions by Saturday afternoon compared to Friday morning?
 
-### Clear the OP (FRAGO 007)
+### Communications and Tracking
 
-- **3rd SL:** You got a FRAGO, not a full OPORD. What information did you wish you had? How did you fill in the gaps?
-- How long from receiving the FRAGO to stepping off? Was that fast enough given the time-sensitivity?
-- **1st/2nd SLs:** How did you absorb the COP defense from 3rd Squad? Was the handoff smooth?
+- How well did comms work across the weekend? Where did they break down?
+- Every Saturday mission involved leaving and returning to the COP. Did you plan recognition signals and re-entry procedures? Did it get better across the day or worse?
+- Could you track where other elements were during operations? What would you need to do that better?
+- How did information flow between the PL/PSG and SLs during execution — was it push, pull, or nothing?
 
-### Friday Night COP Operations
+### Overall Takeaways
 
-- **PL/PSG:** Walk us through your rest/security plan. Did it work? Did everyone get sleep?
-- What happened during the overnight injects? How did the COP respond?
-- What was the state of the COP by Saturday morning — were positions maintained, was the CP still tracking, were comms up?
-
-### Movement to Contact (OPORD 008)
-
-- **PL/PSG:** This was your first platoon order. Walk us through how you developed squad taskings from the OPORD. What took the longest? What would you do differently?
-- **SLs:** How much planning time did you actually get after the PL/PSG brief? Was it enough? What did you cut from your planning process to make the timeline work?
-- How did the platoon handle the Bradenton Avenue crossing? Did anyone plan it as a danger area or did you just walk across?
-- What happened on contact? Did the lead element develop the situation or commit immediately?
-
-### Ambush (OPORD 003)
-
-- **PL/PSG:** You received this order while the MTC was still running. How did you manage planning for the next mission while the current one was executing?
-- Walk us through the ambush plan — kill zone, initiation criteria, assault/support/security, withdrawal. What worked? What broke down?
-- How long were you on the objective? What did you find during the search? Did you collect the documents?
-- How did the withdrawal go? Did anyone plan re-entry procedures back to the COP before departing?
-
-### Cache Clearance — Capstone (OPORD 004)
-
-- **PL/PSG:** You got a mission statement and nothing else. Walk us through how you built the order from scratch. What was your process?
-- How did you assign squads — who cleared, who provided SBF, who isolated? Why?
-- How long did the planning cycle take? Did the SLs get enough time for their own TLPs?
-- **SLs:** How did you control your squad through the building clearance? What worked and what fell apart once you were inside the structures?
-- **All:** What was the coordination like between squads during the clearance? Could you track where other squads were? Did anyone have a fratricide concern?
-- This was the end of a long weekend. How did fatigue affect your planning and execution compared to Friday?
-
-### Cross-Cutting Questions
-
-- **TLP process:** Which of the 8 TLP steps did you consistently do well? Which ones fell off first when you were tired or rushed?
-- **Communications:** How well did comms work across the weekend? Did you maintain contact with higher and with adjacent elements? Where did comms break down?
-- **Link-up and re-entry:** Every Saturday mission involved leaving and returning to the COP. Did you plan recognition signals and re-entry procedures? Did it get better across the day or worse?
-- **Planning time management:** On Saturday, the PL/PSG planning cycle compressed the SLs' planning window. Did anyone recognize that as it was happening? What would you do differently to give SLs more time?
-- **What's the one thing you'd tell the next class to do differently?**
+- What is the one thing you personally got better at over the course of the weekend?
+- What is the one thing you'd tell the next class to focus on before they come to the field?
 
 ---
 
