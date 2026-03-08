@@ -21,13 +21,13 @@ A Co. 4th BN-211th INF
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). Overnight security observed REAPER movement in the woodlines north and northwest of COP Seggel. OP/LPs reported foot traffic, low-light signals, and radio transmissions consistent with a REAPER element repositioning. At least one REAPER probe was detected and repelled during the night. REAPER is massing or repositioning in the woodlines between COP Seggel and Jacksonville Street, likely in preparation for further offensive action.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). Overnight security observed REAPER movement in the woodlines northeast of COP Seggel, on the far side of Bradenton Avenue. OP/LPs reported foot traffic, low-light signals, and radio transmissions consistent with a small REAPER element repositioning. At least one REAPER probe was detected and repelled during the night. REAPER appears to be repositioning in the woodlines northeast of the COP vicinity MP 0620 1560, likely maintaining observation or preparing for further action.
 
 ### b. Area of Operations
 
-**1. Terrain.** The area north and northwest of COP Seggel consists of dense pine and hardwood forests with visibility under 50 meters. The woodlines between COP Seggel and Jacksonville Street (approximately 150 meters) provide concealment for both friendly and enemy forces. Bradenton Avenue runs north-south through the center, offering a cleared corridor but also an exposed avenue of approach. The woodlines west of Bradenton Avenue between the COP and Clearwater Avenue (MP 0575 area) are dense and provide covered movement routes.
+**1. Terrain.** The area northeast of COP Seggel consists of dense pine and hardwood forests with visibility under 50 meters. Bradenton Avenue runs north-south through the center, offering a cleared corridor but also an exposed avenue of approach — REAPER activity was observed on the far (east) side of the road. The woodlines east of Bradenton Avenue between the COP and Jacksonville Street provide concealment for both friendly and enemy forces. The woodlines west of Bradenton Avenue between the COP and Clearwater Avenue (MP 0575 area) are dense and provide covered movement routes.
 
-   - **Key Terrain:** The woodline edge north of COP Seggel (approximately 75-100 meters from the perimeter) is the likely REAPER staging area. Jacksonville Street (MP 0602 1565) remains the likely REAPER fallback position. The woodlines west of Bradenton Avenue provide a flanking approach.
+   - **Key Terrain:** The woodline northeast of COP Seggel on the east side of Bradenton Avenue (vicinity MP 0620 1560) is the likely REAPER position. Jacksonville Street (MP 0602 1565) remains the likely REAPER fallback position. Bradenton Avenue itself is a danger area — the platoon must cross it to reach the REAPER element.
 
 **2. Weather.** *(Planning estimates for 07 MAR — update day-of)*
    - Skies: Partly cloudy
@@ -42,15 +42,15 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1s
 Candidates will be operating under fatigue from overnight security operations.
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
-REAPER has been repositioning overnight. The element detected by OP/LPs is estimated at squad size and appears to be staging for either continued reconnaissance of COP Seggel or preparation for an attack. REAPER's exact location and disposition are unknown — that is the purpose of this operation.
+REAPER has been repositioning overnight. The element detected by OP/LPs is estimated at team size (2-4 personnel) and appears to be conducting continued reconnaissance of COP Seggel from across Bradenton Avenue. REAPER's exact location and disposition are unknown — that is the purpose of this operation.
 
-**1. Composition.** Estimated 6-8 REAPER personnel with small arms and communications equipment. Possible crew-served weapon.
+**1. Composition.** Estimated 2-4 REAPER personnel with small arms and communications equipment.
 
-**2. Disposition.** REAPER is in the woodlines north/northwest of COP Seggel, between the COP perimeter and Jacksonville Street. Exact positions unknown.
+**2. Disposition.** REAPER is in the woodlines northeast of COP Seggel, east of Bradenton Avenue in the vicinity of MP 0620 1560. Exact positions unknown.
 
-**3. Most Probable Course of Action (MPCOA).** REAPER is staged in a hasty assembly area in the woodlines, preparing to conduct further reconnaissance or probing attacks. Upon detecting the friendly advance, REAPER breaks contact and withdraws north toward Jacksonville Street.
+**3. Most Probable Course of Action (MPCOA).** REAPER has a small observation team staged in the woodlines east of Bradenton Avenue, monitoring COP Seggel and reporting to higher. Upon detecting the friendly advance, REAPER breaks contact and withdraws north toward Jacksonville Street.
 
-**4. Most Dangerous Course of Action (MDCOA).** REAPER has established a hasty ambush along a likely patrol route north of COP Seggel, anticipating a friendly response to the overnight activity. They initiate the ambush to inflict casualties and then withdraw.
+**4. Most Dangerous Course of Action (MDCOA).** REAPER has established a hasty ambush along a likely patrol route northeast of COP Seggel, anticipating a friendly response to the overnight activity. They initiate the ambush to inflict casualties and then withdraw toward Jacksonville Street.
 
 ### d. Friendly Forces
 
@@ -78,14 +78,14 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
 
 ### a. Commander's Intent
 
-**Purpose:** Disrupt REAPER preparations in the woodlines north of COP Seggel and prevent further enemy reconnaissance of friendly positions.
+**Purpose:** Disrupt REAPER reconnaissance in the woodlines northeast of COP Seggel and prevent further enemy observation of friendly positions.
 
-**Key Tasks:** (1) Advance from COP Seggel into the woodlines north of the perimeter upon order. (2) Locate and engage the REAPER element. (3) Develop the situation — determine REAPER strength, disposition, and intent. (4) Maintain contact and report. Do not pursue beyond Jacksonville Street without orders.
+**Key Tasks:** (1) Advance from COP Seggel northeast across Bradenton Avenue into the woodlines upon order. (2) Locate and engage the REAPER element. (3) Develop the situation — determine REAPER strength, disposition, and intent. (4) Maintain contact and report. Do not pursue beyond Jacksonville Street without orders.
 
 **End State:** REAPER element located and engaged, enemy driven from the immediate vicinity of COP Seggel, platoon consolidated and returned to COP or holding a forward position as directed.
 
 ### b. Concept of Operations
-1st Platoon conducts a movement to contact from COP Seggel north into the woodlines upon order. The platoon advances using bounding overwatch, develops the situation upon contact, and engages the REAPER element. Company HQ maintains CP operations and COP security is notional during this operation. Do not pursue beyond Jacksonville Street. Upon breaking contact or driving REAPER from the area, consolidate and return to COP Seggel. Indirect fire support available through company on request.
+1st Platoon conducts a movement to contact from COP Seggel northeast into the woodlines east of Bradenton Avenue upon order. The platoon crosses Bradenton Avenue as a danger area, advances using bounding overwatch, develops the situation upon contact, and engages the REAPER element. Company HQ maintains CP operations and COP security is notional during this operation. Do not pursue beyond Jacksonville Street. Upon breaking contact or driving REAPER from the area, consolidate and return to COP Seggel. Indirect fire support available through company on request.
 
 ### c. Scheme of Fires
 1st Platoon has priority of indirect fires. Priority of fires to the element in contact. Indirect fire support available through company on request.
@@ -94,7 +94,7 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
 
 **1. 1st Platoon (Main Effort — Decisive Operation):**
 
-- **TASK:** Depart COP Seggel and advance north into the woodlines upon order. Move using bounding overwatch. Locate and engage the REAPER element detected during overnight operations. Develop the situation — assess enemy strength and disposition before committing to decisive engagement. Do not advance beyond Jacksonville Street (MP 0602 1565) without further orders. Report all contact. Consolidate and return to COP Seggel upon completion. Both squads participate in the advance. Company HQ maintains CP operations at COP Seggel.
+- **TASK:** Depart COP Seggel and advance northeast across Bradenton Avenue into the woodlines upon order. Move using bounding overwatch. Locate and engage the REAPER element detected during overnight operations. Develop the situation — assess enemy strength and disposition before committing to decisive engagement. Do not advance beyond Jacksonville Street (MP 0602 1565) without further orders. Report all contact. Consolidate and return to COP Seggel upon completion. Both squads participate in the advance. Company HQ maintains CP operations at COP Seggel.
 - **PURPOSE:** Disrupt REAPER operations in the vicinity of COP Seggel and prevent enemy forces from staging for an attack against the COP.
 
 ### e. Coordinating Instructions
@@ -106,13 +106,13 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
    4. Challenge unknown personnel using challenge and password.
 
 **2. Priority Intelligence Requirements (PIR):**
-   1. Locate the REAPER element in the woodlines north of COP Seggel.
+   1. Locate the REAPER element in the woodlines northeast of COP Seggel, east of Bradenton Avenue.
    2. Determine REAPER strength, composition, and intent (recon, staging for attack, or withdrawing).
    3. Identify any prepared positions, obstacles, or ambush indicators.
    4. Determine whether additional REAPER forces are positioned along Jacksonville Street.
 
 **3. Commander's Critical Information Requirements (CCIR):**
-   1. Contact with REAPER force larger than squad size
+   1. Contact with REAPER force larger than a fire team
    2. REAPER ambush or prepared position encountered
    3. Friendly casualties
    4. REAPER withdrawing north beyond Jacksonville Street

@@ -295,15 +295,15 @@ This is where the SL evaluation lives — the TLP from squad task receipt throug
 **[OPORD 008 — "FIRST LIGHT"](008-movement-to-contact.html)** *(Movement to Contact, ~0800–1000)*
 *Staff briefed Friday night, candidate staff briefs SLs at Saturday stand-down*
 
-Overnight security observed REAPER movement in the woodlines north and northwest of COP Seggel. OP/LPs reported foot traffic, low-light signals, and radio transmissions. At least one REAPER probe was detected and repelled. REAPER is massing or repositioning — the company commander orders 1st Platoon to conduct a movement to contact to locate and engage.
+Overnight security observed REAPER movement in the woodlines northeast of COP Seggel, on the far side of Bradenton Avenue (vicinity MP 0620 1560). OP/LPs reported foot traffic, low-light signals, and radio transmissions. At least one REAPER probe was detected and repelled. REAPER appears to be maintaining observation — the company commander orders 1st Platoon to conduct a movement to contact to locate and engage.
 
 The OPORD is platoon-level only — it does NOT assign squad tasks. The candidate staff received it Friday evening and had overnight to develop their plan: which squad advances, which screens, routes, fire control measures, actions on contact. This is the staff evaluation — can they turn a platoon order into a coherent scheme of maneuver with squad taskings and brief it to SLs? SLs then get ~1.5 hours for their own TLPs after receiving the staff's brief at stand-down.
 
 Candidates are tired from overnight security operations — that's the point. But they plan and brief in daylight with a meal in them, which is realistic.
 
-**Cadre focus:** Two evaluations running simultaneously. (1) Candidate staff: did they develop a sound scheme of maneuver with appropriate squad taskings? Can they answer SL questions? Did they think about the limit of advance (Jacksonville Street)? (2) SLs: planning under fatigue — movement technique selection, developing the situation. Does the SL commit everything on first contact or assess first? Cadre holds a detailed squad overlay as a safety net — if the staff's plan is weak, TAC can redirect before execution.
+**Cadre focus:** Two evaluations running simultaneously. (1) Candidate staff: did they develop a sound scheme of maneuver with appropriate squad taskings? Can they answer SL questions? Did they think about the limit of advance (Jacksonville Street)? Did they plan the Bradenton Avenue crossing as a danger area? (2) SLs: planning under fatigue — movement technique selection, danger area crossing of the road, developing the situation. Does the SL commit everything on first contact or assess first? Cadre holds a detailed squad overlay as a safety net — if the staff's plan is weak, TAC can redirect before execution.
 
-**OPFOR:** Squad-sized REAPER element (6-8) in the woodlines between COP Seggel and Jacksonville Street. MPCOA: REAPER breaks contact and withdraws north upon detecting the advance. MDCOA: REAPER has set a hasty ambush along a likely patrol route. Scale to the candidate — a strong SL gets the ambush, a struggling SL gets the withdrawal.
+**OPFOR:** Small REAPER team (2-4) in the woodlines northeast of COP Seggel, east of Bradenton Avenue (vicinity MP 0620 1560). MPCOA: REAPER breaks contact and withdraws north upon detecting the advance. MDCOA: REAPER has set a hasty ambush along a likely patrol route. Scale to the candidate — a strong SL gets the ambush, a struggling SL gets the withdrawal.
 
 *Expected duration: 2 hours*
 
