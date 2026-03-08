@@ -21,7 +21,7 @@ A Co. 4th BN-211th INF
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). The ambush along Bradenton Avenue was successful — documents and a map captured from the REAPER resupply element reveal a weapons and supply cache at a position east of COP Seggel in the vicinity of MP 0611 1530. The cache includes ammunition, IED-making materials, communications equipment, and food stores. Intelligence indicates the cache is guarded by a small REAPER security element and is critical to REAPER's ability to sustain operations in AO HERRERA.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). The area east of COP Seggel extends into dense woodlines and a cluster of structures in the vicinity of MP 0611 1530. An improved road connects the COP area to this location. Routes east and south of the cache site connect to the broader AO and potential REAPER reinforcement avenues.
 
 ### b. Area of Operations
 
@@ -40,7 +40,7 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1s
    - EENT: 1855
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
-Captured intelligence confirms REAPER is storing weapons, ammunition, IED materials, and supplies at the cache site. The cache is critical to REAPER sustainment — its destruction will significantly degrade their ability to conduct operations in AO HERRERA.
+Documents and a map captured from the REAPER resupply element during the ambush (OPORD 003) reveal a weapons and supply cache east of COP Seggel in the vicinity of MP 0611 1530. The cache includes ammunition, IED-making materials, communications equipment, and food stores. The cache is critical to REAPER sustainment — its destruction will significantly degrade their ability to conduct operations in AO HERRERA.
 
 **1. Composition.** Estimated 3-5 REAPER personnel guarding the cache site, equipped with small arms and communications equipment. The guards maintain a low profile to avoid detection and are unlikely to have prepared elaborate defensive positions.
 
@@ -86,7 +86,7 @@ A Company destroys REAPER weapons and supply cache (vicinity MP 0611 1530) NLT _
 1st Platoon departs COP Seggel, moves to an ORP, conducts a leader's reconnaissance of the cache site, raids the objective to eliminate the security element and destroy the cache, and withdraws to COP Seggel. Time on the objective is critical — search, collect intelligence, destroy the cache, and withdraw before REAPER can respond. Company HQ maintains CP operations and COP security is notional during this operation. Indirect fire support is available through company on request.
 
 ### c. Scheme of Fires
-1st Platoon has priority of indirect fires. Indirect fire support available through company on request. Priority of fires to the assault element during the raid.
+1st Platoon has priority of indirect fires. Indirect fire support available through company on request.
 
 ### d. Tasks to Subordinate Units
 

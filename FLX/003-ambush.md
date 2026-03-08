@@ -21,7 +21,7 @@ A Co. 4th BN-211th INF
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). Reconnaissance patrols and COP OP/LP observations have confirmed REAPER is using the Bradenton Avenue corridor south of COP Seggel to move supplies and personnel between positions. OP/LPs along the southern perimeter observed a REAPER resupply element moving north along Bradenton Avenue on a regular schedule, passing through the vicinity of MP 0600 1530. This route is REAPER's primary logistics line in AO HERRERA.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). The Bradenton Avenue corridor south of COP Seggel extends beyond the platoon's defensive perimeter and connects to REAPER-controlled areas south of AO HERRERA. The Arcadia Street intersection (MP 0600 1523) marks the southern extent of the area of interest along this corridor.
 
 ### b. Area of Operations
 
@@ -40,7 +40,7 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1s
    - EENT: 1855
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
-Reconnaissance confirms REAPER is using Bradenton Avenue as a logistics route, moving supplies north from positions south of the AO. Resupply elements consist of small parties (3-5 personnel) moving on foot or with hand carts along the road, typically with a lead scout 50-100 meters ahead of the main body.
+Reconnaissance patrols and COP OP/LP observations confirm REAPER is using Bradenton Avenue as a logistics route, moving supplies north from positions south of the AO. Resupply elements consist of small parties (3-5 personnel) moving on foot or with hand carts along the road, typically with a lead scout 50-100 meters ahead of the main body.
 
 **1. Composition.** Expected target: 3-5 REAPER personnel with small arms, resupply materials, and possibly documents or communications equipment. Lead scout with radio. Main body with supplies.
 
@@ -86,7 +86,7 @@ A Company disrupts REAPER logistics in AO HERRERA by conducting an ambush along 
 1st Platoon departs COP Seggel, moves to an ORP, establishes an ambush along the Bradenton Avenue corridor, destroys the REAPER resupply element, conducts search and collection on the objective, and withdraws to COP Seggel. Company HQ maintains CP operations and COP security is notional during this operation. Time on the objective is limited — conduct a hasty search, collect intelligence materials, and withdraw before REAPER reinforcement. Indirect fire support is available through company on request.
 
 ### c. Scheme of Fires
-1st Platoon has priority of indirect fires. Indirect fire support available through company on request. Priority of fires to the assault element during the ambush.
+1st Platoon has priority of indirect fires. Indirect fire support available through company on request.
 
 ### d. Tasks to Subordinate Units
 

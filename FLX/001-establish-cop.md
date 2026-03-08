@@ -18,7 +18,7 @@ A Co. 4th BN-211th INF
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO HERRERA encompasses the Local Training Area from the RTI complex south and west to COP Seggel and the surrounding woodlines. REAPER forces have been operating throughout the area since host nation security forces vacated the facility complex at COP Seggel (MP 0610 1550). The road junction at Jacksonville Street and Bradenton Avenue (MP 0602 1565), approximately 150 meters north of COP Seggel, is a known area of REAPER activity and controls the primary avenue of approach into the AO from the north.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. AO HERRERA encompasses the Local Training Area from the RTI complex south and west to COP Seggel and the surrounding woodlines. The road network north and west of the AO connects to the broader Camp Blanding training area. Jacksonville Street runs east-west and intersects Bradenton Avenue at MP 0602 1565, approximately 150 meters north of COP Seggel — this junction controls the primary avenue of approach into the AO from the north. Routes south of the AO along Bradenton Avenue connect to additional REAPER-influenced areas beyond the company AO.
 
 ### b. Area of Operations
 

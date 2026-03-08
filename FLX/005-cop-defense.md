@@ -21,7 +21,7 @@ A Co. 4th BN-211th INF
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). Over the past 36 hours, 1st Platoon has conducted aggressive operations from the COP — reconnaissance patrols mapped REAPER positions, an ambush destroyed a REAPER resupply element, and a raid eliminated a key weapons cache. REAPER leadership has consolidated remaining forces and is preparing to counterattack COP Seggel to push friendly forces out of AO HERRERA. Intelligence indicates REAPER will attack within the next 6-12 hours, most likely from the north along the Jacksonville Street corridor and from the woodlines west of the COP.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1st Platoon occupies COP Seggel (MP 0610 1550). The Jacksonville Street corridor to the north and the woodlines west of COP Seggel are the primary avenues of approach into the defensive perimeter. Routes north of Jacksonville Street connect to the broader Camp Blanding training area, from which REAPER reinforcement can enter AO HERRERA.
 
 ### b. Area of Operations
 
@@ -40,7 +40,7 @@ Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. 1s
    - EENT: 1956
 
 ### c. Enemy Forces. REAPER: Resistance Elements of Atropia's People's Revolutionary Front
-REAPER has consolidated remaining forces in response to the destruction of their supply line and weapons cache. REAPER leadership views COP Seggel as the source of the threat to their operations and intends to destroy or force the withdrawal of the friendly garrison. REAPER has been reinforced from outside the AO and is preparing a deliberate attack.
+Over the past 36 hours, 1st Platoon has conducted aggressive operations from the COP — reconnaissance patrols mapped REAPER positions, an ambush destroyed a REAPER resupply element, and a raid eliminated a key weapons cache. REAPER has consolidated remaining forces in response and has been reinforced from outside the AO. REAPER leadership views COP Seggel as the source of the threat to their operations and intends to destroy or force the withdrawal of the friendly garrison. Intelligence indicates REAPER will attack within the next 6-12 hours.
 
 **1. Composition.** Estimated reinforced platoon (20-30 REAPER personnel) with small arms, RPGs or support weapons, mortar or indirect fire capability, and IEDs. This represents a significant increase from the squad-sized elements previously operating in the area.
 

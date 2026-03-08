@@ -18,7 +18,7 @@ A Co. 4th BN-211th INF
 ## 1. SITUATION
 
 ### a. Area of Interest
-Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. REAPER forces maintain presence across the broader AO HERRERA, with reported activity along the road network north and west of COP Seggel. REAPER reconnaissance elements were observed during the platoon's movement from RTI but withdrew before contact, indicating active surveillance of friendly operations. REAPER disposition in the surrounding area remains largely unknown.
+Clay County, Florida, in the vicinity of Camp Blanding Joint Training Center. The platoon's reconnaissance extends into the woodlines and road network surrounding COP Seggel within AO HERRERA. Jacksonville Street to the north and the Clearwater Avenue corridor to the west define the outer boundaries of the reconnaissance area. Routes beyond these boundaries connect to the broader Camp Blanding training area and may serve as REAPER lines of communication into the AO.
 
 ### b. Area of Operations
 
@@ -83,7 +83,7 @@ A Company conducts area reconnaissance of the terrain surrounding COP Seggel NLT
 1st Platoon conducts area reconnaissance of two Named Areas of Interest from COP Seggel. Reconnaissance elements depart the COP, reconnoiter their assigned NAIs, and return to the COP upon completion. The platoon must maintain security of COP Seggel with the elements not conducting the reconnaissance. Avoid decisive engagement — the mission is to observe and report, not to fight. Indirect fire support is available through company on request.
 
 ### c. Scheme of Fires
-1st Platoon has priority of indirect fires. Indirect fire support available through company on request. Priority of fires to the element in contact.
+1st Platoon has priority of indirect fires. Indirect fire support available through company on request.
 
 ### d. Tasks to Subordinate Units
 
