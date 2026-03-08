@@ -179,8 +179,8 @@ Use the movement phase to evaluate basic competence: formations, movement techni
 | Document | Where to Place | What It Reveals | Feeds Into |
 |----------|---------------|-----------------|------------|
 | [Observation Log](props/reaper-observation-log.html) | On a table or shelf — as if dropped hastily | REAPER has been watching the COP for days; references a western watch position and an expected supply group from the south | FRAGO 007 (clear OP), OPORD 003 (ambush) |
-| [Sketch Map](props/reaper-sketch-map.html) | Folded under a table or pinned to a wall in a different building | Supply cache location with grid (MP 0611 1530), courier route along the western forest road, patrol sectors, rally point at the crossroads junction | OPORD 004 (raid), FRAGO 009 (courier intercept), OPORD 002 (area recon NAIs) |
-| [Orders Fragment](props/reaper-orders-fragment.html) | Partially hidden — crumpled on the floor or behind furniture in a third building | REAPER command structure (Cdr Kavan), consolidation point at the crossroads (MP 0602 1565), courier schedule on western road, 2nd Company REAPER reinforcement in 4 hours from north | OPORD 006 (deliberate attack), OPORD 005 (COP defense) |
+| [Sketch Map](props/reaper-sketch-map.html) | Folded under a table or pinned to a wall in a different building | Supply cache location with grid (vicinity MP 0608 1530), patrol sectors, rally point at the crossroads junction | OPORD 004 (capstone — cache clearance), OPORD 002 (area recon NAIs) |
+| [Orders Fragment](props/reaper-orders-fragment.html) | Partially hidden — crumpled on the floor or behind furniture in a third building | REAPER command structure (Cdr Kavan), consolidation point at the crossroads (MP 0602 1565), 2nd Company REAPER reinforcement in 4 hours from north | General enemy picture — foreshadows REAPER's resilience through the FLX arc |
 
 **What candidates should do when they find them:** Report the find to higher as an intelligence value item (PIR #5, CCIR #3). Analyze the content — identify enemy positions, supply routes, command structure, and reinforcement capability. Correlate map references against their own terrain analysis. The documents don't hand candidates answers on a plate — they use terrain descriptions and partial grids that require map work to confirm.
 
@@ -250,52 +250,56 @@ None of these need to be full lanes. They're short-duration events that keep can
 
 ### Saturday — Full Operations Tempo
 
-#### Saturday Force Structure — 2 Squads + Company HQ
+#### Saturday Evaluation Model — 3 Squads, Candidate PL/PSG
 
-The reorganization was announced and executed Friday evening. By Saturday morning, the new structure is in place and the candidate staff already has OPORD 008. See [Candidate Company Staff Guide](candidate-company-staff-guide.html) for full details on staff roles and selection criteria.
+The 3-squad structure carries through from Friday. No reorganization. Candidate PL and PSG received OPORD 008 Friday evening and have had overnight to develop their scheme of maneuver and squad taskings.
 
-| Element | Strength | Composition |
-|---------|----------|-------------|
-| **Company HQ** | 3 candidates | CO, XO, Battle Captain/RTO |
-| **1st Squad** | 11 candidates | SL + 2 fire teams (TL + 4 each) |
-| **2nd Squad** | 11 candidates | SL + 2 fire teams (TL + 4 each) |
+**All three squads leave the wire every lane.** COP security is notional during Saturday operations. Squad roles (assault, support, security/isolation) rotate across lanes so different SLs get different challenges.
 
-**Both squads leave the wire every lane.** One squad is main effort, the other is supporting effort (blocking, isolation, screening, security cordon). COP security is notional during Saturday operations. Main effort assignment rotates between squads across the day.
+**Order flow on Saturday:** Cadre → Candidate PL/PSG → SLs. Progressive scaffolding — PL/PSG independence increases across the day:
 
-**Order flow on Saturday:** Cadre → Candidate Staff → SLs directly (no separate candidate PL layer). Progressive scaffolding — staff independence increases across the day:
-
-| Lane | Staff receives order... | Detail level | Staff responsibility |
+| Lane | PL/PSG receives... | Detail level | PL/PSG responsibility |
 |------|------------------------|--------------|---------------------|
 | 008 MTC | Friday evening | Platoon-level OPORD | Develop squad taskings overnight, brief SLs at stand-down |
 | 003 Ambush | During MTC execution | Platoon-level OPORD | Develop squad taskings, brief SLs at chow/rest |
-| 009 Intercept | During ambush execution | FRAGO (abbreviated) | Develop squad taskings from less information |
-| 004 Raid | During intercept execution | Platoon-level OPORD | Develop squad taskings (should be faster by now) |
-| 006 Deliberate Attack | During raid execution | **Mission statement only** | **Plan entire order independently (capstone)** |
+| 004 Cache Clearance | After ambush | **Mission statement only** | **Plan entire platoon order independently (capstone)** |
 
-**Staff vs. SL planning boundary:** The staff says WHAT each squad does. The SL plans HOW. Specifically:
+**PL/PSG vs. SL planning boundary:** The PL/PSG say WHAT each squad does. The SL plans HOW. Specifically:
 
-- **Staff provides:** Task and purpose for each squad, main/supporting effort designation, coordination between squads (boundaries, phase lines, signals), timeline.
+- **PL/PSG provides:** Task and purpose for each squad, main/supporting effort designation, coordination between squads (boundaries, phase lines, signals), timeline.
 - **SLs plan independently:** Route selection, movement technique, fire team task organization, actions on the objective (their squad's piece), ORP/rally points, contingency plans, sand table rehearsal.
 
-This is where the SL evaluation lives — the TLP from squad task receipt through execution. If the candidate CO starts briefing fire team assignments or dictating squad-internal movement, cadre redirects: *"CO, that's the SL's plan — give them their task and purpose and let them figure out how."* This applies to every Saturday lane, including the capstone.
+This is where the SL evaluation lives — the TLP from squad task receipt through execution. If the candidate PL starts briefing fire team assignments or dictating squad-internal movement, cadre redirects: *"PL, that's the SL's plan — give them their task and purpose and let them figure out how."* This applies to every Saturday lane, including the capstone.
+
+**Note on planning time:** The PL/PSG planning cycle takes longer than expected — candidates at this level need significant time to work through the TLPs and produce a coherent platoon order. This compresses the SLs' planning window. That's a realistic friction point and an observable data point: does the PL/PSG recognize they're burning the SLs' planning time? Do they make tradeoffs to give SLs what they need?
+
+#### Candidate Rotation Strategy
+
+**Rotate the PL and PSG between missions.** Different candidates serve as PL/PSG for different lanes — this spreads the evaluation opportunity, tests candidates at different points in the day's fatigue curve, and prevents one pair from monopolizing the platoon leadership role. Cadre selects who leads which lane based on what they want to test:
+
+- **OPORD 001 (COP Establishment):** Middle-to-upper skill candidates. The initial movement, clearing, and occupation sets the tone for the entire FLX. A PL who produces a weak plan here creates cascading problems. Put candidates who can produce a workable order but still need development reps.
+- **Saturday MTC / Ambush:** Mix based on available candidates and who needs evaluation reps. Weaker candidates benefit from the earlier, more scaffolded lanes where cadre can coach in real time. Stronger candidates can be held for harder tasks.
+- **Capstone (Cache Clearance):** Put the strongest candidates — ideally those with combat arms backgrounds — in the PL/PSG seats. This serves two purposes: the capstone is the most complex operation and needs competent leadership to succeed as a training event, and it ends the FLX on a high note as a demonstration of what right looks like. The rest of the platoon sees what a well-planned, well-executed platoon operation looks like when the leadership is firing on all cylinders.
+
+This rotation also applies to SLs — candidates rotate into SL positions each lane so TACs can evaluate multiple candidates across the day. Track who has been evaluated and where the gaps are.
 
 **Saturday morning sequence:**
 
 1. **~0600 Stand-to at BMNT.** Candidates are already doing this from overnight security rotation.
-2. **~0630 Stand down.** Candidate staff briefs OPORD 008 to SLs — their first order delivery under the new structure.
+2. **~0630 Stand down.** Candidate PL/PSG briefs OPORD 008 to SLs — their first platoon order delivery.
 3. **~0630–0800 SL planning.** SLs conduct TLPs over chow (MRE) — mission analysis, scheme of maneuver, sand table, brief their squads. ~1.5 hours of planning time.
 4. **~0800 SP for MTC.**
 
 **[OPORD 008 — "FIRST LIGHT"](008-movement-to-contact.html)** *(Movement to Contact, ~0800–1000)*
-*Staff briefed Friday night, candidate staff briefs SLs at Saturday stand-down*
+*PL/PSG briefed Friday night, briefs SLs at Saturday stand-down*
 
 Overnight security observed REAPER movement in the woodlines northeast of COP Seggel, on the far side of Bradenton Avenue (vicinity MP 0620 1560). OP/LPs reported foot traffic, low-light signals, and radio transmissions. At least one REAPER probe was detected and repelled. REAPER appears to be maintaining observation — the company commander orders 1st Platoon to conduct a movement to contact to locate and engage.
 
-The OPORD is platoon-level only — it does NOT assign squad tasks. The candidate staff received it Friday evening and had overnight to develop their plan: which squad advances, which screens, routes, fire control measures, actions on contact. This is the staff evaluation — can they turn a platoon order into a coherent scheme of maneuver with squad taskings and brief it to SLs? SLs then get ~1.5 hours for their own TLPs after receiving the staff's brief at stand-down.
+The OPORD is platoon-level only — it does NOT assign squad tasks. The candidate PL/PSG received it Friday evening and had overnight to develop their plan: which squad advances, which flanks, which provides security, routes, fire control measures, actions on contact. SLs get ~1.5 hours for their own TLPs after receiving the PL/PSG brief at stand-down.
 
 Candidates are tired from overnight security operations — that's the point. But they plan and brief in daylight with a meal in them, which is realistic.
 
-**Cadre focus:** Two evaluations running simultaneously. (1) Candidate staff: did they develop a sound scheme of maneuver with appropriate squad taskings? Can they answer SL questions? Did they think about the limit of advance (Jacksonville Street)? Did they plan the Bradenton Avenue crossing as a danger area? (2) SLs: planning under fatigue — movement technique selection, danger area crossing of the road, developing the situation. Does the SL commit everything on first contact or assess first? Cadre holds a detailed squad overlay as a safety net — if the staff's plan is weak, TAC can redirect before execution.
+**Cadre focus:** Two evaluations running simultaneously. (1) PL/PSG: did they develop a sound scheme of maneuver with appropriate squad taskings? Can they answer SL questions? Did they think about the limit of advance (Jacksonville Street)? Did they plan the Bradenton Avenue crossing as a danger area? (2) SLs: planning under fatigue — movement technique selection, danger area crossing of the road, developing the situation. Does the SL commit everything on first contact or assess first?
 
 **OPFOR:** Small REAPER team (2-4) in the woodlines northeast of COP Seggel, east of Bradenton Avenue (vicinity MP 0620 1560). MPCOA: REAPER breaks contact and withdraws north upon detecting the advance. MDCOA: REAPER has set a hasty ambush along a likely patrol route. Scale to the candidate — a strong SL gets the ambush, a struggling SL gets the withdrawal.
 
@@ -306,98 +310,52 @@ Candidates are tired from overnight security operations — that's the point. Bu
 ---
 
 **[OPORD 003 — "CUT THE LINE"](003-ambush.html)** *(Ambush, ~1030–1230)*
-*Staff receives order during MTC execution (~0900). Staff briefs SLs at chow/rest.*
+*PL/PSG receives order during MTC execution (~0900). PL/PSG briefs SLs at chow/rest.*
 
 Recon from OPORD 002 identified a REAPER resupply route along Bradenton Avenue. Intel indicates regular supply runs moving north past MP 0600 1530. The company commander orders an ambush to cut the supply line and capture intelligence.
 
-The OPORD is platoon-level only — no squad tasks assigned. The candidate staff receives the order while the MTC is still running, develops squad taskings (who is the ambush element, who blocks, withdrawal plan), and briefs SLs during the chow/rest period. SLs then plan their squad schemes: ORP, ambush site, kill zone, assault/support/security, withdrawal route. The critical planning challenge is the departure from and return to the COP — link-up procedures, recognition signals, and avoiding fratricide.
+The OPORD is platoon-level only — no squad tasks assigned. The candidate PL/PSG receives the order while the MTC is still running, develops squad taskings (who is the assault element, who provides SBF, who provides security, withdrawal plan), and briefs SLs during the chow/rest period. SLs then plan their squad schemes: ORP, ambush site, kill zone, assault/support/security, withdrawal route. The critical planning challenge is the departure from and return to the COP — link-up procedures, recognition signals, and avoiding fratricide.
 
-**Cadre focus:** Three evaluations. (1) Staff: developing squad taskings from a platoon-level order while the previous lane is still running — can they multitask? (2) SL plan: ambush site selection, kill zone orientation, initiation criteria (what if civilians are in the kill zone?), speed on the objective, withdrawal discipline. (3) Time on objective — if they're spending 20 minutes searching, they're wrong.
+**Cadre focus:** Two evaluations. (1) PL/PSG: developing squad taskings from a platoon-level order while the previous lane is still running — can they multitask? Is the plan faster and better than their first attempt on the MTC? (2) SL plan: ambush site selection, kill zone orientation, initiation criteria (what if civilians are in the kill zone?), speed on the objective, withdrawal discipline. Time on objective — if they're spending 20 minutes searching, they're wrong.
 
 **OPFOR:** REAPER supply element of 3-5 personnel with a lead scout. Play the scout 50-100 meters ahead. If the ambush is poorly set, have the scout detect it and the element withdraw. If it's well set, walk into the kill zone. After the ambush, have REAPER "react" by sending a patrol from the south 15-20 minutes later (this pressures the withdrawal timeline).
 
-*Expected duration: 2 hours*
-
-**Chow/Rest:** 30-minute chow rotation after return to COP. Brief refit before FRAGO 009.
-
----
-
-**[FRAGO 009 — "SNARE"](009-frago-intercept-courier.html)** *(Intercept Courier, ~1300–1430)*
-*Staff receives FRAGO during ambush execution (~1130). Staff briefs SLs at chow/rest.*
-
-Documents recovered during the ambush (or simply "new intelligence") indicate a REAPER courier carrying orders from higher command is expected to transit through the Clearwater Avenue corridor (vicinity MP 0575 1538) within 2 hours. Capture the courier and recover the communications.
-
-This is a FRAGO — shorter than a full OPORD but the staff must still develop squad taskings (intercept element, blocking/cordon, capture procedures). The staff receives the FRAGO while the ambush lane is executing, plans squad assignments, and briefs SLs during chow/rest. The 2-hour courier window creates real time pressure once the lane kicks off.
-
-**Cadre focus:** Three evaluations. (1) Staff: planning from a FRAGO format — less information to work with, but the same requirement to produce squad taskings. Can they develop a coherent intercept plan from abbreviated information? (2) SL plan: intercept site selection, fire team positioning (who grabs the courier, who blocks escape routes, who provides security), security cordon placement, and actions on capture — does the SL have a plan for securing documents before the courier destroys them? (3) SL execution: speed of planning under time pressure — does the SL set up a proper intercept or just run out and hope? Handling of the detainee and document exploitation.
-
-**OPFOR:** 1 courier + 1 escort, both armed with small arms. Traveling light and fast. If confronted, the escort delays while the courier escapes with documents. If capture is imminent, the courier attempts to destroy documents. Scale: if the SL's intercept is well-planned, the courier walks into it. If poorly planned, the escort spots them and the courier runs — allow a brief pursuit but don't let it spiral into a long chase.
-
-*Expected duration: 1.5 hours (FRAGO — less planning time than a full OPORD)*
-
-**Chow/Rest:** 30-minute chow rotation. Cadre uses this time to set up the raid objective and brief OPFOR.
-
----
-
-**[OPORD 004 — "IRON STRIKE"](004-raid.html)** *(Raid, ~1500–1700)*
-*Staff receives order during intercept execution (~1330). Staff briefs SLs at chow/rest.*
-
-Documents captured in the ambush reveal a REAPER weapons cache at MP 0611 1530 (east of the COP). The company commander orders a raid to destroy the cache. The OPORD is platoon-level only — the staff develops squad taskings (assault element, isolation/blocking, site exploitation plan) and briefs SLs. By this point the staff has done this three times (MTC, ambush, intercept) — they should be getting faster.
-
-**Cadre focus:** Three evaluations. (1) Staff: by the fourth order, the staff should be producing squad taskings efficiently — look for improvement in speed and quality from earlier lanes. (2) SL plan: ORP selection, leader's recon, assault plan, time management on the objective (search THEN destroy — not the other way around), withdrawal route selection (different from approach). (3) Key evaluation points: Does the SL plan for REAPER reinforcement? Does the SL set a time limit on the objective?
-
-**OPFOR:** 3-5 REAPER at the cache in a low-profile security posture. Scale resistance to the candidate — a strong SL gets a fight, a struggling SL gets a REAPER element that withdraws on contact. After the raid, regardless of outcome, REAPER consolidates north — this sets up OPORD 006.
+**Intel transition:** Documents captured during the ambush reveal the location of a REAPER weapons and materiel cache in the structure complex south of COP Seggel (vicinity MP 0608 1530). This feeds directly into the capstone.
 
 *Expected duration: 2 hours*
 
-**Chow/Rest:** 30-minute chow rotation after return to COP. Brief candidates that REAPER is consolidating at the Jacksonville Street junction.
+**Chow/Rest:** 30-minute chow rotation after return to COP. Cadre uses this time to set up the capstone objective, brief OPFOR, and issue the capstone mission statement to the PL/PSG.
 
 ---
 
-**[OPORD 006 — "FINAL ANVIL"](006-deliberate-attack.html)** *(Deliberate Attack — Capstone, ~1730–1900)*
-*Staff receives mission statement during raid execution (~1530). Staff plans entire order independently.*
+**[OPORD 004 — "IRON FIST"](004-clear-the-cache.html)** *(Cache Clearance — Capstone, ~1300–1800)*
+*PL/PSG receives mission statement after the ambush. PL/PSG plans entire order independently.*
 
-REAPER's remaining forces have consolidated at the Jacksonville Street / Bradenton Avenue junction (MP 0602 1565) — 150 meters north of the COP. The company commander orders 1st Platoon to seize the junction and finish REAPER in AO HERRERA. **This is the capstone.** The staff receives only a mission statement — no OPORD, no situation paragraph, no scheme of maneuver. They must plan the entire order independently: enemy analysis, scheme of maneuver, squad taskings, fires, sustainment, everything. Cadre holds the detailed OPORD as a safety net. **Last light is 1855 — this creates natural time pressure to complete the attack before dark.**
+Documents captured in the ambush reveal a REAPER weapons and materiel cache in the structure complex and CONEX yard south of COP Seggel (OBJ IRON, vicinity MP 0608 1530). The company commander orders 1st Platoon to clear the complex and destroy the cache. **This is the capstone.** The PL/PSG receives only a mission statement — no OPORD, no situation paragraph, no scheme of maneuver. They must plan the entire order independently: enemy analysis, scheme of maneuver, squad taskings, fires, sustainment, everything. **EENT is 1855 — this creates natural time pressure, but the operation is expected to take multiple hours including planning, staging, and execution.**
 
-**Cadre focus:** This is the culminating evaluation for both the candidate staff AND the SLs. (1) Staff: can they produce a complete, coherent order from a mission statement alone? Did they do their own terrain analysis? Did they think about SBF positions, assault routes, blocking positions on Jacksonville St? This is the test of everything they've learned across the day. (2) SL plan: assault route selection (do NOT go straight up Bradenton Ave), fire team assignments for the assault, coordination with the supporting squad (shift/cease fire signals, timing), ORP and rally point selection, casualty collection point, and consolidation/reorganization plan on the objective. The proximity to the COP (150m) is a planning factor — the SL must still plan this properly, not just "run up the road."
+This is the only operation in the FLX where the entire platoon commits to a single objective with all three squads in coordinated roles — assault, support by fire, and isolation/security. The objective is a built-up area with multiple structures that must be systematically cleared room by room. This is fundamentally different from the previous lanes: it requires coordination between squads, fire control in close quarters, and sustained command and control across a complex clearance that takes time to execute.
 
-**OPFOR:** 6-10 REAPER in hasty positions at the junction, oriented south. Low ammo, low morale. They fight but break when pressed. If the SL's plan is solid, REAPER collapses quickly. If the plan is poor (frontal assault up Bradenton), REAPER holds and inflicts casualties.
+**Cadre focus:** This is the culminating evaluation. (1) PL/PSG: can they produce a complete, coherent order from a mission statement alone? Did they do their own terrain analysis? Did they think about SBF positions, assault routes, isolation of the objective from the south, coordination between squads (shift/cease fire signals, timing)? Do they manage time — recognizing that the planning cycle needs to leave SLs enough time to plan their piece? This is the test of everything they've learned across the day. (2) SLs: building clearance procedures (stack, enter, clear, mark), fire team assignments for the assault, room-clearing sequencing, handling of unknown personnel in the complex, consolidation and security after each building is cleared. The SL must maintain control of the squad across a confusing, multi-building clearance — not just the first room.
 
-*Expected duration: 1.5-2 hours (complete before last light 1855)*
+**Candidate placement:** Put the strongest candidates in the PL/PSG seats for this lane — ideally those with combat arms backgrounds. The capstone needs competent leadership to succeed as a training event, and ending the FLX with a well-executed platoon operation shows the rest of the class what right looks like.
 
----
+**OPFOR:** 6-10 REAPER distributed across multiple structures within the complex. Not concentrated — the platoon must clear each building to find them. REAPER fights from inside the structures, using the buildings for cover. Some REAPER attempt to withdraw south through the woodlines when the clearance begins. Scale resistance to the plan quality — if the assault is well-coordinated with good isolation, REAPER collapses building by building. If squads are uncoordinated or bypass structures, REAPER fights from the rear and creates confusion. Both instructors plus the former candidate run OPFOR for this lane to provide the larger enemy element.
 
-### Saturday Night — Transition to Rest
-
-After the deliberate attack, consolidate back at COP Seggel. Chow (MRE), water resupply. Maintain COP security with a rest/security rotation. Brief candidates that AO HERRERA is effectively cleared but residual REAPER elements may attempt a spoiling attack overnight.
-
-**Overnight inject options (keep light — candidates are exhausted):**
-- Single REAPER probe testing the perimeter (evaluates alert status)
-- Company FRAGO requesting an updated SITREP and ACE/LACE
-- Simulated indirect fire (one round) to test stand-to procedures
-
-**Priority is rest.** Saturday is the heaviest day of the FLX. Candidates need sleep before Sunday.
+*Expected duration: 3-5 hours (planning through execution — complete before EENT 1855)*
 
 ---
 
-### Sunday Morning — ENDEX
+### Saturday Evening — ENDEX
 
-**[OPORD 005 — "HOLD THE LINE"](005-cop-defense.html)** *(COP Defense — OPTIONAL)*
-*Triggered at stand-to if cadre chooses to execute*
-
-If cadre wants a final evaluation opportunity, trigger a REAPER counterattack on the COP at first light (0722 EDT — note time change). This is optional — execute only if there are candidates who still need an evaluated lane or if the defense looks like it needs testing.
-
-**If executed:** REAPER attacks from the north along Bradenton Ave with a supporting attack from the west through the woodlines. Open with simulated indirect fire (2-3 minutes), then assault. Keep the attack to 15-20 minutes — this is a bookend, not a marathon.
-
-**OPFOR:** Scale to available OPFOR and energy level. A short, sharp attack that tests the overnight defensive preparations. If positions are good, the defense succeeds quickly. If sloppy, REAPER penetrates and creates a decision point.
-
-**If not executed:** Move directly to ENDEX procedures after morning stand-to.
+After the capstone, consolidate at COP Seggel or transition directly to ENDEX at cadre's discretion. The capstone is the last formal lane. Chow (MRE), water resupply. If time and energy permit, maintain a brief COP security posture before calling ENDEX. If the capstone runs late or candidates are spent, call ENDEX on the objective and move to recovery.
 
 ---
+
+### Sunday Morning — Recovery
 
 **ENDEX and Recovery** *(~0800–1100 EDT)*
 
-- ENDEX called after optional defense or at cadre's discretion
+- ENDEX called Saturday evening or Sunday morning at cadre's discretion
 - Transition from tactical to administrative posture
 - Police call of all training areas, COP, objective sites
 - Weapons/equipment accountability and turn-in
@@ -418,24 +376,19 @@ If cadre wants a final evaluation opportunity, trigger a REAPER counterattack on
 | **FRI** | ~1300–1500 | Area Reconnaissance | 002 | All 3 SLs (1 per squad) |
 | **FRI** | 1500–1530 | Chow/debrief | — | — |
 | **FRI** | ~1530–1730 | Clear REAPER OP (FRAGO) | 007 | 3rd SL (primary); 1st/2nd SLs (COP security) |
-| **FRI** | 1730+ | Evening chow, reorganization, staff standup | — | PL/PSG (COP command) |
-| **FRI** | Night | COP Operations (no formal lane) | — | PL/PSG (COP command); Staff (overnight prep) |
+| **FRI** | 1730+ | Evening chow, issue OPORD 008 to PL/PSG | — | PL/PSG (COP command + overnight planning) |
+| **FRI** | Night | COP Operations (no formal lane) | — | PL/PSG (COP command + 008 planning) |
 | **SAT** | 0600 | Stand-to (BMNT) | — | — |
-| **SAT** | 0630–0800 | Staff briefs SLs, chow, SL planning | — | Staff (order brief); SLs (TLPs) |
-| **SAT** | ~0800–1000 | Movement to Contact | 008 | Staff + both SLs |
-| **SAT** | 1000–1030 | Chow/rest | — | — |
-| **SAT** | ~1030–1230 | Ambush | 003 | Staff + both SLs |
-| **SAT** | 1230–1300 | Chow rotation | — | — |
-| **SAT** | ~1300–1430 | Intercept Courier (FRAGO) | 009 | Staff + both SLs |
-| **SAT** | 1430–1500 | Chow/rest | — | — |
-| **SAT** | ~1500–1700 | Raid | 004 | Staff + both SLs |
-| **SAT** | 1700–1730 | Chow rotation | — | — |
-| **SAT** | ~1730–1900 | Deliberate Attack (capstone — last light 1855) | 006 | Staff + both SLs |
-| **SAT** | 1900+ | Evening chow, rest/security rotation | — | PL/PSG (COP command) |
-| **SUN** | ~0722 | Optional COP Defense at stand-to | 005 | SLs (optional) |
-| **SUN** | ~0800–1100 | ENDEX, recovery, equipment turn-in, AAR | — | — |
+| **SAT** | 0630–0800 | PL/PSG briefs SLs, chow, SL planning | — | PL/PSG (order brief); SLs (TLPs) |
+| **SAT** | ~0800–1000 | Movement to Contact | 008 | PL/PSG + all 3 SLs |
+| **SAT** | 1000–1045 | Chow/rest; PL/PSG receives OPORD 003 | — | — |
+| **SAT** | ~1045–1245 | Ambush | 003 | PL/PSG + all 3 SLs |
+| **SAT** | 1245–1330 | Chow/rest; PL/PSG receives capstone mission statement | — | — |
+| **SAT** | ~1330–1800 | Cache Clearance (capstone — EENT 1855) | 004 | PL/PSG + all 3 SLs |
+| **SAT** | PM/EVE | ENDEX at cadre discretion; chow, recovery | — | — |
+| **SUN** | ~0800–1100 | Recovery, equipment turn-in, AAR | — | — |
 
-**Evaluation model:** SLs rotate into new squads each lane — TACs can evaluate multiple SLs simultaneously (Friday has all 3 TACs evaluating 3 SLs at once on OPORD 002). PL/PSG are evaluated continuously on COP management between lanes. 
+**Evaluation model:** SLs and PL/PSG rotate each lane — TACs evaluate multiple candidates across the day. Friday has all 3 TACs evaluating 3 SLs simultaneously. Saturday adds PL/PSG evaluation on top of the SL evaluation. PL/PSG are also evaluated continuously on COP management between lanes.
 
 ---
 
@@ -444,12 +397,15 @@ If cadre wants a final evaluation opportunity, trigger a REAPER counterattack on
 **What the arc tests that individual STX lanes don't:**
 - Planning from an established base (not a cold start at an AA)
 - Departure from and return to a friendly position (link-up, recognition, fratricide prevention)
-- Cumulative effects of decisions (poor COP setup makes the defense harder)
+- Cumulative effects of decisions (poor COP setup creates friction for every subsequent operation)
 - Sustained operations under fatigue (Saturday morning MTC — candidates are tired from overnight, that's the point)
-- Rapid planning from FRAGOs with incomplete information (007, 009)
-- CP operations and battle tracking as a continuous activity, not a one-time setup
+- Rapid planning from FRAGOs with incomplete information (007)
+- Platoon-level planning and order production (Saturday PL/PSG evaluations)
+- Multi-squad coordination in close quarters (capstone building clearance)
 - Direct application of Thursday's preparation training (radios, ECP, CP ops, defensive planning)
-- Time-pressure decision making (courier window, last-light deadlines)
+- Time-pressure decision making (EENT deadlines, compressed planning windows)
+
+**Known gap — battle tracking:** CP operations and battle tracking did not get meaningfully exercised in the initial iteration. This is an area to develop in future FLX iterations — consider adding a battle tracking requirement where the PL/PSG or a designated candidate tracks friendly and enemy positions on a map board during Saturday operations.
 
 **Thursday training → FLX connection:** Watch whether the SL who taught defensive planning actually applies it at the COP. Watch whether the candidate who taught ECP ops runs a sloppy ECP. The preparation training is their chance to study the material — the FLX is the test.
 
@@ -463,17 +419,17 @@ The FLER is the feedback framework for the FLX — not a paperwork drill. TACs u
 
 **TLPs are spread across time.** Planning and execution are separated by hours, not minutes. TACs need to observe both phases to give meaningful feedback on the full TLP cycle. If you only watch the assault, you can only coach on execution — not the planning that drove it.
 
-**Saturday SLs receive the mission from candidates, not cadre.** This creates coaching opportunities around TLP 1 (Receive the Mission) that don't exist in a normal lane. Did the SL ask clarifying questions when the staff brief was incomplete, or did they execute blind?
+**Saturday SLs receive the mission from the candidate PL/PSG, not cadre.** This creates coaching opportunities around TLP 1 (Receive the Mission) that don't exist in a normal lane. Did the SL ask clarifying questions when the PL/PSG brief was incomplete, or did they execute blind?
 
 **Fatigue is cumulative and deliberate.** By Saturday afternoon, candidates are 30+ hours in. Where you see TLP breakdowns shifts — preparation steps (PCC/PCIs, rehearsals, contingency planning) degrade first. An SL who still conducts meaningful preparation on the capstone lane is demonstrating growth worth reinforcing.
 
-**FRAGOs compress the cycle.** On FRAGO lanes (007, 009), some TLP steps merge or abbreviate. Focus feedback on whether the candidate made a *conscious decision* to abbreviate versus simply forgetting steps under pressure.
+**FRAGOs compress the cycle.** On the FRAGO lane (007), some TLP steps merge or abbreviate. Focus feedback on whether the candidate made a *conscious decision* to abbreviate versus simply forgetting steps under pressure.
 
 ### PL and Candidate Staff Feedback
 
 The PL on OPORD 001 maps directly to the FLER — the Thursday evening platoon OPORD to SLs is the primary TLP 7 moment. Use the same 8-step framework to structure feedback.
 
-The **candidate staff** (CO, XO, Battle Captain) is developmental, not strictly evaluated. Use the FLER criteria and general leadership experience to provide feedback and refinement — focus on what they did well and what to work on, particularly around information flow, running estimates, battle tracking, and translating commander's guidance into a coherent brief. The staff positions are a growth opportunity; treat feedback accordingly.
+Saturday **PL/PSG candidates** are evaluated using the same FLER framework. Their TLP 7 (Issue the Order) is the platoon OPORD/brief to SLs — that's the primary evaluation moment for each Saturday lane. Additionally, evaluate their TLP 8 (Supervise and Assess) on whether they maintained situational awareness during execution and made sound decisions. Different PL/PSG candidates lead different lanes (see Candidate Rotation Strategy), so provide feedback relative to that candidate's development, not just against the previous PL/PSG's performance.
 
 ### Feedback Guidance
 
