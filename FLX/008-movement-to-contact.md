@@ -9,10 +9,7 @@
 **Task Organization:**
 
 A Co. 4th BN-211th INF
-- 1st Platoon (2 squads + Company HQ) — at COP Seggel
-  - Company HQ (3 personnel) — CP operations
-  - 1st Squad (11 personnel)
-  - 2nd Squad (11 personnel)
+- 1st Platoon (3 squads) — at COP Seggel
 - 2nd Platoon (OPCON BN Reserve — not available)
 - 3rd Platoon (conducting operations elsewhere in AO)
 
@@ -58,7 +55,7 @@ Overnight security observed REAPER movement in the woodlines northeast of COP Se
 
 **2. Company Mission.** A Company locates and engages REAPER forces operating in the vicinity of COP Seggel to prevent further enemy reconnaissance and disrupt attack preparations.
 
-**3. Adjacent Units.** Company HQ maintains CP operations at COP Seggel. COP security is notional during this operation.
+**3. Adjacent Units.** COP security is notional during this operation.
 
 ### e. Civil Considerations
 Unlikely at this hour. Report any civilian presence immediately.
@@ -85,7 +82,7 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
 **End State:** REAPER element located and engaged, enemy driven from the immediate vicinity of COP Seggel, platoon consolidated and returned to COP or holding a forward position as directed.
 
 ### b. Concept of Operations
-1st Platoon conducts a movement to contact from COP Seggel northeast into the woodlines east of Bradenton Avenue upon order. The platoon crosses Bradenton Avenue as a danger area, advances using bounding overwatch, develops the situation upon contact, and engages the REAPER element. Company HQ maintains CP operations and COP security is notional during this operation. Do not pursue beyond Jacksonville Street. Upon breaking contact or driving REAPER from the area, consolidate and return to COP Seggel. Indirect fire support available through company on request.
+1st Platoon conducts a movement to contact from COP Seggel northeast into the woodlines east of Bradenton Avenue upon order. The platoon crosses Bradenton Avenue as a danger area, advances using bounding overwatch, develops the situation upon contact, and engages the REAPER element. COP security is notional during this operation. Do not pursue beyond Jacksonville Street. Upon breaking contact or driving REAPER from the area, consolidate and return to COP Seggel. Indirect fire support available through company on request.
 
 ### c. Scheme of Fires
 1st Platoon has priority of indirect fires. Indirect fire support available through company on request.
@@ -94,7 +91,7 @@ A Company locates and engages REAPER forces operating in the woodlines north of 
 
 **1. 1st Platoon (Main Effort — Decisive Operation):**
 
-- **TASK:** Depart COP Seggel and advance northeast across Bradenton Avenue into the woodlines upon order. Move using bounding overwatch. Locate and engage the REAPER element detected during overnight operations. Develop the situation — assess enemy strength and disposition before committing to decisive engagement. Do not advance beyond Jacksonville Street (MP 0602 1565) without further orders. Report all contact. Consolidate and return to COP Seggel upon completion. Both squads participate in the advance. Company HQ maintains CP operations at COP Seggel.
+- **TASK:** Depart COP Seggel and advance northeast across Bradenton Avenue into the woodlines upon order. Move using bounding overwatch. Locate and engage the REAPER element detected during overnight operations. Develop the situation — assess enemy strength and disposition before committing to decisive engagement. Do not advance beyond Jacksonville Street (MP 0602 1565) without further orders. Report all contact. Consolidate and return to COP Seggel upon completion. All squads participate in the advance. COP security is notional during this operation.
 - **PURPOSE:** Disrupt REAPER operations in the vicinity of COP Seggel and prevent enemy forces from staging for an attack against the COP.
 
 ### e. Coordinating Instructions

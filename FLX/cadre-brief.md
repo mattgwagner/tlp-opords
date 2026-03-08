@@ -9,15 +9,15 @@
 
 ## Weekend Overview
 
-This is the culmination Field Leadership Exercise for Class 065 — a 48-hour field problem at Camp Blanding built around a single continuous narrative. 1st Platoon moves to, occupies, and operates from Combat Outpost Seggel in AO HERRERA. Every mission flows from the one before it: recon finds the enemy, the FRAGO sends a squad to clear them, captured intel leads to an ambush, the ambush produces documents that trigger a raid, and so on through a capstone deliberate attack Saturday evening. Nine lanes total (six full OPORDs, three FRAGOs).
+This is the culmination Field Leadership Exercise for Class 065 — a 48-hour field problem at Camp Blanding built around a single continuous narrative. 1st Platoon moves to, occupies, and operates from Combat Outpost Seggel in AO HERRERA. Every mission flows from the one before it: recon finds the enemy, the FRAGO sends a squad to clear them, the ambush captures intel that reveals a cache, and the capstone sends the full platoon to clear it. Six lanes total (four full OPORDs, one FRAGO, one capstone OPORD).
 
 **The exercise runs in two phases with different evaluation models:**
 
-**Friday (3 squads):** Cadre acts as the platoon leader and issues orders directly to three squad leaders. All three SLs are evaluated simultaneously — each TAC shadows one squad. The PL candidate is evaluated on Thursday (receiving and issuing OPORD 001) and continuously on COP management throughout.
+**Friday (3 squads, cadre as PL):** Cadre acts as the platoon leader and issues orders directly to three squad leaders. All three SLs are evaluated simultaneously — each TAC shadows one squad. The PL candidate is evaluated on Thursday (receiving and issuing OPORD 001) and continuously on COP management throughout.
 
-**Saturday (2 squads + candidate company staff):** Friday evening, cadre selects three top-performing candidates for company staff roles (CO, XO, Battle Captain/RTO) and reorganizes from three squads into two overstrength squads. The order flow becomes **Cadre → Candidate Staff → SLs**. Cadre gives the staff a platoon-level order; the staff develops squad taskings (main effort / supporting effort, task and purpose for each squad, coordination); the SLs then plan their squad's execution independently (route, fire team tasks, actions on OBJ, sand table). The staff says WHAT each squad does — the SLs plan HOW. Staff independence increases across the day: the first lane they get a full OPORD with coaching, by the capstone they receive only a mission statement and plan the entire order from scratch.
+**Saturday (3 squads, candidate PL/PSG):** Candidate PL and PSG take command of the platoon for all Saturday operations. The order flow becomes **Cadre → Candidate PL/PSG → SLs**. Cadre issues a platoon-level order; the PL/PSG develop the scheme of maneuver, assign squad tasks, and brief SLs. SLs then plan their squad's execution independently. The PL/PSG plan gets progressively less scaffolded across the day — by the capstone, they receive a mission statement and must plan the entire platoon order. Saturday tests whether candidates can operate at the platoon level while SLs are simultaneously evaluated on squad-level TLPs.
 
-**Both squads leave the wire every Saturday lane** — one main effort, one supporting. SLs rotate each mission. PL/PSG resume command of the COP between lanes and are evaluated continuously. The candidate staff is evaluated on every Saturday lane. TACs evaluate multiple candidates simultaneously throughout.
+**All three squads leave the wire every Saturday lane.** SLs rotate each mission. PL/PSG are evaluated on every Saturday lane and continuously on COP management between lanes.
 
 ### Light Data
 
@@ -32,9 +32,9 @@ This is the culmination Field Leadership Exercise for Class 065 — a 48-hour fi
 | Day | Date | Events |
 |-----|------|--------|
 | **Thursday** | 05 MAR | FLX Preparation Training (candidate-led, classroom). Weapons/equipment draw. **PM: Candidate PL receives OPORD 001, conducts TLPs, briefs SLs.** |
-| **Friday** | 06 MAR | DFAC breakfast at 0700. SP shortly after chow. Establish COP (NLT 1300). Area recon. Clear REAPER OP (FRAGO). **PM: Reorganize to 2 squads + staff. Issue OPORD 008 to staff.** |
-| **Saturday** | 07 MAR | Staff briefs SLs → MTC. Ambush. Intercept courier (FRAGO). Raid. Deliberate attack (capstone). Defensive prep overnight. |
-| **Sunday** | 08 MAR | Optional OPFOR attack on COP (early AM). ENDEX. Recovery, equipment turn-in, AAR. |
+| **Friday** | 06 MAR | DFAC breakfast at 0700. SP shortly after chow. Establish COP (NLT 1300). Area recon. Clear REAPER OP (FRAGO). **PM: Issue OPORD 008 to candidate PL/PSG.** |
+| **Saturday** | 07 MAR | PL/PSG briefs SLs → MTC. Ambush. Clear the cache (capstone — full platoon). |
+| **Sunday** | 08 MAR | ENDEX. Recovery, equipment turn-in, AAR. |
 
 *If you made it this far, send a thumbs up to CPT Wagner via text (phone number in the admin PACE plan) so he knows you actually read this.*
 
@@ -53,7 +53,7 @@ The student chain of command selects candidates to prepare and deliver training 
 | 1 | **Radio Operations and Communications Procedures** — Program FM radios, establish comms on platoon/company nets, conduct radio checks, net calls, and reporting (SALUTE, SITREP, MEDEVAC). | They will run dual-net comms from the COP for the entire FLX. |
 | 2 | **OE-254 Antenna Setup and Employment** — Assemble, erect, orient. Grounding, guy-wires, orientation for signal. Maintenance and troubleshooting. | Extended-range comms from COP Seggel back to company (RTI). |
 | 3 | **Entry Control Point (ECP) Operations** — Access control, positive ID, vehicle/personnel search, escalation of force, logging all personnel in/out. | ECP is established in OPORD 001 and maintained for the entire FLX. |
-| 4 | **Security and Defensive Planning** — Priorities of work, sector sketches, fighting position placement, OP selection, fields of fire, FPF, stand-to, rest/security rotation for 48-hour ops. | Directly tested in OPORD 005 (COP Defense) and every night at the COP. |
+| 4 | **Security and Defensive Planning** — Priorities of work, sector sketches, fighting position placement, OP selection, fields of fire, FPF, stand-to, rest/security rotation for 48-hour ops. | Directly tested every night at the COP and during security/isolation tasks on Saturday operations. |
 | 5 | **Satellite Imagery and Terrain Analysis** — Analyze the COP facility and surrounding terrain. Propose defensive positions, CP location, ECP, CCP, and HLZ. Brief using OAKOC. | Sets up their terrain analysis for every lane. They'll use this product at the COP. |
 | 6 | **Battle Tracking and Command Post Operations** — Establish and operate a company CP. Situation maps, unit tracking, comms logs, report processing. Transition from movement to static CP ops. | CP operations are continuous from OPORD 001 through ENDEX. |
 
@@ -101,8 +101,8 @@ TACs own the evaluation mission — they write FLERs. The Infantry Cadre instruc
 
 **3 TACs (Wagner, McLellan, Walker)**
 - Friday: Each TAC shadows one of the 3 squads as primary evaluator
-- Saturday: CPT Wagner manages and evaluates the candidate company staff from the CP. SFC McLellan and 1LT Walker each follow one of the 2 maneuver squads as primary evaluators
-- TACs are the primary evaluators — they write FLERs and make lane coaching decisions
+- Saturday: Each TAC shadows one squad. CPT Wagner additionally evaluates the candidate PL/PSG on their planning and order briefs — during execution, Wagner follows the main effort squad while maintaining awareness of PL/PSG decisions
+- TACs are the primary evaluators — they use the FLER to structure feedback and make lane coaching decisions
 
 **SFC Oppegard (Tactical Instructor)**
 - Friday: Floats between squads during execution to provide tactical coaching *after* the evaluation moment — once the TAC has seen what they need to see, Oppegard coaches the candidate on what to do differently
@@ -113,7 +113,7 @@ TACs own the evaluation mission — they write FLERs. The Infantry Cadre instruc
 
 **2 Infantry Cadre Instructors (SSG Souza, SSG Goehrig)**
 - Subject matter experts in infantry tactics, orders, and implementation. Available as tactical references throughout the FLX — candidates and cadre can consult them on tactics, TLP process, and order format. They do NOT write FLERs or manage the candidate staff.
-- **Split duties each lane: one runs OPFOR, the other walks the lane.** Alternate roles between lanes so both get time on each side.
+- **Split duties each lane: one runs OPFOR, the other walks the lane.** Alternate roles between lanes so both get time on each side. For the capstone (004), both instructors run OPFOR to provide the larger enemy element.
 
 **Lane Walker Role (1 instructor per lane):**
 - Walks the lane alongside the TAC, observing tactical execution — formations, movement techniques, security, fire and maneuver, actions on the objective
@@ -125,21 +125,21 @@ TACs own the evaluation mission — they write FLERs. The Infantry Cadre instruc
 **OPFOR Role (1 instructor per lane + former candidate):**
 - Runs the enemy for the current lane with the former candidate as the second OPFOR body
   - Friday: OPFOR for recon contact (002), OP element (007)
-  - Saturday: OPFOR for MTC (008), resupply element (003), courier + escort (009), cache security (004), junction defense (006)
-  - For larger OPFOR needs (junction defense in 006), both instructors may need to run OPFOR — the lane walker role takes a backseat for that lane
+  - Saturday: OPFOR for MTC (008), resupply element (003), cache security (004 capstone)
+  - For the capstone (004), both instructors run OPFOR along with the former candidate to provide the larger enemy element needed for the multi-building defense
 - Between OPFOR commitments: simulate higher HQ radio traffic, deliver FRAGOs in character, or act as civilian role players
 
 **Overnight:** One instructor walks the COP perimeter with the security element and coaches defensive operations (sector sketches, range cards, stand-to procedures) while the other rests
 
 **Former Candidate as OPFOR**
 - 1 dropped candidate available as additional OPFOR, giving the OPFOR element a 3-person team
-- Useful for larger scenarios (deliberate attack, COP defense) and allows the 2 instructors to split roles (e.g., one runs OPFOR while the other resets for the next lane)
+- Useful for the capstone clearance (004) and allows the 2 instructors to split roles (e.g., one runs OPFOR while the other resets for the next lane)
 - Supervised by the Infantry Cadre instructors at all times
 - Does NOT evaluate, coach, or interact with active candidates outside the OPFOR role
 
 **CPT Kilpatrick (Senior Instructor)**
 - Available as TAC relief during rest rotations — if a TAC needs a longer break, Kilpatrick covers the evaluation position for a lane
-- Extra set of eyes during the Saturday afternoon capstone (006 deliberate attack) when maximum observation on the final evaluation event is valuable
+- Extra set of eyes during the Saturday afternoon capstone (004 cache clearance) when maximum observation on the final evaluation event is valuable
 - Not formally tasked — available on request
 
 ### Rest/Coverage Plan (48-Hour Ops)
@@ -151,11 +151,9 @@ TACs own the evaluation mission — they write FLERs. The Infantry Cadre instruc
 | **Fri PM (002)** | All 3 (1 per squad) | Floating | Lane walker w/ TAC | OPFOR (recon contact) |
 | **Fri PM (007)** | All 3 (1 per squad) | Floating | OPFOR (OP element) | Lane walker w/ TAC |
 | **Fri Night** | 2 on / 1 resting | Rest | COP coaching / rest | OPFOR probes / rest |
-| **Sat AM (008)** | Wagner at CP w/ staff; McLellan, Walker w/ squads | Walking lanes / briefs | Lane walker | OPFOR (MTC) |
-| **Sat AM (003)** | Wagner at CP w/ staff; McLellan, Walker w/ squads | Walking lanes / briefs | OPFOR (resupply) | Lane walker |
-| **Sat AM (009)** | Wagner at CP w/ staff; McLellan, Walker w/ squads | Walking lanes / briefs | Lane walker | OPFOR (courier) |
-| **Sat PM (004)** | Wagner at CP w/ staff; McLellan, Walker w/ squads | Walking lanes / briefs | OPFOR (cache) | Lane walker |
-| **Sat PM (006)** | Wagner at CP w/ staff; McLellan, Walker w/ squads | Walking lanes / briefs | Both OPFOR (junction — larger element needed) | |
+| **Sat AM (008)** | All 3 (1 per squad; Wagner evals PL/PSG brief) | Walking lanes / briefs | Lane walker | OPFOR (MTC) |
+| **Sat PM (003)** | All 3 (1 per squad; Wagner evals PL/PSG brief) | Walking lanes / briefs | OPFOR (resupply) | Lane walker |
+| **Sat PM (004)** | All 3 (1 per squad; Wagner evals PL/PSG brief) | Walking lanes / briefs | Both OPFOR (cache clearance — larger element) | |
 | **Sat Night** | 2 on / 1 resting | Rest | COP coaching / rest | OPFOR probes / rest |
 | **Sun AM** | All 3 — AAR and recovery | Supports AAR | Supports AAR | Supports AAR |
 
@@ -224,24 +222,20 @@ This is the first FRAGO in the FLX. 3rd Squad gets the mission — they've been 
 
 ---
 
-### Friday Evening — Reorganization and Transition
+### Friday Evening — Transition to Saturday
 
-**~1730 (after FRAGO 007):** Evening chow (MRE). During this transition, cadre announces the Saturday reorganization:
-- 3 squads become 2 overstrength squads + a candidate-run Company HQ
-- Name the 3 candidates selected for staff roles (CO, XO, Battle Captain/RTO)
-- Candidates reorganize into new squads
+**~1730 (after FRAGO 007):** Evening chow (MRE). During this transition:
+- Cadre announces the Saturday evaluation model: candidate PL and PSG will command the platoon for all Saturday operations
+- Issue OPORD 008 to the candidate PL/PSG Friday evening so they can absorb it, develop their scheme of maneuver with squad taskings, and be ready to brief SLs at Saturday stand-down
+- The 3-squad structure remains unchanged — no reorganization
 
-**Candidate staff standup:** CPT Wagner briefs the candidate staff on their roles, the order flow, and expectations. Issue OPORD 008 to the candidate staff Friday evening so they can absorb it, prep their brief, and be ready to deliver it to SLs at Saturday stand-down. This is their first test — can they turn a company order into a coherent brief overnight?
-
-**Candidate PL/PSG resume command for overnight operations.** With the staff now in place, the candidate PL and PSG are back in the rated chain running the COP: they own the security/rest rotation, CP operations, and radio watch. The candidate staff (CO, XO, Battle Captain) integrates alongside them — the Battle Captain helps with battle tracking, the XO manages the sustainment plan. This is continuous evaluation of the rated chain outside of formal lanes.
-
-**Between lanes on Saturday:** same principle. When a lane isn't running, the PL/PSG are in command managing the COP. They step aside only when a specific SL evaluation lane kicks off, then resume when elements return. The PL/PSG are always being evaluated on COP management, even if they're not the primary evaluation target for a given lane.
+**Candidate PL/PSG take command for overnight operations.** They own the security/rest rotation, CP operations, and radio watch. This is continuous evaluation of the rated chain outside of formal lanes. Between lanes on Saturday, the PL/PSG remain in command managing the COP — they are always being evaluated on COP management.
 
 ### Friday Night — COP Operations
 
-No formal lanes overnight. The candidates run the COP under the reorganized structure: PL/PSG in command, candidate staff at the CP, security rotation, rest plan, radio watch. This is where you evaluate candidates on sustainment, battle tracking, and managing the rest/security balance.
+No formal lanes overnight. The candidates run the COP: PL/PSG in command, security rotation, rest plan, radio watch. This is where you evaluate candidates on sustainment and managing the rest/security balance.
 
-**Enforce a rest plan** — candidates must sleep in shifts. Cadre should verify the PL/PSG has a written rest/security roster that accounts for the new 2-squad structure.
+**Enforce a rest plan** — candidates must sleep in shifts. Cadre should verify the PL/PSG has a written rest/security roster.
 
 **Inject options:**
 - REAPER probe of the perimeter (small element, breaks contact quickly)
@@ -250,7 +244,7 @@ No formal lanes overnight. The candidates run the COP under the reorganized stru
 - FRAGO from company requesting a SITREP or LACE report
 - Simulated indirect fire (one or two rounds) to test overhead cover and dispersion
 
-None of these need to be full lanes. They're short-duration events that keep candidates engaged and create evaluation moments. **Keep overnight injects manageable — candidates need some rest for the heavy Saturday schedule.**
+None of these need to be full lanes. They're short-duration events that keep candidates engaged and create evaluation moments. **Keep overnight injects manageable — candidates need some rest for the Saturday schedule.**
 
 ---
 

@@ -9,10 +9,7 @@
 **Task Organization:**
 
 A Co. 4th BN-211th INF
-- 1st Platoon (2 squads + Company HQ) — at COP Seggel
-  - Company HQ (3 personnel) — CP operations
-  - 1st Squad (11 personnel)
-  - 2nd Squad (11 personnel)
+- 1st Platoon (3 squads) — at COP Seggel
 - 2nd Platoon (OPCON BN Reserve — not available)
 - 3rd Platoon (conducting operations elsewhere in AO)
 
@@ -56,7 +53,7 @@ Reconnaissance patrols and COP OP/LP observations confirm REAPER is using Braden
 
 **2. Company Mission.** A Company disrupts REAPER logistics in AO HERRERA to degrade their combat capability and develop intelligence for follow-on operations.
 
-**3. Adjacent Units.** Company HQ maintains CP operations at COP Seggel. COP security is notional during this operation.
+**3. Adjacent Units.** COP security is notional during this operation.
 
 ### e. Civil Considerations
 Civilian traffic along Bradenton Avenue is possible. Positively identify all targets before initiating the ambush. Do not engage civilians. If civilians are present in the kill zone, do not initiate — allow them to pass and reset.
@@ -83,7 +80,7 @@ A Company disrupts REAPER logistics in AO HERRERA by conducting an ambush along 
 **End State:** REAPER resupply element destroyed or captured, intelligence materials collected, platoon returned to COP Seggel.
 
 ### b. Concept of Operations
-1st Platoon departs COP Seggel, moves to an ORP, establishes an ambush along the Bradenton Avenue corridor, destroys the REAPER resupply element, conducts search and collection on the objective, and withdraws to COP Seggel. Company HQ maintains CP operations and COP security is notional during this operation. Time on the objective is limited — conduct a hasty search, collect intelligence materials, and withdraw before REAPER reinforcement. Indirect fire support is available through company on request.
+1st Platoon departs COP Seggel, moves to an ORP, establishes an ambush along the Bradenton Avenue corridor, destroys the REAPER resupply element, conducts search and collection on the objective, and withdraws to COP Seggel. COP security is notional during this operation. Time on the objective is limited — conduct a hasty search, collect intelligence materials, and withdraw before REAPER reinforcement. Indirect fire support is available through company on request.
 
 ### c. Scheme of Fires
 1st Platoon has priority of indirect fires. Indirect fire support available through company on request.
@@ -95,7 +92,7 @@ A Company disrupts REAPER logistics in AO HERRERA by conducting an ambush along 
 - **TASK:** Depart COP Seggel and move to an ORP vicinity the ambush site. Conduct a leader's reconnaissance of the ambush site. Establish a linear ambush along Bradenton Avenue (vicinity MP 0600 1530). Initiate the ambush on the REAPER resupply element. Sweep the kill zone. Collect all documents, electronics, maps, and materials of intelligence value. Withdraw to COP Seggel via a covered route.
 - **PURPOSE:** Sever REAPER's logistics line along Bradenton Avenue and capture intelligence to enable follow-on offensive operations.
 
-Both squads participate in the ambush.
+All squads participate in the ambush. COP security is notional during this operation.
 
 ### e. Coordinating Instructions
 
