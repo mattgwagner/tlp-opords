@@ -8,7 +8,7 @@
 
 This AAR has two parts. Part 1 gets candidates to assess their own performance — planning, execution, and internal TTPs. Part 2 collects structured feedback on the FTX itself so cadre can refine the exercise for next time. Cadre facilitates both parts.
 
-Run the AAR at COP Seggel or at the recovery site Sunday morning. Candidates should still be in field uniforms with their equipment accessible — reference specific gear, maps, and products during the discussion. Budget 60–90 minutes total.
+Run the AAR at COP Seggel or at the recovery site Sunday morning. Candidates should still be in field uniforms with their equipment accessible — reference specific gear, maps, and products during the discussion. Budget 45–60 minutes total.
 
 ## Ground Rules (Read Aloud)
 
