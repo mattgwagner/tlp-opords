@@ -163,7 +163,7 @@ TACs own the evaluation mission — they write FLERs. The Infantry Cadre instruc
 
 ### Friday — Establish and Orient
 
-**[OPORD 001 — "ESTABLISH COP SEGGEL"](001-establish-cop.html)** *(Thursday brief → Friday execution)*
+**[OPORD 001 — "KOBAYASHI MARU"](001-establish-cop.html)** *(Thursday brief → Friday execution)*
 *Candidate PL receives the OPORD Thursday afternoon*
 
 The company commander issues the base order on Thursday. The candidate PL has Thursday afternoon and evening to conduct full TLPs: mission analysis, COA development, and issue their platoon OPORD to SLs. The order gives only a NLT time to have the COP established with the CP operational — the candidate PL must backwards plan the SP, movement, staging, clearance of the facility, and CP setup.
@@ -371,7 +371,7 @@ After the capstone, consolidate at COP Seggel or transition directly to ENDEX at
 | **THU** | AM | FLX Preparation Training (candidate-led) | — | All rated SLs (teaching blocks) |
 | **THU** | PM | Candidate PL receives OPORD 001, conducts TLPs, briefs SLs | 001 | PL |
 | **FRI** | 0700 | DFAC breakfast | — | — |
-| **FRI** | ~0730–1300 | SP → Movement → Establish COP Seggel (NLT 1300) | 001 | PL + all 3 SLs |
+| **FRI** | ~0730–1300 | SP → Movement → KOBAYASHI MARU / Establish COP (NLT 1300) | 001 | PL + all 3 SLs |
 | **FRI** | 1200–1300 | Chow/rest rotation | — | — |
 | **FRI** | ~1300–1500 | Area Reconnaissance | 002 | All 3 SLs (1 per squad) |
 | **FRI** | 1500–1530 | Chow/debrief | — | — |
